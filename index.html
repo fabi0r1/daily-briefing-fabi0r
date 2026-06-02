@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0d14" />
 <title>Daily Briefing — Fabian's Learning Log</title>
 <meta name="description" content="Two new things a day across AI x gaming, the games & esports industry, leadership, and live events." />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -11,8 +12,8 @@
 <style>
   :root {
     --bg: #0a0d14;
-    --bg-grad: radial-gradient(1200px 600px at 75% -10%, rgba(91,140,255,0.14), transparent 60%),
-               radial-gradient(900px 500px at 0% 0%, rgba(62,207,142,0.08), transparent 55%);
+    --bg-grad: radial-gradient(900px 480px at 80% -10%, rgba(91,140,255,0.16), transparent 60%),
+               radial-gradient(700px 420px at 0% 0%, rgba(62,207,142,0.08), transparent 55%);
     --surface: #131a28;
     --surface-2: #18202f;
     --border: #243049;
@@ -27,8 +28,8 @@
     --radius: 16px;
     --maxw: 1180px;
   }
-  * { box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
     background: var(--bg);
@@ -36,186 +37,253 @@
     background-attachment: fixed;
     color: var(--text);
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
-    line-height: 1.65;
+    line-height: 1.62;
+    font-size: 16px;
     -webkit-font-smoothing: antialiased;
   }
   a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
+  a:active { opacity: 0.7; }
 
-  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
+  /* ---------- MOBILE-FIRST BASE ---------- */
+  .wrap { width: 100%; max-width: var(--maxw); margin: 0 auto; padding: 0 18px; }
+
+  /* Password gate */
+  #gate {
+    position: fixed; inset: 0; z-index: 1000;
+    background: var(--bg); background-image: var(--bg-grad);
+    display: flex; align-items: center; justify-content: center; padding: 24px;
+  }
+  .gate-card {
+    width: 100%; max-width: 360px; text-align: center;
+    background: var(--surface); border: 1px solid var(--border-soft); border-radius: 18px;
+    padding: 32px 24px; box-shadow: 0 24px 60px -30px rgba(0,0,0,0.9);
+  }
+  .gate-card .lock { font-size: 26px; }
+  .gate-card h2 { font-family: 'Space Grotesk', sans-serif; font-size: 19px; margin: 12px 0 4px; }
+  .gate-card p { color: var(--muted); font-size: 13.5px; margin: 0 0 20px; }
+  .gate-card input {
+    width: 100%; padding: 14px 16px; font-size: 16px; color: var(--text);
+    background: var(--bg); border: 1px solid var(--border); border-radius: 12px; margin-bottom: 12px;
+    text-align: center; letter-spacing: 0.05em;
+  }
+  .gate-card input:focus { outline: none; border-color: var(--accent); }
+  .gate-card button {
+    width: 100%; padding: 14px; font-size: 15px; font-weight: 600; font-family: 'Space Grotesk', sans-serif;
+    color: #07101f; background: var(--accent); border: none; border-radius: 12px; cursor: pointer;
+  }
+  .gate-card button:active { transform: scale(0.99); }
+  #pw-err { color: #ff7a7a; font-size: 13px; margin: 12px 0 0; display: none; }
+  body:not(.unlocked) .app { display: none; }
 
   /* Header */
-  header.site {
-    border-bottom: 1px solid var(--border-soft);
-    background: linear-gradient(180deg, rgba(19,26,40,0.6), transparent);
-  }
-  .hero { padding: 56px 0 40px; }
+  header.site { border-bottom: 1px solid var(--border-soft); background: linear-gradient(180deg, rgba(19,26,40,0.55), transparent); }
+  .hero { padding: 34px 0 26px; }
   .eyebrow {
     display: inline-flex; align-items: center; gap: 8px;
-    font-family: 'Space Grotesk', sans-serif;
-    font-size: 12.5px; letter-spacing: 0.22em; text-transform: uppercase;
-    color: var(--accent); font-weight: 600;
-    padding: 6px 12px; border: 1px solid var(--border); border-radius: 999px;
+    font-family: 'Space Grotesk', sans-serif; font-size: 11.5px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--accent); font-weight: 600; padding: 6px 12px; border: 1px solid var(--border); border-radius: 999px;
     background: rgba(91,140,255,0.08);
   }
   .eyebrow .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--teal); box-shadow: 0 0 10px var(--teal); }
-  h1.title {
-    font-family: 'Space Grotesk', sans-serif;
-    font-size: clamp(34px, 6vw, 60px);
-    line-height: 1.02; margin: 18px 0 14px; font-weight: 700; letter-spacing: -0.02em;
-  }
+  h1.title { font-family: 'Space Grotesk', sans-serif; font-size: 34px; line-height: 1.04; margin: 16px 0 12px; font-weight: 700; letter-spacing: -0.02em; }
   h1.title span { color: var(--accent); }
-  .lede { font-size: 18px; color: var(--muted); max-width: 640px; margin: 0; }
+  .lede { font-size: 16px; color: var(--muted); max-width: 640px; margin: 0; }
+  .legend { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+  .chip { display: inline-flex; align-items: center; gap: 7px; font-size: 12.5px; color: var(--text); font-weight: 500; padding: 6px 11px; border-radius: 999px; background: var(--surface); border: 1px solid var(--border); }
+  .chip i { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
 
-  .legend { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
-  .chip {
-    display: inline-flex; align-items: center; gap: 8px;
-    font-size: 13px; color: var(--text); font-weight: 500;
-    padding: 7px 13px; border-radius: 999px;
-    background: var(--surface); border: 1px solid var(--border);
+  /* Tabs (segmented control) */
+  .tabbar { position: sticky; top: 0; z-index: 50; background: rgba(10,13,20,0.86); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border-soft); }
+  .tabs { display: flex; gap: 6px; padding: 12px 0; max-width: var(--maxw); margin: 0 auto; }
+  .tabs .tab {
+    flex: 1; padding: 11px 12px; font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600;
+    color: var(--muted); background: var(--surface); border: 1px solid var(--border-soft); border-radius: 11px; cursor: pointer; transition: all .15s;
   }
-  .chip i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .tabs .tab.active { color: var(--text); background: var(--surface-2); border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
 
   /* Layout */
-  .layout { display: grid; grid-template-columns: 260px 1fr; gap: 44px; padding: 44px 0 80px; align-items: start; }
-  nav.toc { position: sticky; top: 28px; }
-  nav.toc h4 {
-    font-family: 'Space Grotesk', sans-serif; font-size: 12px; letter-spacing: 0.18em;
-    text-transform: uppercase; color: var(--faint); margin: 0 0 14px; font-weight: 600;
-  }
-  nav.toc ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
-  nav.toc a {
-    display: flex; flex-direction: column; gap: 2px;
-    padding: 9px 12px; border-radius: 10px; color: var(--muted);
-    border-left: 2px solid transparent; transition: all .15s ease;
-  }
-  nav.toc a:hover { background: var(--surface); color: var(--text); text-decoration: none; }
-  nav.toc a.active { background: var(--surface); color: var(--text); border-left-color: var(--accent); }
-  nav.toc a .d { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 14px; }
-  nav.toc a .n { font-size: 11.5px; color: var(--faint); }
-  .toc-foot { margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--border-soft); font-size: 12.5px; color: var(--faint); }
-
-  /* Editions */
+  .layout { display: block; padding: 22px 0 70px; }
+  nav.toc { display: none; }
   main { min-width: 0; }
-  .edition {
-    background: linear-gradient(180deg, var(--surface), var(--bg));
-    border: 1px solid var(--border-soft); border-radius: var(--radius);
-    padding: 30px 34px 26px; margin-bottom: 28px;
-    box-shadow: 0 1px 0 rgba(255,255,255,0.02) inset, 0 18px 40px -28px rgba(0,0,0,0.8);
-  }
-  .edition-head { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 6px; }
-  .date-pill {
-    font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 13px;
-    color: var(--text); background: var(--surface-2); border: 1px solid var(--border);
-    padding: 5px 12px; border-radius: 8px; letter-spacing: 0.02em;
-  }
-  .ed-num { font-size: 12.5px; color: var(--faint); font-family: 'Space Grotesk', sans-serif; letter-spacing: 0.04em; }
-  .edition > h2 { display: none; } /* replaced by pill */
 
-  .lesson { padding: 22px 0 4px; border-top: 1px solid var(--border-soft); margin-top: 18px; }
-  .lesson:first-of-type { border-top: none; margin-top: 8px; padding-top: 6px; }
-  .lesson-head { display: flex; align-items: baseline; gap: 14px; margin-bottom: 4px; }
-  .lesson-num {
-    font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px;
-    color: var(--accent); line-height: 1; opacity: 0.85; min-width: 34px;
-  }
-  .lesson h3 {
-    font-family: 'Space Grotesk', sans-serif; font-size: 21px; font-weight: 600;
-    margin: 0; line-height: 1.25; letter-spacing: -0.01em; flex: 1;
-  }
-  .lane-badge {
-    display: inline-block; font-size: 11.5px; font-weight: 600; letter-spacing: 0.04em;
-    padding: 4px 10px; border-radius: 999px; margin: 4px 0 10px 48px;
-    border: 1px solid var(--border);
-  }
-  .lesson p { margin: 0 0 14px; color: #d7deec; }
-  .lesson p:last-child { margin-bottom: 4px; }
-  .lesson strong { color: var(--text); }
-
-  /* Sources block: a <p><strong>Sources...</strong></p> followed by a <ul> */
-  .sources {
-    margin-top: 18px; background: var(--surface-2); border: 1px solid var(--border-soft);
-    border-radius: 12px; padding: 16px 18px;
-  }
-  .sources p { margin: 0 0 8px; font-family: 'Space Grotesk', sans-serif; font-size: 12px;
-    letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint); }
-  .sources ul { margin: 0; padding-left: 18px; }
-  .sources li { font-size: 13.5px; color: var(--muted); margin-bottom: 5px; word-break: break-word; }
-  .sources a { color: var(--accent); }
-
-  hr { border: none; border-top: 1px solid var(--border-soft); margin: 0; }
-
-  /* Intro card (content before first edition) */
-  .intro {
-    background: var(--surface); border: 1px solid var(--border-soft); border-left: 3px solid var(--accent);
-    border-radius: 12px; padding: 20px 24px; margin-bottom: 30px; color: var(--muted); font-size: 15px;
-  }
-  .intro h1 { font-family:'Space Grotesk'; font-size: 18px; color: var(--text); margin: 0 0 8px; }
+  /* Intro */
+  .intro { background: var(--surface); border: 1px solid var(--border-soft); border-left: 3px solid var(--accent); border-radius: 12px; padding: 18px 18px; margin-bottom: 22px; color: var(--muted); font-size: 14.5px; }
+  .intro h1 { font-family: 'Space Grotesk'; font-size: 17px; color: var(--text); margin: 0 0 8px; }
   .intro p { margin: 0 0 10px; }
   .intro p:last-child { margin-bottom: 0; }
 
+  /* Editions */
+  .edition { background: linear-gradient(180deg, var(--surface), var(--bg)); border: 1px solid var(--border-soft); border-radius: var(--radius); padding: 22px 18px 20px; margin-bottom: 20px; box-shadow: 0 18px 40px -30px rgba(0,0,0,0.8); }
+  .edition-head { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 6px; }
+  .date-pill { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 13px; color: var(--text); background: var(--surface-2); border: 1px solid var(--border); padding: 5px 12px; border-radius: 8px; }
+  .ed-num { font-size: 12px; color: var(--faint); font-family: 'Space Grotesk', sans-serif; }
+
+  .lesson { padding: 20px 0 2px; border-top: 1px solid var(--border-soft); margin-top: 16px; }
+  .lesson:first-of-type { border-top: none; margin-top: 8px; padding-top: 4px; }
+  .lesson-head { display: flex; align-items: baseline; gap: 12px; margin-bottom: 4px; }
+  .lesson-num { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 26px; color: var(--accent); line-height: 1; opacity: 0.85; min-width: 26px; }
+  .lesson h3 { font-family: 'Space Grotesk', sans-serif; font-size: 19px; font-weight: 600; margin: 0; line-height: 1.28; letter-spacing: -0.01em; flex: 1; }
+  .lane-badge { display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.03em; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--border); }
+  .lesson > .lane-badge { margin: 4px 0 10px 38px; }
+  .lesson p { margin: 0 0 13px; color: #d7deec; font-size: 15.5px; }
+  .lesson p:last-child { margin-bottom: 2px; }
+  .lesson strong { color: var(--text); }
+
+  /* News */
+  .news-section { padding: 20px 0 2px; border-top: 1px solid var(--border-soft); margin-top: 16px; }
+  .news-head { font-family: 'Space Grotesk', sans-serif; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent-2); margin: 0 0 14px; font-weight: 600; }
+  .news-item { background: var(--surface-2); border: 1px solid var(--border-soft); border-left: 3px solid var(--accent); border-radius: 12px; padding: 13px 16px; margin-bottom: 10px; font-size: 14.5px; color: #d7deec; }
+  .news-item strong { color: var(--text); }
+  .news-item .lane-badge { margin: 0 0 0 6px; vertical-align: middle; }
+  .news-item a { font-weight: 500; }
+
+  /* Sources */
+  .sources { margin-top: 18px; background: var(--surface-2); border: 1px solid var(--border-soft); border-radius: 12px; padding: 15px 16px; }
+  .sources p { margin: 0 0 8px; font-family: 'Space Grotesk', sans-serif; font-size: 11px; letter-spacing: 0.13em; text-transform: uppercase; color: var(--faint); }
+  .sources ul { margin: 0; padding-left: 18px; }
+  .sources li { font-size: 13px; color: var(--muted); margin-bottom: 5px; word-break: break-word; }
+
   .status { color: var(--muted); padding: 40px 0; text-align: center; }
+  footer.site { border-top: 1px solid var(--border-soft); padding: 22px 0 40px; color: var(--faint); font-size: 12.5px; }
 
-  footer.site { border-top: 1px solid var(--border-soft); padding: 26px 0 50px; color: var(--faint); font-size: 13px; }
+  /* Tab visibility */
+  body[data-tab="lessons"] .news-section { display: none; }
+  body[data-tab="news"] .lesson,
+  body[data-tab="news"] .sources,
+  body[data-tab="news"] .intro { display: none; }
+  body[data-tab="news"] .edition.no-news { display: none; }
 
-  @media (max-width: 860px) {
-    .layout { grid-template-columns: 1fr; gap: 8px; }
-    nav.toc { position: static; margin-bottom: 8px; }
-    nav.toc ul { flex-direction: row; flex-wrap: wrap; }
-    .edition { padding: 24px 20px; }
-    .lane-badge { margin-left: 0; }
+  /* ---------- DESKTOP / TABLET ---------- */
+  @media (min-width: 720px) {
+    .wrap { padding: 0 24px; }
+    .hero { padding: 52px 0 38px; }
+    h1.title { font-size: 56px; }
+    .lede { font-size: 18px; }
+    .edition { padding: 30px 34px 26px; }
+    .lesson h3 { font-size: 21px; }
+    .lesson-num { font-size: 30px; min-width: 34px; }
+    .lesson > .lane-badge { margin-left: 46px; }
+    .tabs { justify-content: flex-start; }
+    .tabs .tab { flex: 0 0 auto; min-width: 170px; }
+  }
+  @media (min-width: 940px) {
+    .layout { display: grid; grid-template-columns: 250px 1fr; gap: 40px; align-items: start; }
+    nav.toc { display: block; position: sticky; top: 78px; }
+    nav.toc h4 { font-family: 'Space Grotesk', sans-serif; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--faint); margin: 0 0 14px; }
+    nav.toc ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+    nav.toc a { display: flex; flex-direction: column; gap: 1px; padding: 9px 12px; border-radius: 10px; color: var(--muted); border-left: 2px solid transparent; }
+    nav.toc a:hover { background: var(--surface); color: var(--text); }
+    nav.toc a.active { background: var(--surface); color: var(--text); border-left-color: var(--accent); }
+    nav.toc a .d { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 14px; }
+    nav.toc a .n { font-size: 11px; color: var(--faint); }
+    .toc-foot { margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border-soft); font-size: 12px; color: var(--faint); }
   }
 </style>
 </head>
-<body>
-  <header class="site">
-    <div class="wrap hero">
-      <span class="eyebrow"><span class="dot"></span> Daily Briefing</span>
-      <h1 class="title">Two new things.<br><span>Every day.</span></h1>
-      <p class="lede">A running log built to make me smarter, one coffee-length read at a time. Across AI &amp; gaming, the games &amp; esports industry, leadership, and live events.</p>
-      <div class="legend">
-        <span class="chip"><i style="background:#5b8cff"></i> AI &amp; gaming</span>
-        <span class="chip"><i style="background:#3ecf8e"></i> Games &amp; esports industry</span>
-        <span class="chip"><i style="background:#f5c14e"></i> Leadership &amp; negotiation</span>
-        <span class="chip"><i style="background:#b388f5"></i> Live events &amp; immersive</span>
-      </div>
-    </div>
-  </header>
+<body data-tab="lessons">
 
-  <div class="wrap layout">
-    <nav class="toc">
-      <h4>Editions</h4>
-      <ul id="toc-list"></ul>
-      <div class="toc-foot">Updated automatically each morning, 07:30.</div>
-    </nav>
-    <main id="content">
-      <div class="status" id="status">Loading the latest editions…</div>
-    </main>
+  <div id="gate">
+    <div class="gate-card">
+      <div class="lock">🔒</div>
+      <h2>Daily Briefing</h2>
+      <p>Enter the password to continue.</p>
+      <input id="pw" type="password" placeholder="Password" autocomplete="current-password" autofocus />
+      <button id="unlock-btn">Unlock</button>
+      <p id="pw-err">Wrong password, try again.</p>
+    </div>
   </div>
 
-  <footer class="site">
-    <div class="wrap">Daily Briefing · personal learning log · built with Claude</div>
-  </footer>
+  <div class="app">
+    <header class="site">
+      <div class="wrap hero">
+        <span class="eyebrow"><span class="dot"></span> Daily Briefing</span>
+        <h1 class="title">Two new things.<br><span>Every day.</span></h1>
+        <p class="lede">A running log built to make me smarter, one coffee-length read at a time. Across AI &amp; gaming, the games &amp; esports industry, leadership, and live events.</p>
+        <div class="legend">
+          <span class="chip"><i style="background:#5b8cff"></i> AI &amp; gaming</span>
+          <span class="chip"><i style="background:#3ecf8e"></i> Games &amp; esports</span>
+          <span class="chip"><i style="background:#f5c14e"></i> Leadership</span>
+          <span class="chip"><i style="background:#b388f5"></i> Live events</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="tabbar">
+      <div class="wrap">
+        <div class="tabs" role="tablist">
+          <button class="tab active" data-tab="lessons">Lessons</button>
+          <button class="tab" data-tab="news">News of the day</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrap layout">
+      <nav class="toc">
+        <h4>Editions</h4>
+        <ul id="toc-list"></ul>
+        <div class="toc-foot">Updated automatically each morning, 07:30.</div>
+      </nav>
+      <main id="content">
+        <div class="status" id="status">Loading the latest editions…</div>
+      </main>
+    </div>
+
+    <footer class="site">
+      <div class="wrap">Daily Briefing · personal learning log · built with Claude</div>
+    </footer>
+  </div>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
 <script>
-  const LANE_COLORS = [
+  // ---------- Password gate (light gate, not hard security) ----------
+  var PW = 'daily';
+  var gate = document.getElementById('gate');
+  function isUnlocked() { try { return localStorage.getItem('db_unlocked') === '1'; } catch(e){ return false; } }
+  function reveal() {
+    gate.style.display = 'none';
+    document.body.classList.add('unlocked');
+    load();
+  }
+  function tryUnlock() {
+    var v = document.getElementById('pw').value.trim();
+    if (v === PW) { try { localStorage.setItem('db_unlocked','1'); } catch(e){} reveal(); }
+    else { document.getElementById('pw-err').style.display = 'block'; }
+  }
+  document.getElementById('unlock-btn').addEventListener('click', tryUnlock);
+  document.getElementById('pw').addEventListener('keydown', function(e){ if (e.key === 'Enter') tryUnlock(); });
+
+  // ---------- Tabs ----------
+  function setTab(t) {
+    document.body.setAttribute('data-tab', t);
+    var btns = document.querySelectorAll('.tabs .tab');
+    for (var i=0;i<btns.length;i++){ btns[i].classList.toggle('active', btns[i].getAttribute('data-tab')===t); }
+    try { localStorage.setItem('db_tab', t); } catch(e){}
+  }
+  (function(){
+    var btns = document.querySelectorAll('.tabs .tab');
+    for (var i=0;i<btns.length;i++){ btns[i].addEventListener('click', function(){ setTab(this.getAttribute('data-tab')); }); }
+    try { var saved = localStorage.getItem('db_tab'); if (saved) setTab(saved); } catch(e){}
+  })();
+
+  // ---------- Content ----------
+  var LANE_COLORS = [
     { keys: ['ai'], color: '#5b8cff' },
-    { keys: ['esports', 'games', 'gaming', 'industry'], color: '#3ecf8e' },
-    { keys: ['leadership', 'negotiation'], color: '#f5c14e' },
-    { keys: ['live events', 'immersive', 'event'], color: '#b388f5' },
+    { keys: ['esports','games','gaming','industry'], color: '#3ecf8e' },
+    { keys: ['leadership','negotiation'], color: '#f5c14e' },
+    { keys: ['live events','immersive','event'], color: '#b388f5' }
   ];
   function laneColor(text) {
-    const t = (text || '').toLowerCase();
-    for (const l of LANE_COLORS) { if (l.keys.some(k => t.includes(k))) return l.color; }
+    var t = (text||'').toLowerCase();
+    for (var i=0;i<LANE_COLORS.length;i++){ var l=LANE_COLORS[i]; for (var j=0;j<l.keys.length;j++){ if (t.indexOf(l.keys[j])>-1) return l.color; } }
     return '#98a3ba';
   }
-  function slug(s) { return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
+  function slug(s){ return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''); }
+  function badge(lane){ var c=laneColor(lane); return '<span class="lane-badge" style="color:'+c+';border-color:'+c+'55;background:'+c+'14">'+lane+'</span>'; }
 
   async function load() {
-    let md;
+    var md;
     try {
-      const res = await fetch('fabian-learning.md', { cache: 'no-store' });
+      var res = await fetch('fabian-learning.md', { cache: 'no-store' });
       if (!res.ok) throw new Error(res.status);
       md = await res.text();
     } catch (e) {
@@ -226,138 +294,108 @@
   }
 
   function render(md) {
-    const html = marked.parse(md);
-    const doc = new DOMParser().parseFromString(html, 'text/html');
-    const nodes = Array.from(doc.body.childNodes);
+    var html = marked.parse(md);
+    var doc = new DOMParser().parseFromString(html, 'text/html');
+    var nodes = Array.prototype.slice.call(doc.body.childNodes);
+    var content = document.getElementById('content'); content.innerHTML = '';
+    var tocList = document.getElementById('toc-list'); tocList.innerHTML = '';
 
-    const content = document.getElementById('content');
-    content.innerHTML = '';
-    const tocList = document.getElementById('toc-list');
-    tocList.innerHTML = '';
+    var introWrap = document.createElement('div'); introWrap.className = 'intro';
+    var currentEdition = null, currentLesson = null, currentNews = null;
 
-    let introWrap = document.createElement('div');
-    introWrap.className = 'intro';
-    let currentEdition = null;
-    let currentLesson = null;
-    let seenFirstEdition = false;
+    function flushIntro(){ if (introWrap && introWrap.childNodes.length) content.appendChild(introWrap); introWrap = null; }
 
-    function flushIntro() {
-      if (introWrap && introWrap.childNodes.length) content.appendChild(introWrap);
-      introWrap = null;
-    }
-
-    nodes.forEach(node => {
-      if (node.nodeType !== 1) return; // elements only
-      const tag = node.tagName;
+    nodes.forEach(function(node){
+      if (node.nodeType !== 1) return;
+      var tag = node.tagName;
 
       if (tag === 'H2') {
-        seenFirstEdition = true;
-        flushIntro();
-        currentLesson = null;
-        currentEdition = document.createElement('section');
-        currentEdition.className = 'edition';
-        const text = node.textContent.trim();
-        const id = slug(text);
-        currentEdition.id = id;
-
-        const dateMatch = text.match(/\d{4}-\d{2}-\d{2}/);
-        const edMatch = text.match(/edition\s*#?\s*\d+/i);
-        const head = document.createElement('div');
-        head.className = 'edition-head';
-        const pill = document.createElement('span');
-        pill.className = 'date-pill';
-        pill.textContent = dateMatch ? dateMatch[0] : text;
-        head.appendChild(pill);
-        if (edMatch) {
-          const en = document.createElement('span');
-          en.className = 'ed-num';
-          en.textContent = edMatch[0].replace(/edition/i, 'Edition');
-          head.appendChild(en);
-        }
-        currentEdition.appendChild(head);
-        content.appendChild(currentEdition);
-
-        // TOC entry
-        const li = document.createElement('li');
-        const a = document.createElement('a');
-        a.href = '#' + id;
-        a.innerHTML = '<span class="d">' + (dateMatch ? dateMatch[0] : text) + '</span>' +
-          (edMatch ? '<span class="n">' + edMatch[0].replace(/edition/i, 'Edition') + '</span>' : '');
-        li.appendChild(a);
-        tocList.appendChild(li);
+        flushIntro(); currentLesson = null; currentNews = null;
+        currentEdition = document.createElement('section'); currentEdition.className = 'edition';
+        var text = node.textContent.trim(); currentEdition.id = slug(text);
+        var dateM = text.match(/\d{4}-\d{2}-\d{2}/);
+        var edM = text.match(/edition\s*#?\s*\d+/i);
+        var head = document.createElement('div'); head.className = 'edition-head';
+        var pill = document.createElement('span'); pill.className = 'date-pill'; pill.textContent = dateM ? dateM[0] : text; head.appendChild(pill);
+        if (edM){ var en = document.createElement('span'); en.className='ed-num'; en.textContent = edM[0].replace(/edition/i,'Edition'); head.appendChild(en); }
+        currentEdition.appendChild(head); content.appendChild(currentEdition);
+        var li = document.createElement('li'); var a = document.createElement('a'); a.href = '#'+currentEdition.id;
+        a.innerHTML = '<span class="d">'+(dateM?dateM[0]:text)+'</span>'+(edM?'<span class="n">'+edM[0].replace(/edition/i,'Edition')+'</span>':'');
+        li.appendChild(a); tocList.appendChild(li);
         return;
       }
 
-      const target = currentEdition || introWrap;
-
       if (tag === 'H3' && currentEdition) {
-        currentLesson = document.createElement('div');
-        currentLesson.className = 'lesson';
-        const raw = node.textContent.trim();
-        const laneM = raw.match(/\(([^)]+)\)\s*$/);
-        const lane = laneM ? laneM[1] : '';
-        const numM = raw.match(/^\s*(\d+)[\.\)]\s*/);
-        const num = numM ? numM[1] : '';
-        let title = raw.replace(/^\s*\d+[\.\)]\s*/, '').replace(/\s*\([^)]+\)\s*$/, '');
-
-        const lh = document.createElement('div');
-        lh.className = 'lesson-head';
-        if (num) { const ns = document.createElement('div'); ns.className = 'lesson-num'; ns.textContent = num; lh.appendChild(ns); }
-        const h3 = document.createElement('h3'); h3.textContent = title; lh.appendChild(h3);
-        currentLesson.appendChild(lh);
-        if (lane) {
-          const b = document.createElement('span'); b.className = 'lane-badge';
-          const c = laneColor(lane);
-          b.textContent = lane;
-          b.style.color = c; b.style.borderColor = c + '55'; b.style.background = c + '14';
-          currentLesson.appendChild(b);
-        }
+        currentNews = null;
+        currentLesson = document.createElement('div'); currentLesson.className = 'lesson';
+        var raw = node.textContent.trim();
+        var laneM = raw.match(/\(([^)]+)\)\s*$/); var lane = laneM ? laneM[1] : '';
+        var numM = raw.match(/^\s*(\d+)[\.\)]\s*/); var num = numM ? numM[1] : '';
+        var title = raw.replace(/^\s*\d+[\.\)]\s*/,'').replace(/\s*\([^)]+\)\s*$/,'');
+        var lh = document.createElement('div'); lh.className = 'lesson-head';
+        if (num){ var ns=document.createElement('div'); ns.className='lesson-num'; ns.textContent=num; lh.appendChild(ns); }
+        var h3=document.createElement('h3'); h3.textContent=title; lh.appendChild(h3); currentLesson.appendChild(lh);
+        if (lane){ var b=document.createElement('span'); b.className='lane-badge'; var c=laneColor(lane); b.textContent=lane; b.style.color=c; b.style.borderColor=c+'55'; b.style.background=c+'14'; currentLesson.appendChild(b); }
         currentEdition.appendChild(currentLesson);
         return;
       }
 
-      // Sources block: a paragraph whose text starts with "Sources"
-      if (tag === 'P' && /^sources/i.test(node.textContent.trim()) && currentEdition) {
-        const box = document.createElement('div');
-        box.className = 'sources';
-        box.appendChild(node.cloneNode(true));
-        currentEdition._sources = box;
-        currentEdition.appendChild(box);
+      if (tag === 'H4' && currentEdition) {
         currentLesson = null;
+        currentNews = document.createElement('div'); currentNews.className = 'news-section';
+        var nh = document.createElement('div'); nh.className = 'news-head'; nh.textContent = node.textContent.trim();
+        currentNews.appendChild(nh); currentEdition.appendChild(currentNews); currentEdition._hasNews = true;
         return;
+      }
+
+      // News list (right after H4)
+      if (tag === 'UL' && currentNews) {
+        Array.prototype.slice.call(node.children).forEach(function(liEl){
+          var item = document.createElement('div'); item.className = 'news-item';
+          var laneM = liEl.textContent.match(/\(([^)]+)\)/); var lane = laneM ? laneM[1] : '';
+          var inner = liEl.innerHTML;
+          if (lane){ var c = laneColor(lane); inner = inner.replace('('+lane+')', badge(lane)); item.style.borderLeftColor = c; }
+          item.innerHTML = inner; currentNews.appendChild(item);
+        });
+        currentNews = null; return;
+      }
+
+      // Sources block
+      if (tag === 'P' && /^sources/i.test(node.textContent.trim()) && currentEdition) {
+        var box = document.createElement('div'); box.className = 'sources'; box.appendChild(node.cloneNode(true));
+        currentEdition._sources = box; currentEdition.appendChild(box); currentLesson = null; return;
       }
       if (tag === 'UL' && currentEdition && currentEdition._sources && currentEdition.lastChild === currentEdition._sources) {
-        currentEdition._sources.appendChild(node.cloneNode(true));
-        return;
+        currentEdition._sources.appendChild(node.cloneNode(true)); return;
       }
 
-      if (tag === 'HR') return; // skip separators
+      if (tag === 'HR') return;
 
-      // default: append to current lesson, else edition, else intro
-      const dest = currentLesson || target;
+      var dest = currentLesson || currentEdition || introWrap;
       if (dest) dest.appendChild(node.cloneNode(true));
     });
 
     flushIntro();
+
+    // mark editions without news
+    Array.prototype.slice.call(document.querySelectorAll('.edition')).forEach(function(ed){ if (!ed._hasNews) ed.classList.add('no-news'); });
+
     setupScrollSpy();
   }
 
   function setupScrollSpy() {
-    const links = Array.from(document.querySelectorAll('nav.toc a'));
-    const map = new Map();
-    links.forEach(a => { const el = document.querySelector(a.getAttribute('href')); if (el) map.set(el, a); });
-    const obs = new IntersectionObserver(entries => {
-      entries.forEach(e => {
-        if (e.isIntersecting) {
-          links.forEach(l => l.classList.remove('active'));
-          const a = map.get(e.target); if (a) a.classList.add('active');
-        }
-      });
+    var links = Array.prototype.slice.call(document.querySelectorAll('nav.toc a'));
+    var map = new Map();
+    links.forEach(function(a){ var el=document.querySelector(a.getAttribute('href')); if (el) map.set(el,a); });
+    if (!('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){ if (e.isIntersecting){ links.forEach(function(l){ l.classList.remove('active'); }); var a=map.get(e.target); if (a) a.classList.add('active'); } });
     }, { rootMargin: '-20% 0px -70% 0px' });
-    map.forEach((a, el) => obs.observe(el));
+    map.forEach(function(a, el){ obs.observe(el); });
   }
 
-  load();
+  // init gate
+  if (isUnlocked()) reveal();
 </script>
 </body>
 </html>

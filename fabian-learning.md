@@ -2,7 +2,7 @@
 
 Two new things a day, pulled from your inbox newsletters, your Substack reads, and the open web. Written like a sharp friend explaining it over coffee. Newest edition sits on top.
 
-Topics rotate across four lanes: AI x gaming, gaming & esports industry, leadership & negotiation, live events & immersive. Each lesson comes with a plain-language explanation, a "why this matters for you / EF" line, and one question worth chewing on.
+Topics rotate across four lanes: AI x gaming, gaming & esports industry, leadership & negotiation, live events & immersive. Each lesson comes with a plain-language explanation, a "why this matters for you / EF" line, and one question worth chewing on. Below the two lessons, three quick high-signal reads sit under News of the day.
 
 The job of this log: make you a little smarter every single day.
 
@@ -29,6 +29,12 @@ This is the public version of something you already hold privately. Single-game 
 Why this matters for EF: when the whole industry grades on durability, EF's long-cycle, sovereign-backed model stops reading as an outlier and starts reading as the adult in the room. That is a positioning gift. It also sharpens the publisher conversation: a game earns its place in the tent by contributing to a durable ecosystem. One big launch moment no longer buys a seat.
 
 One question to chew on: if "durability" becomes the word every publisher and org reaches for in 2026, what is the one metric EF could publish that would make EF the body defining the term rather than reacting to it?
+
+#### News of the day
+
+- **Global Esports Industry Week lands in Cologne (Jun 18-21)** (live events & immersive) — the Jun 19 business day pulls EGES, GameDev and Edu summits under one roof, a tight read on where deals and money are moving this summer. [Global Esports Week](https://www.globalesportsweek.com/)
+- **Co-development is the industry's answer to the funding squeeze** (gaming & esports industry) — GDC 2026 flags co-dev partnerships as the main workaround for collapsing funding and thin staffing, studios sharing the build instead of carrying it alone. [GamesBeat](https://gamesbeat.com/gdc-festival-of-gaming-2026-trends-report-casts-light-on-genai-co-dev-advocacy-game-publishing-and-finance/)
+- **Mobile's dual monetization and post-Apple direct payments reshape store economics** (gaming & esports industry) — GDC 2026 names in-app dual monetization and direct-to-consumer payments after the Apple ruling as defining 2026 shifts, the storefront cut is no longer fixed. [GameDev.net](https://gamedev.net/news/gdc-trends-report-2026-as-use-of-generative-ai-rises-devs-face-infrastructure-problem-r3601/)
 
 **Sources (Edition #1)**
 

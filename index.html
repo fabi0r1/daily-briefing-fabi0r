@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Daily Briefing — Fabian's Learning Log</title>
+<meta name="description" content="Two new things a day across AI x gaming, the games & esports industry, leadership, and live events." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #0a0d14;
+    --bg-grad: radial-gradient(1200px 600px at 75% -10%, rgba(91,140,255,0.14), transparent 60%),
+               radial-gradient(900px 500px at 0% 0%, rgba(62,207,142,0.08), transparent 55%);
+    --surface: #131a28;
+    --surface-2: #18202f;
+    --border: #243049;
+    --border-soft: #1c2740;
+    --text: #eaf0fb;
+    --muted: #98a3ba;
+    --faint: #6b7689;
+    --accent: #5b8cff;
+    --accent-2: #f5c14e;
+    --teal: #3ecf8e;
+    --violet: #b388f5;
+    --radius: 16px;
+    --maxw: 1180px;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    background-image: var(--bg-grad);
+    background-attachment: fixed;
+    color: var(--text);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
+
+  /* Header */
+  header.site {
+    border-bottom: 1px solid var(--border-soft);
+    background: linear-gradient(180deg, rgba(19,26,40,0.6), transparent);
+  }
+  .hero { padding: 56px 0 40px; }
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12.5px; letter-spacing: 0.22em; text-transform: uppercase;
+    color: var(--accent); font-weight: 600;
+    padding: 6px 12px; border: 1px solid var(--border); border-radius: 999px;
+    background: rgba(91,140,255,0.08);
+  }
+  .eyebrow .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--teal); box-shadow: 0 0 10px var(--teal); }
+  h1.title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: clamp(34px, 6vw, 60px);
+    line-height: 1.02; margin: 18px 0 14px; font-weight: 700; letter-spacing: -0.02em;
+  }
+  h1.title span { color: var(--accent); }
+  .lede { font-size: 18px; color: var(--muted); max-width: 640px; margin: 0; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+  .chip {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-size: 13px; color: var(--text); font-weight: 500;
+    padding: 7px 13px; border-radius: 999px;
+    background: var(--surface); border: 1px solid var(--border);
+  }
+  .chip i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+
+  /* Layout */
+  .layout { display: grid; grid-template-columns: 260px 1fr; gap: 44px; padding: 44px 0 80px; align-items: start; }
+  nav.toc { position: sticky; top: 28px; }
+  nav.toc h4 {
+    font-family: 'Space Grotesk', sans-serif; font-size: 12px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--faint); margin: 0 0 14px; font-weight: 600;
+  }
+  nav.toc ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+  nav.toc a {
+    display: flex; flex-direction: column; gap: 2px;
+    padding: 9px 12px; border-radius: 10px; color: var(--muted);
+    border-left: 2px solid transparent; transition: all .15s ease;
+  }
+  nav.toc a:hover { background: var(--surface); color: var(--text); text-decoration: none; }
+  nav.toc a.active { background: var(--surface); color: var(--text); border-left-color: var(--accent); }
+  nav.toc a .d { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 14px; }
+  nav.toc a .n { font-size: 11.5px; color: var(--faint); }
+  .toc-foot { margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--border-soft); font-size: 12.5px; color: var(--faint); }
+
+  /* Editions */
+  main { min-width: 0; }
+  .edition {
+    background: linear-gradient(180deg, var(--surface), var(--bg));
+    border: 1px solid var(--border-soft); border-radius: var(--radius);
+    padding: 30px 34px 26px; margin-bottom: 28px;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.02) inset, 0 18px 40px -28px rgba(0,0,0,0.8);
+  }
+  .edition-head { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 6px; }
+  .date-pill {
+    font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 13px;
+    color: var(--text); background: var(--surface-2); border: 1px solid var(--border);
+    padding: 5px 12px; border-radius: 8px; letter-spacing: 0.02em;
+  }
+  .ed-num { font-size: 12.5px; color: var(--faint); font-family: 'Space Grotesk', sans-serif; letter-spacing: 0.04em; }
+  .edition > h2 { display: none; } /* replaced by pill */
+
+  .lesson { padding: 22px 0 4px; border-top: 1px solid var(--border-soft); margin-top: 18px; }
+  .lesson:first-of-type { border-top: none; margin-top: 8px; padding-top: 6px; }
+  .lesson-head { display: flex; align-items: baseline; gap: 14px; margin-bottom: 4px; }
+  .lesson-num {
+    font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px;
+    color: var(--accent); line-height: 1; opacity: 0.85; min-width: 34px;
+  }
+  .lesson h3 {
+    font-family: 'Space Grotesk', sans-serif; font-size: 21px; font-weight: 600;
+    margin: 0; line-height: 1.25; letter-spacing: -0.01em; flex: 1;
+  }
+  .lane-badge {
+    display: inline-block; font-size: 11.5px; font-weight: 600; letter-spacing: 0.04em;
+    padding: 4px 10px; border-radius: 999px; margin: 4px 0 10px 48px;
+    border: 1px solid var(--border);
+  }
+  .lesson p { margin: 0 0 14px; color: #d7deec; }
+  .lesson p:last-child { margin-bottom: 4px; }
+  .lesson strong { color: var(--text); }
+
+  /* Sources block: a <p><strong>Sources...</strong></p> followed by a <ul> */
+  .sources {
+    margin-top: 18px; background: var(--surface-2); border: 1px solid var(--border-soft);
+    border-radius: 12px; padding: 16px 18px;
+  }
+  .sources p { margin: 0 0 8px; font-family: 'Space Grotesk', sans-serif; font-size: 12px;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint); }
+  .sources ul { margin: 0; padding-left: 18px; }
+  .sources li { font-size: 13.5px; color: var(--muted); margin-bottom: 5px; word-break: break-word; }
+  .sources a { color: var(--accent); }
+
+  hr { border: none; border-top: 1px solid var(--border-soft); margin: 0; }
+
+  /* Intro card (content before first edition) */
+  .intro {
+    background: var(--surface); border: 1px solid var(--border-soft); border-left: 3px solid var(--accent);
+    border-radius: 12px; padding: 20px 24px; margin-bottom: 30px; color: var(--muted); font-size: 15px;
+  }
+  .intro h1 { font-family:'Space Grotesk'; font-size: 18px; color: var(--text); margin: 0 0 8px; }
+  .intro p { margin: 0 0 10px; }
+  .intro p:last-child { margin-bottom: 0; }
+
+  .status { color: var(--muted); padding: 40px 0; text-align: center; }
+
+  footer.site { border-top: 1px solid var(--border-soft); padding: 26px 0 50px; color: var(--faint); font-size: 13px; }
+
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; gap: 8px; }
+    nav.toc { position: static; margin-bottom: 8px; }
+    nav.toc ul { flex-direction: row; flex-wrap: wrap; }
+    .edition { padding: 24px 20px; }
+    .lane-badge { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+  <header class="site">
+    <div class="wrap hero">
+      <span class="eyebrow"><span class="dot"></span> Daily Briefing</span>
+      <h1 class="title">Two new things.<br><span>Every day.</span></h1>
+      <p class="lede">A running log built to make me smarter, one coffee-length read at a time. Across AI &amp; gaming, the games &amp; esports industry, leadership, and live events.</p>
+      <div class="legend">
+        <span class="chip"><i style="background:#5b8cff"></i> AI &amp; gaming</span>
+        <span class="chip"><i style="background:#3ecf8e"></i> Games &amp; esports industry</span>
+        <span class="chip"><i style="background:#f5c14e"></i> Leadership &amp; negotiation</span>
+        <span class="chip"><i style="background:#b388f5"></i> Live events &amp; immersive</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap layout">
+    <nav class="toc">
+      <h4>Editions</h4>
+      <ul id="toc-list"></ul>
+      <div class="toc-foot">Updated automatically each morning, 07:30.</div>
+    </nav>
+    <main id="content">
+      <div class="status" id="status">Loading the latest editions…</div>
+    </main>
+  </div>
+
+  <footer class="site">
+    <div class="wrap">Daily Briefing · personal learning log · built with Claude</div>
+  </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script>
+  const LANE_COLORS = [
+    { keys: ['ai'], color: '#5b8cff' },
+    { keys: ['esports', 'games', 'gaming', 'industry'], color: '#3ecf8e' },
+    { keys: ['leadership', 'negotiation'], color: '#f5c14e' },
+    { keys: ['live events', 'immersive', 'event'], color: '#b388f5' },
+  ];
+  function laneColor(text) {
+    const t = (text || '').toLowerCase();
+    for (const l of LANE_COLORS) { if (l.keys.some(k => t.includes(k))) return l.color; }
+    return '#98a3ba';
+  }
+  function slug(s) { return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
+
+  async function load() {
+    let md;
+    try {
+      const res = await fetch('fabian-learning.md', { cache: 'no-store' });
+      if (!res.ok) throw new Error(res.status);
+      md = await res.text();
+    } catch (e) {
+      document.getElementById('status').textContent = 'Could not load the log file yet. Once fabian-learning.md is in the repo, editions show up here.';
+      return;
+    }
+    render(md);
+  }
+
+  function render(md) {
+    const html = marked.parse(md);
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const nodes = Array.from(doc.body.childNodes);
+
+    const content = document.getElementById('content');
+    content.innerHTML = '';
+    const tocList = document.getElementById('toc-list');
+    tocList.innerHTML = '';
+
+    let introWrap = document.createElement('div');
+    introWrap.className = 'intro';
+    let currentEdition = null;
+    let currentLesson = null;
+    let seenFirstEdition = false;
+
+    function flushIntro() {
+      if (introWrap && introWrap.childNodes.length) content.appendChild(introWrap);
+      introWrap = null;
+    }
+
+    nodes.forEach(node => {
+      if (node.nodeType !== 1) return; // elements only
+      const tag = node.tagName;
+
+      if (tag === 'H2') {
+        seenFirstEdition = true;
+        flushIntro();
+        currentLesson = null;
+        currentEdition = document.createElement('section');
+        currentEdition.className = 'edition';
+        const text = node.textContent.trim();
+        const id = slug(text);
+        currentEdition.id = id;
+
+        const dateMatch = text.match(/\d{4}-\d{2}-\d{2}/);
+        const edMatch = text.match(/edition\s*#?\s*\d+/i);
+        const head = document.createElement('div');
+        head.className = 'edition-head';
+        const pill = document.createElement('span');
+        pill.className = 'date-pill';
+        pill.textContent = dateMatch ? dateMatch[0] : text;
+        head.appendChild(pill);
+        if (edMatch) {
+          const en = document.createElement('span');
+          en.className = 'ed-num';
+          en.textContent = edMatch[0].replace(/edition/i, 'Edition');
+          head.appendChild(en);
+        }
+        currentEdition.appendChild(head);
+        content.appendChild(currentEdition);
+
+        // TOC entry
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '#' + id;
+        a.innerHTML = '<span class="d">' + (dateMatch ? dateMatch[0] : text) + '</span>' +
+          (edMatch ? '<span class="n">' + edMatch[0].replace(/edition/i, 'Edition') + '</span>' : '');
+        li.appendChild(a);
+        tocList.appendChild(li);
+        return;
+      }
+
+      const target = currentEdition || introWrap;
+
+      if (tag === 'H3' && currentEdition) {
+        currentLesson = document.createElement('div');
+        currentLesson.className = 'lesson';
+        const raw = node.textContent.trim();
+        const laneM = raw.match(/\(([^)]+)\)\s*$/);
+        const lane = laneM ? laneM[1] : '';
+        const numM = raw.match(/^\s*(\d+)[\.\)]\s*/);
+        const num = numM ? numM[1] : '';
+        let title = raw.replace(/^\s*\d+[\.\)]\s*/, '').replace(/\s*\([^)]+\)\s*$/, '');
+
+        const lh = document.createElement('div');
+        lh.className = 'lesson-head';
+        if (num) { const ns = document.createElement('div'); ns.className = 'lesson-num'; ns.textContent = num; lh.appendChild(ns); }
+        const h3 = document.createElement('h3'); h3.textContent = title; lh.appendChild(h3);
+        currentLesson.appendChild(lh);
+        if (lane) {
+          const b = document.createElement('span'); b.className = 'lane-badge';
+          const c = laneColor(lane);
+          b.textContent = lane;
+          b.style.color = c; b.style.borderColor = c + '55'; b.style.background = c + '14';
+          currentLesson.appendChild(b);
+        }
+        currentEdition.appendChild(currentLesson);
+        return;
+      }
+
+      // Sources block: a paragraph whose text starts with "Sources"
+      if (tag === 'P' && /^sources/i.test(node.textContent.trim()) && currentEdition) {
+        const box = document.createElement('div');
+        box.className = 'sources';
+        box.appendChild(node.cloneNode(true));
+        currentEdition._sources = box;
+        currentEdition.appendChild(box);
+        currentLesson = null;
+        return;
+      }
+      if (tag === 'UL' && currentEdition && currentEdition._sources && currentEdition.lastChild === currentEdition._sources) {
+        currentEdition._sources.appendChild(node.cloneNode(true));
+        return;
+      }
+
+      if (tag === 'HR') return; // skip separators
+
+      // default: append to current lesson, else edition, else intro
+      const dest = currentLesson || target;
+      if (dest) dest.appendChild(node.cloneNode(true));
+    });
+
+    flushIntro();
+    setupScrollSpy();
+  }
+
+  function setupScrollSpy() {
+    const links = Array.from(document.querySelectorAll('nav.toc a'));
+    const map = new Map();
+    links.forEach(a => { const el = document.querySelector(a.getAttribute('href')); if (el) map.set(el, a); });
+    const obs = new IntersectionObserver(entries => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          links.forEach(l => l.classList.remove('active'));
+          const a = map.get(e.target); if (a) a.classList.add('active');
+        }
+      });
+    }, { rootMargin: '-20% 0px -70% 0px' });
+    map.forEach((a, el) => obs.observe(el));
+  }
+
+  load();
+</script>
+</body>
+</html>

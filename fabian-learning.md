@@ -32,9 +32,9 @@ One question to chew on: if "durability" becomes the word every publisher and or
 
 #### News of the day
 
-- **Global Esports Industry Week lands in Cologne (Jun 18-21)** (live events & immersive) — the Jun 19 business day pulls EGES, GameDev and Edu summits under one roof, a tight read on where deals and money are moving this summer. [Global Esports Week](https://www.globalesportsweek.com/)
-- **Co-development is the industry's answer to the funding squeeze** (gaming & esports industry) — GDC 2026 flags co-dev partnerships as the main workaround for collapsing funding and thin staffing, studios sharing the build instead of carrying it alone. [GamesBeat](https://gamesbeat.com/gdc-festival-of-gaming-2026-trends-report-casts-light-on-genai-co-dev-advocacy-game-publishing-and-finance/)
-- **Mobile's dual monetization and post-Apple direct payments reshape store economics** (gaming & esports industry) — GDC 2026 names in-app dual monetization and direct-to-consumer payments after the Apple ruling as defining 2026 shifts, the storefront cut is no longer fixed. [GameDev.net](https://gamedev.net/news/gdc-trends-report-2026-as-use-of-generative-ai-rises-devs-face-infrastructure-problem-r3601/)
+- **Global Esports Industry Week lands in Cologne (Jun 18-21)** (live events & immersive). The Jun 19 business day pulls EGES, GameDev and Edu summits under one roof, a tight read on where deals and money are moving this summer. [Global Esports Week](https://www.globalesportsweek.com/)
+- **Co-development is the industry's answer to the funding squeeze** (gaming & esports industry). GDC 2026 flags co-dev partnerships as the main workaround for collapsing funding and thin staffing, studios sharing the build instead of carrying it alone. [GamesBeat](https://gamesbeat.com/gdc-festival-of-gaming-2026-trends-report-casts-light-on-genai-co-dev-advocacy-game-publishing-and-finance/)
+- **Mobile's dual monetization and post-Apple direct payments reshape store economics** (gaming & esports industry). GDC 2026 names in-app dual monetization and direct-to-consumer payments after the Apple ruling as defining 2026 shifts, the storefront cut is no longer fixed. [GameDev.net](https://gamedev.net/news/gdc-trends-report-2026-as-use-of-generative-ai-rises-devs-face-infrastructure-problem-r3601/)
 
 **Sources (Edition #1)**
 

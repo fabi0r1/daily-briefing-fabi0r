@@ -352,8 +352,9 @@
       if (tag === 'UL' && currentNews) {
         Array.prototype.slice.call(node.children).forEach(function(liEl){
           var item = document.createElement('div'); item.className = 'news-item';
-          var laneM = liEl.textContent.match(/\(([^)]+)\)/); var lane = laneM ? laneM[1] : '';
           var inner = liEl.innerHTML;
+          var afterStrong = inner.indexOf('</strong>') > -1 ? inner.split('</strong>').slice(1).join('</strong>') : inner;
+          var laneM = afterStrong.match(/\(([^)]+)\)/); var lane = laneM ? laneM[1] : '';
           if (lane){ var c = laneColor(lane); inner = inner.replace('('+lane+')', badge(lane)); item.style.borderLeftColor = c; }
           item.innerHTML = inner; currentNews.appendChild(item);
         });

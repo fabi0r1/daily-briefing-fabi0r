@@ -1,6 +1,6 @@
 # Fabian's learning log
 
-Two new things a day, pulled from your inbox newsletters, your Substack reads, and the open web. Written like a sharp friend explaining it over coffee, not a textbook. Newest edition sits on top.
+Two new things a day, pulled from your inbox newsletters, your Substack reads, and the open web. Written like a sharp friend explaining it over coffee. Newest edition sits on top.
 
 Topics rotate across four lanes: AI x gaming, gaming & esports industry, leadership & negotiation, live events & immersive. Each lesson comes with a plain-language explanation, a "why this matters for you / EF" line, and one question worth chewing on.
 
@@ -20,7 +20,7 @@ Why this matters for you: Ralf is pushing AI-first at the Foundation, scaling im
 
 One question to chew on: which single EF workflow lets AI remove drudgery without touching anyone's sense of craft? That is your safest first lighthouse project.
 
-### 2. Esports is graded on durability now, not on how big it might get (gaming & esports industry)
+### 2. Durability is the new esports scoreboard (gaming & esports industry)
 
 The tone across 2026 industry commentary has shifted in a way that should feel familiar. For years, orgs and events were valued on projected scale, the story of how huge this could become. In 2026 the question flipped to a flatter one: can you run a business that survives, with revenue coming from more than one place? Diversified revenue stacks, continuity, and operational maturity are the new scoreboard. Esports Charts laid this out in both their Q1 deal review and their 2026 outlook.
 

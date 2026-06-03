@@ -8,6 +8,44 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-03 (Edition #3)
+
+### 1. The fund that backs you now sits on the other side of the table (gaming & esports industry)
+
+On 20 March 2026, Savvy Games Group agreed to buy Moonton from ByteDance for $6 billion. Moonton makes Mobile Legends: Bang Bang, the dominant mobile MOBA across Southeast Asia and Latin America, north of 1.5 billion downloads and 110 million monthly active players. Savvy is PIF's gaming arm. So the same sovereign fund that stands behind the Foundation now owns the biggest mobile esports title on the planet.
+
+That is one piece of a bigger pattern. The $55 billion take-private of EA (PIF, Silver Lake, Affinity Partners) is expected to close by the end of June 2026, with PIF holding the controlling stake. Add Savvy's existing positions in Take-Two, Scopely and ESL FACEIT, and PIF is arguably the single most influential pool of capital in the whole industry.
+
+Why this matters for EF: more and more of the publisher table you negotiate with rolls up, one or two owners deep, to the same fund that pays for EWC. It cuts both ways. More pull when you want a game in the tent, more exposure every time you have to defend a slot as earned on merit rather than handed down from the shareholder. Worth mapping which of your 2026 EWC and ENC counterparts now share an ultimate owner with the Foundation, before someone outside the building maps it for you.
+
+One question to chew on: when a title's publisher is PIF-owned, does that make its EWC seat easier to grant, or harder to defend as merit-based, and who decides which of those two it is?
+
+### 2. Game characters are starting to act on their own goals (AI x gaming)
+
+For two years the AI-NPC story was about characters that talk back. The 2026 version is characters that do things. NVIDIA's ACE has moved from conversational NPCs to autonomous ones that perceive the world around them, plan a sequence of moves, then carry it out in real time, with memory that persists across sessions. It is already shipping: AI teammates in PUBG, companions in NARAKA: BLADEPOINT, and the Inworld-built Covert Protocol demo where you interrogate NPCs that adapt to what you ask. The next frontier studios are showing is many of these agents in one world, forming alliances and rivalries that nobody scripted.
+
+Here is the part that should interest Ralf. The architecture under an autonomous NPC (perceive, plan, act, remember) is the same architecture under the back-office agents the Foundation wants to build. The character that runs a quest loop and the agent that runs your publisher-research loop are the same machine pointed at different jobs. And the way studios keep NPCs from going off the rails, strong human-authored foundations with a generative layer on top, is the same recipe that will keep an EF agent reliable enough to trust with real work.
+
+So the games industry is quietly running the AI-agent experiment at scale, on millions of players, and publishing the results. That is free R&D for the AI-first push, if you read it as a management problem rather than a graphics demo.
+
+One question to chew on: which of your repeating loops (publisher prep, tournament-ops reporting, newsletter crawling) is structured enough that you could hand it to a perceive-plan-act agent first, and what is the human-authored foundation that keeps it honest?
+
+#### News of the day
+
+- **Negotiations are turning more adversarial, and it is costing real money** (leadership & negotiation). Vantage Partners' 2026 study of 400+ leaders finds 42% of deals now run adversarial, up from 29% in 2018, and that organizations leave roughly 60% of potential deal value on the table when they do. [Vantage Partners](https://www.vantagepartners.com/insights/negotiation-study-2026)
+- **Mobile Legends and the LCK topped global esports viewership in May 2026** (gaming & esports industry). MPL (Mobile Legends) and the LCK led the month's charts, a reminder that the title Savvy just bought for $6 billion sits at the very top of mobile viewership. [Esports Charts](https://escharts.com/news/most-popular-esports-events-may-2026)
+- **Sphere plans a smaller 6,000-seat venue, with Abu Dhabi already on the map** (live events & immersive). Sphere Entertainment confirmed intent to build a 6,000-seat National Harbor venue with a 16K interior screen, part of a global network that already includes a planned Abu Dhabi Sphere, useful context for any Gulf venue thinking. [Sphere Entertainment](https://www.sphereentertainmentco.com/sphere-entertainment-the-state-of-maryland-prince-georges-county-and-peterson-companies-announce-intent-to-develop-a-sphere-at-national-harbor/)
+
+**Sources (Edition #3)**
+
+- ByteDance agrees to sell Moonton to Savvy Games for $6 billion, via Bloomberg: https://www.bloomberg.com/news/articles/2026-03-20/bytedance-agrees-to-sell-moonton-to-savvy-games-for-6-billion
+- Savvy Games Group to acquire Moonton for $6 billion, via Game Developer: https://www.gamedeveloper.com/business/savvy-games-group-agreed-to-buy-moonton-games-for-6-billion
+- EA to go private in $55 billion deal backed by Saudi Arabia, Silver Lake and Affinity, via Variety: https://variety.com/2025/gaming/global/electronic-arts-goes-private-55-billion-deal-1236533827/
+- NVIDIA ACE autonomous game characters in PUBG and NARAKA: BLADEPOINT, via NVIDIA: https://www.nvidia.com/en-us/geforce/news/nvidia-ace-autonomous-ai-companions-pubg-naraka-bladepoint/
+- AI NPCs, the future of game characters, via Naavik: https://naavik.co/digest/ai-npcs-the-future-of-game-characters/
+
+---
+
 ## 2026-06-02 (Edition #2)
 
 ### 1. Esports events are turning into festival-scale productions (live events & immersive)

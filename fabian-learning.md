@@ -8,6 +8,45 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-05 (Edition #4)
+
+### 1. Riot said yes to betting money and kept its own broadcast clean (leadership & negotiation)
+
+Riot reversed a years-long refusal this week. Tier 1 League of Legends and Valorant teams in the Americas and EMEA can now sign deals with vetted, regulated betting brands. Teams had been asking for this for a long time, and the money behind the ask is large: John Needham cited a Sportradar figure of roughly $10.7 billion in 2024 betting turnover on LoL and Valorant esports (worth treating as a reported number, not one I can independently verify).
+
+The interesting part is the structure, not the yes. Riot held a global "clean feed": no betting ads on its broadcasts, no betting logos on Riot-owned channels. Every approved partner has to run on GRID, Riot's single verified data feed, so odds and markets pull from one source. Teams have to run integrity programs covering match-fixing safeguards, responsible-betting messaging, and protections for younger viewers. So the new revenue sits at the team layer while the league brand and the broadcast stay untouched.
+
+That is your own negotiation move in someone else's house. You don't win Riot ENC by arguing point-by-point, you change the field (the $70M to $4.5M case). Riot did the same thing to a binary question: instead of yes-or-no on betting, they redrew where betting is allowed to live. Community reaction has been mostly negative, which is the cost they decided to absorb.
+
+Why this matters for EF: betting pressure reaches EWC and ENC eventually, and Riot is your biggest single-publisher partner at $28M a year. The clean-feed design is a template for saying yes to commercial money while protecting brand-as-asset, which is the whole EF thesis. Map it before the question lands on your desk rather than after.
+
+One question to chew on: if betting money came knocking on EWC or ENC tomorrow, where would your clean-feed line sit, and which surfaces would you refuse to sell at any price?
+
+### 2. The AI fight in games is now about acceptable use (AI x gaming)
+
+Summer Game Fest opened this week, and the pattern around it is a shift in the argument. Steam AI disclosures are piling up on announced titles. Tomb Raider: Legacy of Atlantis (Crystal Dynamics and Flying Wild Hog) carries a disclosure saying AI-assisted tools were used for early exploration and temporary development content, and that any AI-assisted assets were replaced or refined by humans to hold the creative vision.
+
+Player reaction is the signal worth reading. It is mixed, and the split runs along a clear line: AI used for prototyping that gets thrown out reads as acceptable to a lot of people, AI-generated assets shipping in the final product does not. The question moved from "should AI be used at all" to "what counts as acceptable use," and players are writing that norm in real time, one disclosure at a time.
+
+Why this matters for you: Ralf's AI-first push runs into the same trust question studios are facing now, just pointed inward. As EF builds AI into publisher research, contract redlines, and ops reporting, the player verdict gives you a ready-made frame. AI that removes drudgery and gets checked by a human keeps trust. AI that quietly does the craft people are proud of breaks it. The phrase "replaced or refined by humans" is a governance line you could borrow for how EF talks about its own AI use, internally and to partners.
+
+One question to chew on: as EF leans on AI more, what is your version of "replaced or refined by humans," the visible human check that keeps publisher and team trust intact?
+
+#### News of the day
+
+- **India gets a mobile-only esports league built for 500 million smartphones** (gaming & esports industry). A new India-exclusive mobile circuit was announced around 3 June, anchored on titles like Battlegrounds Mobile India, aimed squarely at the country's roughly 500 million smartphone users. Mobile esports' center of gravity keeps moving east. [Technosports](https://technosports.co.in/india-mobile-esports-league-2026/)
+- **Atlas puts a multi-agent AI studio for 3D game content on Google Cloud** (AI x gaming). Atlas AI Studio launched a multi-agent system that builds and runs 3D production pipelines from natural-language prompts, exporting into Unreal and Unity. The same perceive-plan-act pattern from last edition's autonomous NPCs, pointed at asset creation. [Google Cloud](https://cloud.google.com/transform/a-new-era-of-gaming-how-the-next-generation-of-play-is-being-redefined-by-ai-agents)
+- **Rainbow Six Esports Majors head to the US and Japan for 2026** (live events & immersive). Ubisoft and BLAST set the 2026 Major calendar across new host countries, a read on how a key EF partner is spreading its live-event footprint. [Esports Insider](https://esportsinsider.com/2026/02/blast-ubisoft-rainbow-six-esports-major-locations)
+
+**Sources (Edition #4)**
+
+- Why we're opening betting sponsorships for esports teams, via Riot Games: https://www.riotgames.com/en/news/esports-betting-sponsorships
+- Riot allows sports betting sponsorships in top-tier LoL and Valorant esports, via PC Gamer: https://www.pcgamer.com/gaming-industry/riot-decides-that-allowing-sports-betting-sponsorships-in-top-tier-league-of-legends-and-valorant-esports-is-a-good-idea/
+- Summer Game Fest and the AI-trailer reaction, via PC Gamer: https://www.pcgamer.com/software/ai/summer-game-fest-is-here-so-get-ready-for-a-lot-of-ugh-that-game-with-the-cool-trailer-used-ai/
+- Summer Game Fest AI disclosures are piling up, via GAMES.GG: https://games.gg/news/summer-game-fest-ai-disclosures-hype/
+
+---
+
 ## 2026-06-03 (Edition #3)
 
 ### 1. The fund that backs you now sits on the other side of the table (gaming & esports industry)

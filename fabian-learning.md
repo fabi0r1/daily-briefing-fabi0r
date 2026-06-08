@@ -8,7 +8,108 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
-## 2026-06-05 (Edition #4)
+## 2026-06-08 (Edition #8)
+
+### 1. Where 60% of deal value quietly disappears (leadership & negotiation)
+
+A new Vantage Partners study (411 buy- and sell-side leaders, surveyed in 2025) puts a hard number on something you live every week: companies capture only 40% of the value available in a deal. They lose 38% at the table and another 22% after signing, during implementation. The gap between the best and worst negotiators is large, with the top quartile realizing roughly 3x the value of the bottom quartile.
+
+The counterintuitive findings read like your own playbook. Top negotiators are more collaborative and concede less at the same time. Bottom performers are 1.5 to 2x more likely to swallow bad terms "for the sake of the relationship," and discounts do almost nothing for deal speed or retention while quietly eroding value. That is the evidence behind your "no money-grab contracts" rule and paying extra publisher value as services rather than price cuts.
+
+The part worth sitting with: what separates the top quartile is infrastructure. Playbooks and job aids, metrics that reward outcomes beyond deal size, early cross-functional involvement, partner segmentation, a negotiation center of excellence. Your personal edge is perspective-taking, and the study says the organizations that win turn that instinct into a repeatable system. That is the Games team redesign argument in one line.
+
+One question to chew on: which of your publisher negotiation moves still live only in your head, and what would it take to turn the best of them into a playbook Morten and Jan can run without you in the room?
+
+### 2. EWC Paris runs for weeks, and that changes the job (live events & immersive)
+
+The Paris edition is built as a long-haul festival: 25 competitions at Paris Expo Porte de Versailles across a multi-week summer run, in a venue that also featured in Paris 2024. That is a different animal from a three-day finals. A weekend event peaks once. A multi-week event has to hold attention, staffing, production quality, and crowd energy as a new audience arrives each week for different titles.
+
+Why this matters for you: the operational risk is fatigue, yours and the audience's. The opening hype is easy, a mid-run day on a smaller title is the real test. The co-streamer point matters here too, since a long event lives or dies on whether clips and creators keep the off-broadcast audience engaged through the quiet weeks as much as the marquee finals.
+
+One question to chew on: which stretch of the run is most likely to sag, and what is the one mechanic (creator push, cross-title storyline, in-venue moment) that keeps it alive?
+
+#### News of the day
+
+- **The global esports audience is around 640 million, and APAC is 57% of it** (gaming & esports industry). The center of gravity sits firmly in Asia-Pacific, a standing reminder for any Western-built broadcast plan. [Esports Charts](https://escharts.com/news/how-esports-viewership-going-global-2026)
+- **China and the Philippines alone make up about 40% of esports fans** (gaming & esports industry). Two markets carry a huge share of the global audience, worth weighing in any title and language prioritization. [Esports Charts](https://escharts.com/news/how-esports-viewership-going-global-2026)
+- **Asia and MENA games revenue is on track for $103.6 billion by 2030** (gaming & esports industry). Niko Partners projects steady growth across PC, mobile and console through the decade. [Niko Partners](https://nikopartners.com/asia-mena-market-model-2026/)
+
+**Sources (Edition #8)**
+
+- Vantage Partners 2026 Customer-Supplier Negotiation Study (see KB file 22): https://www.vantagepartners.com/
+- Esports World Cup 2026 venue and competitions, via PR Newswire: https://www.prnewswire.com/news-releases/esports-world-cup-2026-venue-announced-paris-expo-porte-de-versailles-tickets-live-now-for-all-25-competitions-302787514.html
+- How esports viewership is going global in 2026, via Esports Charts: https://escharts.com/news/how-esports-viewership-going-global-2026
+- Asia & MENA market model 2026, via Niko Partners: https://nikopartners.com/asia-mena-market-model-2026/
+
+---
+
+## 2026-06-07 (Edition #7)
+
+### 1. The 2026 Club Championship is now $30M, and the structure rewards durability (gaming & esports industry)
+
+The EF Club Partner Program's third edition runs at $20 million, with up to $1 million per club across 40 clubs, and the Club Championship prize pool rose from $27 million to $30 million, with a $7 million grand prize spread across the top 24. The qualification design is the interesting part: a club needs top-8 finishes in at least two competitions to reach the Championship, a first place in at least one to win it, and program membership grants no automatic tournament berth.
+
+Why this matters for you: this is your multi-game-aggregation thesis written as rules. The structure pays clubs for breadth and consistency across titles, the durable cross-community model you argue beats single-star orgs. The regional split (9 European clubs, 6 Chinese, 5 North American, 4 Southeast Asian, 3 Brazilian, 2 Latin American) doubles as a quiet map of where the audience bet sits.
+
+One question to chew on: the no-automatic-berth rule keeps the program merit-based, and it also adds friction for big clubs. Where is that line worth holding, and where might it cost you a marquee name in Paris?
+
+### 2. AI that generates the game itself is leaving the lab (AI x gaming)
+
+Beyond assistants and editor plug-ins, a harder frontier is moving: models that generate playable content. Microsoft's Muse model can generate game visuals and controller actions, in effect predicting and producing gameplay, and Google has been packaging models and samples aimed specifically at game developers. This is a different order of capability from autocompleting code or triaging a crash queue, and it points toward generated levels, behaviors, and eventually playable moments.
+
+Why this matters for you: this is the capability most likely to test the player-trust line from a few days ago. Generated gameplay is powerful and the most likely to trip the "AI is doing the part I am proud of" reaction. For EF, the safe near-term use is internal, rapid prototyping of fan experiences and mockups for Paris activations, with public-facing uses needing the same visible human check studios are adopting.
+
+One question to chew on: where could generated content speed up EF's own prototyping (Paris activations, fan apps) without ever shipping as the visible product?
+
+#### News of the day
+
+- **56% of esports viewers now watch on mobile** (gaming & esports industry). Mobile passed the halfway mark, a structural nudge for how broadcasts and clips get cut. [Esports Charts](https://escharts.com/news/how-esports-viewership-going-global-2026)
+- **Brawl Cup 2026 drew nearly 240K peak viewers as HMBLE went back-to-back** (gaming & esports industry). Supercell's mobile title keeps posting strong live numbers, more proof the mobile audience shows up to watch. [Esports Charts](https://escharts.com/news/brawl-cup-2026-viewership)
+- **The 2026 live-ops playbook is templatisation, personalisation and AI** (AI x gaming). Pocket Gamer's read on the year's live-ops direction lands on AI-driven personalization as the backbone. [PocketGamer.biz](https://www.pocketgamer.biz/2026-live-ops-trends-templatisation-personalisation-and-ai/)
+
+**Sources (Edition #7)**
+
+- The EF Club Partner Program 2026, via Esports World Cup: https://esportsworldcup.com/en/news/the-esports-foundation-club-partner-program-2026-is-here
+- EWC 2026 key info and Club Championship, via Esports Charts: https://escharts.com/news/esports-world-cup-2026-key-info
+- AI in gaming, NPCs, tools and apps 2026, via Enos Technologies: https://www.enostech.com/ai-in-gaming-and-technology-in-2026-npcs-tools-and-apps/
+- 2026 live ops trends, via Pocket Gamer: https://www.pocketgamer.biz/2026-live-ops-trends-templatisation-personalisation-and-ai/
+
+---
+
+## 2026-06-06 (Edition #6)
+
+### 1. The app-store tax is loosening, and Asian players are leading it (gaming & esports industry)
+
+A structural shift runs under Asia's mobile market: players are moving spend outside the app store. In Southeast Asia, out-of-app payments climbed from 21% to 38% of mobile revenue between 2022 and 2024, and across 13 tracked markets more than 30% of players now prefer to transact outside the game itself. Niko Partners flags this among the defining 2026 dynamics, alongside a regional market headed toward $103.6 billion by 2030.
+
+Why this matters for EF: this is the same force as the post-Apple direct-payment item from edition one, showing up first and hardest in your growth markets. Publishers that keep more of each dollar have more to reinvest, which strengthens the case for putting marketing money behind EWC and ENC. Healthier publisher unit economics make your platform-partner pitch easier.
+
+One question to chew on: for your KSA and Asia-facing publisher talks, does a publisher keeping more revenue per player make your rev-share and marketing-services asks easier to land, or does it raise their walk-away power?
+
+### 2. AI in games is moving on-device and into the editor (AI x gaming)
+
+The AI tooling layer took concrete steps. Google shipped an open-source plugin that drops its Gemma 3 model into Unity to run on-device, so a game can use a language model without a server round-trip, and Unity added an in-editor AI assistant for project workflows. The direction is AI moving from cloud demo into the daily build pipeline, cheaper and more private.
+
+Why this matters for you: on-device AI changes the cost and privacy math for any EWC or ENC fan product you might build, a companion app, a smart second screen, a per-language assistant. The capability is becoming cheap and local, which moves the question to what fan experience is finally worth building once the model runs on the phone in someone's hand.
+
+One question to chew on: if an on-device assistant is nearly free to run, what is the single EWC fan experience worth prototyping for Paris that needs it?
+
+#### News of the day
+
+- **IEM Cologne Major 2026 anchors the Counter-Strike summer** (live events & immersive). One of the year's most prestigious CS2 events runs with a Major-level prize pool, a magnet for the European live crowd. [Outlook Respawn](https://respawn.outlookindia.com/esports/esports-guides/esports-events-calendar-2026-a-month-by-month-breakdown)
+- **LoL Mid-Season Invitational returns to South Korea** (live events & immersive). MSI 2026 lands in Korea mid-June, putting the sport's home crowd back at the center of a global moment. [Outlook Respawn](https://respawn.outlookindia.com/esports/esports-guides/esports-events-calendar-2026-a-month-by-month-breakdown)
+- **China's games market is projected above $55 billion in 2026** (gaming & esports industry). Niko raised forecasts across PC, mobile and console on strong new and legacy titles. [Niko Partners](https://nikopartners.com/china-games-market-reports/)
+
+**Sources (Edition #6)**
+
+- Asia & MENA market model 2026, via Niko Partners: https://nikopartners.com/asia-mena-market-model-2026/
+- Niko Partners 2026 predictions, via Niko Partners: https://nikopartners.com/niko-partners-2026-predictions/
+- Google AI for game developers, via Google Developers Blog: https://developers.googleblog.com/google-ai-for-game-developers/
+- Esports events roadmap 2026, via Outlook Respawn: https://respawn.outlookindia.com/esports/esports-guides/esports-events-calendar-2026-a-month-by-month-breakdown
+
+---
+
+## 2026-06-05 (Edition #5)
 
 ### 1. Riot said yes to betting money and kept its own broadcast clean (leadership & negotiation)
 
@@ -38,12 +139,46 @@ One question to chew on: as EF leans on AI more, what is your version of "replac
 - **Atlas puts a multi-agent AI studio for 3D game content on Google Cloud** (AI x gaming). Atlas AI Studio launched a multi-agent system that builds and runs 3D production pipelines from natural-language prompts, exporting into Unreal and Unity. The same perceive-plan-act pattern from last edition's autonomous NPCs, pointed at asset creation. [Google Cloud](https://cloud.google.com/transform/a-new-era-of-gaming-how-the-next-generation-of-play-is-being-redefined-by-ai-agents)
 - **Rainbow Six Esports Majors head to the US and Japan for 2026** (live events & immersive). Ubisoft and BLAST set the 2026 Major calendar across new host countries, a read on how a key EF partner is spreading its live-event footprint. [Esports Insider](https://esportsinsider.com/2026/02/blast-ubisoft-rainbow-six-esports-major-locations)
 
-**Sources (Edition #4)**
+**Sources (Edition #5)**
 
 - Why we're opening betting sponsorships for esports teams, via Riot Games: https://www.riotgames.com/en/news/esports-betting-sponsorships
 - Riot allows sports betting sponsorships in top-tier LoL and Valorant esports, via PC Gamer: https://www.pcgamer.com/gaming-industry/riot-decides-that-allowing-sports-betting-sponsorships-in-top-tier-league-of-legends-and-valorant-esports-is-a-good-idea/
 - Summer Game Fest and the AI-trailer reaction, via PC Gamer: https://www.pcgamer.com/software/ai/summer-game-fest-is-here-so-get-ready-for-a-lot-of-ugh-that-game-with-the-cool-trailer-used-ai/
 - Summer Game Fest AI disclosures are piling up, via GAMES.GG: https://games.gg/news/summer-game-fest-ai-disclosures-hype/
+
+---
+
+## 2026-06-04 (Edition #4)
+
+### 1. The esports audience is mostly on a phone, and mostly in Asia (gaming & esports industry)
+
+The 2026 viewership picture is blunt. The global esports audience is around 640 million, Asia-Pacific is 57% of it, and China plus the Philippines alone make up roughly 40%. 56% of viewers now watch on a phone. The standout data point: Mobile Legends: Bang Bang's M7 World Championship hit 5.68 million peak viewers in January, the largest mobile esports audience ever recorded.
+
+Why this matters for EF: the EWC broadcast is built for big-screen, Western-style production, while the audience keeps drifting mobile and East. Two of your titles already sit at that center of gravity, PUBG Mobile and now MLBB, which a PIF sibling owns through Moonton. The viewers you most want to grow may never open the polished broadcast, they watch vertical clips on a phone in Manila or Jakarta.
+
+One question to chew on: if most of the audience is on a phone, what does the EWC product owe the vertical screen, and who on the Games team owns that surface today?
+
+### 2. AI's first real home in games is the back office (AI x gaming)
+
+While the public argument about AI is about art and trailers, the quiet adoption is in operations. 2026 live-ops platforms use machine learning to personalize offers, difficulty and events per player, and AI support tools like Fini classify novel crash patterns at around 98% accuracy and auto-route urgent incidents to engineering. Studios report better retention and ARPU while operating costs fall.
+
+Why this matters for you: this is the version of Ralf's AI-first push with the lowest trust cost. Few people feel their craft is threatened when AI triages a crash queue or tailors a live event. For EWC and ENC, the parallel is community operations, fan support, and per-market personalization of how you reach 640 million people, the unglamorous layer where AI pays off first.
+
+One question to chew on: which EF operation runs on tired manual effort today (fan support, community moderation, per-market content) where an AI assist would land as relief?
+
+#### News of the day
+
+- **Asia and MENA games market is set to reach $91.8 billion in 2026** (gaming & esports industry). Niko Partners projects 3.4% growth this year on the way to $103.6 billion by 2030. [Niko Partners](https://nikopartners.com/asia-mena-market-model-2026/)
+- **Valorant Masters London and VCT Stage 2 headline June** (live events & immersive). Riot's international circuit runs through London while regional Stage 2 plays out, part of a packed summer of appointment esports. [Outlook Respawn](https://respawn.outlookindia.com/esports/esports-guides/esports-events-calendar-2026-a-month-by-month-breakdown)
+- **NVIDIA ACE shifts toward autonomous in-game characters** (AI x gaming). NVIDIA's character-AI stack is now aimed at autonomous NPCs and in-game digital assistants, pushing the tech toward shippable. [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark)
+
+**Sources (Edition #4)**
+
+- How esports viewership is going global in 2026, via Esports Charts: https://escharts.com/news/how-esports-viewership-going-global-2026
+- eSports viewership statistics 2026, via DemandSage: https://www.demandsage.com/esports-statistics/
+- AI customer support for game studio live ops, via Fini Labs: https://www.usefini.com/guides/ai-customer-support-platforms-game-studio-live-ops
+- Asia & MENA market model 2026, via Niko Partners: https://nikopartners.com/asia-mena-market-model-2026/
+- Esports events roadmap 2026, via Outlook Respawn: https://respawn.outlookindia.com/esports/esports-guides/esports-events-calendar-2026-a-month-by-month-breakdown
 
 ---
 

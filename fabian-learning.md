@@ -1,8 +1,8 @@
 # Fabian's learning log
 
-Two new things a day, pulled from your inbox newsletters, your Substack reads, and the open web. Written like a sharp friend explaining it over coffee. Newest edition sits on top.
+Four short things a day, pulled from your Substack reads, books, inbox newsletters, and the open web. Written like a sharp friend explaining it over coffee. A 3 to 4 minute read. Newest edition sits on top.
 
-Topics rotate across four lanes: AI x gaming, gaming & esports industry, leadership & negotiation, live events & immersive. Each lesson comes with a plain-language explanation, a "why this matters for you / EF" line, and one question worth chewing on. Below the two lessons, three quick high-signal reads sit under News of the day.
+Topics rotate across four lanes: AI x gaming, gaming & esports industry, leadership & negotiation, live events & immersive. Each lesson comes with a plain-language explanation, a "why this matters for you / EF" line, and one question worth chewing on. Below the four lessons, three quick high-signal reads sit under News of the day.
 
 The job of this log: make you a little smarter every single day.
 
@@ -12,21 +12,35 @@ The job of this log: make you a little smarter every single day.
 
 ### 1. Where 60% of deal value quietly disappears (leadership & negotiation)
 
-A new Vantage Partners study (411 buy- and sell-side leaders, surveyed in 2025) puts a hard number on something you live every week: companies capture only 40% of the value available in a deal. They lose 38% at the table and another 22% after signing, during implementation. The gap between the best and worst negotiators is large, with the top quartile realizing roughly 3x the value of the bottom quartile.
+A Vantage Partners study (411 buy- and sell-side leaders, surveyed in 2025) found companies capture only 40% of the value available in a deal. They lose 38% at the table and another 22% after signing, during implementation, and the top quartile of negotiators realizes roughly 3x the value of the bottom quartile.
 
-The counterintuitive findings read like your own playbook. Top negotiators are more collaborative and concede less at the same time. Bottom performers are 1.5 to 2x more likely to swallow bad terms "for the sake of the relationship," and discounts do almost nothing for deal speed or retention while quietly eroding value. That is the evidence behind your "no money-grab contracts" rule and paying extra publisher value as services rather than price cuts.
+The findings read like your playbook. Top negotiators are more collaborative and concede less at the same time, while bottom performers swallow bad terms "for the sake of the relationship" and lean on discounts that do little for speed or retention. What separates the top quartile is infrastructure: playbooks, metrics that reward more than deal size, early cross-functional involvement. Your edge is perspective-taking, and the win is turning it into a system Morten and Jan can run.
 
-The part worth sitting with: what separates the top quartile is infrastructure. Playbooks and job aids, metrics that reward outcomes beyond deal size, early cross-functional involvement, partner segmentation, a negotiation center of excellence. Your personal edge is perspective-taking, and the study says the organizations that win turn that instinct into a repeatable system. That is the Games team redesign argument in one line.
-
-One question to chew on: which of your publisher negotiation moves still live only in your head, and what would it take to turn the best of them into a playbook Morten and Jan can run without you in the room?
+One question to chew on: which of your publisher negotiation moves still live only in your head, and what would it take to write them into a playbook?
 
 ### 2. EWC Paris runs for weeks, and that changes the job (live events & immersive)
 
-The Paris edition is built as a long-haul festival: 25 competitions at Paris Expo Porte de Versailles across a multi-week summer run, in a venue that also featured in Paris 2024. That is a different animal from a three-day finals. A weekend event peaks once. A multi-week event has to hold attention, staffing, production quality, and crowd energy as a new audience arrives each week for different titles.
+The Paris edition is a long-haul festival: 25 competitions at Paris Expo Porte de Versailles across a multi-week summer run, in halls that ran Paris 2024. A weekend final peaks once. A multi-week event has to hold attention, staffing, and crowd energy as a new audience arrives each week for a different title.
 
-Why this matters for you: the operational risk is fatigue, yours and the audience's. The opening hype is easy, a mid-run day on a smaller title is the real test. The co-streamer point matters here too, since a long event lives or dies on whether clips and creators keep the off-broadcast audience engaged through the quiet weeks as much as the marquee finals.
+Why this matters for you: the real risk is fatigue, yours and the audience's. Opening hype is easy, a mid-run day on a smaller title is the test. A long event lives on whether clips and creators keep the off-broadcast audience warm through the quiet weeks.
 
-One question to chew on: which stretch of the run is most likely to sag, and what is the one mechanic (creator push, cross-title storyline, in-venue moment) that keeps it alive?
+One question to chew on: which stretch of the run is most likely to sag, and what single mechanic (creator push, cross-title storyline, in-venue moment) keeps it alive?
+
+### 3. China built people before it built wealth (gaming & esports industry)
+
+David Oks has an essay on why China got rich and India didn't, and his answer is human capital. Both countries were equally poor in 1950. He sets aside the usual story that China simply reformed earlier and points to the decades before: China built a literate, healthy, mobile workforce (literacy rose from about 20% to nearly 70% by 1982, women entered the labor force), while India left its traditional social order intact and never matched the growth after it opened up in 1991.
+
+Why this matters for you: it is a lens for where esports audiences and talent actually compound. Smartphone penetration is the easy number; the durable bet is the human layer underneath, schooling, free time, women in the audience. India's 500-million-phone story and China's market lead read differently once you ask which one built the deeper base. It mirrors your own thesis: durable foundations beat one big moment.
+
+One question to chew on: for your growth-market bets, are you reading the headline user numbers, or the slower human-capital signals that decide which market pays off in 10 years?
+
+### 4. How an institution actually adopts AI (AI x gaming)
+
+Katrina Manson's book Project Maven tells how a small team put AI at the center of the US military, and how messy Silicon Valley's relationship with the Pentagon got along the way (Google staff revolted over the original program). The durable lesson is about adoption: a big institution changes when a few people ship something real and useful, then win the cultural fight that follows. The technology was the easy part.
+
+Why this matters for you: Ralf's AI-first push is the same shape, an institution adopting AI faster than its culture is ready for. Maven's pattern is start narrow, prove value on an unglamorous task, expect the friction, and bring people along instead of mandating from the top.
+
+One question to chew on: who is your small team for the AI-first push, and what is the one real, shippable thing they prove before you ask the whole Foundation to change?
 
 #### News of the day
 
@@ -38,6 +52,8 @@ One question to chew on: which stretch of the run is most likely to sag, and wha
 
 - Vantage Partners 2026 Customer-Supplier Negotiation Study (see KB file 22): https://www.vantagepartners.com/
 - Esports World Cup 2026 venue and competitions, via PR Newswire: https://www.prnewswire.com/news-releases/esports-world-cup-2026-venue-announced-paris-expo-porte-de-versailles-tickets-live-now-for-all-25-competitions-302787514.html
+- David Oks, "Why China got rich and India didn't": https://davidoks.blog/p/why-china-got-rich-and-india-didnt
+- Project Maven, by Katrina Manson (W.W. Norton, 2026); Economist review: https://www.economist.com/culture/2026/05/14/the-ai-that-transformed-american-warfare
 - How esports viewership is going global in 2026, via Esports Charts: https://escharts.com/news/how-esports-viewership-going-global-2026
 - Asia & MENA market model 2026, via Niko Partners: https://nikopartners.com/asia-mena-market-model-2026/
 
@@ -47,19 +63,35 @@ One question to chew on: which stretch of the run is most likely to sag, and wha
 
 ### 1. The 2026 Club Championship is now $30M, and the structure rewards durability (gaming & esports industry)
 
-The EF Club Partner Program's third edition runs at $20 million, with up to $1 million per club across 40 clubs, and the Club Championship prize pool rose from $27 million to $30 million, with a $7 million grand prize spread across the top 24. The qualification design is the interesting part: a club needs top-8 finishes in at least two competitions to reach the Championship, a first place in at least one to win it, and program membership grants no automatic tournament berth.
+The EF Club Partner Program's third edition runs at $20 million, up to $1 million per club across 40 clubs, and the Club Championship prize pool rose to $30 million, with a $7 million grand prize across the top 24. The design is the interesting part: a club needs top-8 finishes in at least two competitions to reach the Championship and a first place in at least one to win it, and membership grants no automatic berth.
 
-Why this matters for you: this is your multi-game-aggregation thesis written as rules. The structure pays clubs for breadth and consistency across titles, the durable cross-community model you argue beats single-star orgs. The regional split (9 European clubs, 6 Chinese, 5 North American, 4 Southeast Asian, 3 Brazilian, 2 Latin American) doubles as a quiet map of where the audience bet sits.
+Why this matters for you: this is your multi-game-aggregation thesis written as rules. It pays clubs for breadth and consistency across titles, the durable model you argue beats single-star orgs. The regional split (9 European, 6 Chinese, 5 North American, 4 Southeast Asian, 3 Brazilian, 2 Latin American) is a quiet map of the audience bet.
 
-One question to chew on: the no-automatic-berth rule keeps the program merit-based, and it also adds friction for big clubs. Where is that line worth holding, and where might it cost you a marquee name in Paris?
+One question to chew on: the no-automatic-berth rule keeps it merit-based and adds friction for big clubs. Where is that line worth holding, and where might it cost you a marquee name in Paris?
 
 ### 2. AI that generates the game itself is leaving the lab (AI x gaming)
 
-Beyond assistants and editor plug-ins, a harder frontier is moving: models that generate playable content. Microsoft's Muse model can generate game visuals and controller actions, in effect predicting and producing gameplay, and Google has been packaging models and samples aimed specifically at game developers. This is a different order of capability from autocompleting code or triaging a crash queue, and it points toward generated levels, behaviors, and eventually playable moments.
+A harder AI frontier is moving from lab to pipeline: models that generate playable content. Microsoft's Muse model can produce game visuals and controller actions, in effect predicting gameplay, and Google is packaging models and samples aimed at game developers. This is a different order of capability from autocompleting code, and it points toward generated levels, behaviors, and eventually playable moments.
 
-Why this matters for you: this is the capability most likely to test the player-trust line from a few days ago. Generated gameplay is powerful and the most likely to trip the "AI is doing the part I am proud of" reaction. For EF, the safe near-term use is internal, rapid prototyping of fan experiences and mockups for Paris activations, with public-facing uses needing the same visible human check studios are adopting.
+Why this matters for you: generated gameplay is the capability most likely to trip the "AI is doing the part I'm proud of" reaction. For EF the safe near-term use is internal, fast prototyping of fan experiences and Paris mockups, with anything public-facing carrying the visible human check studios are adopting.
 
-One question to chew on: where could generated content speed up EF's own prototyping (Paris activations, fan apps) without ever shipping as the visible product?
+One question to chew on: where could generated content speed up EF's own prototyping without ever shipping as the visible product?
+
+### 3. Harry Reid ran the Senate by counting votes first (leadership & negotiation)
+
+Jon Ralston's biography of Harry Reid, The Game Changer, is a study in a quieter kind of power. Reid ran the US Senate for years on counting: he knew where every vote sat before he moved, traded in favors and relationships, and rarely called a question he had not already won. The book argues he was one of the most consequential operators of the century, mostly off-stage.
+
+Why this matters for you: it is the work behind your "change the field" instinct. The deal gets made before the meeting, in knowing each stakeholder's real position and lining up the yes in private. With publishers and the committee above you, the counting and the relationship banking decide the room long before the room meets.
+
+One question to chew on: for your next hard publisher or committee ask, do you already know where every vote sits, or would you be walking in to find out?
+
+### 4. The Sphere is about to host a prizefight, and the lesson is distribution (live events & immersive)
+
+The Sphere in Las Vegas (17,600 seats, a 16K wraparound screen, beamforming audio) hosts its first professional boxing match in September 2026, a Mayweather and Pacquiao rematch, and it goes out globally on Netflix with no separate pay-per-view charge. The most over-engineered room in entertainment paired with the widest free pipe available.
+
+Why this matters for you: it is your Paris question in someone else's building. Spend on the room to manufacture the moment, then push that moment through the broadest free channel so the 18,000 in seats become the millions at home. The room is the content factory, the pipe is the business, and that is the co-streamer point in physical form.
+
+One question to chew on: which single Paris moment is built to travel as a free clip to people who will never buy a ticket, and is the production money pointed at that moment or at the room?
 
 #### News of the day
 
@@ -72,6 +104,8 @@ One question to chew on: where could generated content speed up EF's own prototy
 - The EF Club Partner Program 2026, via Esports World Cup: https://esportsworldcup.com/en/news/the-esports-foundation-club-partner-program-2026-is-here
 - EWC 2026 key info and Club Championship, via Esports Charts: https://escharts.com/news/esports-world-cup-2026-key-info
 - AI in gaming, NPCs, tools and apps 2026, via Enos Technologies: https://www.enostech.com/ai-in-gaming-and-technology-in-2026-npcs-tools-and-apps/
+- The Game Changer, by Jon Ralston (Simon & Schuster, 2026); Economist review: https://www.economist.com/culture/2026/01/29/do-democrats-need-another-centrist-old-white-man
+- Mayweather vs Pacquiao II set for the Sphere, via DAZN: https://www.dazn.com/en-US/news/boxing/floyd-mayweather-jr-manny-pacquiao-2-las-vegas-sphere-return/q75x0lfx6i0s1seh3j8zdwvmx
 - 2026 live ops trends, via Pocket Gamer: https://www.pocketgamer.biz/2026-live-ops-trends-templatisation-personalisation-and-ai/
 
 ---
@@ -80,19 +114,35 @@ One question to chew on: where could generated content speed up EF's own prototy
 
 ### 1. The app-store tax is loosening, and Asian players are leading it (gaming & esports industry)
 
-A structural shift runs under Asia's mobile market: players are moving spend outside the app store. In Southeast Asia, out-of-app payments climbed from 21% to 38% of mobile revenue between 2022 and 2024, and across 13 tracked markets more than 30% of players now prefer to transact outside the game itself. Niko Partners flags this among the defining 2026 dynamics, alongside a regional market headed toward $103.6 billion by 2030.
+A structural shift runs under Asia's mobile market: players are moving spend outside the app store. In Southeast Asia, out-of-app payments climbed from 21% to 38% of mobile revenue between 2022 and 2024, and across 13 tracked markets more than 30% of players now prefer to transact outside the game itself. Niko Partners flags this as a defining 2026 dynamic.
 
-Why this matters for EF: this is the same force as the post-Apple direct-payment item from edition one, showing up first and hardest in your growth markets. Publishers that keep more of each dollar have more to reinvest, which strengthens the case for putting marketing money behind EWC and ENC. Healthier publisher unit economics make your platform-partner pitch easier.
+Why this matters for EF: this is the post-Apple direct-payment shift showing up first in your growth markets. Publishers that keep more of each dollar have more to reinvest, which strengthens the case for marketing money behind EWC and ENC and makes your platform-partner pitch easier.
 
-One question to chew on: for your KSA and Asia-facing publisher talks, does a publisher keeping more revenue per player make your rev-share and marketing-services asks easier to land, or does it raise their walk-away power?
+One question to chew on: when a publisher keeps more revenue per player, does that make your rev-share and marketing-services asks easier to land, or does it raise their walk-away power?
 
 ### 2. AI in games is moving on-device and into the editor (AI x gaming)
 
-The AI tooling layer took concrete steps. Google shipped an open-source plugin that drops its Gemma 3 model into Unity to run on-device, so a game can use a language model without a server round-trip, and Unity added an in-editor AI assistant for project workflows. The direction is AI moving from cloud demo into the daily build pipeline, cheaper and more private.
+The AI tooling layer took concrete steps toward on-device. Google shipped an open-source plugin that drops its Gemma 3 model into Unity to run locally, so a game can use a language model without a server round-trip, and Unity added an in-editor AI assistant. AI is moving from cloud demo into the daily build, cheaper and more private.
 
-Why this matters for you: on-device AI changes the cost and privacy math for any EWC or ENC fan product you might build, a companion app, a smart second screen, a per-language assistant. The capability is becoming cheap and local, which moves the question to what fan experience is finally worth building once the model runs on the phone in someone's hand.
+Why this matters for you: on-device AI changes the cost and privacy math for any EWC or ENC fan product, a companion app, a smart second screen, a per-language assistant. Once the model runs on the phone in someone's hand, the question becomes which fan experience is finally worth building.
 
-One question to chew on: if an on-device assistant is nearly free to run, what is the single EWC fan experience worth prototyping for Paris that needs it?
+One question to chew on: if an on-device assistant is nearly free to run, what single EWC fan experience is worth prototyping for Paris?
+
+### 3. Musk is the new template, the way Ford once was (leadership & negotiation)
+
+Quinn Slobodian and Ben Tarnoff's book Muskism argues that Elon Musk is doing for 21st-century capitalism what Henry Ford did for the 20th: setting an operating model others copy. Where Fordism meant the assembly line and the $5 day, Muskism is relentless pace, vertical control, first-principles teardowns, and a founder who treats every constraint as negotiable. Whatever you make of the man, the model is spreading.
+
+Why this matters for you: the gaming industry's biggest owners now run on founder-style, high-conviction capital, including the fund behind the Foundation. Reading that model, its speed, its appetite for risk, its impatience with process, helps you predict how owner-led counterparts behave in a negotiation.
+
+One question to chew on: where does founder-style impatience help your asks land faster, and where does it put EF's durability bet at odds with a partner who wants the result this quarter?
+
+### 4. When game IP goes IRL (live events & immersive)
+
+McKinsey has a piece on "when IP goes IRL," the move to turn entertainment franchises into physical, location-based experiences. The space is growing fast (one estimate puts location-based entertainment compounding around 30% a year), and 2026 brings a wave of openings, including Netflix House in Las Vegas and new Cosm venues. The bet is that audiences pay for things they cannot get at home.
+
+Why this matters for you: EWC already does a version of this with game-universe themed zones. The sharper brief is to treat the venue as an extension of each game's world, a place fans step into, with the publisher as a co-investor protecting and extending their IP.
+
+One question to chew on: which game world at EWC Paris is worth building as a physical place fans walk into, and which publisher would co-fund it?
 
 #### News of the day
 
@@ -102,9 +152,10 @@ One question to chew on: if an on-device assistant is nearly free to run, what i
 
 **Sources (Edition #6)**
 
-- Asia & MENA market model 2026, via Niko Partners: https://nikopartners.com/asia-mena-market-model-2026/
 - Niko Partners 2026 predictions, via Niko Partners: https://nikopartners.com/niko-partners-2026-predictions/
 - Google AI for game developers, via Google Developers Blog: https://developers.googleblog.com/google-ai-for-game-developers/
+- Muskism, by Quinn Slobodian and Ben Tarnoff (Harper, 2026); Economist review: https://www.economist.com/culture/2026/05/07/what-is-elon-musks-formula
+- When IP goes IRL, standing out with location-based entertainment, via McKinsey: https://www.mckinsey.com/industries/travel/our-insights/when-ip-goes-irl-standing-out-with-location-based-entertainment
 - Esports events roadmap 2026, via Outlook Respawn: https://respawn.outlookindia.com/esports/esports-guides/esports-events-calendar-2026-a-month-by-month-breakdown
 
 ---

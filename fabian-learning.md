@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-09 (Edition #9)
+
+### 1. Why AI game characters still talk too slow (AI x gaming)
+
+A cloud model that writes a 2 to 3 sentence reply for a game character needs roughly 0.8 to 2.5 seconds to answer, and in a live scene that pause is long enough to snap a player out of the moment. That latency is why the 2026 push is to run smaller models on the device itself, Qualcomm shipped a Snapdragon Game AI SDK at GDC built for exactly this (verify the latency range against a primary benchmark before quoting it, the figure comes from a trade write-up).
+
+For you the lesson sits one level up. The flashy demo, a character that improvises on the fly, hits the same nerve as "AI is doing the part I'm proud of." The quiet, useful version is internal: faster prototyping of fan moments and Paris mockups, where a 2 second lag costs nothing.
+
+One question to chew on: where in EF's workflow is a 2 second AI lag irrelevant, and where would it kill the magic?
+
+### 2. Esports grew up, and that is the story now (gaming & esports industry)
+
+D Magazine ran a long piece (D CEO, May 2026) tracing the arc most of the industry lived through: a boom of venture money, a hard correction, and a slower rebuild on businesses that actually earn. The reset framing is the useful part. The money chasing hype left, and the operators stayed.
+
+This is the climate EF builds in. A sovereign-funded, 5 to 10 year horizon fits the rebuild phase, when patient capital is rare and the field has thinned out. The risk is reading the quiet as weakness.
+
+One question to chew on: if the hype cycle has burned off, which of EF's bets look stronger in a calmer market, and which only made sense at the peak?
+
+### 3. The core-competency question Nadella keeps asking (leadership & negotiation)
+
+In a June 4 Stratechery interview, the one Ralf forwarded, Satya Nadella kept circling a single question: what does Microsoft have to be world-class at itself, and what can it rent from a partner. He keeps OpenAI as a premier partner through 2032 and at the same time builds Microsoft's own models, so the company is never fully dependent on someone else's frontier.
+
+Same question for EF. The live spectacle, the brand you own across years, the power to convene clubs and nations, that is the part no publisher or AI vendor can hand you. Most of the rest can run as a partnership.
+
+One question to chew on: what are the 2 or 3 things EF has to own outright, and what are you building in-house right now that you could rent instead?
+
+### 4. The Sphere is learning to shrink (live events & immersive)
+
+Sphere Entertainment is planning a 6,000-seat version at National Harbor near Washington, a fraction of the 17,600-seat Las Vegas room, with the same 16K wraparound screen and haptic seating, targeted to open around 2030 (talks for a larger build in Tokyo are also moving, both announced earlier in 2026, worth tracking as the plans firm up). The Vegas room topped Billboard's and Pollstar's 2025 grossing lists, so the format earns. The move that matters is making it repeatable at different sizes.
+
+For Paris and beyond, the lesson is to design a format that travels. A signature moment that lives in one hall is a cost. A format you can resize for a new city is an asset.
+
+One question to chew on: which parts of the EWC live format are portable to any venue, and which are locked to one specific room?
+
+#### News of the day
+
+- **Global Esports Industry Week heads to Cologne, June 18 to 21** (gaming & esports industry). Over 400 executives gather alongside the IEM Cologne Counter-Strike Major, with sessions from EA, Discord and others on where the business goes next. [Dot Esports](https://dotesports.com/general/news/global-esports-industry-week-2026-heads-to-cologne-with-major-agenda-revealed)
+- **Valve sets The International 2026 for Shanghai** (gaming & esports industry). The 7 direct invites are confirmed and regional qualifiers run June 15 to 28 ahead of Dota 2's flagship event returning to China. [Esports News UK](https://esports-news.co.uk/2026/05/26/the-international-2026-direct-invites-revealed-tundra-esports-and-ari-invited/)
+- **The co-streaming debate gets formal** (gaming & esports industry). Esports Insider ran a debate on whether creator watch-party numbers should count toward official tournament viewership, a live question as Riot builds co-streaming booths into its 2026 events. [Esports Insider](https://esportsinsider.com/2026/06/co-streaming-counts-tournament-viewership-debate)
+
+**Sources (Edition #9)**
+
+- AI video games 2026, LLM NPCs and on-device latency, via SolidAITech: https://www.solidaitech.com/2026/06/ai-video-games.html
+- Snapdragon Game AI SDK launch, on-device AI in gaming, via Qualcomm: https://www.qualcomm.com/developer/blog/2026/03/snapdragon-game-ai-sdk-launch-on-device-ai-in-gaming
+- The rise, fall, and reset of esports, via D Magazine (D CEO): https://www.dmagazine.com/publications/d-ceo/2026/may/the-rise-fall-of-esports/
+- An interview with Microsoft CEO Satya Nadella about finding core competencies, via Stratechery: https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/
+- Sphere at National Harbor, smaller-scale venue intent, via Sphere Entertainment: https://www.sphereentertainmentco.com/sphere-entertainment-the-state-of-maryland-prince-georges-county-and-peterson-companies-announce-intent-to-develop-a-sphere-at-national-harbor/
+- Mini version of Las Vegas Sphere planned for National Harbor, via Bisnow: https://www.bisnow.com/washington-dc/news/economic-development/mini-version-of-las-vegas-sphere-planned-national-harbor-132795
+
+---
+
 ## 2026-06-08 (Edition #8)
 
 ### 1. Where 60% of deal value quietly disappears (leadership & negotiation)

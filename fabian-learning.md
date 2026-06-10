@@ -8,6 +8,58 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-10 (Edition #10)
+
+### 1. World models hint at a new kind of game (AI x gaming)
+
+a16z's Big Ideas 2026 makes a bet worth knowing. World models, AI systems that generate a playable, explorable world straight from a prompt, could open a new category of games. Picture a horror level or a fantasy realm spun up on the fly, different every time you enter. a16z frames this as a new creative medium taking shape. (It's a thesis about where things head, not a shipped product, so treat it as a direction to watch.)
+
+For EF the signal sits in how players spend attention. If a slice of them drifts toward generated, solo or small-group worlds, the value of a shared live moment shifts. Your bet runs the other way: one match, thousands of people watching at once. Worth knowing what it competes with.
+
+One question to chew on: if generated worlds give players endless private play, what keeps a shared live final worth showing up for?
+
+### 2. The memory shortage is the cost story of 2026 (gaming & esports industry)
+
+Analyst Matthew Ball has been sounding the alarm on what he calls the DRAM crisis. DRAM is the memory inside consoles, phones, and PCs, and prices have jumped because AI data centers are buying it in bulk. When memory gets expensive, the bill of materials for every console rises, and that pressure lands on hardware makers and the players who buy in.
+
+For EF this is a base-layer risk. Esports audiences sit on top of an install base, and pricier hardware slows how fast that base grows, especially in the price-sensitive markets you watch for the long run. It also squeezes publisher margins, which shapes how much they put into events.
+
+One question to chew on: if hardware stays expensive for 2 to 3 years, which EWC titles are most exposed in your growth markets?
+
+### 3. Harry Reid won hard fights by changing what people fought over (leadership & negotiation)
+
+Jon Ralston's 2026 biography of Senator Harry Reid describes a dealmaker who was unhurried, deliberate, and persuasive, and openly aware he would bend his own preferences to get something lasting done. His Nevada water compact, settling bitter rival claims over scarce water, still holds decades later.
+
+The move that travels: he reshaped the thing people were fighting over instead of trading concessions line by line. That mirrors your Riot case, where you changed the playing field rather than haggling point by point. Perspective-taking plus patience, then a structure both sides can live with for years.
+
+One question to chew on: in your next hard publisher deal, what single structural change would make line-by-line haggling pointless?
+
+### 4. Cosm opens its third dome, and shared reality goes wide (live events & immersive)
+
+Cosm opened its third venue in Atlanta today, after Los Angeles and Dallas. It's an 87-foot, 12K LED dome the company calls "shared reality," built to wrap a live feed around a room full of people. The first public event is Game 4 of the NBA Finals, with UFC, the College World Series, and Cirque du Soleil productions lined up behind it.
+
+For EF this is the off-broadcast audience made physical. About half of EWC viewership already comes from co-streamers and channels outside the arena (your own 45 to 55% range). A shared-reality room is a third place between the arena and the phone, and a Paris final piped into a dome in Riyadh or Shanghai could turn a remote crowd into a live one.
+
+One question to chew on: would a shared-reality venue in a key market do more for an EWC final than a bigger hall in Paris?
+
+#### News of the day
+
+- **The Game Business Live brought the industry to Los Angeles** (gaming & esports industry). Christopher Dring and Geoff Keighley's June 8 event put EA's Laura Miele and Naughty Dog's Jason Rubin on stage during Summer Game Fest week. [VGC](https://www.videogameschronicle.com/news/speakers-announced-for-summer-game-fests-the-game-business-live-event/)
+- **Microsoft launched 7 in-house AI models at Build** (AI x gaming). On June 2 it unveiled its MAI models to cut developer costs and lean less on OpenAI, the core-competency move Nadella has been describing. [CNBC](https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html)
+- **LPL signed BYD as its automotive partner** (gaming & esports industry). On June 5 China's top League of Legends league replaced Mercedes-Benz with carmaker BYD, taking its sponsor roster to 8. [Hotspawn](https://www.hotspawn.com/league-of-legends/news/lpl-byd-new-official-partner)
+
+**Sources (Edition #10)**
+
+- a16z, Big Ideas 2026 (world models as a new category of games): https://www.a16z.news/p/big-ideas-2026-part-1
+- "I'm pretty frightened by the DRAM crisis," Matthew Ball, via The Game Business: https://www.thegamebusiness.com/p/im-pretty-frightened-by-the-dram
+- Jon Ralston, The Game Changer: How Harry Reid Remade the Rules (Simon & Schuster, 2026); review via Los Angeles Review of Books: https://lareviewofbooks.org/article/harry-reid-democratic-party-nevada-senator-jon-ralston/
+- Cosm opens its Atlanta venue June 10, via 11Alive: https://www.11alive.com/article/news/entertainment-news/cosm-atlanta-opening-date-centennial-yards/85-fe6b7f66-bc2c-44c6-9082-e81dbc38c2d8
+- The Game Business Live speakers, via VGC: https://www.videogameschronicle.com/news/speakers-announced-for-summer-game-fests-the-game-business-live-event/
+- Microsoft MAI models at Build, via CNBC: https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html
+- LPL signs BYD, via Hotspawn: https://www.hotspawn.com/league-of-legends/news/lpl-byd-new-official-partner
+
+---
+
 ## 2026-06-09 (Edition #9)
 
 ### 1. Why AI game characters still talk too slow (AI x gaming)

@@ -8,6 +8,58 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-11 (Edition #11)
+
+### 1. Most game developers now call generative AI harmful (AI x gaming)
+
+GDC's 2026 State of the Game Industry survey (more than 2,300 professionals) found 52% think generative AI is having a negative impact on the industry, up from 30% a year earlier and 18% the year before. Only 7% see a positive impact, down from 13%. The hardest views sit in the crafts: visual and technical art at 64%, design and narrative at 63%, programming at 59%.
+
+For EF the signal is about trust, and how fast it moved (18 to 52 in two years). Ralf's AI-first push runs into the same feeling studios are living now, just pointed inward. The Culture Code read: adoption survives on safety and purpose, repeated often. The teams keeping people onside use AI on the dull parts and keep a visible human hand on the craft.
+
+One question to chew on: as EF leans into AI-first, which tasks can you hand to AI without touching the work your team takes pride in?
+
+### 2. Bungie is putting Destiny 2 to rest (gaming & esports industry)
+
+On June 9 Bungie shipped Destiny 2's last major content update, "The Moment of Triumph," ending nearly 10 years of seasonal expansions, with servers staying online. Reporting (Bloomberg's Jason Schreier) says a significant round of layoffs follows, with much of the team having no next project lined up, while the studio pushes Marathon and pitches new ideas to Sony. The finale lands after a reported $764 million impairment tied to the franchise (treat that number as reported, worth checking against a primary filing).
+
+For EF the lesson is hard. A loved live game with a huge install base can still get wound down when the economics stop working, and the publisher makes that call. Your portfolio rule is the same logic from the other side: a title holds its EWC slot on game size, ecosystem health, and publisher support. When a publisher pulls back, the competitive life of a game shortens fast, whatever its fans want.
+
+One question to chew on: which EWC title is most exposed to a publisher quietly deciding the live game has run its course, and would you see it coming early enough to react?
+
+### 3. How Asia forced its companies to get good (leadership & negotiation)
+
+Joe Studwell's How Asia Works argues the winners (Japan, South Korea, Taiwan, China) did one thing the laggards skipped: export discipline. Governments backed chosen industries, then forced them to sell on world markets where a protected home market could not hide weakness. Firms that could not compete abroad lost the support and got culled. Subsidy paired with a hard external test.
+
+For EF this is your portfolio rule in economic-policy clothes. EF cannot carry an ecosystem alone, so a game earns its slot on real KPIs and publisher investment, and "better to remove the game" is the cull. Studwell sharpens the test: back a title, then hold it to a contest it cannot game, measurable audience and publisher commitment rather than promises.
+
+One question to chew on: for your 2-star and 1-star titles, what is the hard external test each one has to pass, and are you actually enforcing the cull?
+
+### 4. ABBA's avatars sell out a custom arena every week (live events & immersive)
+
+ABBA Voyage runs 7 shows a week in a purpose-built 3,000-seat London arena, with the band performing as motion-captured digital "ABBAtars" built by Industrial Light & Magic, the real members never on stage. It took close to 6 years and heavy visual-effects work to build, and producers are now planning a New York version (reported around £52 million). Because the performers are digital, the show can run nightly, in more than one city, with the act never aging or tiring.
+
+For EF this is talent as persistent IP, a live draw that does not depend on a person showing up. For the EWC opening ceremony (Christian Baur's track) and the festival, it points at signature moments built once and re-staged, and at digital performers a publisher's game universe could own. The build cost is steep and the format repeats, which is the trade you keep weighing for Paris.
+
+One question to chew on: which EWC moment is worth engineering once as a re-stageable, partly-virtual set piece rather than a one-night build?
+
+#### News of the day
+
+- **Xbox is planning major layoffs, possibly a studio closure, after its June 30 results** (gaming & esports industry). Reports point to cuts in the thousands plus budget trims, landing just after Microsoft's fiscal results, more pressure on the publishers whose investment EWC titles depend on. [Push Square](https://www.pushsquare.com/news/2026/06/xbox-planning-major-layoffs-next-month-could-involve-a-studio-closure)
+- **InfoComm 2026 puts live events and fan engagement at the center in Las Vegas** (live events & immersive). North America's largest pro-AV show runs exhibits June 17 to 19, with stage lighting, spatial audio, and stadium fan-engagement systems on the floor. [FOH Online](https://fohonline.com/newsroom/news/infocomm-2026-to-spotlight-the-future-of-live-events-and-more/)
+- **Esports World Cup opens Last Chance Qualifiers across 8 titles for Paris** (gaming & esports industry). The open qualifiers run in Paris from July 5, with 37 solo and 6 Club spots into the main event, a wide funnel into the summer. [Shane the Gamer](https://www.shanethegamer.com/esports-news/esports-world-cup-2026-lcq-registration-open/)
+
+**Sources (Edition #11)**
+
+- GDC 2026 State of the Game Industry, generative AI sentiment: https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/
+- One third of game workers use genAI, but half think it's bad, via Game Developer: https://www.gamedeveloper.com/business/one-third-of-game-workers-use-generative-ai-but-half-think-it-s-bad-for-the-industry
+- What's next for Bungie, end of Destiny 2 updates and layoffs, via GeekWire: https://www.geekwire.com/2026/whats-next-for-bungie-rumored-layoffs-focus-on-marathon-and-the-end-of-destiny-2/
+- Destiny 2's finale follows $764M in impairment losses, via Notebookcheck: https://www.notebookcheck.net/Destiny-2-s-finale-follows-764M-in-impairment-losses-amid-Bungie-layoffs.1305259.0.html
+- Joe Studwell, How Asia Works (export discipline), via Grove Atlantic: https://groveatlantic.com/book/how-asia-works/
+- ABBA Voyage producers on the format and New York plans, via Music Week: https://www.musicweek.com/live/read/abba-voyage-producers-the-possibilities-were-always-there-but-perhaps-it-took-us-to-venture-ahead/093127
+- ABBA Voyage, building the show and the ABBAtars, via blooloop: https://blooloop.com/technology/in-depth/abba-voyage/
+
+---
+
 ## 2026-06-10 (Edition #10)
 
 ### 1. World models hint at a new kind of game (AI x gaming)

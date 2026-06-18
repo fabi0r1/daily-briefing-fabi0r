@@ -8,6 +8,109 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-18 (Edition #13)
+
+### 1. FIFA built its world cup on a game it does not own (gaming & esports industry)
+
+FIFA runs its FIFAe World Cup on Rocket League this year, working with Psyonix after the split with EA. Rocket League Season 23, live since June 10, is themed entirely on the FIFA World Cup 2026, with national liveries for England, Brazil, France, and Saudi Arabia. The body that owns the most valuable name in sport now rents a game it does not control to put nations on a screen.
+
+This is the publisher-relationship question seen from the other chair. FIFA holds the audience and the nations, Psyonix holds the game, so the power sits with whoever can walk away. ENC runs on the same shape: national teams competing in titles publishers own. Worth studying how FIFA structures a deal when the IP is not theirs.
+
+One question to chew on: in ENC, which side holds more power on each title, the nations you convene or the publisher who owns the game, and where are you the FIFA in that picture?
+
+### 2. Capcom drew a clear line on where AI belongs (AI x gaming)
+
+At Google Cloud Next, Capcom's VP of Development and AI Solutions, Shinichi Inoue, set out where the company uses generative AI: debugging, QA, and testing, the expensive steps that carry no human authorship. Art stays with people. His reason, in his words, is that "even top-tier AI still cannot match our creators when it comes to sensibility." (Reported by Tommy Thompson's AI and Games, quote via 4Gamer.)
+
+For EF, Ralf's AI-first push needs the same clarity Capcom just gave its people. Naming where AI helps and where human judgment leads is the safety and purpose part of the Culture Code, and it is what keeps a team onside while the tools shift under them. Capcom put AI on the costly, low-authorship work and kept its artists on the part players actually pay for.
+
+One question to chew on: for the AI-first push, where is your line between the work AI speeds up and the work that needs a human hand, and have you said it out loud to the team?
+
+### 3. Debt moves in a 75-year rhythm, and sovereigns are not exempt (leadership & negotiation)
+
+Ray Dalio's How Countries Go Broke lays out what he calls the Big Debt Cycle. Around 10 short debt cycles (borrow, boom, correct) stack up over 75 to 100 years into one long cycle, each peak a little higher than the last, until debt outgrows what income and assets can carry. At the end a country either defaults or prints money and devalues, and whoever holds that debt loses. (Dalio's framework, free summary on economicprinciples.org.)
+
+For EF the lens is useful precisely because the money feels patient. Sovereign capital still sits somewhere on a cycle, and the durability bet (5 to 10 years) only pays if the funding base holds through the down leg. Reading where your backer sits in that rhythm is part of the job, not a finance-team footnote.
+
+One question to chew on: if funding tightened for 2 years, which EF commitments are genuinely fixed, and which would you want the freedom to resize?
+
+### 4. VivaTech runs in your Paris halls first (live events & immersive)
+
+VivaTech runs June 17 to 20 at Paris Expo Porte de Versailles, the same halls EWC takes over this summer. For its 10th edition it added a 3-floor Hall 7 (about 40% more space), expects more than 180,000 attendees from 170+ countries, and adds a public Festival day plus a free open-air tech experience on the Champs-Elysees. One building, two crowds: a B2B trade show on weekdays, a public festival to close.
+
+For EF this is a live proof of the model Francois is building for Paris, premium B2B by day with public spectacle on top, in the exact venue you will run. It also shows the halls can move 180k people in 4 days, a real benchmark to size against a 7-week run.
+
+One question to chew on: which parts of VivaTech's weekday-B2B and weekend-public split would you copy for EWC Paris, and which would you run differently?
+
+#### News of the day
+
+- **Google's Genie 3 world model goes on sale and rattles game investors** (AI x gaming). Google opened Genie 3, an AI that generates interactive worlds from a prompt, at $250 a month inside its AI Ultra tier, and game-company stocks wobbled on the news. [PC Gamer](https://www.pcgamer.com/software/ai/google-project-genie-prototype-launch/)
+- **MSI 2026 heads to Daejeon, June 28 to July 12** (gaming & esports industry). League of Legends' Mid-Season Invitational runs at Daejeon Convention Center II with 11 teams, the mid-year peak before Worlds. [LoL Esports](https://lolesports.com/en-US/news/msi-2026-primer)
+- **Kenny Chesney opens a Sphere residency on June 19** (live events & immersive). The Las Vegas run (June 19 to July 11) leans on 360-degree visuals and in-seat haptics, more evidence the immersive-venue format keeps booking acts. [Billboard](https://www.billboard.com/culture/product-recommendations/las-vegas-sphere-residencies-concerts-1235921455/)
+
+**Sources (Edition #13)**
+
+- Following split with EA, FIFA targets Rocket League for the FIFAe World Cup, via Gamereactor: https://www.gamereactor.eu/following-split-with-ea-fifa-targets-rocket-league-for-fifae-world-cup-1403883/
+- Rocket League and FIFA 2026 World Cup partnership, Season 23 starts June 10, via VPEsports: https://vpesports.com/featured-news/rocket-league-fifa-official-2026-world-cup-partnership
+- Capcom Lays Out Their AI Philosophy, via AI and Games (Tommy Thompson): https://www.aiandgames.com/p/capcom-lays-out-their-ai-philosophy
+- Capcom: AI not for creating art, original interview via 4Gamer: https://www.4gamer.net/games/991/G999101/20260519017/
+- Ray Dalio, How Countries Go Broke: The Big Cycle, free summary via Economic Principles: https://economicprinciples.org/downloads/How-Countries-Go-Broke.pdf
+- VivaTech 2026 scale, Hall 7 and speakers, via Trending Topics: https://www.trendingtopics.eu/vivatech-2026-jeff-bezos-emmanuel-macron-and-peter-steinberger-headline-pariss-biggest-tech-stage/
+- VivaTech 2026 press materials (Festival, Champs-Elysees), via VivaTech: https://vivatech.com/media/press-releases
+
+---
+
+## 2026-06-12 (Edition #12)
+
+### 1. A deepfake law is about to catch video games in its net (AI x gaming)
+
+The US Senate is moving on the NO FAKES Act, a bipartisan bill against AI voice and likeness cloning, reintroduced in May and reviewed by the Judiciary Committee on June 11. The ESA wrote to Senators on June 9 with a blunt warning: the draft's definition of "digital replica" makes no distinction between a malicious deepfake and the digital humans games have always built. Anyone who happens to resemble a character could sue, and the ESA argues the industry would win those cases and still bleed out on litigation cost.
+
+For EF this lands closer than it looks. Your events generate player likenesses at industrial scale: broadcast graphics, clips and replays, AI-assisted content, and any future digital double of a star player. Once consent-based likeness law exists in one major market, it travels into publisher contracts and player agreements everywhere.
+
+One question to chew on: do your EWC and ENC player agreements already cover AI replicas of a player's face and voice, and who holds that consent today?
+
+### 2. Ubisoft's sixth cut of the year lands on Rainbow Six (gaming & esports industry)
+
+Ubisoft ran its sixth restructuring round of 2026 on June 10: the Winnipeg studio closed (about 65 people), Belgrade shut down, 51 roles went in Barcelona, and reporting puts around 170 developers coming off Rainbow Six work in Montréal. Up to 380 roles this round, roughly 680 this year, with the numbers still pending consultation, so treat them as reported rather than final. Rainbow Six Mobile is left without a dedicated core team months after its global launch.
+
+R6 sits in your EWC lineup, and you asked Ralf two weeks ago to move it to a bigger stage. A publisher cutting the teams around a franchise while that franchise sits in your portfolio is your third criterion (publisher support) flashing amber. It also changes the conversation with Yves and Charlie: a partner mid-restructuring values cash certainty and marketing reach differently than a stable one.
+
+One question to chew on: what early, checkable signal would tell you whether Siege's competitive investment survives Ubisoft's restructuring into 2027?
+
+### 3. A family trust decided the Murdoch empire (leadership & negotiation)
+
+Gabriel Sherman's Bonfire of the Murdochs, built on more than 150 interviews, tells the fight for the world's most powerful media dynasty. The striking part is where the war was actually decided: in the family trust set up decades earlier. Who held the votes in that one structure outweighed every ratings win and every deal, and the endgame played out as a courtroom fight over the trust's terms. One reviewer called the book a brilliant guide to how not to love your children.
+
+You're building a brand designed to outlive every person currently running it. The Murdoch lesson is that the control architecture, written early and rarely reread, decides the long game more than any season's results. It also applies across the table: with family-controlled publishers (the Guillemots at Ubisoft, for one), the org chart tells you less than the ownership structure behind it.
+
+One question to chew on: which documents actually decide who controls the EWC brand in 2035, and when did you last read them?
+
+### 4. Hotels built a 6-week business on someone else's World Cup (live events & immersive)
+
+The FIFA World Cup kicked off June 11, and the sharpest read this week is what's happening outside the stadiums. Four Seasons Philadelphia turned its 59th floor into The Match Room, a sports lounge running the length of the group stage (June 11 to July 19). Marriott is converting hotels in host cities into fan hubs with giant screens and supporter events, and Circa in Las Vegas airs every match across its sportsbook and pool complex with tournament packages on top.
+
+A stadium sells its seats once. The hospitality layer monetizes the event everywhere else, for the full run, and it forms on its own whether the rights holder shapes it or not. EWC Paris runs 7 weeks with the same shape, and the B2B push Francois is building could carry exactly this: sanctioned watch venues, hotel packages, premium rooms for partners who never buy a Porte de Versailles ticket.
+
+One question to chew on: which 3 Paris hotels or venues would you hand a sanctioned EWC watch-party kit before week 1?
+
+#### News of the day
+
+- **Tundra Esports walked away from competition entirely** (gaming & esports industry). The TI-winning org released its full Dota 2 roster to 1win on June 1 and now fields no players in any title, turning itself into a content company instead. [esports.gg](https://esports.gg/news/tundra-esports-pivots-to-content-creation-hub-after-releasing-dota-2-roster/)
+- **Early June set records for game reveal broadcasts** (gaming & esports industry). Streams Charts tracked the run of shows around Summer Game Fest (June 1 to 8) as a record-breaking month for the format. [Streams Charts](https://streamscharts.com/news/june-2026-becomes-record-breaking-month-gaming-showcases)
+- **Dot Esports frames your creator program as a "$2M playground" for co-streamers** (gaming & esports industry). Coverage of the June 11 launch leads with the reward pool and the plan to grow to around 5,000 creators, a useful read on how the program lands externally. [Dot Esports](https://dotesports.com/general/news/esports-foundation-2-million-costreamer-program-ewc-enc-2026)
+
+**Sources (Edition #12)**
+
+- ESA letter to the Senate Judiciary Committee urging changes to the NO FAKES Act: https://www.theesa.com/esa-sends-letter-to-u-s-senate-judiciary-committee-urging-changes-to-no-fakes-act/
+- Ubisoft's sixth layoff round of 2026 (Winnipeg, Belgrade), via Wccftech: https://wccftech.com/ubisoft-sixth-layoff-round-2026-winnipeg-belgrade/
+- Ubisoft layoffs and the press embargo, via Aftermath: https://aftermath.site/ubisoft-layoffs-winnipeg-belgrade-barcelona-press-embargo/
+- Bonfire of the Murdochs, by Gabriel Sherman (Simon & Schuster, 2026); review via The Washington Post: https://www.washingtonpost.com/books/2026/01/30/bonfire-murdochs-fox-news-succession-gabriel-sherman/
+- Bonfire of the Murdochs, Kirkus review: https://www.kirkusreviews.com/book-reviews/gabriel-sherman/bonfire-of-the-murdochs/
+- World Cup watch parties and June venue news, via BizBash: https://www.bizbash.com/event-venues/event-venue-news-for-june-2026
+
+---
+
 ## 2026-06-11 (Edition #11)
 
 ### 1. Most game developers now call generative AI harmful (AI x gaming)

@@ -34,19 +34,20 @@ For EF the lens is useful precisely because the money feels patient. Sovereign c
 
 One question to chew on: if funding tightened for 2 years, which EF commitments are genuinely fixed, and which would you want the freedom to resize?
 
-### 4. VivaTech runs in your Paris halls first (live events & immersive)
+### 4. A world model shipped, and the market repriced game studios (AI x gaming)
 
-VivaTech runs June 17 to 20 at Paris Expo Porte de Versailles, the same halls EWC takes over this summer. For its 10th edition it added a 3-floor Hall 7 (about 40% more space), expects more than 180,000 attendees from 170+ countries, and adds a public Festival day plus a free open-air tech experience on the Champs-Elysees. One building, two crowds: a B2B trade show on weekdays, a public festival to close.
+Google opened Genie 3, an AI that spins up interactive, explorable worlds from a prompt, as a paid preview inside its $250-a-month AI Ultra tier. The reveal knocked game-maker shares (Roblox, Nintendo, CD Projekt among them), the first time investors visibly repriced studios on the idea that worlds can be generated instead of hand-built.
 
-For EF this is a live proof of the model Francois is building for Paris, premium B2B by day with public spectacle on top, in the exact venue you will run. It also shows the halls can move 180k people in 4 days, a real benchmark to size against a 7-week run.
+For EF the read is about production economics. If building a level or an environment gets much cheaper, the cost base of the games your titles sit on shifts, and so does where publishers put their money. The value moves toward design taste and live operation, the parts a model cannot yet copy, which is Capcom's point one lesson up.
 
-One question to chew on: which parts of VivaTech's weekday-B2B and weekend-public split would you copy for EWC Paris, and which would you run differently?
+One question to chew on: if world-building gets cheap, what stays scarce and valuable in a game, and how does that change who holds power in your publisher deals?
 
 #### News of the day
 
-- **Google's Genie 3 world model goes on sale and rattles game investors** (AI x gaming). Google opened Genie 3, an AI that generates interactive worlds from a prompt, at $250 a month inside its AI Ultra tier, and game-company stocks wobbled on the news. [PC Gamer](https://www.pcgamer.com/software/ai/google-project-genie-prototype-launch/)
+- **VivaTech takes over your Paris halls** (live events & immersive). Europe's biggest tech show runs June 17 to 20 at Paris Expo Porte de Versailles, the same venue as EWC, with a new 3-floor Hall 7 and more than 180,000 attendees, a live benchmark for the B2B-by-day, public-festival model Francois is building. [Trending Topics](https://www.trendingtopics.eu/vivatech-2026-jeff-bezos-emmanuel-macron-and-peter-steinberger-headline-pariss-biggest-tech-stage/)
+- **The CS2 Major playoffs open in Cologne today** (gaming & esports industry). Counter-Strike's marquee event reaches the Lanxess Arena stage from June 18 to 21, the genre's biggest live moment of the year. [HLTV](https://www.hltv.org/events/8301/iem-cologne-major-2026)
 - **MSI 2026 heads to Daejeon, June 28 to July 12** (gaming & esports industry). League of Legends' Mid-Season Invitational runs at Daejeon Convention Center II with 11 teams, the mid-year peak before Worlds. [LoL Esports](https://lolesports.com/en-US/news/msi-2026-primer)
-- **Kenny Chesney opens a Sphere residency on June 19** (live events & immersive). The Las Vegas run (June 19 to July 11) leans on 360-degree visuals and in-seat haptics, more evidence the immersive-venue format keeps booking acts. [Billboard](https://www.billboard.com/culture/product-recommendations/las-vegas-sphere-residencies-concerts-1235921455/)
+- **Kenny Chesney opens a Sphere residency on June 19** (live events & immersive). The Las Vegas run (June 19 to July 11) leans on 360-degree visuals and in-seat haptics, more evidence the dome format keeps booking acts. [Billboard](https://www.billboard.com/culture/product-recommendations/las-vegas-sphere-residencies-concerts-1235921455/)
 
 **Sources (Edition #18)**
 
@@ -55,8 +56,12 @@ One question to chew on: which parts of VivaTech's weekday-B2B and weekend-publi
 - Capcom Lays Out Their AI Philosophy, via AI and Games (Tommy Thompson): https://www.aiandgames.com/p/capcom-lays-out-their-ai-philosophy
 - Capcom: AI not for creating art, original interview via 4Gamer: https://www.4gamer.net/games/991/G999101/20260519017/
 - Ray Dalio, How Countries Go Broke: The Big Cycle, free summary via Economic Principles: https://economicprinciples.org/downloads/How-Countries-Go-Broke.pdf
+- Gaming market melts down after Google reveals Project Genie, via Tom's Hardware: https://www.tomshardware.com/video-games/gaming-market-melts-down-after-google-reveals-new-ai-game-design-tool-project-genie-crashes-stocks-for-roblox-nintendo-cd-projekt-red-and-more
+- Google's Project Genie prototype launch, via PC Gamer: https://www.pcgamer.com/software/ai/google-project-genie-prototype-launch/
 - VivaTech 2026 scale, Hall 7 and speakers, via Trending Topics: https://www.trendingtopics.eu/vivatech-2026-jeff-bezos-emmanuel-macron-and-peter-steinberger-headline-pariss-biggest-tech-stage/
-- VivaTech 2026 press materials (Festival, Champs-Elysees), via VivaTech: https://vivatech.com/media/press-releases
+- IEM Cologne Major 2026 (playoffs June 18 to 21), via HLTV: https://www.hltv.org/events/8301/iem-cologne-major-2026
+- MSI 2026 primer, via LoL Esports: https://lolesports.com/en-US/news/msi-2026-primer
+- Las Vegas Sphere 2026 residencies, via Billboard: https://www.billboard.com/culture/product-recommendations/las-vegas-sphere-residencies-concerts-1235921455/
 
 ---
 

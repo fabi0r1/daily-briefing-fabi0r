@@ -8,7 +8,7 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
-## 2026-06-18 (Edition #13)
+## 2026-06-18 (Edition #18)
 
 ### 1. FIFA built its world cup on a game it does not own (gaming & esports industry)
 
@@ -30,7 +30,7 @@ One question to chew on: for the AI-first push, where is your line between the w
 
 Ray Dalio's How Countries Go Broke lays out what he calls the Big Debt Cycle. Around 10 short debt cycles (borrow, boom, correct) stack up over 75 to 100 years into one long cycle, each peak a little higher than the last, until debt outgrows what income and assets can carry. At the end a country either defaults or prints money and devalues, and whoever holds that debt loses. (Dalio's framework, free summary on economicprinciples.org.)
 
-For EF the lens is useful precisely because the money feels patient. Sovereign capital still sits somewhere on a cycle, and the durability bet (5 to 10 years) only pays if the funding base holds through the down leg. Reading where your backer sits in that rhythm is part of the job, not a finance-team footnote.
+For EF the lens is useful precisely because the money feels patient. Sovereign capital still sits somewhere on a cycle, and the durability bet (5 to 10 years) only pays if the funding base holds through the down leg. Reading where your backer sits in that rhythm is part of the job.
 
 One question to chew on: if funding tightened for 2 years, which EF commitments are genuinely fixed, and which would you want the freedom to resize?
 
@@ -48,7 +48,7 @@ One question to chew on: which parts of VivaTech's weekday-B2B and weekend-publi
 - **MSI 2026 heads to Daejeon, June 28 to July 12** (gaming & esports industry). League of Legends' Mid-Season Invitational runs at Daejeon Convention Center II with 11 teams, the mid-year peak before Worlds. [LoL Esports](https://lolesports.com/en-US/news/msi-2026-primer)
 - **Kenny Chesney opens a Sphere residency on June 19** (live events & immersive). The Las Vegas run (June 19 to July 11) leans on 360-degree visuals and in-seat haptics, more evidence the immersive-venue format keeps booking acts. [Billboard](https://www.billboard.com/culture/product-recommendations/las-vegas-sphere-residencies-concerts-1235921455/)
 
-**Sources (Edition #13)**
+**Sources (Edition #18)**
 
 - Following split with EA, FIFA targets Rocket League for the FIFAe World Cup, via Gamereactor: https://www.gamereactor.eu/following-split-with-ea-fifa-targets-rocket-league-for-fifae-world-cup-1403883/
 - Rocket League and FIFA 2026 World Cup partnership, Season 23 starts June 10, via VPEsports: https://vpesports.com/featured-news/rocket-league-fifa-official-2026-world-cup-partnership
@@ -57,6 +57,265 @@ One question to chew on: which parts of VivaTech's weekday-B2B and weekend-publi
 - Ray Dalio, How Countries Go Broke: The Big Cycle, free summary via Economic Principles: https://economicprinciples.org/downloads/How-Countries-Go-Broke.pdf
 - VivaTech 2026 scale, Hall 7 and speakers, via Trending Topics: https://www.trendingtopics.eu/vivatech-2026-jeff-bezos-emmanuel-macron-and-peter-steinberger-headline-pariss-biggest-tech-stage/
 - VivaTech 2026 press materials (Festival, Champs-Elysees), via VivaTech: https://vivatech.com/media/press-releases
+
+---
+
+## 2026-06-17 (Edition #17)
+
+### 1. The marquee LAN still pulls hardest (gaming & esports industry)
+
+The CS2 Major is in Cologne this week, with the playoffs landing at the Lanxess Arena from June 18 to 21. Counter-Strike has tried many formats over the years, and the Cologne Major, "the Cathedral," is still the room players and fans want most. One hall, one stage, a best-of-five final.
+
+For EF, sitting on a 7-week, multi-title festival, the Major is a reminder that scarcity creates pull. A single peak moment in one iconic room can out-draw a long, even schedule. The EWC question is how to give each title its own cathedral day inside the run.
+
+One question to chew on: which EWC title most needs a single, unmissable cathedral moment, and what would make it one?
+
+### 2. The bill for generative AI is coming due (AI x gaming)
+
+The economics under generative AI are getting harder. Token prices are rising, agentic systems that chain many model calls can burn far more compute than a single prompt, and the providers that subsidised usage early are now charging more. Studios that built on someone else's model are meeting real, growing operating costs (figures vary by report, so treat specifics with care).
+
+For Ralf's AI-first push this is the unglamorous part. The pilot is cheap. The habit costs. Pricing the run-rate of an AI workflow before it becomes load-bearing is what keeps an AI-first plan from turning into an AI-bill surprise.
+
+One question to chew on: for each AI workflow EF adopts, do you know its cost per use at scale, and who owns that budget?
+
+### 3. Going against the room (leadership & negotiation)
+
+Take-Two's Strauss Zelnick keeps making a case the market dislikes: AI is strong at building assets, and hit creation is a different thing, because (in his words) "datasets by their very nature are backward looking." He pushes his teams to use Claude and Gemini for productivity while betting the company on human creativity for the parts that break out.
+
+For EF the value is the independent read. The loudest narrative, that AI replaces creative work, is one a serious operator can question. Zelnick adopts the tool and refuses the hype in the same breath, which sits close to your own line on durability over short-term ROI.
+
+One question to chew on: where is EF following the loudest AI narrative, and where would your own read point somewhere different?
+
+### 4. Staging an experience is its own product (live events & immersive)
+
+Pine and Gilmore's idea of the experience economy, from their 1998 Harvard Business Review essay, holds up: companies move from selling goods and services to staging experiences people pay to be inside. Coffee beans cost cents, a cup in a memorable room costs euros. The staged hours are the product.
+
+For EWC Paris this is the frame behind the festival and the B2B push. The match is the service. The hours around it, the rooms, the rituals, the partner spaces, are a separate product you can design and price. Francois's premium layer lives exactly there.
+
+One question to chew on: which EWC moments are you giving away as "atmosphere" that could be designed and sold as experiences?
+
+#### News of the day
+
+- **Valorant Masters London heads into its final weekend** (gaming & esports industry). Riot's mid-year international (June 6 to 21) reaches the playoff climax, the global checkpoint before Champions. [VLR.gg](https://www.vlr.gg/vct)
+- **NVIDIA's RTX Spark brings personal-AI PCs to gamers and creators** (AI x gaming). The machines pack 128GB of unified memory for local AI work, and Adobe is rebuilding Photoshop and Premiere to run on them. [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark)
+- **A wave of 2026 tours is announced, from Neko Case to Vince Staples** (live events & immersive). Mid-June saw a run of North American tour launches, a reminder live music keeps booking even as venues chase new tech. [Pollstar](https://news.pollstar.com/category/tour-announcements/)
+
+**Sources (Edition #17)**
+
+- IEM Cologne Major 2026 (playoffs at Lanxess Arena, June 18 to 21), via HLTV: https://www.hltv.org/events/8301/iem-cologne-major-2026
+- AI cost crisis hits tech giants as agentic AI eats far more tokens, via Tom's Hardware: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon
+- The big Strauss Zelnick interview (GTA, AI, building the biggest entertainment company), via The Game Business: https://www.thegamebusiness.com/p/take-two-ceo-interview-the-notion
+- Welcome to the Experience Economy (Pine and Gilmore, 1998), via Harvard Business Review: https://hbr.org/1998/07/welcome-to-the-experience-economy
+- VALORANT Champions Tour 2026, via VLR.gg: https://www.vlr.gg/vct
+- NVIDIA RTX Spark personal-AI PCs, via NVIDIA Newsroom: https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark
+- Tour announcements, via Pollstar: https://news.pollstar.com/category/tour-announcements/
+
+---
+
+## 2026-06-16 (Edition #16)
+
+### 1. Reveal a game, then close the studio (gaming & esports industry)
+
+Ninja Theory showed Senua, a new Hellblade game with a 2027 window, at the Xbox Games Showcase on June 7. Nine days later, on June 15, its Cambridge staff were told the studio is closing. Reporting says Microsoft had already decided to sunset or split with the studio, and put the reveal on stage to "draw investor interest" toward a possible sale.
+
+For EF this is a hard look at how a platform owner treats studios as assets, and how a publisher's marketing can serve a sale. When you weigh a title's "publisher support," the real test is whether that support is durable or staged for an exit.
+
+One question to chew on: for your EWC titles, can you tell a publisher who is genuinely invested from one keeping a franchise warm for a sale?
+
+### 2. Hiding the AI reads worse than owning it (AI x gaming)
+
+Sega revealed a Crazy Taxi reboot, players spotted a generative-AI disclaimer on its assets, and after the backlash Sega said the final product will be original work made in-house. The reveal landed days before, and the cleanup followed fast.
+
+For EF and Ralf's AI-first push this is the disclosure trap. Using AI quietly and getting caught costs more trust than using it openly with a clear line, which is the Capcom approach. Players forgive AI in the plumbing, they react to feeling misled about the craft.
+
+One question to chew on: if EF used AI in a fan-facing product, would you disclose it up front, and what would your one-line policy say?
+
+### 3. The leader goes first (leadership & negotiation)
+
+Daniel Coyle's The Culture Code, your foundational lens, has a counterintuitive finding on trust: groups get safer when the leader shows fallibility first. Coyle calls it the vulnerability loop. One person signals "I don't have this figured out," the other answers in kind, and cooperation rises. The signal has to come from the top to land.
+
+For an AI-first Foundation moving fast, this is how you keep people with you. A leader saying "I'm learning these tools too, here is where I'm unsure" does more for adoption than a confident mandate. Safety and candor are what let a team take the risk.
+
+One question to chew on: where could you go first with a visible "I don't know yet," and would it make your team braver about the AI shift?
+
+### 4. The Gulf is building permanent digital-art worlds (live events & immersive)
+
+teamLab, the Tokyo art collective, is opening teamLab Phenomena Abu Dhabi, a purpose-built 17,000 square-metre building in the Saadiyat Cultural District, and has revealed the artworks ahead of opening. These are permanent, walk-through digital-art destinations, and the Gulf is funding them at scale.
+
+For EF this is a MENA signal worth holding next to EWC and ENC. The region is funding permanent experiential venues that stay open year-round, and a game-world destination could sit in the same pipeline. A permanent place compounds value over time, where an annual stage resets each summer.
+
+One question to chew on: is there a case for a permanent EWC or game-world destination in the Gulf, alongside the annual events?
+
+#### News of the day
+
+- **Double Fine joins the Xbox reset's closure list** (gaming & esports industry). June 15 to 16 became the most concentrated single-day studio contraction in Xbox's first-party history, with multiple studios in closure or buyout talks. [TechTimes](https://www.techtimes.com/articles/318465/20260616/xbox-studio-closures-confirmed-ninja-theory-shut-down-nine-days-after-showcase.htm)
+- **TIGA names Elaine Green as its new chair** (gaming & esports industry). The UK games-industry body changed its leadership on June 16, a small marker of how the trade is reorganising through a hard year. [PocketGamer.biz](https://www.pocketgamer.biz/)
+- **InfoComm 2026 fills Las Vegas with live-event tech** (live events & immersive). North America's biggest pro-AV show (June 13 to 19) put production control, LED, and fan-engagement systems on the floor, with AV-over-IP the talk of the hall. [AVNation](https://www.avnation.tv/2026/05/22/infocomm-2026-to-spotlight-the-future-of-live-events-broadcast-and-fan-engagement/)
+
+**Sources (Edition #16)**
+
+- Xbox showed Senua to "draw investor interest" before closing Ninja Theory, via Windows Central: https://www.windowscentral.com/gaming/xbox/xbox-showed-senua-at-xbox-games-showcase-to-help-draw-investor-interest-to-ninja-theory-before-studio-closure
+- Sega's Crazy Taxi reboot, generative-AI disclaimer and response, via Time Extension: https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-june-14th-2026
+- Daniel Coyle, The Culture Code (the vulnerability loop), via danielcoyle.com: https://danielcoyle.com/the-culture-code/
+- teamLab Phenomena Abu Dhabi unveils artworks ahead of opening, via blooloop: https://blooloop.com/immersive/news/teamlab-phenomena-abu-dhabi-artworks/
+- Xbox studio closures confirmed, via TechTimes: https://www.techtimes.com/articles/318465/20260616/xbox-studio-closures-confirmed-ninja-theory-shut-down-nine-days-after-showcase.htm
+- InfoComm 2026 to spotlight the future of live events, via AVNation: https://www.avnation.tv/2026/05/22/infocomm-2026-to-spotlight-the-future-of-live-events-broadcast-and-fan-engagement/
+
+---
+
+## 2026-06-15 (Edition #15)
+
+### 1. The AI adoption gap sits at the top of the org (AI x gaming)
+
+GDC's 2026 trends data shows a split inside studios: roughly 47% of upper management use AI tools, against about 29% of individual contributors. Leadership enthusiasm runs ahead of team-level fluency, so the people asked to ship with AI are often the ones using it least (treat the exact figures as survey data worth checking).
+
+For EF this is the shape of Ralf's push if it runs top-down only. A mandate from leadership without hands-on fluency on the floor produces box-ticking, and the skill never lands. The fix is fluency where the work happens: training, time, and a few people who make the tools genuinely useful for the team.
+
+One question to chew on: in EF, is the AI gap between leaders and doers widening, and what closes it faster, more mandates or more hands-on time?
+
+### 2. Riot's franchised circuit is a template for nations and clubs (gaming & esports industry)
+
+Valorant Masters London (June 6 to 21) is one stop on Riot's international circuit: regional leagues feed a small set of global events on a fixed calendar, with promotion and qualification rules everyone understands. The structure makes the season legible, which is part of why partners and fans buy in.
+
+For ENC and the Club program, the design lesson is legibility. A clear path from regional play to a global moment, with rules that do not bend per partner, is what lets clubs and nations plan and invest. The circuit is the product as much as any single final.
+
+One question to chew on: is the path from regional play to an EF global event clear enough that a club or nation could plan two years against it?
+
+### 3. The world's stabilisers are now destabilisers (leadership & negotiation)
+
+Eswar Prasad's The Doom Loop (2026) argues that the forces once trusted to steady the world economy, trade and shared institutions, are now feeding conflict. Competition turns cooperation into a weapon, the IMF and WTO have not adapted, and middle powers like India, Brazil, and Indonesia are pushed to pick sides between the US and China.
+
+For EF, operating from the Gulf with global ambitions, this is the backdrop to every cross-border deal. Publisher relationships, talent flows, and market access all sit on top of a more fractured order. Reading which way a partner's home country leans is now part of due diligence.
+
+One question to chew on: which EF partnerships are most exposed to a country being forced to choose a side, and how would you hedge that?
+
+### 4. The repeatable open-world experience earns its return visits (live events & immersive)
+
+Phantom Peak, London's open-world walk-through experience, is moving to a bigger Westfield Stratford venue this summer. The number worth noting: about 160,000 visitors and a 25% repeat rate, helped by a story that shifts every 3 to 4 months so the place is worth coming back to.
+
+For EF the lesson is built-in reasons to return. A live experience that changes on a cadence turns a one-time visit into a habit, the same logic behind a season pass or a recurring tournament storyline. Return visits are where the economics get good.
+
+One question to chew on: what would give an EWC visitor a real reason to come back next week, beyond the once-a-summer trip?
+
+#### News of the day
+
+- **Xbox Game Studios head Craig Duncan steps down** (gaming & esports industry). His exit on June 15, alongside his chief of staff, landed the same day closure reports broke, as significant layoffs loom. [Engadget](https://www.engadget.com/2194295/xbox-game-studios-chief-reportedly-steps-down-as-layoffs-loom/)
+- **Compulsion Games faces closure in the Xbox reset** (gaming & esports industry). The award-winning South of Midnight studio is among the first confirmed shutdowns under the reset framework. [TechTimes](https://www.techtimes.com/articles/318427/20260615/xbox-plans-shutter-compulsion-games-award-winning-studio-faces-axe-2026-reset.htm)
+- **Miami's FIFA Fan Festival opens for a 23-day run** (live events & immersive). The June 13 to July 5 program runs live broadcasts, concerts, and brand activations, the host-city layer monetising the tournament beyond the stadium. [Miami Host Committee](https://miamifwc26.com/fan-festival/)
+
+**Sources (Edition #15)**
+
+- GDC 2026 State of the Game Industry (generative-AI adoption and sentiment), via GDC: https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/
+- VALORANT Champions Tour 2026 (international circuit structure), via Liquipedia: https://liquipedia.net/valorant/VCT/2026
+- Eswar Prasad, The Doom Loop: Why the World Economic Order Is Spiraling into Disorder, via Brookings: https://www.brookings.edu/books/the-doom-loop/
+- Phantom Peak to open at Westfield Stratford City, via London Theatre: https://www.londontheatre.co.uk/theatre-news/news/immersive-phantom-peak-to-open-at-new-venue-in-east-london
+- Xbox Game Studios chief steps down as layoffs loom, via Engadget: https://www.engadget.com/2194295/xbox-game-studios-chief-reportedly-steps-down-as-layoffs-loom/
+- Xbox plans to shutter Compulsion Games, via TechTimes: https://www.techtimes.com/articles/318427/20260615/xbox-plans-shutter-compulsion-games-award-winning-studio-faces-axe-2026-reset.htm
+- FIFA Fan Festival Miami, via Miami Host Committee: https://miamifwc26.com/fan-festival/
+
+---
+
+## 2026-06-14 (Edition #14)
+
+### 1. Musk is a template, and the book calls it Muskism (leadership & negotiation)
+
+Quinn Slobodian and Ben Tarnoff's Muskism argues we should read Musk less as a person and more as a model for a new kind of capitalism, the way Fordism named the last one. Its features: the vertically integrated firm as a self-sufficient fortress, and "state symbiosis," where private companies grow state-like and the aim is to vassalise government and bend it to the firm's needs.
+
+For EF, sitting inside a state-backed structure, the lens cuts both ways. It is a sharp description of how tech power and public money fuse, and a caution about concentration and dependence. Reading your own web of partners through it, who is becoming state-like and who is being vassalised, is uncomfortable and useful.
+
+One question to chew on: where in EF's web of publishers, platforms, and backers is power concentrating in a way you would want to see early?
+
+### 2. Ubisoft is testing AI squadmates you talk to (AI x gaming)
+
+Ubisoft's Teammates is its first playable generative-AI project, built by about 80 people on Google Gemini plus in-house middleware. You play a resistance fighter with two AI squadmates, Pablo and Sofia, and an AI guide called Jaspar that answers spoken commands: highlight an enemy, explain the lore, change a setting, pause the game. It has run only in a closed playtest, so this is R&D rather than a shipped feature.
+
+For EF the interesting part is voice as the interface. If players get used to talking to a game, the same expectation lands on broadcasts, companion apps, and fan tools. Worth tracking how players react, since early feedback on AI teammates has been mixed.
+
+One question to chew on: where could a voice-driven AI layer help an EWC viewer or a Club, and where would it just get in the way?
+
+### 3. Xbox admits it grew too big, and starts cutting (gaming & esports industry)
+
+In a June 10 memo, Xbox leaders Asha Sharma and Matt Booty said the company's run of studio acquisitions left it "over extended," and reports point to significant layoffs ahead. The numbers behind it are stark: more than $20 billion spent over 5 years on content, platform, and hardware subsidies, while annual revenue fell by nearly $500 million over the same stretch.
+
+For EF this is a portfolio-discipline lesson from the biggest spender in the business. The spending bought scale, and revenue still slid. Your rule, that a title or a bet earns its place on real performance, is the discipline Xbox is now reaching for the hard way.
+
+One question to chew on: where might EF be quietly over extended, carrying commitments that look strategic but do not pull their weight?
+
+### 4. Meow Wolf is opening its 6th walk-through art world (live events & immersive)
+
+Meow Wolf, the collective known for large, explorable installations, confirmed its 6th permanent location: a former multiplex in West Los Angeles, due late 2026, joining sites in New Mexico, Nevada, Colorado, and Texas. Each one is a build-once, story-driven space people walk through and return to.
+
+For EF this is the location-based entertainment model maturing: physical destinations with their own IP and repeat visitation, the kind of permanent venue a game universe could anchor. As you weigh signature Paris moments, the build-once and restage-often math is the same trade.
+
+One question to chew on: is there an EWC or game-world experience worth building as a permanent destination rather than a once-a-year stage?
+
+#### News of the day
+
+- **NVIDIA unveils new open AI models and developer tools** (AI x gaming). The release widens the open-model options studios can run themselves, relevant for any team weighing build over rent on AI. [NVIDIA Blog](https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/)
+- **Dead by Daylight throws a 10th-anniversary bash in Montreal** (gaming & esports industry). The June 14 party celebrates 10 years of a live game that kept its audience, a useful counterpoint to the week's studio closures. [Time Extension](https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-june-14th-2026)
+- **Philadelphia's FIFA Fan Festival runs all 39 days** (live events & immersive). Lemon Hill hosts free public viewing and partner activations June 11 to July 19, the host-city playbook at full length. [Philadelphia Host Committee](https://phillyfwc26.com/fifa-fan-fest)
+
+**Sources (Edition #14)**
+
+- Muskism (Slobodian and Tarnoff), what would Muskism be without Musk, via Programmable Mutter (Henry Farrell): https://www.programmablemutter.com/p/what-would-muskism-be-without-musk
+- Ubisoft reveals Teammates, an AI experiment, via Ubisoft News: https://news.ubisoft.com/en-us/article/3mWlITIuWuu0MoVuR6o8ps/ubisoft-reveals-teammates-an-ai-experiment-to-change-the-game
+- Xbox's reverse-2018 (the reset memo and contraction), via Game File: https://www.gamefile.news/p/xbox-studio-contraction
+- Meow Wolf confirms its Los Angeles location, via Time Out: https://www.timeout.com/los-angeles/news/the-wildly-immersive-meow-wolf-is-opening-a-location-in-l-a-050324
+- NVIDIA unveils new open models, data and tools, via NVIDIA Blog: https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/
+- Classic gaming news round-up (Dead by Daylight 10th anniversary), via Time Extension: https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-june-14th-2026
+- FIFA Fan Festival Philadelphia, via Philadelphia Host Committee: https://phillyfwc26.com/fifa-fan-fest
+
+---
+
+## 2026-06-13 (Edition #13)
+
+### 1. HoYoverse is spending billions to own its AI stack (AI x gaming)
+
+HoYoverse, the studio behind Genshin Impact, told a private Beijing session on May 15 it will put up to 100 billion yuan (reported at $14.6 to $16 billion) into AI over 3 years, aimed at full-stack, in-house development: NPC systems, automation, content generation, live-service worlds. Co-founder Liu Wei framed the downside plainly, saying even a failure would just be "a big fireworks display."
+
+The choice worth noticing is build over rent. While most studios buy AI from outside providers whose prices are climbing, HoYoverse is paying upfront to control its own infrastructure. For EF and Ralf's AI-first push, the same fork applies: which AI capability is core enough to own, and which can run on someone else's platform.
+
+One question to chew on: for EF's AI work, what is worth building in-house, and where are you fine renting and switching providers later?
+
+### 2. The hype money left and the commercial base kept growing (gaming & esports industry)
+
+After the venture boom cooled, the commercial layer under esports kept building. Sponsorship revenue is projected near $1.22 billion for 2026, up from about $837 million in 2022 (treat both as estimates worth checking against a primary source before quoting).
+
+For EF this is the climate behind the portfolio bet. Patient, sovereign-backed money fits a market that grows on real sponsorship and rights rather than hype rounds. A slower, broader base is what a 5-to-10-year horizon needs.
+
+One question to chew on: which EF revenue lines track this steady commercial base, and which still depend on one-off hype spend?
+
+### 3. Your power at the table is your walk-away (leadership & negotiation)
+
+Roger Fisher and William Ury's Getting to Yes (more than 15 million copies, the standard text on negotiation) makes one point that travels everywhere: trade on underlying interests instead of stated positions, and know your BATNA, the best alternative if you walk. The side with the stronger alternative holds the power, calm enough to refuse a bad deal.
+
+For your publisher and partner talks, this is the discipline behind the Riot result: you changed the field instead of haggling line by line, because you understood what each side actually needed. Writing down your BATNA before a negotiation turns "we need this deal" into "we have options."
+
+One question to chew on: in your next publisher negotiation, what is your real walk-away, and have you built it before you sit down?
+
+### 4. World Cup host cities became weeks-long fan zones (live events & immersive)
+
+With the FIFA World Cup running from June 11, host cities turned big public spaces over to the full tournament. Miami's FIFA Fan Festival runs 23 straight days (June 13 to July 5) with giant screens, concerts, and brand activations, Philadelphia's runs all 39 days at Lemon Hill, Washington took the National Mall.
+
+For EWC Paris (July 6 to August 23) the read is direct: the festival around the competition can run as long as the competition itself, and it forms whether or not you shape it. Francois's B2B and public-festival plan is the same shape, sanctioned fan zones and partner spaces that monetise the full run, the weeks and the finals alike.
+
+One question to chew on: which Paris public spaces or partner venues would you turn into sanctioned EWC fan zones for the full 7 weeks?
+
+#### News of the day
+
+- **Sony's State of Play ran 60-plus minutes of reveals** (gaming & esports industry). The June 2 show opened on Marvel's Wolverine and closed on God of War: Laufey, with dates for Onimusha, Control: Resonant, and more. [PlayStation Blog](https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/)
+- **Valorant Masters London playoffs are underway** (gaming & esports industry). Riot's mid-year international runs June 6 to 21, the global checkpoint before Champions. [VLR.gg](https://www.vlr.gg/vct)
+- **The FIFA World Cup kicked off June 11 in Mexico City** (live events & immersive). A 104-match tournament across 16 host cities sets the backdrop for a summer of live sport and fan festivals. [FIFA](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026)
+
+**Sources (Edition #13)**
+
+- HoYoverse to invest up to $14.6bn in AI over three years, via PocketGamer.biz: https://www.pocketgamer.biz/hoyoverse-reportedly-investing-up-to-147bn-in-ai-over-next-three-years/
+- Esports marketing statistics 2026 (sponsorship projection), via Esports Insider: https://esportsinsider.com/esports-marketing-statistics
+- Getting to Yes (Fisher and Ury), principled negotiation and BATNA, via Program on Negotiation, Harvard Law School: https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/
+- FIFA World Cup 2026 fan fest guide (host-city festivals), via The World Cup Guide: https://theworldcupguide.com/fifa-world-cup-2026-fan-fest-guide/
+- State of Play June 2026 announcements, via PlayStation Blog: https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/
+- VALORANT Champions Tour 2026, via VLR.gg: https://www.vlr.gg/vct
+- FIFA World Cup 2026, via FIFA: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
 
 ---
 

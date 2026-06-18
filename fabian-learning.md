@@ -44,9 +44,11 @@ One question to chew on: if world-building gets cheap, what stays scarce and val
 
 #### News of the day
 
-- **VivaTech takes over your Paris halls** (live events & immersive). Europe's biggest tech show runs June 17 to 20 at Paris Expo Porte de Versailles, the same venue as EWC, with a new 3-floor Hall 7 and more than 180,000 attendees, a live benchmark for the B2B-by-day, public-festival model Francois is building. [Trending Topics](https://www.trendingtopics.eu/vivatech-2026-jeff-bezos-emmanuel-macron-and-peter-steinberger-headline-pariss-biggest-tech-stage/)
+- **PIF's $55B take-private of Electronic Arts races to its deadline** (gaming & esports industry). Shareholders have approved the deal, Saudi Arabia's PIF would own 93.4%, and it is on track to close by a June 30 long-stop with US national-security review the last hurdle. The fund behind EWC taking a lineup publisher (EA Sports FC) private is worth watching closely. [Wikipedia](https://en.wikipedia.org/wiki/Proposed_leveraged_buyout_of_Electronic_Arts)
 - **The CS2 Major playoffs open in Cologne today** (gaming & esports industry). Counter-Strike's marquee event reaches the Lanxess Arena stage from June 18 to 21, the genre's biggest live moment of the year. [HLTV](https://www.hltv.org/events/8301/iem-cologne-major-2026)
+- **VivaTech takes over your Paris halls** (live events & immersive). Europe's biggest tech show runs June 17 to 20 at Paris Expo Porte de Versailles, the same venue as EWC, with a new 3-floor Hall 7 and more than 180,000 attendees, a live benchmark for the B2B-by-day, public-festival model Francois is building. [Trending Topics](https://www.trendingtopics.eu/vivatech-2026-jeff-bezos-emmanuel-macron-and-peter-steinberger-headline-pariss-biggest-tech-stage/)
 - **MSI 2026 heads to Daejeon, June 28 to July 12** (gaming & esports industry). League of Legends' Mid-Season Invitational runs at Daejeon Convention Center II with 11 teams, the mid-year peak before Worlds. [LoL Esports](https://lolesports.com/en-US/news/msi-2026-primer)
+- **Affle buys AdColony's ad-tech assets from Digital Turbine** (gaming & esports industry). Announced June 15, the deal folds AdColony's mobile SDK and publisher reach into Affle, more consolidation in the mobile user-acquisition layer that funds free-to-play games. [PR Newswire](https://www.prnewswire.com/in/news-releases/affle-announces-strategic-acquisition-of-adcolony-technology-assets-and-trademark-from-dt-302801554.html)
 - **Kenny Chesney opens a Sphere residency on June 19** (live events & immersive). The Las Vegas run (June 19 to July 11) leans on 360-degree visuals and in-seat haptics, more evidence the dome format keeps booking acts. [Billboard](https://www.billboard.com/culture/product-recommendations/las-vegas-sphere-residencies-concerts-1235921455/)
 
 **Sources (Edition #18)**
@@ -58,6 +60,8 @@ One question to chew on: if world-building gets cheap, what stays scarce and val
 - Ray Dalio, How Countries Go Broke: The Big Cycle, free summary via Economic Principles: https://economicprinciples.org/downloads/How-Countries-Go-Broke.pdf
 - Gaming market melts down after Google reveals Project Genie, via Tom's Hardware: https://www.tomshardware.com/video-games/gaming-market-melts-down-after-google-reveals-new-ai-game-design-tool-project-genie-crashes-stocks-for-roblox-nintendo-cd-projekt-red-and-more
 - Google's Project Genie prototype launch, via PC Gamer: https://www.pcgamer.com/software/ai/google-project-genie-prototype-launch/
+- Proposed leveraged buyout of Electronic Arts (PIF take-private, 93.4%, June 30 long-stop), via Wikipedia: https://en.wikipedia.org/wiki/Proposed_leveraged_buyout_of_Electronic_Arts
+- Affle acquires AdColony technology assets from Digital Turbine (June 15), via PR Newswire: https://www.prnewswire.com/in/news-releases/affle-announces-strategic-acquisition-of-adcolony-technology-assets-and-trademark-from-dt-302801554.html
 - VivaTech 2026 scale, Hall 7 and speakers, via Trending Topics: https://www.trendingtopics.eu/vivatech-2026-jeff-bezos-emmanuel-macron-and-peter-steinberger-headline-pariss-biggest-tech-stage/
 - IEM Cologne Major 2026 (playoffs June 18 to 21), via HLTV: https://www.hltv.org/events/8301/iem-cologne-major-2026
 - MSI 2026 primer, via LoL Esports: https://lolesports.com/en-US/news/msi-2026-primer

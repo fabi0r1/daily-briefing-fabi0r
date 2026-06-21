@@ -8,7 +8,7 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
-## 2026-06-21 (Edition #20)
+## 2026-06-21 (Edition #21)
 
 ### 1. A 400-person studio out-earns the giants (gaming & esports industry)
 
@@ -48,12 +48,61 @@ One question to chew on: when a government-backed owner buys a publisher, what w
 - **EF puts $2M behind co-streamers for EWC and ENC** (gaming & esports industry). Announced June 11, the Creator Program rewards broadcasters who carry official feeds to their own audiences, with plans to grow to around 5,000 creators across platforms and languages. [Dot Esports](https://dotesports.com/general/news/esports-foundation-2-million-costreamer-program-ewc-enc-2026)
 - **KISS becomes Pophouse's first US avatar show** (live events & immersive). The team behind ABBA Voyage is bringing a digital KISS show to Las Vegas, its debut in the US market, tentatively for 2028, extending the avatar-concert model past its London proof point. [Blabbermouth](https://blabbermouth.net/news/paul-stanley-on-kiss-avatar-show-you-have-to-build-an-arena-to-make-sure-everybodys-seat-is-the-perfect-viewing-distance-and-angle)
 
-**Sources (Edition #20)**
+**Sources (Edition #21)**
 
 - Why Turkish Game Development Matters in 2026, Naavik: https://naavik.co/digest/why-turkish-game-development-matters-in-2026/
 - Steam Next Fest sees one in five demos labeled for generative AI, Dataconomy: https://dataconomy.com/2026/06/17/steam-next-fest-19-5-percent-demos-generative-ai/
 - Never Split the Difference (calibrated questions and "How am I supposed to do that?"), Chris Voss; book notes via Graham Mann: https://grahammann.net/book-notes/never-split-the-difference-chris-voss
 - PIF's $55B take-private of Electronic Arts (largest LBO ever, June 30 long-stop, CFIUS review), via Lexology: https://www.lexology.com/library/detail.aspx?g=a20c38eb-f4cc-495c-b005-55f4053b0046
+
+---
+
+## 2026-06-20 (Edition #20)
+
+### 1. Africa's game studios call this the production era (gaming & esports industry)
+
+At Lagos Games Week 2026 (June 18 to 19, hosted at Xbox's Lagos office and the National Theatre), Maliyo Games founder Hugo Obi argued that African game development has moved into a production era, where the work now is shipping finished, commercial games at scale. The week pulled in studios, the French Embassy, the Goethe-Institut, and Games for Change, under the theme "African talent, global markets."
+
+For EF this sits inside the question of where the next audience lives. Africa is young, mobile-first, and building its own studios, and the people who show up early to a scene get remembered when it grows. Worth tracking which African titles and events deserve an EF presence before they are obvious.
+
+One question to chew on: which emerging scene would EF want a relationship with now, while showing up still counts as early?
+
+### 2. A solo dev is building a GTA clone with AI in public (AI x gaming)
+
+Rockstar set GTA 6 pre-orders for June 25 and a November 19 release, and a 25-year-old founder named Ziwen Xu decided not to wait. He's building GT-Caliber, an open-world game he's assembling largely with AI tools, posting daily progress on X: NPCs, cars, and whole neighborhoods coming together fast enough to watch. It looks rough next to Rockstar, and that's the point, because one person now reaches a playable draft that used to need a studio.
+
+For EF and Ralf's AI-first push, the signal is the falling floor. The same tools that let a solo builder mock up a world in weeks can let your partners and your own teams prototype an activation or a format before committing budget.
+
+One question to chew on: what is one EWC or ENC idea you'd want prototyped in a week by one person with AI, just to see it move?
+
+### 3. In a negotiation, dig for the interest under the position (leadership & negotiation)
+
+Roger Fisher and William Ury's Getting to Yes has one idea that outlasts the rest: separate the stated position from the underlying interest. A position is what someone says they want ("we need 40%"). The interest is why they want it ("we need to show our board a marquee win"). Once you know the interest, you can invent options that satisfy it without matching the number on the table.
+
+For your publisher and partner talks, this is the move behind every creative deal. A publisher pushing for a bigger guarantee may really want predictability, or a flagship moment, or cover with their own leadership. Name that, and you have more ways to say yes.
+
+One question to chew on: in your next publisher ask, what is the real interest sitting under their headline number, and have you tested it out loud?
+
+### 4. The EU picks a voluntary code over a game-preservation law (gaming & esports industry)
+
+On June 16 the European Commission answered Stop Killing Games, a citizens' initiative that gathered 1,294,188 verified signatures asking that publishers keep purchased games playable after support ends. The Commission declined to propose a law, citing IP rights, publisher costs, and cybersecurity, and said it will convene publishers and consumer groups by the end of 2026 to draw up a voluntary code of conduct on game "end of life."
+
+For EF this matters because EWC and ENC run on live-service games that someone, someday, switches off. The likely code points at disclosure: tell players up front how long a game is supported and what happens when it stops. Publishers who handle that shutdown gracefully keep trust for the next title.
+
+One question to chew on: when a competitive title in your portfolio reaches end of life, who owns telling the players, and how early?
+
+#### News of the day
+
+- **GTA 6 pre-orders open June 25, release holds for November** (gaming & esports industry). Rockstar revealed the pre-order date and the first official cover art on June 20, with the November 19 launch on PS5 and Xbox Series X/S unchanged. Pricing is still unannounced. [Rockstar Newswire](https://www.rockstargames.com/newswire/article/517oa135328155/grand-theft-auto-vi-pre-orders-begin-on-june-25)
+- **Studios lean to open-source AI models for production** (AI x gaming). a16z's State of Generative Media 2026 reports teams picking customizable open models when they need brand and character consistency across millions of generated assets. [a16z](https://a16z.com/the-state-of-generative-media-2026/)
+- **Domo Cafe opens its first permanent US location** (live events & immersive). The Japanese character's themed cafe opened June 13 in Buena Park, California, near Knott's Berry Farm, another test of IP turned into a place you visit. [The Toy Book](https://toybook.com/domo-cafe-california-news/)
+
+**Sources (Edition #20)**
+
+- Lagos Games Week 2026 (African games "production era", Hugo Obi keynote), via PocketGamer.biz: https://www.pocketgamer.biz/lagos-games-week-2026-kicks-off-two-days-of-talks-exhibitions-and-showcases/
+- Solo dev builds a GTA 6 clone with AI (GT-Caliber, Ziwen Xu), via TweakTown: https://www.tweaktown.com/news/112266/solo-dev-tries-to-make-his-own-gta-6-with-ai-as-he-got-tired-of-waiting-for-rockstar/index.html
+- Getting to Yes: Negotiating Agreement Without Giving In, Roger Fisher and William Ury (book; interests behind positions)
+- EU declines a Stop Killing Games law, plans a voluntary end-of-life code, via Dexerto: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/
 
 ---
 

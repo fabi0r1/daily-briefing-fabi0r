@@ -8,6 +8,111 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-21 (Edition #20)
+
+### 1. A 400-person studio out-earns the giants (gaming & esports industry)
+
+Naavik's read on Turkey is worth sitting with. The top 20 Turkish publishers average more than $1M in revenue per employee, and Dream Games, the biggest studio in the country, runs that business with under 400 people while casual rivals like King and Moon Active carry thousands. Turkey is now the second-largest games ecosystem in Europe after the UK, with two unicorns born in 5 years (Peak and Dream Games). The state helps: tax breaks in the tech zones, 60 to 70% of international marketing spend covered, and 50% of app-store fees refunded on revenue earned abroad.
+
+For EF the lesson is about operating model, and it sits right next to our region. A small team with sharp unit economics and a government tailwind can beat scale. The how matters more than the headcount.
+
+One question to chew on: which part of EF's ecosystem runs lean by design, and where does headcount sit out of habit?
+
+### 2. One in 5 new Steam demos now says it used AI (AI x gaming)
+
+At this June's Steam Next Fest, 1,704 of about 8,700 game demos carried a generative-AI disclosure, about 19.5%, close to a fifth of the showcase. Valve has required the label since 2024, and small teams say the tools let them ship art, voices, and marketing they could not otherwise afford. The disclosure is self-reported, and players have one real complaint: there's no filter, so the only way to sort is by popularity.
+
+For EF and Ralf's AI-first push, the signal is that disclosure has gone mainstream while the tooling to act on it lags. Players are asking for control. The platform that gives them a clean toggle wins trust, and that gap is where a product opportunity sits.
+
+One question to chew on: when an EWC title or a partner ships AI-made content, how do we want players to find out, and what would make that build trust?
+
+### 3. The negotiation question that hands the problem back (leadership & negotiation)
+
+Chris Voss, the FBI hostage negotiator who wrote Never Split the Difference, has a move he calls the calibrated question. When the other side pushes you somewhere you can't go, you summarize where things stand and ask, "How am I supposed to do that?" Said calmly, it puts the work of finding a path back on them, and it keeps the room warm because you're asking for their help.
+
+For your publisher and partner talks this is a cheap, repeatable tool. A flat "no" invites a fight. A "how am I supposed to do that, given X" makes the counterpart solve your constraint in their own words, and people back the plan they think they authored.
+
+One question to chew on: in your next hard ask from a publisher, which constraint will you hand back as a "how" question?
+
+### 4. The biggest deal in games history is a sovereign one (gaming & esports industry)
+
+EA's $55B take-private is set to close by June 30, its long-stop date, with a few regulatory reviews still open. It's the largest leveraged buyout in corporate history, and the lead buyer is Saudi Arabia's Public Investment Fund, alongside Silver Lake and Affinity Partners. Because PIF is a government entity, the deal can draw a US national-security review (CFIUS) over things like player data, a layer a normal corporate buyer never faces.
+
+For EF this is close to home. The same questions a sovereign buyer triggers around EA, who controls the data, what the state wants, how players read it, are the questions asked of us. Watching how PIF and EA answer them in public is a live case study in owning that narrative.
+
+One question to chew on: when a government-backed owner buys a publisher, what would make players and regulators trust the stewardship, and how much of that is EF already living?
+
+#### News of the day
+
+- **IEM Cologne sets a Counter-Strike viewership record** (gaming & esports industry). The Spirit vs G2 quarterfinal at the June Cologne major peaked at 2,044,763 viewers, an ESL all-time high, and the event became the most-watched CS tournament ever at 76.2M hours watched. [Players.com.ua](https://players.com.ua/en/news/iem-cologne-major-2026-sets-new-all-time-peak-viewership-record-in-cs2-history/)
+- **EF puts $2M behind co-streamers for EWC and ENC** (gaming & esports industry). Announced June 11, the Creator Program rewards broadcasters who carry official feeds to their own audiences, with plans to grow to around 5,000 creators across platforms and languages. [Dot Esports](https://dotesports.com/general/news/esports-foundation-2-million-costreamer-program-ewc-enc-2026)
+- **KISS becomes Pophouse's first US avatar show** (live events & immersive). The team behind ABBA Voyage is bringing a digital KISS show to Las Vegas, its debut in the US market, tentatively for 2028, extending the avatar-concert model past its London proof point. [Blabbermouth](https://blabbermouth.net/news/paul-stanley-on-kiss-avatar-show-you-have-to-build-an-arena-to-make-sure-everybodys-seat-is-the-perfect-viewing-distance-and-angle)
+
+**Sources (Edition #20)**
+
+- Why Turkish Game Development Matters in 2026, Naavik: https://naavik.co/digest/why-turkish-game-development-matters-in-2026/
+- Steam Next Fest sees one in five demos labeled for generative AI, Dataconomy: https://dataconomy.com/2026/06/17/steam-next-fest-19-5-percent-demos-generative-ai/
+- Never Split the Difference (calibrated questions and "How am I supposed to do that?"), Chris Voss; book notes via Graham Mann: https://grahammann.net/book-notes/never-split-the-difference-chris-voss
+- PIF's $55B take-private of Electronic Arts (largest LBO ever, June 30 long-stop, CFIUS review), via Lexology: https://www.lexology.com/library/detail.aspx?g=a20c38eb-f4cc-495c-b005-55f4053b0046
+
+---
+
+## 2026-06-19 (Edition #19)
+
+### 1. Your AI tools are learning to plug into each other (AI x gaming)
+
+Roblox is building the Model Context Protocol (MCP) into Studio, so an outside assistant like Claude, Cursor, or Codex can connect to the editor and run the plan, build, test loop alongside the creator. MCP is the shared standard that lets one AI tool reach into another system in a common language, and Roblox is turning its creation engine into one of those sockets. The company also says 44% of its top 1,000 creators already used an AI assistant or MCP feature in Studio (that figure comes from a 6 March to 7 April 2026 sample window, so read it as a snapshot).
+
+For EF and Ralf's AI-first push, the shift worth noticing is the connective layer, not any single model. Value moves to whoever designs the workflow where an assistant reaches into the tools a team already runs. Designing that wiring is where the work sits.
+
+One question to chew on: which part of EF's daily workflow would gain most if an AI assistant could reach directly into the tools you already use, and what has to be solved before you let it?
+
+### 2. When to go exclusive, and when to stay everywhere (gaming & esports industry)
+
+Joost Rietveld's Platform Papers has a clean rule for platform strategy: openness helps you grow when rivals sit far apart, and exclusivity protects commitment when they collide for the same audience. His research on video games adds the texture. The titles most often taken exclusive are single-player games on new IP, and the ones that stay everywhere are multiplayer games on established IP, because their value comes from the crowd already playing them.
+
+For EF this maps onto your portfolio. The big multiplayer titles in EWC and ENC live on network effects, so they want to be on every platform and in every market, which shapes how a publisher hears an exclusive ask from you. Knowing which side of that line a title sits on tells you how much leverage an exclusivity request actually carries.
+
+One question to chew on: across your EWC and ENC titles, which ones gain from being everywhere, and where would an exclusive moment with EF add real value rather than cost reach?
+
+### 3. Adopting a powerful tool without losing the room (leadership & negotiation)
+
+Katrina Manson's Project Maven, one of the Economist's best books of 2026, tells how a small Pentagon team pushed AI into the center of the US military from 2017, pulling in a reluctant Silicon Valley and feeding the growth of Palantir. The part worth holding is the human one. When thousands of Google workers learned their work was going toward military AI, they protested, and Google walked away from the contract. The technology was ready before the people were brought along.
+
+For an AI-first Foundation this is the cautionary version of Ralf's push. A capability can be real and useful and still split a team when the purpose is unclear or feels imposed. The Culture Code read is the same: adoption survives on safety and purpose, said out loud and often.
+
+One question to chew on: as EF leans harder into AI, where might your team feel the purpose is unclear, and how would you hear about it early?
+
+### 4. Most game AI was never the kind everyone argues about (AI x gaming)
+
+A useful distinction from Tommy Thompson's AI and Games teaching: "AI in games" covers three different things, and people mix them up. Classic Game AI, the logic that runs enemies and NPCs, has used behaviour trees for two decades (the approach the original Halo helped popularize). Deep learning is a second category. Generative AI, the part dominating the headlines, is a third and newest one. Thompson's own read is that generative NPCs look great in demos and stay hard to make work at scale.
+
+For EF the value is precision in the debate. When a publisher or a vendor says a game "uses AI," the honest first question is which of the three, because the cost, the risk, and the player reaction differ for each. Most of what has made games feel smart for 20 years runs on older techniques.
+
+One question to chew on: in your next AI conversation with a publisher, can you name which kind of AI they actually mean, and does your team draw the same line?
+
+#### News of the day
+
+- **Esports Leaders Honours debut at Cologne City Hall** (gaming & esports industry). The inaugural awards ran June 19 alongside Global Esports Industry Week, with EFG among the nominees across six categories. A new industry ritual worth watching as the business formalizes. [The Esports Radar](https://esportsradar.gg/esports-leaders-honours-to-be-hosted-at-cologne-city-hall-with-the-lord-mayor-in-attendance/)
+- **The Black Mirror Experience opens at The Shed in New York** (live events & immersive). The 60-minute mix of physical sets and VR, built by Banijay Live Studio and Univrse, runs from June 20, a test of TV IP turned into a walk-through location. [BroadwayWorld](https://www.broadwayworld.com/off-broadway/article/THE-BLACK-MIRROR-EXPERIENCE-To-Open-at-The-Shed-in-June-20260527)
+- **Augmented World Expo names "Interstellar Arc" best location-based entertainment** (live events & immersive). Felix & Paul's 20,000-square-foot wireless VR piece moves hundreds of synchronized people through one shared space, the kind of group-scale format a game world could borrow. [PR Newswire](https://www.prnewswire.com/news-releases/augmented-world-expo-announces-2026-auggie-award-winners-best-in-show-and-xr-hall-of-fame-legends-302803908.html)
+- **FunPlus puts AI at its core as the funding market tightens** (gaming & esports industry). At PG Connects Barcelona (June 16 to 17), FunPlus's CBO laid out a plan to build AI into the studio and what a harder funding climate asks of founders. [PocketGamer.biz](https://www.pocketgamer.biz/)
+
+**Sources (Edition #19)**
+
+- Roblox says 44% of its top 1,000 creators use AI tools, via This Week In Video Games: https://thisweekinvideogames.com/news/roblox-says-44-of-its-top-1000-creators-use-ai-tools-to-make-their-games/
+- Roblox is building AI assistant tools and procedural creation systems (MCP in Studio), via GamesHub: https://www.gameshub.com/news/article/roblox-ai-assistant-procedural-creation-tools-developers-2867293/
+- Pledge Your Allegiance (openness, exclusivity, and multi-homing), Joost Rietveld, via Platform Papers: https://platformpapers.substack.com/p/pledge-your-allegiance
+- Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare, Katrina Manson; NPR Book of the Day: https://www.npr.org/2026/04/09/nx-s1-5779171/nprs-book-of-the-day-katrina-manson-project-maven
+- Project Maven and the Age of AI Warfare, review via Tech Policy Press: https://www.techpolicy.press/project-maven-and-the-age-of-ai-warfare/
+- AI 101 by AI and Games (Game AI, deep learning, generative AI, and behaviour trees), Tommy Thompson, via Hugging Face: https://huggingface.co/learn/ml-games-course/unitbonus1/ai-and-games
+- Esports Leaders Honours at Cologne City Hall, via The Esports Radar: https://esportsradar.gg/esports-leaders-honours-to-be-hosted-at-cologne-city-hall-with-the-lord-mayor-in-attendance/
+- The Black Mirror Experience to open at The Shed, via BroadwayWorld: https://www.broadwayworld.com/off-broadway/article/THE-BLACK-MIRROR-EXPERIENCE-To-Open-at-The-Shed-in-June-20260527
+- Augmented World Expo 2026 Auggie Award winners, via PR Newswire: https://www.prnewswire.com/news-releases/augmented-world-expo-announces-2026-auggie-award-winners-best-in-show-and-xr-hall-of-fame-legends-302803908.html
+- PG Connects Barcelona 2026 (FunPlus on AI and the funding market), via PocketGamer.biz: https://www.pocketgamer.biz/
+
+---
+
 ## 2026-06-18 (Edition #18)
 
 ### 1. FIFA built its world cup on a game it does not own (gaming & esports industry)

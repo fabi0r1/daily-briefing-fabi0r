@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-22 (Edition #22)
+
+### 1. Weight the vote by track record (leadership & negotiation)
+
+Ray Dalio built Bridgewater on one rule for hard decisions: an idea meritocracy with believability-weighted input. The principle is simple. When capable people disagree, you weight each voice by track record on that specific question. People who have repeatedly gotten this kind of call right, and can explain the cause and effect behind their view, carry more weight than people who have not. Dalio's formula is radical truth, plus radical transparency, plus believability-weighted decision-making.
+
+For an AI-first Foundation under Ralf, this is a way to make faster calls that still hold up, better than a gut read from the top and better than a show of hands. It pairs with the Culture Code lens: people back a decision they helped pressure-test, even when they lose the argument, as long as the weighting felt fair and out in the open.
+
+One question to chew on: on your next contested call, whose track record actually earns the most weight, and does your team know how that weight gets set?
+
+### 2. Growth comes from forcing your producers to compete early (gaming & esports industry)
+
+Joe Studwell's How Africa Works, one of the Economist's best books of 2026, carries forward the argument from his earlier How Asia Works. The countries that grew fast ran a disciplined three-part sequence: put land in the hands of smallholder farmers so rural incomes rise and create demand, push manufacturers to win in export markets rather than shelter behind tariffs, then steer credit toward that investment. The piece reviewers single out is what he calls the developmental coalition, the political backing that lets a state hold the line on those hard choices. East Asia had it. Much of Africa, more fractured, does not.
+
+The transferable idea for EF is export discipline. Growth reached the places that made their producers face the best in the world early, instead of protecting them at home. For a Foundation betting on durability, the same test applies: which of our products would survive open competition for global attention, and which only look strong because they sit sheltered?
+
+One question to chew on: where is EF protecting something from real competition, and would making it compete sooner make it stronger or just expose it?
+
+### 3. The AI that decides when to scare you (AI x gaming)
+
+The game AI that has mattered most for two decades runs quietly in the background, shaping pace. Valve's Left 4 Dead (2008) ran what it called the AI Director, a system that watches every player's health, ammo, position, and stress, then decides in real time when to throw a horde, where to drop supplies, and when to give the team a quiet stretch to breathe. It builds tension, hits a peak, then relaxes, so each run feels shaped to your group. Breeze through and it starves you of supplies and sends more. Struggle and it eases off.
+
+For EF this is a lens on two things. One is broadcast: a great show paces tension the way the Director does, and production teams who think in build-up, peak, and release hold an audience longer. The other is where generative AI is heading, toward systems that read a player or a viewer and shape the moment live. The old idea is the design pattern. The new tools make it cheap to run.
+
+One question to chew on: if an EWC broadcast had an AI Director reading the live crowd, what signal would you want it watching, and what would it adjust?
+
+### 4. Record revenue and layoffs in the same year (gaming & esports industry)
+
+The games business is posting record revenue and cutting staff at the same time. Trade trackers put global games revenue at a new high in 2025 (figures around $200 billion get cited, and you should verify the exact number against a primary source before using it), while private investment into games reportedly fell by roughly half from the year before. 2026 has brought another wave of cuts, with Bungie, Epic, and Ubisoft among the names trimming hundreds of roles. Those specific figures come from secondary trade coverage and stay unconfirmed against primary data, so treat them as a direction to watch while the exact numbers get checked.
+
+The pattern matters more than any single figure. Money and players keep concentrating in a few live-service franchises, while the middle gets squeezed and capital turns cautious. For EF, sitting close to a funding-discipline reality of its own, this is the backdrop. The bet on durability over short-term ROI reads differently when the whole industry is learning that a record top line does not protect teams.
+
+One question to chew on: if capital stays cautious for another two years, which parts of EF's plan get stronger under that pressure, and which lean on the easy-money assumptions of the last cycle?
+
+#### News of the day
+
+- **Falcons win the IEM Cologne Major** (gaming & esports industry). Team Falcons beat FURIA 3-0 on June 21 for their first Major, NiKo finally claimed the trophy that had escaped him, and m0NESY was named MVP. [Esports.gg](https://esports.gg/news/counter-strike-2/winners-cologne-major-2026-overview/)
+- **Leviatán take Valorant Masters London** (gaming & esports industry). The Americas side beat Paper Rex 3-2 on June 21 for the organisation's first international title, and the final drew more than 1 million concurrent viewers, the most-watched Masters of 2026. [Esports Charts](https://escharts.com/news/valorant-masters-london-2026-results)
+- **Meow Wolf runs one show across all five houses at once** (live events & immersive). Phenomenomaly, a roaming mix of theatre, dance, and puppetry with rotating local artists, is playing in Santa Fe, Las Vegas, Denver, Grapevine, and Houston at the same time through August 9, included with any ticket. [Meow Wolf](https://meowwolf.com/phenomenomaly)
+
+**Sources (Edition #22)**
+
+- Ray Dalio, idea meritocracy and believability-weighted decision-making, via Principles.com: https://www.principles.com/principles/63fd198e-0b49-4fa9-9571-86b096a7c846/
+- How Africa Works, Joe Studwell (Economist best-of-2026 list); review via Foreign Policy: https://foreignpolicy.com/2026/04/24/how-africa-works-joe-studwell-review-development-economics-asia/ and author interview via Conversations with Tyler: https://conversationswithtyler.com/episodes/joe-studwell/
+- The AI Systems of Left 4 Dead (the AI Director), Mike Booth, Valve: https://steamcdn-a.akamaihd.net/apps/valve/2009/ai_systems_of_l4d_mike_booth.pdf
+- Record revenue alongside continued layoffs in games, 2026 (secondary figures, verify before use), via Outlook Respawn: https://respawn.outlookindia.com/gaming/gaming-news/record-profits-record-layoffs-inside-gamings-2026-paradox
+
+---
+
 ## 2026-06-21 (Edition #21)
 
 ### 1. A 400-person studio out-earns the giants (gaming & esports industry)

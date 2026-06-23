@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-23 (Edition #23)
+
+### 1. PUBG ships an AI that plays the match alongside you (AI x gaming)
+
+On June 17 Krafton put a co-playable character named Ella into PUBG as a 2-week beta called Ally Duo, running to July 1 on PC. She teams with you on the Sanhok map, takes voice commands, and reacts to the match in real time, built on an on-device small language model running on Nvidia's ACE tech. Krafton calls her a CPC, a co-playable character that actually plays rather than stands around. Players are skeptical so far, and the minimum spec (an RTX 2080 Ti or 3060) tells you it is still heavy to run.
+
+For EF and Ralf's AI-first push, this is a live test of whether players will accept AI as a teammate inside a competitive game they care about. The interesting part is acceptance, because the tech mostly works and the open question is how it feels to play with.
+
+One question to chew on: if an EWC title shipped an AI teammate, would your audience read it as a feature or a gimmick, and what would move them?
+
+### 2. Velocity is speed plus the right direction (gaming & esports industry)
+
+Joseph Kim's argument in GameMakers is that product velocity is a vector, speed and direction together, so moving fast in the wrong direction just burns the runway faster. He puts the biggest speed gains in two places: cutting the number of iteration cycles, and the design of the workflow itself. The ceiling, he says, is set by the quality of your leads and the team's culture. He is candid that his own studio sat in development hell for over 4 years while quicker rivals launched, failed, and moved on.
+
+For EF this maps onto how teams prototype activations and formats. Speed alone produces motion, and motion toward a target you have actually tested with players is what compounds.
+
+One question to chew on: where does EF move fast, and is it fast toward something you have tested, or just busy?
+
+### 3. Reid's power came from horse trading, one relationship at a time (leadership & negotiation)
+
+Jon Ralston's biography of Harry Reid, The Game Changer (2026), reads as a study in patient dealmaking. Reid ran the US Senate from 2007 to 2015 by building relationships over years and trading carefully, person by person. He moved the Affordable Care Act through the Senate by cutting specific deals with individual holdouts (Ben Nelson, Joe Lieberman) rather than winning one grand argument. Kirkus describes him as "wryly self-aware of his own willingness to bend his principles to make progress."
+
+For EF, publisher and partner talks rarely turn on a single big pitch. They turn on knowing each counterpart's real need and trading for it one at a time. The person-by-person path is slower, and it holds once the room has signed.
+
+One question to chew on: on your next multi-party deal, who is the one holdout whose specific need you have not yet named out loud?
+
+### 4. Xbox calls its own reset brutal (gaming & esports industry)
+
+Christopher Dring's piece asks why Xbox needs a "brutal reset," following the division's June 10 memo. By that memo, Xbox's annual revenue fell by close to $500M over 5 years and it expects to close fiscal 2026 near a 3% margin, with the studio system described as "over extended" (those figures come from the memo via trade coverage, so check them against the original before quoting). Reports point to studio closures, Compulsion Games among them. Dring traces the trouble back to an acquisition run that never settled on what Xbox is actually for.
+
+For EF the read is about identity before scale. Buying breadth without a clear answer to "what are we" leaves you with a portfolio nobody can run. The durability bet depends on naming which products define EF early, while the shape is still yours to set.
+
+One question to chew on: if EF had to name the 3 products that define it, would that list match where the money and the people actually go?
+
+#### News of the day
+
+- **Apple's app purge reshapes mobile discovery** (gaming & esports industry). Mobile Gaming Today reports Apple has begun removing apps at scale, and Block Blast lost about 6.3M daily users after a Google Play takedown, a reminder of how much platform gatekeeping decides mobile reach. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-111)
+- **The film-to-game loop shows in the Summer Game Fest data** (gaming & esports industry). GameDiscoverCo found Escape The Backrooms added 400k sales in days as its daily Twitch channels jumped from 200 to 5,800, riding the Backrooms movie. [GameDiscoverCo](https://newsletter.gamediscover.co/p/what-were-the-top-games-and-showcases)
+- **Rocky Horror joins the Sphere lineup** (live events & immersive). Announced June 16, an immersive Rocky Horror Picture Show experience is coming to the Las Vegas Sphere with a 2027 premiere, extending the dome's move into film-based shows. [blooloop](https://blooloop.com/news/sphere-rocky-horror-picture-show)
+
+**Sources (Edition #23)**
+
+- Krafton introduces the PUBG Ally beta (Ella, co-playable character, June 17 to July 1), Krafton press: https://www.krafton.com/en/news/press/krafton-introduces-pubg-ally-beta-test/ and Niko Partners coverage: https://substack.nikopartners.com/p/krafton-starts-testing-ai-teammate
+- On Product Velocity, Joseph Kim, GameMakers: https://www.gamemakers.com/p/on-product-velocity
+- The Game Changer: How Harry Reid Remade the Rules, Jon Ralston; review via The Washington Post: https://www.washingtonpost.com/books/2026/01/23/game-changer-harry-reid-ralston-review/
+- Why does Xbox need a brutal reset, Christopher Dring, The Game Business: https://www.thegamebusiness.com/p/why-does-xbox-need-a-brutal-reset and Xbox reset memo coverage via Game Developer: https://www.gamedeveloper.com/business/xbox-announces-business-reset-amid-reports-of-layoffs-and-studio-closures
+
+---
+
 ## 2026-06-22 (Edition #22)
 
 ### 1. Weight the vote by track record (leadership & negotiation)

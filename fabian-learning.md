@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-24 (Edition #24)
+
+### 1. What generative AI builds well, on a Minecraft test bench (AI x gaming)
+
+The Generative Design in Minecraft Competition (GDMC) is in its 9th year in 2026. Researchers and modders write an algorithm that drops onto a Minecraft map it has never seen and builds a believable settlement. Judges score it on function, how the village adapts to the terrain, how it looks, and whether it tells a story. Tommy Thompson (AI and Games) uses it as a grounded read on what generative systems actually do well: tight rules, a constrained world, and a clear way to measure "good."
+
+For Ralf's AI-first push, the signal is where these tools earn their keep today. They do their best work inside a bounded brief with a scoring function attached, less so on open-ended creative work with no rubric. The teams getting value write the constraints and the measure of success first, then let the model take a pass.
+
+One question to chew on: where in EF's work is there a tight brief with a clear measure of good, the kind of task a generative system could take a first crack at?
+
+### 2. Streaming hours predict who buys the game (gaming & esports industry)
+
+GameDiscoverCo (Simon Carless), working with the streaming tracker Stream Hatchet, keeps showing the same pattern: pre-release hours watched on Twitch track closely with Steam wishlist gains. A $6 hide-and-paint game called Meccha Chameleon hit about 3 million units and 3 million hours watched in a week. The free anime shooter Mecha Break saw big wishlist jumps tied to open betas streamed by big channels. (June 16 piece, figures self-reported by the trackers, so confirm before quoting.)
+
+EF just put $2M behind co-streamers for EWC and ENC (edition #21). This is the data under that bet: attention on stream moves intent to play. The part worth instrumenting is which titles and which creators turn viewing into sign-ups, then weighting the program toward the ones that convert.
+
+One question to chew on: for EWC titles, do you track whether co-stream hours actually move new-player sign-ups, and which creators convert best?
+
+### 3. China's blockbusters are built for home first (leadership & negotiation)
+
+ChinaTalk (Jordan Schneider and Phoebe Chow) walk through how China moved from mobile to AAA. Black Myth: Wukong made roughly $2 billion, with about 75% of sales domestic and the US near 10%. Their read: the home market is now big enough that a Chinese hit can win without needing the West at all. Phantom Blade Zero is lined up as the next one. (Figures from their piece, worth a primary-source check before you cite them.)
+
+For EF this shifts the leverage math with Chinese publishers and feeds the China-at-ENC picture. A studio that earns most of its money at home sits across the table from a different place than one that needs your audience to survive. Knowing whose revenue actually depends on reaching outside China tells you how much your invitation is worth to them.
+
+One question to chew on: among the Chinese titles and publishers in your orbit, which genuinely need a global audience, and which already have everything they need at home?
+
+### 4. Nintendo turns a game into the year's biggest movie (gaming & esports industry)
+
+The Super Mario Galaxy Movie crossed $1 billion worldwide, the first 2026 release to get there ($428.5M domestic, $571.5M international, on a reported $110M budget), per Variety and Niko Partners' coverage. It's the sequel to the 2023 Mario film, and it puts Nintendo among the few game owners turning its characters into mass-market cinema at this scale.
+
+The playbook is IP that travels past the game into film, parks, and merchandise, where the audience is far larger than the player base. For EWC titles and EF's own brand, the durable value sits in characters and stories people follow when they're nowhere near a controller.
+
+One question to chew on: which EWC or EF property has a character or story strong enough to live outside the game, and what's the first format you'd test it in?
+
+#### News of the day
+
+- **Cosm opens its immersive sports dome in Atlanta** (live events & immersive). Cosm's newest venue opened June 10 at Centennial Yards, about 70,000 square feet across 3 levels with an 87-foot LED dome for "Shared Reality" screenings of live sport, films, and Cirque du Soleil's O. [11Alive](https://www.11alive.com/article/news/entertainment-news/cosm-atlanta-opening-date-centennial-yards/85-fe6b7f66-bc2c-44c6-9082-e81dbc38c2d8)
+- **Esports World Cup 2026 opens ticketing for a $75M Paris edition** (gaming & esports industry). Tickets are live for all 25 competitions at Paris Expo Porte de Versailles, running July 6 to August 23, with a $75M prize pool, up from $71.5M last year. [Sortiraparis](https://www.sortiraparis.com/en/news/in-paris/articles/345804-esports-world-cup-2026-in-paris-ticket-sales-open-schedule-and-venue-revealed)
+- **Reports point to another games layoff wave heading into July** (gaming & esports industry). Trade coverage says Sony, Microsoft, and EA are bracing for fresh cuts next month, with the EA take-private still set to close by its June 30 long-stop. The specifics are reported, not confirmed, so treat them as a direction to watch. [Push Square](https://www.pushsquare.com/news/2026/06/rumour-gaming-industry-bloodbath-imminent-as-sony-microsoft-and-more-brace-for-mass-layoffs)
+
+**Sources (Edition #24)**
+
+- Generative Design in Minecraft in 2026, Tommy Thompson, AI and Games: https://www.aiandgames.com/p/generative-design-in-minecraft-in
+- What Twitch data adds to our view of game discovery, Simon Carless, GameDiscoverCo: https://newsletter.gamediscover.co/p/what-twitch-data-adds-to-our-view
+- China's Gaming Rise (Beyond Black Myth), Jordan Schneider and Phoebe Chow, ChinaTalk: https://www.chinatalk.media/p/beyond-black-myth-chinas-gaming-landscape
+- The Super Mario Galaxy Movie becomes first 2026 release to cross $1 billion, Variety: https://variety.com/2026/film/news/box-office-super-mario-galaxy-movie-hits-1-billion-1236768837/ and Niko Partners coverage: https://substack.nikopartners.com/p/super-mario-galaxy-move-becomes-first
+
+---
+
 ## 2026-06-23 (Edition #23)
 
 ### 1. PUBG ships an AI that plays the match alongside you (AI x gaming)

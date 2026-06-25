@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-25 (Edition #25)
+
+### 1. AI NPCs win the demo and split the studio (AI x gaming)
+
+Meaning Machine, the studio behind the AI-driven detective game Dead Meat, reported that 95% of testers enjoyed playing alongside its generative NPCs, and its co-founder Thomas Keane drew a line: players bristle at AI that replaces human creativity, and warm to it when it powers a new kind of interaction. That 95% is the company grading its own homework, and the reviewers who saw the demo stayed skeptical.
+
+The honest read for Ralf's AI-first push: the tech mostly works, and the open question is trust, on two sides at once. Players accept an AI character when it adds something they could not get from a scripted one. Teams accept the tool when they can see where it helps and where a human still leads, which is the safety and purpose part of the Culture Code.
+
+One question to chew on: for an EWC title or an EF product, what would an AI character have to do that a scripted one cannot, before your audience reads it as real value?
+
+### 2. Game viewership spikes with the event, then leaves (gaming & esports industry)
+
+Niko Partners' May 2026 livestreaming tracker shows how fast attention moves in China. Honkai: Star Rail pulled 37 million viewers for the month and still fell 69% from April, sliding from 4th to 16th once its 3-year anniversary event wound down, while a new release, Chaos Zero Nightmare, took a real share of RPG viewing. (Figures are Niko's monthly tracker numbers, worth a primary-source check before quoting.)
+
+The pattern matters more than any single title. Viewing follows the next big moment, an update, a launch, a live event, and drains when the moment passes. For EWC and ENC, that puts the weight on the calendar of moments you build, because a game is only as watched as its last reason to tune in.
+
+One question to chew on: across your EWC titles, which ones can manufacture a fresh reason to watch on demand, and which ride a wave you do not control?
+
+### 3. Middle powers are getting pushed to pick a side (leadership & negotiation)
+
+Eswar Prasad's The Doom Loop (2026) argues that economics, domestic politics, and geopolitics now feed each other's worst impulses and spin into instability. The institutions built to steady the system, the IMF and the WTO, have not kept pace with the century they operate in. Middle powers like India, Brazil, and Indonesia once looked like the makings of a stable multipolar order, and today they are increasingly forced to choose between the United States and China. (Prasad's argument, via the book and his interviews; the Economist's blurb calls it "a riveting and depressing argument.")
+
+For EF the lens is close to home. A sovereign-backed global brand sits inside that same pull, where publishers, partners, and even players can get asked, sometimes quietly, which side they are on. The durability bet of 5 to 10 years pays only if you can read where the order is heading.
+
+One question to chew on: if the US-China split sharpens, which of EF's partnerships gets harder to hold, and what would you do now to keep it open?
+
+### 4. Patient money returns to distinctive games (gaming & esports industry)
+
+A new San Francisco investment house, Denmu, launched a $50M fund on June 24 with what it calls an auteur-first approach: back creative vision and long-term partnerships ahead of short-term financial returns, across AAA, indie, premium, and free-to-play, aiming at 10 to 20 projects through 2028. Its bench includes Blizzard North co-founder David Brevik. As venture money in games has pulled back, this is a wager that creator-led games with a strong identity are worth slow capital.
+
+For EF this is the durability-over-ROI thesis in someone else's words, and it sits one step from your world. How the studios around you fund themselves shapes what they need from a partner, and a developer backed by patient money asks for something different than one chasing the next quarter.
+
+One question to chew on: where could EF act like patient capital for a partner, trading a short-term ask for a longer, stronger relationship?
+
+#### News of the day
+
+- **Trailmark Games launches as a publisher built for licensed games** (gaming & esports industry). The new studio-publisher says it will give licensed games a real path to market, a corner of the business long stuck with rushed movie and TV tie-ins. [Game Developer](https://www.gamedeveloper.com/business/new-publisher-trailmark-games-promises-new-path-forward-for-licensed-games)
+- **Sandbox VR opens its third Las Vegas venue** (live events & immersive). The full-body VR operator opened at Town Square on June 12 with 4 private rooms and 11 in-house titles, including a dinosaur experience built with the Natural History Museum of London, as it pushes past 80 locations worldwide. [Vegas 411](https://vegas411.com/things-to-do/sandbox-vr-town-square-las-vegas-opens-june-12)
+- **EA cuts more staff as the PIF buyout nears close** (gaming & esports industry). EA was hit with another round of layoffs across teams in the US and India, reported this week, landing as Saudi Arabia's PIF moves to take the publisher private by its June 30 long-stop. [Game Rant](https://gamerant.com/ea-layoffs-june-2026/)
+
+**Sources (Edition #25)**
+
+- Company that makes generative AI NPCs reports 95% of players enjoy them (Meaning Machine, Dead Meat), PC Gamer: https://www.pcgamer.com/software/ai/company-that-makes-generative-ai-powered-npcs-reports-that-95-percent-of-players-enjoy-their-generative-ai-powered-npcs/
+- Livestreaming Tracker May 2026 Highlights (China RPG viewership), Niko Partners: https://substack.nikopartners.com/p/livestreaming-tracker-may-2026-highlights
+- The Doom Loop: Why the World Economic Order Is Spiraling into Disorder, Eswar Prasad; Brookings: https://www.brookings.edu/books/the-doom-loop/ and interview via The Wire China: https://www.thewirechina.com/2026/03/08/eswar-prasad-on-the-doom-loop-that-threatens-the-world/
+- Denmu raises $50M auteur-first fund for game developers, GamesBeat: https://gamesbeat.com/denmu-raises-50m-fund-to-fuel-visionary-game-makers-exclusive/
+
+---
+
 ## 2026-06-24 (Edition #24)
 
 ### 1. What generative AI builds well, on a Minecraft test bench (AI x gaming)

@@ -8,6 +8,153 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-28 (Edition #28)
+
+### 1. World models turn a prompt into a place you can walk (AI x gaming)
+
+Fei-Fei Li's World Labs put its world model Marble into public release, on free and paid tiers. You give it a line of text, a photo, a video, or a panorama, and it builds a persistent 3D environment you can edit and download as a mesh or a Gaussian splat. It also shipped an editing tool called Chisel, and the company raised about $1B in February (Autodesk put in $200M). DeepMind's Genie 3 does something close in real time, though it sits in a limited research preview for now. (Funding and product details from World Labs and TechCrunch, so treat the round size as reported.)
+
+Edition #18 covered Google's Genie as the demo that spooked studio stocks. Marble is the part you can use: the world comes out as a file an artist can pull into a normal pipeline. For Ralf's AI-first push, this is the layer under "block out a level in an afternoon," where a generated space gives a designer something to shape instead of a blank screen. The value for EF and EWC titles sits at the rough-draft stage.
+
+One question to chew on: if a partner studio could generate a playable 3D space from a brief in an hour, what would you ask them to prototype first?
+
+### 2. One event built the biggest Counter-Strike audience ever (gaming & esports industry)
+
+The IEM Cologne Major grand final between Falcons and FURIA peaked at 2,751,121 viewers, the most-watched match in Counter-Strike history, edging the 2021 PGL Stockholm final. The event averaged 627,863 viewers and crossed 100 million hours watched, the first CS tournament to do so. Two non-final matches passed 2 million concurrent viewers, which had never happened before. (Figures from Esports Charts, whose peak counts exclude Chinese platforms, so the true number runs higher.)
+
+Falcons, a Saudi-backed org, lifting that trophy sits close to EF's world. The lesson under the records is concentration: a single Major, with the right teams and a storyline, pulled an audience that years of steady-state league play never reached. The calendar moment is the product.
+
+One question to chew on: across EWC titles, which one Major-scale moment could you build this year that pulls a number people quote for the next five?
+
+### 3. Why China got rich and India didn't (leadership & negotiation)
+
+David Oks argues the China-India split started around 1950, well before either country opened its markets. His claim: industrial growth needs people who are literate enough to train, healthy enough to show up, and free enough from old social ties to sell their labor where it pays best. China spent three decades building that human base. By 1980 it was a socially modern country that happened to be very poor, and ready to industrialize. The numbers he cites: the life-expectancy gap widened from 3 years in 1950 to 11 by 1980, and under-5 mortality fell to 6.3% in China against 17% in India. (Essay on davidoks.blog, June 2026; the figures are his, worth a primary-source check.)
+
+For EF the lever is the same one scaled down: you grow an ecosystem by investing in its people first, the talent, the grassroots, the coaches and broadcasters, before the revenue shows up. The patient build is the bet.
+
+One question to chew on: where is EF chasing the market when it should be building the people who make that market possible?
+
+### 4. MENA's market runs on a young home crowd (gaming & esports industry)
+
+Niko Partners' model for MENA-3 (Saudi Arabia, the UAE, Egypt) puts the market near $2.8B with roughly 87 million gamers, about 76% of them under 35, and close to 73% engaging with esports in some way. Saudi Arabia leads on revenue, the UAE on spend per user, Egypt on size and growth. (These are Niko model and forecast figures and the report vintage is unclear to me, so verify the exact numbers before you quote them.)
+
+For EF, headquartered in the Kingdom, that demographic is the asset and the reason the long bet makes sense: a young, esports-fluent home audience that grows for years. The work is converting that base into players, viewers, and talent who stay.
+
+One question to chew on: what does EF own in the home market that a global publisher cannot copy, and are you pricing that advantage into partner deals?
+
+#### News of the day
+
+- **Star Fox returns after a decade as Switch 2 clears 19.86M units** (gaming & esports industry). Nintendo launched Star Fox on June 25, its first new entry since 2016, with a free demo a week earlier. Switch 2 has shipped 19.86M, already Nintendo's fastest seller and ahead of PS5 in recent quarters. [Variety](https://variety.com/2026/gaming/news/nintendo-switch-2-sales-17-million-1236650699/)
+- **Sphere's owner plans a second dome, in Maryland** (live events & immersive). After the Las Vegas venue's run with The Wizard of Oz, Sphere Entertainment confirmed plans for a second US Sphere outside Washington, DC. [EDM](https://edm.com/news/vegas-sphere-owner-announces-plans-second-us-venue-maryland/)
+- **Global Esports Industry Week gathers the trade in London and debuts the Esports Leaders Honours** (gaming & esports industry). The June business week pulled the games, dev, and education summits under one roof, with a new awards night for the people running the sector. [Global Esports Week](https://www.globalesportsweek.com/)
+
+**Sources (Edition #28)**
+
+- Marble: A Multimodal World Model, World Labs: https://www.worldlabs.ai/blog/marble-world-model and TechCrunch: https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/
+- IEM Cologne Major 2026 rewrites Counter-Strike viewership, Esports Charts: https://escharts.com/news/iem-cologne-major-2026-rewrites-counter-strike-viewership-history and Dot Esports: https://dotesports.com/counter-strike/news/iem-cologne-2026-viewership-record
+- Why China got rich and India didn't, David Oks: https://davidoks.blog/p/why-china-got-rich-and-india-didnt
+- The Future of Gaming in MENA-3, Niko Partners: https://nikopartners.com/the-future-of-gaming-in-mena-3-understanding-the-opportunity/ and GamesBeat: https://gamesbeat.com/niko-partners-mena-3-games-market-to-grow-56-by-2026/
+
+---
+
+## 2026-06-27 (Edition #27)
+
+### 1. Developers are split on generative AI (AI x gaming)
+
+Two readings of the same year sit side by side. A Google Cloud survey says around 90% of developers now use AI somewhere in their workflow, and most think it is reshaping the craft. The GDC 2026 State of the Game Industry survey says a little over half of developers think generative AI is a net harm to the business. (Both are self-reported surveys, so read them as sentiment with the usual survey caveats.)
+
+The split tells you where the real fight is. Teams accept AI for research, coding help, and prototyping, the rough middle of the pipeline. They resist it as a replacement for the people who give a game its taste. The studios getting value put AI under skilled hands and keep the human at the point where quality is judged. That is the safety-and-purpose half of the Culture Code, applied to tools.
+
+One question to chew on: in EF's own work, where would your team welcome AI as a co-worker, and where would it read as a threat to the craft they take pride in?
+
+### 2. Mobile growth shifts from installs to keeping players (gaming & esports industry)
+
+The mobile user-acquisition playbook is changing. Install volume is falling while revenue grows, and acquisition costs keep climbing, so the spend moves toward retention. More than 95% of mobile players churn inside 30 days, which makes the first month the whole game. One 2026 whitepaper (Aarki) argues that aligning acquisition with retargeting can lift lifetime value by around 20%. (Benchmark figures vary by source, so treat them as directional.)
+
+For EF's co-stream and audience programs, the parallel holds. Getting someone to watch or sign up is the cheap part. The work is the second session, the reason to come back next week. The metric that matters is who stays.
+
+One question to chew on: for EWC and ENC audiences, do you measure the 30-day return rate, and which formats actually bring people back?
+
+### 3. Harry Reid's patient dealmaking (leadership & negotiation)
+
+Jon Ralston's biography The Game Changer paints the late US Senator Harry Reid as unhurried, deliberate, and quietly persuasive. He counted votes one conversation at a time, traded favors, and was openly self-aware about bending his own principles when it moved something forward. He once persuaded a senator to switch parties, and he changed the chamber's rules when the old ones blocked him. (Account from Ralston's book and reviews; he interviewed Reid 24 times before Reid died in 2021.)
+
+The transferable part for EF is the temperament: power built slowly, relationship by relationship, with a clear read of what each side needs. In publisher and partner talks, the deliberate operator who knows the room usually beats the one with the loudest pitch.
+
+One question to chew on: in your hardest current negotiation, are you counting votes one by one, or hoping a single strong meeting carries it?
+
+### 4. EA goes private in the largest buyout on record (gaming & esports industry)
+
+Electronic Arts is being taken private for about $55B, the biggest leveraged buyout ever, by a group of Silver Lake, Saudi Arabia's PIF, and Affinity Partners. Shareholders get $210 a share. PIF rolls its existing stake into roughly $36B of equity, with about $20B of debt from JPMorgan. The deal is set to close around June 30, with Andrew Wilson staying as CEO. (Terms from Variety and public filings; the close date depends on remaining approvals.)
+
+This sits right next to EF's world, since the same sovereign fund anchors both. A publisher freed from quarterly markets can think in longer arcs, which is the case EF makes for patient capital. The open question is whether private ownership buys creative patience or just tighter cost control.
+
+One question to chew on: if a major publisher near you starts planning in 5-year arcs instead of quarters, how does that change what they want from a partner like EF?
+
+#### News of the day
+
+- **Immersive Empire opens in Colorado with six attractions** (live events & immersive). The team behind Bounce Empire opened a $24-entry venue on June 5 with a 270-degree motion ride, a 42-foot LED dome, and a Wild West shootout. [Colorado Parent](https://coloradoparent.com/introducing-immersive-empire-a-next-generation-entertainment-destination/)
+- **IEM Cologne's TikTok broadcast sets a platform record** (gaming & esports industry). The Major's TikTok LIVE stream hit a new high for Counter-Strike, a sign that platform-native broadcasts reach audiences the usual Twitch and YouTube feeds miss. [Esports Charts](https://escharts.com/news/iem-colognes-cs-tiktok-record-explained)
+- **GameByte raises $1M for an AI game-creation platform** (AI x gaming). The pre-seed round backs a tool that lets people build games with AI, one of a wave of small bets on AI-native game making. [GAMES.GG](https://games.gg/news/key-studio-acquisitions-and-funding-news/)
+
+**Sources (Edition #27)**
+
+- GDC 2026 report on generative AI sentiment: https://www.gianty.com/gdc-2026-report-about-generative-ai/ and Google Cloud, a new era of gaming: https://cloud.google.com/transform/a-new-era-of-gaming-how-the-next-generation-of-play-is-being-redefined-by-ai-agents
+- Mobile gaming trends 2026, Bigabid: https://www.bigabid.com/mobile-gaming-trends-2026/ and Business of Apps whitepaper: https://www.businessofapps.com/insights/mobile-gaming-marketing-trends-whitepaper-2026/
+- The Game Changer, Jon Ralston: https://www.simonandschuster.com/books/The-Game-Changer/Jon-Ralston/9781982194413 and Kirkus review: https://www.kirkusreviews.com/book-reviews/jon-ralston/the-game-changer-3/
+- Electronic Arts to go private in $55B deal, Variety: https://variety.com/2025/gaming/global/electronic-arts-goes-private-55-billion-deal-1236533827/ and Wikipedia overview: https://en.wikipedia.org/wiki/Proposed_leveraged_buyout_of_Electronic_Arts
+
+---
+
+## 2026-06-26 (Edition #26)
+
+### 1. AI games are coming, the soul is the moat (AI x gaming)
+
+Michał Nowakowski, joint CEO of CD Projekt Red, described meeting a founder who claimed his AI studio can spin up 40 prototypes in a week and ship a finished game in three. Nowakowski's response was measured: maybe it works, and he doubts it is the path. His bet is that algorithm-prompted games will struggle to land the thing that wins attention, a game with a soul, with legs, with a fresh idea behind it. (Quotes via GamesRadar and Insider Gaming, late June.)
+
+For Ralf's AI-first push, this is a useful counterweight from a studio that ships big. Speed of production is going to be cheap and abundant. The scarce thing becomes taste and a reason to care, which is where a human team earns its keep.
+
+One question to chew on: if AI makes prototypes nearly free, what is the one judgment call in EF's products that you would never hand to a model?
+
+### 2. Xbox resets, and the margin tells the story (gaming & esports industry)
+
+Bloomberg's Jason Schreier reported that Xbox is planning significant layoffs after Microsoft's fiscal year closes on June 30, part of a broad reset under new gaming CEO Asha Sharma covering hardware, studios, marketing, and exclusives. The detail that stings: despite spending close to $20B over five years, the division's profit margin has slid to around 3%. (Reporting from Bloomberg and GeekWire; Microsoft has not confirmed numbers, so treat headcount figures as rumor.)
+
+The read for any platform owner is that scale spending does not guarantee a healthy business. Xbox bought studios and content for years, and the margin still thinned. For EF the lesson is to watch the unit economics under the growth story, because a big topline can hide a weak engine.
+
+One question to chew on: in EF's biggest bets, do you know the real margin under the headline activity, or just the size of the activity?
+
+### 3. Build the people before you chase the market (leadership & negotiation)
+
+Joe Studwell's How Africa Works takes the recipe from his earlier How Asia Works and applies it to the next frontier. His core claim: development starts with people and land. Build a coalition that gives every group a stake, invest in agriculture and basic human capital, then move up to industry. He points to Botswana, Mauritius, Ethiopia, and Rwanda as cases where parts of the recipe worked, and argues a rising population is an asset once the basics are in place. (From the book and reviews in African Business and others.)
+
+For EF this maps onto where audience growth actually lives over the long cycle, in young, fast-growing markets that reward patient building. The order matters: foundations first, returns later.
+
+One question to chew on: if EF treated a target region like a development project, what is the "agriculture first" move, the unglamorous base you would build before chasing the marquee deal?
+
+### 4. Google's store cracks open and the 30% wall comes down (gaming & esports industry)
+
+A US court approved the Epic v. Google settlement in March, and the changes land starting June 30 in the US, UK, and EU. Android developers can route payments outside Google's billing, link out to their own checkout, and face a new tiered fee that starts at 10% rather than the old 30%. Transactions within 24 hours of an in-app link-out carry 20%. (Details from the settlement coverage; the rollout reaches more countries through 2027.)
+
+For anyone selling digital goods on mobile, the take rate just moved, and the direct-to-player channel got real. For EF and its partners, store economics shape what a mobile title can afford to spend on audience, prizes, and creators. Cheaper rails mean more room to invest in the parts fans see.
+
+One question to chew on: if mobile store fees drop toward 10%, where would you want a partner to put the freed-up margin, into players, prize pools, or creators?
+
+#### News of the day
+
+- **Sphere unveils a Rocky Horror stage show for 2027** (live events & immersive). After The Wizard of Oz drew millions, Sphere announced a full-scale Rocky Horror Picture Show production for its Las Vegas dome, due 2027. [Travel And Tour World](https://www.travelandtourworld.com/news/article/umqql48b9sze/)
+- **NVIDIA ships its ACE Game Agent SDK beta, with AI characters in inZOI and Naraka** (AI x gaming). The on-device toolkit for speech, reasoning, and voice in NPCs moved to open beta, with AI characters debuting in inZOI and Naraka: Bladepoint. [NVIDIA](https://www.nvidia.com/en-us/geforce/news/nvidia-ace-naraka-bladepoint-inzoi-launch-this-month/)
+- **Reforged Studios raises $30M after buying Headup** (gaming & esports industry). The IP-focused studio-publisher landed $30M led by MEP Capital to acquire and extend the life of existing game properties, a wager on owning catalogs and stretching their lifespan. [PocketGamer.biz](https://www.pocketgamer.biz/reforged-studios-secures-30m-to-scale-global-games-ip-platform/)
+
+**Sources (Edition #26)**
+
+- CD Projekt Red on AI-generated games, GamesRadar: https://www.gamesradar.com/games/the-witcher/joint-the-witcher-4-and-cd-projekt-red-ceo-says-fully-ai-generated-games-are-coming-but-he-has-some-doubts-whether-this-is-really-the-path-to-follow/ and Insider Gaming: https://insider-gaming.com/cd-projekt-red-exec-skeptical-of-fully-ai-generated-games/
+- Xbox plans significant layoffs under Asha Sharma, Bloomberg: https://www.bloomberg.com/news/articles/2026-06-10/xbox-plans-significant-layoffs-as-it-transforms-under-new-ceo-asha-sharma and Game Rant: https://gamerant.com/xbox-layoffs-june-2026/
+- How Africa Works, Joe Studwell, Grove Atlantic: https://groveatlantic.com/book/how-africa-works/ and African Business review: https://african.business/2026/02/arts-culture/book-review-how-africa-works-by-joe-studwell
+- Epic v. Google settlement and Play Store changes, Coda: https://www.coda.co/blog/epic-v-google-policy-update-2026/ and iClarified: https://www.iclarified.com/101291/google-opens-play-store-to-alternative-payments-under-epic-settlement
+
+---
+
 ## 2026-06-25 (Edition #25)
 
 ### 1. AI NPCs win the demo and split the studio (AI x gaming)

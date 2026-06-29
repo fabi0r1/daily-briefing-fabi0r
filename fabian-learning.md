@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-06-29 (Edition #29)
+
+### 1. Capcom's AI rule: speed the routine, keep the craft human (AI x gaming)
+
+In a Q&A after its March 2026 shareholders' meeting, Capcom set a clear policy. It will not put AI-generated assets into the final content of its games, and it will use generative AI to speed up routine work across graphics, sound, and programming so developers spend more of their time on what Capcom calls essential value creation. The reasoning it gave: a game has to deliver an experience that beats what players expect, and the creativity at the core of that should stay in human hands. (Statement reported by PC Gamer, Game Developer, and AI and Games, March 2026.)
+
+For Ralf's AI-first push, this is a concrete template from a studio that ships at scale. It names the boundary out loud, AI on the repeatable middle of the pipeline, humans at the point where taste is judged. That is a sentence EF could borrow when it sets its own stance, because the useful part is the line itself, drawn in public.
+
+One question to chew on: if EF wrote its own one-paragraph AI policy, where exactly would you draw the line between the work a model does and the work a person signs off on?
+
+### 2. EFG's own data says esports branding moves Gen Z to buy (gaming & esports industry)
+
+A new whitepaper from ESL FACEIT Group, Hero Esports, and Niko Partners surveyed 8,000 Gen Z esports fans aged 13 to 30 across 8 markets. 74% said esports branding has affected their buying, and 66% bought a product after a collaboration or co-branding with a team, game, or player. The average fan in the sample attended at least one in-person event in the past 9 months. (Released 2026-06-25; these are self-reported survey figures, so read them as fan sentiment, and the full report carries the rest.)
+
+This is the audience EWC and ENC sell to, measured by one of EF's own partners (EFG runs the events side). The 66% co-brand number is the kind of line that belongs in a sponsor conversation, because it puts a figure on the thing brands are buying when they back a tournament. The in-person event stat says the same crowd still shows up in a room.
+
+One question to chew on: does EF actually track how many people buy after a co-brand moment at EWC, or do you sell the audience without measuring the conversion?
+
+### 3. Gaming's three old moats are draining at once (leadership & negotiation)
+
+Joseph Kim's argument at GameMakers is that the three things that used to protect a game studio are eroding together: capital, technology, and talent. The clearest signal is the engine data from the GDC 2026 survey of more than 2,300 professionals. Unreal Engine now sits near 42%, past Unity (around 30%) for the first time, Godot is climbing toward 11% with newer indie teams, and proprietary in-house engines have fallen to roughly 19%. (Survey figures are self-reported, so treat the shares as directional.)
+
+When money, tools, and skills stop being scarce, defensibility moves somewhere else: to the audience you hold, the identity of your brand, and the IP people come back for. For EF that is the whole thesis written in someone else's words. EF's durable edge is the audience and the live moments it owns, things a competitor cannot buy off a shelf the way they now buy an engine.
+
+One question to chew on: if every studio around you can rent the same tools and money, what does EF own that stays scarce for the next 5 years?
+
+### 4. The case for putting reveals back in a room (live events & immersive)
+
+Christopher Dring (The Game Business, June 15) makes a simple point about how games get announced. The digital-only reveal format has gone flat. A new trailer for an iconic franchise, the kind that would once have sent a packed hall into a roar, now slides past as a muted pre-recorded clip on a stream. The shared room, the collective gasp, the noise a crowd makes together, is the part a polished video cannot reproduce.
+
+For EF this is the live-event thesis from the marketing side. The arena is EF's structural advantage, and the energy of a full venue is a product publishers cannot copy from a living room. The reveals, the finals, the moments worth traveling for are where EF's format earns its keep.
+
+One question to chew on: which EWC or ENC moment this year would lose the most if you ran it as a pre-recorded clip instead of live in a room?
+
+#### News of the day
+
+- **Global games revenue cleared $200 billion for the first time in 2025** (gaming & esports industry). The market hit about $201.6B, up roughly 9.1%, with the Middle East and Africa the fastest-growing region at around 15%. Record revenue while layoffs continue is the tension worth holding. [Gies weekly](https://giesweekly.substack.com/p/valve-prices-the-steam-machine-at)
+- **Football games are pulling companion downloads ahead of the 2026 World Cup** (gaming & esports industry). Mobile Gaming Today's latest issue flags anime titles sweeping breakout revenue charts and football games driving companion card-game downloads as fans gear up for the tournament, a clean read on sport and games converging around a calendar moment. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-112)
+- **Cosm opens an immersive sports dome in Atlanta** (live events & immersive). The roughly 70,000-square-foot venue with an 87-foot LED dome puts audiences inside live sports and shared-reality screenings, the latest in a run of immersive venues betting people will pay to feel inside the action. [CBS Atlanta](https://www.cbsnews.com/atlanta/news/atlantas-new-immersive-sports-venue-cosm-will-open-in-june/)
+
+**Sources (Edition #29)**
+
+- Capcom lays out its AI philosophy, AI and Games: https://www.aiandgames.com/p/capcom-lays-out-their-ai-philosophy and PC Gamer: https://www.pcgamer.com/gaming-industry/capcom-says-it-will-not-implement-assets-generated-by-ai-into-our-game-content-but-still-plans-to-use-ai-to-enhance-efficiency-and-boost-productivity-in-game-development/
+- The Esports Generation: Who They Are, and Why They Spend (ESL FACEIT Group x Hero Esports x Niko Partners), Niko Partners: https://substack.nikopartners.com/p/the-esports-generation-who-they-are and PR Newswire: https://www.prnewswire.com/news-releases/400-million-fans-study-finds-how-esports-influences-gen-z-and-their-purchasing-behaviours-302810817.html
+- The Gaming Industry Isn't in a Downturn. It's Losing Its Moat., GameMakers (Joseph Kim): https://www.gamemakers.com/p/the-gaming-industry-isnt-in-a-downturn
+- It is time to return to in-person showcases, The Game Business (Christopher Dring): https://www.thegamebusiness.com/p/it-is-time-to-return-to-in-person
+
+---
+
 ## 2026-06-28 (Edition #28)
 
 ### 1. World models turn a prompt into a place you can walk (AI x gaming)

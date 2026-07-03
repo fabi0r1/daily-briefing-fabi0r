@@ -8,6 +8,202 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-03 (Edition #33)
+
+### 1. Tencent turns a sketch into a game asset in minutes (AI x gaming)
+
+Tencent has opened its Hunyuan 3D creation engine to creators worldwide. You give it a text description, a photo, or a rough sketch, and it returns a textured 3D model in minutes, exported in standard formats (OBJ, GLB) that drop straight into Unity, Unreal, or Blender. The open-source versions have passed 3 million downloads on Hugging Face. (Details from Tencent's own announcement and Game Developer, so read the "minutes" claim as the vendor's.)
+
+For partner studios and EWC content teams, the bottleneck this hits is asset creation, the slow, expensive middle of any 3D pipeline. A designer can now get a rough, usable model from a brief and spend the saved hours on the parts players actually notice. That is the practical shape of Ralf's AI-first push, tools under skilled hands at the draft stage.
+
+One question to chew on: if a partner could generate first-pass 3D assets from a brief, what would you want them to build more of with the time they get back?
+
+### 2. A signature franchise is built slowly (gaming & esports industry)
+
+The Game Business looked at whether PlayStation's Housemarque can repeat the FromSoftware story, becoming a studio with a signature style that fans seek out by name. The throughline is patience: FromSoftware spent many years and several titles refining one identity before Elden Ring made it mainstream. A recognizable studio voice is the product of cycles, not a single hit.
+
+For EF the parallel is brand-building over the long arc. A durable game brand, a durable event, a durable audience relationship, all compound across years of consistent identity. The bet on durability over short-term ROI is the same bet a studio makes when it protects its voice.
+
+One question to chew on: which EF property has a signature identity clear enough that fans would seek it out by name in 5 years, and which is still borrowing someone else's?
+
+### 3. Your leverage is your best alternative (leadership & negotiation)
+
+The core idea from Getting to Yes (Roger Fisher and William Ury) is the BATNA, your Best Alternative To a Negotiated Agreement. Your power at the table is not your volume or your charm. It is the quality of what you can walk to if the deal collapses. A strong alternative lets you hold the line calmly. A weak one means you are negotiating scared, whatever you say out loud.
+
+For EF this reframes every publisher and partner talk. Before the meeting, the useful work is building and knowing your alternative, so you can tell a good offer from one you should walk away from. The side with the better walk-away usually sets the terms.
+
+One question to chew on: in your most important open negotiation, what is your real alternative if it falls through, and have you done the work to make that alternative stronger?
+
+### 4. The metaverse's quiet retreat (live events & immersive)
+
+Joseph Kim's GameMakers piece walks through the distance between what the metaverse promised and what actually shipped. The everything-platform, one persistent virtual world where we would work, play, and gather, mostly did not arrive. What did land is narrower and more useful: specific, well-made immersive experiences that people choose for what they are.
+
+For EF the read is a discipline check on immersive and platform bets. Value sits in a concrete experience worth paying for, a great venue, a great show, a great live moment, rather than in a grand platform story. Build the thing people want to attend, and let the platform talk stay talk.
+
+One question to chew on: in EF's immersive plans, which bets are a concrete experience someone would pay for tomorrow, and which are a platform story still waiting on everyone else to show up?
+
+#### News of the day
+
+- **Revenant XSpark nears a reported $12M deal for Global Esports** (gaming & esports industry). The draw is access to the VALORANT Champions Tour Pacific league, with closing reported for mid-2026. Treat the figure as reported, not confirmed. [Outlook Respawn](https://respawn.outlookindia.com/esports/esports-news/revenant-xspark-set-to-seal-12m-global-esports-acquisition-deal)
+- **Steam Next Fest shows what pulls wishlists** (gaming & esports industry). GameDiscoverCo's read on June's festival is a clean look at which demos turned attention into wishlists, the discoverability mechanics behind a launch. [GameDiscoverCo](https://newsletter.gamediscover.co/p/who-won-june-2026s-steam-next-fest)
+- **Where Winds Meet gets its first expansion, "Hidden Mountain"** (gaming & esports industry). The open-world title adds new content as it builds a longer tail. [Game Rant](https://gamerant.com/gaming/)
+
+**Sources (Edition #33)**
+
+- Tencent announces global launch of the Hunyuan 3D engine, Tencent: https://www.tencent.com/en-us/articles/2202235.html and Game Developer: https://www.gamedeveloper.com/business/tencent-launches-ai-powered-3d-asset-tool-to-empower-creators-
+- Can PlayStation's Housemarque repeat the FromSoftware story?, The Game Business: https://www.thegamebusiness.com/p/can-playstations-housemarque-repeat
+- Getting to Yes, Roger Fisher and William Ury: https://www.pon.harvard.edu/shop/getting-to-yes-negotiating-agreement-without-giving-in/
+- So This Is How The Metaverse Dies, GameMakers (Joseph Kim): https://www.gamemakers.com/p/so-this-is-how-the-metaverse-dies
+
+---
+
+## 2026-07-02 (Edition #32)
+
+### 1. Microsoft's Muse can dream up gameplay (AI x gaming)
+
+Microsoft Research built Muse, which it calls the first World and Human Action Model. Trained on more than a billion frames and controller inputs from Ninja Theory's Bleeding Edge, it can generate game visuals, controller actions, or both, with a working sense of the game's physics and how the world reacts to a player. Microsoft frames it as a tool for ideation and for reviving and updating older games, and has put the model on Azure AI Foundry. (Published in Nature in early 2025, so treat this as an established research result, not a shipping product.)
+
+For EF the interesting part is preservation and prototyping. A model that understands how a game plays could keep classic titles alive across new devices and give designers a way to explore variations quickly. The value sits at ideation, ahead of the expensive production stage.
+
+One question to chew on: if you could revive one dormant game or format for a new audience with a tool like this, which one would earn the effort?
+
+### 2. EA changed course after a furious fanbase (gaming & esports industry)
+
+The Game Business spoke with EA boss Laura Miele about how loud community backlash reshaped real decisions, including on Battlefield and Skate. The lesson underneath the anecdotes is that a vocal player base is information, not noise. The teams that listened early avoided bigger mistakes later.
+
+For EF this is the player-first principle with a concrete case attached. The audience for EWC and ENC will tell you when something is off, often before your own dashboards do. The work is building the channels to hear it and the discipline to act on it.
+
+One question to chew on: where does EF actually hear from its players today, and when a signal comes back angry, who is empowered to change the plan?
+
+### 3. Judge the decision, not the result (leadership & negotiation)
+
+Annie Duke's Thinking in Bets names a trap she calls "resulting," grading a choice by how it happened to turn out. A good decision can lose and a bad decision can win, because luck sits between the choice and the outcome. The fix is to judge the quality of the process, the information you had and how you weighed it, separate from the result.
+
+For EF this matters most on the big, uncertain bets, a host city, a publisher deal, a new format. If you only reward decisions that worked, you teach your team to avoid smart risks and to take credit for luck. Grading the process keeps you honest on both.
+
+One question to chew on: on your last big call that went well, was the process actually sound, or did a shaky decision get rescued by luck you are now mislabeling as skill?
+
+### 4. Immersive spectacle is coming to the Gulf (live events & immersive)
+
+Sphere Entertainment is building a second Sphere on Yas Island in Abu Dhabi, a roughly $1.7B venue that will be the first outside the United States, holding around 20,000 people. Plans include proprietary "Sphere Experiences" built around Emirati culture and heritage, concert residencies, and Arabic artists alongside global acts. The opening is expected around 2029. (Investment and timeline reported by regional and trade press, so read the date as planned.)
+
+For EF, headquartered in the Kingdom, a landmark immersive venue in the neighboring UAE is close to home in every sense. It signals that the Gulf is being built into a global stop for large-scale live spectacle, the same category the EWC live event lives in. A rising tide of world-class venues in the region shapes the audience and the talent EF can reach.
+
+One question to chew on: if the Gulf becomes a magnet for global live spectacle, what does EF want to own in that scene that a concert venue never could?
+
+#### News of the day
+
+- **Splatoon returns as a single-player spin-off, "Splatoon Raiders"** (gaming & esports industry). Nintendo is extending a competitive franchise into a new solo format with optional co-op. [Nintendo](https://www.nintendo.com/en-gb/News/2026/July/Upcoming-games-July-2026-3130162.html)
+- **11 games leave Xbox Game Pass in early July** (gaming & esports industry). A reminder that subscription catalogs churn, and a library is rented, not owned. [Pure Xbox](https://www.purexbox.com/news/2026/07/11-games-are-leaving-xbox-game-pass-in-early-july-2026)
+- **Anime games are sweeping mobile's breakout revenue charts** (gaming & esports industry). Mobile Gaming Today notes anime titles topping breakout revenue with a core Asia-Pacific base while making inroads in the West. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-112)
+
+**Sources (Edition #32)**
+
+- Introducing Muse, Microsoft Research: https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/ and Xbox Wire: https://news.xbox.com/en-us/2025/02/19/muse-ai-xbox-empowering-creators-and-players/
+- Command & Conquer backlash and how it changed EA (Laura Miele), The Game Business: https://www.thegamebusiness.com/p/fans-were-so-angry-about-a-command
+- Thinking in Bets, Annie Duke: https://www.penguinrandomhouse.com/books/552884/thinking-in-bets-by-annie-duke/
+- New Sphere being built in Abu Dhabi, Hollywood Reporter: https://www.hollywoodreporter.com/business/business-news/new-sphere-built-in-abu-dhabi-1236032333/ and The National: https://www.thenationalnews.com/news/us/2026/04/24/a-visit-to-the-las-vegas-sphere-shows-whats-in-store-for-abu-dhabi/
+
+---
+
+## 2026-07-01 (Edition #31)
+
+### 1. A country writes an AI plan for its creative industries (AI x gaming)
+
+Tommy Thompson (AI and Games) covered the UK government's adoption plan for putting AI to work across the creative industries, games included. The interesting part is the framing: a state treating AI adoption as an economic policy question, with public money and coordination behind it, rather than leaving it to individual studios to figure out alone.
+
+For EF and the Kingdom's ambitions, this is a live example of how governments position themselves on AI in creative work. KSA is making a similar bet on being an early, organized adopter. Watching how a national plan lands, what it funds, what it overpromises, is useful before EF ties its own AI story to a policy narrative.
+
+One question to chew on: if KSA framed an AI-in-games adoption plan, what is the one concrete thing EF would want it to fund first?
+
+### 2. A game sold 15x its launch week, a year later (gaming & esports industry)
+
+GameDiscoverCo tracked a title, Small Spaces, that sold roughly 15 times its first-week numbers about a year after it launched. The usual story says a game's fate is set in its opening window. This is a counter-case where word of mouth, updates, and discovery compounded slowly, and the peak arrived long after release day.
+
+For EF this is the durability bet in miniature. Attention can build over time when the underlying thing is good and you keep feeding it. An EWC title, a format, an audience program can grow past its debut if you treat launch as a start rather than the verdict.
+
+One question to chew on: which EF product are you judging on its launch window that might actually be a slow-compounding asset if you kept investing past week one?
+
+### 3. Small signals of belonging build safe teams (leadership & negotiation)
+
+Daniel Coyle's The Culture Code argues that high-performing groups run on belonging cues, small, repeated signals that tell people they are safe and connected: close attention, quick turn-taking, warmth in the little moments. The other half is a leader who shows fallibility first, saying "I got this wrong" out loud, which gives everyone else permission to be honest.
+
+For EF, where this frame is already part of how you think, the reminder is that safety is built in the small stuff, not in a values poster. A team that feels safe will surface bad news early, which is exactly what you need across high-stakes events and partner work.
+
+One question to chew on: in your team's last hard week, what belonging cues did people actually receive from you, and were any of them "it is safe to tell me the bad news"?
+
+### 4. Immersive art has become a repeatable business (live events & immersive)
+
+Meow Wolf, the immersive-art company, is setting a sixth permanent location in Los Angeles for late 2026. The model is worth noticing: permanent, ticketed, physical spaces built around walk-through art and story, opened city by city like a chain, rather than a one-off exhibition that tours and disappears.
+
+For EF the transferable idea is repeatability. A physical experience designed to be rebuilt in new cities becomes durable IP, an asset that earns for years and travels. The EWC live event has some of this quality already, and the question is how much of the magic can be systematized without losing what makes people show up.
+
+One question to chew on: which parts of an EF live experience could be turned into a repeatable, city-by-city format, and which parts have to stay bespoke?
+
+#### News of the day
+
+- **Retailer warns "GTA VI" could shock console supply** (gaming & esports industry). Demand for the game may bend hardware availability around its launch window. [The Game Business](https://www.thegamebusiness.com/p/retailer-warns-of-gta-console-stock)
+- **Beijing leans into an "invest in China" message** (leadership & negotiation). Bill Bishop reads Beijing's renewed pitch to foreign capital, useful context for the China-at-ENC picture. Largely paywalled, so use the framing, not hard figures. [Sinocism](https://sinocism.com/p/xi-in-shandong-premier-li-on-china)
+- **Wuthering Waves comes to Xbox** (gaming & esports industry). The free-to-play RPG widens its platform reach, a small sign of cross-platform pushes continuing. [Game Rant](https://gamerant.com/gaming/)
+
+**Sources (Edition #31)**
+
+- The UK Government's New AI Adoption Plan for Creative Industries, AI and Games (Tommy Thompson): https://www.aiandgames.com/p/the-uks-governments-new-ai-adoption
+- How Small Spaces sold ~15x its Week 1 sales after a year, GameDiscoverCo: https://newsletter.gamediscover.co/p/how-small-spaces-sold-15x-its-week
+- The Culture Code, Daniel Coyle: https://www.penguinrandomhouse.com/books/547337/the-culture-code-by-daniel-coyle/
+- Meow Wolf Los Angeles: https://meowwolf.com/visit/los-angeles
+
+---
+
+## 2026-06-30 (Edition #30)
+
+### 1. Epic wants the industry to rebuild how games are made (AI x gaming)
+
+At State of Unreal, Epic's Tim Sweeney told the room "we're going to all need to change the way we build things," warning that Roblox is on track to eat traditional gaming if the business stays as it is. His numbers were blunt: modern AAA games can carry hundreds of millions in development cost and return only tens of millions. Unreal Engine 6 is his answer, a single engine that unifies the traditional toolset with the Unreal Editor for Fortnite, lets a team deploy across Fortnite and normal platforms, and folds in outside AI tools (Claude, Gemini) as productivity multipliers. (Reported by The Game Business and Kotaku.)
+
+For Ralf's AI-first push, the signal is that the platform holders are rebuilding the pipeline around cheaper, faster production and social-first distribution. The cost math Sweeney describes is the same pressure every EF partner feels. Where games get built, and how cheaply, shapes what a partner can afford to spend on the parts fans see.
+
+One question to chew on: if AAA production costs keep breaking the math, what does EF want its partners to spend a freed-up budget on, players, prize pools, or live moments?
+
+### 2. Your most valuable asset is the player relationship (gaming & esports industry)
+
+Joseph Kim's GameMakers argument is that the most valuable thing a games company owns is not any single game. It is the direct relationship with its players, which he calls the one channel that gets cheaper the stronger it gets. Platforms have known this for years, and studios are still catching up, trying to own the connection to their audience instead of renting it.
+
+For EF this is the whole audience thesis. Owning a direct line to the EWC and ENC audience, the data, the trust, the habit of showing up, is worth more than any one tournament. It is the asset that compounds and that a competitor cannot buy off a shelf.
+
+One question to chew on: how much of EF's audience relationship is owned directly, and how much runs through platforms that could change the terms tomorrow?
+
+### 3. China is betting AI against a labor shortage (leadership & negotiation)
+
+ChinaTalk lays out a tension inside China's AI push. Beijing is deploying AI and robotics hard, partly to offset a shrinking working-age population. The same automation risks eroding stable jobs for young workers at the wrong moment. Xi has openly rejected "welfarism" and ideas like universal basic income, so the message is that citizens must work to live, AI or not. In one sign of the friction, Chinese legal authorities rejected the argument that an AI doing a job more cheaply is, by itself, a lawful reason to fire someone.
+
+For EF the value is reading how a major market frames the social contract around AI, which shapes both the AI-first push and the China-at-ENC context. A country's answer to "what are people for when machines can do the work" tells you a lot about how it will regulate and compete.
+
+One question to chew on: as AI reshapes your own team's work, what is EF's honest answer to what its people are for, and does that answer hold up out loud?
+
+### 4. Where the money for physical fun is heading (live events & immersive)
+
+Market researchers size the location-based entertainment category, physical venues built around immersive and shared experiences, at roughly $9 to $10B in 2026, with double-digit annual growth forecast into the early 2030s. The estimates put Asia-Pacific as the fastest-growing region and amusement parks as the largest single slice. (These are vendor market-research figures and the ranges vary a lot between firms, so treat them as directional and verify before quoting.)
+
+For EF the read is that the live-arena bet sits inside a category with real tailwind, and the regional growth pattern favors the parts of the world where EF is strongest. A young, growing home audience plus a rising appetite for shared physical experiences is a good place to be building.
+
+One question to chew on: if physical, shared experiences are the growth story, what is the one live format only EF could build, that a theme park or a concert hall could not?
+
+#### News of the day
+
+- **Sphere's "The Wizard of Oz" passes $400M in ticket sales** (live events & immersive). The Las Vegas production has sold more than 3 million tickets, a data point on the appetite for large-scale immersive spectacle. [Music Business Worldwide](https://www.musicbusinessworldwide.com/sphere-entertainment-secures-1-7-bn-investment-from-abu-dhabi-for-first-international-venue/)
+- **EA opens an in-game advertising service** (gaming & esports industry). A new monetization channel from a major publisher, worth tracking for where in-game ads land next. [Gies weekly](https://giesweekly.substack.com/p/xbox-plans-major-layoffs-under-new)
+- **July's slate leans on remakes** (gaming & esports industry). Halo: Campaign Evolved and Assassin's Creed Black Flag Resynced headline the month, a reminder that owning catalog IP has a long tail. [GameSpot](https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/)
+
+**Sources (Edition #30)**
+
+- Epic: "We're going to all need to change the way we build things" (State of Unreal), The Game Business: https://www.thegamebusiness.com/p/epic-were-going-to-all-need-to-change and Kotaku: https://kotaku.com/tim-sweeney-pitches-epic-as-a-savior-for-an-aaa-gaming-industry-being-devoured-by-roblox-2000707706
+- The Most Valuable Asset in Games Isn't Your Game, GameMakers (Joseph Kim): https://www.gamemakers.com/p/the-most-valuable-asset-in-games
+- How Chinese make sense of the AI future, ChinaTalk: https://www.chinatalk.media/p/chinese-society-has-an-ai-problem
+- Location-Based Entertainment Market, Grand View Research: https://www.grandviewresearch.com/industry-analysis/location-based-entertainment-market and Precedence Research: https://www.precedenceresearch.com/location-based-entertainment-market
+
+---
+
 ## 2026-06-29 (Edition #29)
 
 ### 1. Capcom's AI rule: speed the routine, keep the craft human (AI x gaming)

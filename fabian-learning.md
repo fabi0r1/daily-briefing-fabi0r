@@ -8,6 +8,104 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-05 (Edition #35)
+
+### 1. AI is raising the price of playing and of building (AI x gaming)
+
+Joost van Dreunen's latest essay tracks how the AI buildout is inflating costs across gaming. AI data centers now compete with consumers for components: a Corsair veteran quoted in the piece says memory swings of 10% were normal, "up 400% is not typical," and a 32GB kit that cost about $120 a year ago now sells for a multiple of that. Gartner reportedly expects the sub-$500 PC to disappear by 2028. Meanwhile pure-play game makers cut headcount by 7.2% from 2022 to 2025, while Nintendo just raised base salaries 10% and Take-Two protects its developers. Van Dreunen's conclusion: the scarce resource in games is talent, and the firms that keep investing in people outrun the ones chasing quarterly margin. (Figures are his and his sources'; verify before quoting externally.)
+
+For EF this is the durability bet written as a hiring policy. When hardware, tools, and capital all get more expensive, the compounding asset is a team that stays, learns, and ships together. That is the Culture Code lens applied to a cost crisis.
+
+One question to chew on: if the industry keeps trading people for margin, what would it cost EF to become the place where the best event and partnership talent simply stays?
+
+### 2. An overnight hit that took years to build (gaming & esports industry)
+
+Meccha Chameleon, a $5 hide-and-seek game where players paint themselves into the environment, is 2026's top game by copies sold: Alinea estimates roughly 13 million in three weeks, while its tiny price keeps it at only #18 by Steam revenue. The popular framing says two developers in Japan built it in two months. Rhys Elliott's pushback is the useful part: the pair prototyped the concept inside Fortnite's UEFN as a free testbed, then built the Steam version on years of reused assets and tooling from their earlier games. Institutional knowledge compounded into an "overnight" hit.
+
+For EF the transfer is twofold. Watchable, cheap, instantly legible experiences spread through streamers and clips, which is the same engine co-streaming feeds. And the craft that makes a hit possible accumulates across projects, so the formats, tooling, and playbooks EF builds for one event are assets, worth keeping and reusing rather than rebuilding each year.
+
+One question to chew on: what did EF build for this year's events that should be treated as compounding tooling for 2027 instead of a one-off?
+
+### 3. The anatomy of a choke point (leadership & negotiation)
+
+ChinaTalk's rare earths episode is a clinic on supply power. Beijing squeezed critical mineral exports in April, then restored supply at capped volumes under strict licensing. The deeper mechanism: a dominant supplier that can flood the market at will makes every alternative uneconomic before it gets built. Solvay's CEO says his firm can refine all 17 rare earths, "You just haven't created a business case for us," because China can reopen the tap and kill any new entrant. One analyst adds that withdrawing critical supply hurts sharper and faster than tariffs, which only bleed gradually.
+
+For EF the transferable idea is mapping choke points before they get used. Every big dependency, a platform, a single venue, a single partner, carries the same structure: who can turn off what, how fast does it hurt, and what credible counter-move keeps the relationship honest. The side that has done that mapping negotiates calm.
+
+One question to chew on: in EF's three biggest dependencies, which one could be squeezed hardest tomorrow, and what is the prepared counter?
+
+### 4. Universal never built the Crash ride (gaming & esports industry)
+
+The Game Business told Jason Rubin's story on stage, and the sharpest part is the Universal chapter. Crash Bandicoot was the second-highest-grossing product in Universal's entire 1997 slate after Jurassic Park 2, built for $2.7 million. Universal still treated Naughty Dog as a cost line: desks in a hallway, the AC off at 6pm while Crash Team Racing was finished at 105 degrees, open hostility from staff. Rubin's verdict, standing in a CityWalk now full of Mario and Sonic merchandise: had the relationship worked, "there might be a Crash Ride at Universal."
+
+This is the case study for the posture EF takes with publishers. The partner who extracts from creators without investing in them loses the franchise value that was sitting in their own building. Treating a partner's IP and its makers as the value is a commercial strategy, and the Crash ride that never got built is what it costs to skip it.
+
+One question to chew on: which EF partner relationship is quietly running on Universal terms right now, extracting without investing, and what would the first corrective move be?
+
+#### News of the day
+
+- **Forza rebuilt its Drivatar AI, and one bot became a meme** (AI x gaming). Tommy Thompson's new case study covers how Forza Horizon 6's Drivatar system was rebuilt and how balance changes produced "Bowie Knife99," a built-in AI racer so chaotic it became a community legend. [AI and Games](https://www.aiandgames.com/p/how-forza-rebuilt-their-drivatar)
+- **Saudi Arabia courts Japanese anime, manga, and gaming IP** (gaming & esports industry). Experts at a June Tokyo press conference described strong Saudi alignment behind Japanese IP, including a planned Dragon Ball theme park for 2029 and Manga Productions funding for young animators. [Niko Partners](https://substack.nikopartners.com/p/papergames-cancels-release-of-new)
+- **Beijing pairs the Party's 105th anniversary with AI model regulation** (leadership & negotiation). Bill Bishop's recent issues flag new AI model regulation among the CPC anniversary items, a marker of how fast China is formalizing AI rules. Largely paywalled, so use the framing rather than hard details. [Sinocism](https://sinocism.com/p/cpcs-105th-anniversary-ceremony-july)
+
+**Sources (Edition #35)**
+
+- AI is making everything more expensive, SuperJoost Playlist (Joost van Dreunen): https://superjoost.substack.com/p/ai-is-making-everything-more-expensive
+- 2026's top games by copies sold (so far), The Alinea Insight (Rhys Elliott): https://alineaanalytics.substack.com/p/2026s-top-games-by-copies-sold-so
+- Rare Earths, ChinaTalk: https://www.chinatalk.media/p/rare-earths
+- Seven things you probably didn't know about Naughty Dog co-founder Jason Rubin, The Game Business: https://www.thegamebusiness.com/p/seven-things-you-probably-didnt-know
+
+---
+
+## 2026-07-04 (Edition #34)
+
+### 1. Epic's Unreal 6 problem sits under the AI headlines (AI x gaming)
+
+Tommy Thompson watched the Unreal Engine 6 reveal and argues everyone raged at the wrong thing. Social media focused on the native LLM integration, a plugin that lets Claude, GPT, or Gemini place assets and edit scenes inside the editor. He calls that the least of the problems: the demos quietly speed up 3-to-10-minute generation times and skip past thousands of tokens per call. The bigger risks are structural. Epic is merging the engine with its Fortnite editor, removing the Blueprints visual scripting that whole studios ship games on (Expedition 33 was roughly 95% Blueprints), and moving from C++ to its own Verse language. His prediction: much of the industry parks on UE5.7 or 5.8 and waits.
+
+For Ralf's AI-first push the useful part is the demo discipline. Every AI workflow demo hides the same three things: real generation time, real token cost, and how context survives complex requests. Adoption goes well when those questions get asked before the rollout.
+
+One question to chew on: what three questions should EF put to every AI-tool demo that the vendor's video conveniently skips?
+
+### 2. What $3.6 billion bought PlayStation (gaming & esports industry)
+
+PlayStation is laying off most of Bungie's Destiny team, around 292 roles per a Washington State filing, with more than 700 cut or moved since the $3.6 billion acquisition in 2022. Christopher Dring retells why the deal happened: Sony wanted live-service expertise it did not have, and buying the studio that had "been there, done it all before" (Jim Ryan's words at the time) looked like a shortcut past years of learning. Then the market shifted. Concord failed outright, Destiny 2 wound down, and Marathon peaked near 2 million players in March before falling to just over 800,000 by May (Ampere figures), against Helldivers 2's 3.7 million.
+
+The lesson underneath: expertise can be bought, and the strategy it serves still has to survive contact with a changed market. Bets sized during boom years need a resizing discipline once the cycle turns, which is exactly the muscle most organizations avoid building because it feels like retreat.
+
+One question to chew on: which EF commitment was sized in a hotter market, and what would resizing it look like if you judged it purely on today's numbers?
+
+### 3. The Pentagon needed a decade to field AI (leadership & negotiation)
+
+Katrina Manson's Project Maven, on the Economist's best-of-2026 list, tells the story of the Pentagon's campaign to put AI into combat, led by Marine colonel Drew Cukor. The team built systems to identify targets at speed and scale, enlisted an initially reluctant Silicon Valley, triggered a revolt among thousands of Google workers, and learned in the field where AI fails. The striking part is the shape of the effort: a decade of internal selling, resistance, revision, and institutional fighting. (This draws on the publisher's description and reviews; I have not read the full book.)
+
+For EF the map is direct. An AI-first push inside any institution is a campaign, with resistance as a predictable phase and failure cases as the most valuable data it produces. The organizations that win write down where the tools broke and let that record steer the next rollout.
+
+One question to chew on: who at EF keeps the honest record of where AI tools failed this year, and does that record actually shape what gets rolled out next?
+
+### 4. Attention keeps getting more expensive to rent (gaming & esports industry)
+
+Mobile Gaming Today's latest roundup puts numbers on a squeeze every marketer feels: cost-per-install rose about 30% in 2025 to $0.56 globally, the paid-to-organic install ratio climbed 61%, and organic traffic keeps shrinking. (MGT roundup figures, verify before quoting externally.) The same issue notes Google, Meta, Unity, and Moloco jointly backing AppsFlyer with $1B, a counterweight to AppLovin being the only major ad platform that owns its own measurement stack.
+
+For EF the read is about what inflates and what compounds. Rented attention gets more expensive every year. Owned reach, live moments people travel for, co-streams, creators who come back, holds its value and compounds. That gap is a real number partners should see when EF prices what a tournament moment is worth.
+
+One question to chew on: does EF put a dirham-and-dollar figure on its organic reach when pricing partner deals, or is that value still given away as atmosphere?
+
+#### News of the day
+
+- **PlayStation ends disc production for new games in January 2028** (gaming & esports industry). New PlayStation releases go digital-only from that date, moving pricing power and the second-hand market fully onto the platform. [Gies weekly](https://giesweekly.substack.com/p/playstation-ends-physical-disc-production)
+- **GTA VI pre-orders skip several markets while Saudi Arabia is live** (gaming & esports industry). Pre-orders are unavailable in China, Kuwait, Bahrain, Qatar, Oman, and Russia, while Saudi Arabia is listed, likely enabled by the Kingdom's 21+ age rating and Take-Two's partnership with AIC Interactive. [Niko Partners](https://substack.nikopartners.com/p/papergames-cancels-release-of-new)
+- **Immersive domes become World Cup viewing venues** (live events & immersive). Cosm's dome venues are showing 40 FIFA World Cup matches this summer, including the July 19 final, turning shared big-screen sport into a ticketed immersive product. [Discover Atlanta](https://discoveratlanta.com/stories/things-to-do/atlanta-welcomes-cosm-inside-the-new-immersive-sports-venue-at-centennial-yards/)
+
+**Sources (Edition #34)**
+
+- The Unreal 6 Reveal is Epic's DLSS 5 Moment, AI and Games (Tommy Thompson): https://www.aiandgames.com/p/the-unreal-6-reveal-is-epics-dlss
+- Why did PlayStation buy Bungie in the first place?, The Game Business (Christopher Dring): https://www.thegamebusiness.com/p/why-did-playstation-buy-bungie-in
+- Project Maven, Katrina Manson, W.W. Norton: https://wwnorton.co.uk/books/9781324123316-project-maven
+- Mobile Gaming Today #113, Gamigion: https://gamigion.substack.com/p/mobile-gaming-today-113
+
+---
+
 ## 2026-07-03 (Edition #33)
 
 ### 1. Tencent turns a sketch into a game asset in minutes (AI x gaming)

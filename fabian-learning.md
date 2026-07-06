@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-06 (Edition #36)
+
+### 1. Xbox's reset runs on two clocks (gaming & esports industry)
+
+Christopher Dring's inside read on Xbox: Asha Sharma's first 100 days won the fans back (Game Pass price cut, console exclusives, Forza Horizon 6 landing well), and the reallocation phase now has the studios divided. Compulsion, Ninja Theory, Double Fine and Undead Labs are negotiating to avoid closure while money moves to Halo and Gears. One development adviser's verdict: "If they think they can take that budget, stick it on Halo, and suddenly turn it into a 95 Metacritic smash hit, they're delusional." A studio boss on where power sits now: "After Activision, this is Amy [Hood] and Satya [Nadella]'s Xbox now."
+
+The transferable idea is the two clocks. Sharma's start-up speed works on pricing, distribution, and business models, decisions that adjust in days. Hit games run on years, and no budget transfer spins that clock faster. EF has the same split: formats and partnerships can move at Ralf's pace, while publisher trust and a durable event brand compound slowly and break if rushed. The internal Xbox line "We're spread across too many projects, platforms and business models. We need to focus" could be read as an argument for EF's own portfolio discipline.
+
+One question to chew on: which EF decision currently being pushed at start-up speed actually lives on the slow clock, and who is saying so out loud?
+
+### 2. Creator codes turn watchers into first-time buyers (gaming & esports industry)
+
+Naavik digs into a Tebex report covering 1.5M creator-backed transactions: creator codes drove $61.3M in GMV from 2024 to 2026, and 80.4% of players who used one did so on their very first direct-to-consumer purchase. Existing players who later adopted a code averaged $511 in lifetime spend, 6.3x the net-new cohort. Usage is near-monogamous (87.4% of paying players ever used just one code), and the top 100 creators, 1.6% of the measured base, drove 75.9% of the GMV. (All figures are the report's, and the dataset skews to UGC-heavy games like Minecraft.)
+
+The read for EF: a creator code behaves like attribution infrastructure plus a loyalty mechanic. Fans route money through the one creator they identify with, so the power law says build VIP systems for the few who matter instead of flat affiliate programs. EWC's co-streaming engine already gives publishers reach; the report points at the next step, connecting that reach to measurable commerce, creator-attributed drops and codes around tournament moments.
+
+One question to chew on: if EWC gave its top 20 co-streamers code-style attribution on partner-store drops during tournament weeks, what would the resulting number prove to publishers about what a tournament moment is worth?
+
+### 3. Why AI NPCs still feel like ChatGPT in costume (AI x gaming)
+
+Charles Niu spent two years building AI companions and asks the uncomfortable question: name a game you play because of its AI NPCs. You can't. His three reasons: unit economics run backwards (the more players chat, the more the developer pays for inference), there is no eval for fun (agents can mine diamonds in Minecraft yet feel like "an algorithm wearing an avatar"), and today's models are too knowledgeable and too compliant, a medieval peasant who can explain quantum mechanics. His playtesters loved his Minecraft companion prototype at first, then stopped coming back. As he puts it, "helpfulness is not the same thing as personhood."
+
+His prediction cuts against the hype cycle: NPCs get more uncanny before they get less, because the big labs optimize toward enterprise assistants while games need characters that interrupt, push back, get bored, and go quiet. For EF the near-term AI wins stay in the pipeline (assets, tooling, production), while character-AI fan experiences still sit between impressive demo and sustainable product.
+
+One question to chew on: if an AI fan-companion pitch lands on the EWC desk, what week-4 retention number would you demand before believing it?
+
+### 4. Muskism, read as an operating system (leadership & negotiation)
+
+From the Economist best-of-2026 books pool: Quinn Slobodian and Ben Tarnoff argue that Musk's project amounts to an operating system for 21st-century capitalism the way Fordism defined the 20th. Two claims stand out from the reviews and the authors' interviews. The libertarian self-image sits on deep state dependence: without government contracts there are no launches and no satellites. And where Fordism bought social peace through rising wages, Muskism compensates for inequality with exclusion and the vilification of outsiders. (I have not read the full book; this draws on the authors' Verfassungsblog interview, Kirkus, and the publisher's description.)
+
+The useful lens for Fabian is reading powerful counterparts as systems instead of personalities. For founder-led companies, map what the founder's power actually rests on: contracts, subsidies, platform locks, a single franchise. The story the founder tells about himself is separate data, and the gap between the two is where the pressure points sit in any negotiation.
+
+One question to chew on: for the three founder-led companies EF deals with most, what does each founder's power actually rest on, and what story does he tell instead?
+
+#### News of the day
+
+- **Valve prices the Steam Machine at $1,049** (gaming & esports industry). Gies' weekly digest flags the price landing well above console range, which turns Valve's living-room push into a premium hardware play in the middle of the component squeeze. [Gies weekly](https://giesweekly.substack.com/p/valve-prices-the-steam-machine-at)
+- **Honor of Kings tightens moderation after 4.03M account suspensions** (gaming & esports industry). Niko's digest covers Tencent's enforcement wave in the biggest mobile esport, an EWC title, worth watching for how it lands with the player base. [Niko Partners](https://substack.nikopartners.com/p/papergames-cancels-release-of-new)
+- **Savvy opens enterprise AI production to Saudi studios** (AI x gaming). Savvy Games Group signed MoUs with Genvid and Massive Studios (June 29) giving Saudi developers and universities access to AI production tools plus training and mentorship. A PIF-family capability move worth tracking from inside EF. [Genvid](https://genvid.com/2026/06/29/genvid-brings-enterprise-ai-production-to-saudi-arabia-through-strategic-partnership-with-savvy-games-group/)
+- **AI and Games is now also a podcast** (AI x gaming). Tommy Thompson launched a biweekly show on AI in the games industry, a durable source for the AI lane. [AI and Games](https://www.aiandgames.com/p/introducing-the-ai-and-games-podcast)
+- **Football becomes a walk-through art show in Manhattan** (live events & immersive). Mercer Labs' "Football is Freedom" runs through July 31, 15 rooms of projections and stadium sound timed to the World Cup, tickets from $52. Sport packaged as a ticketed sensory exhibition. [Time Out New York](https://www.timeout.com/newyork/news/this-immersive-show-at-mercer-labs-celebrates-football-culture-061726)
+
+**Sources (Edition #36)**
+
+- Xbox divided over its future, The Game Business (Christopher Dring): https://www.thegamebusiness.com/p/xbox-divided-over-its-future-and
+- The Next Wave of Creator-Led Growth, Naavik Digest: https://naavik.co/digest/the-next-wave-of-creator-led-growth/
+- It's 2026...where are all the AI NPCs?, Frisson Labs (Charles Niu): https://www.frisson-labs.com/ai-npcs-2026
+- Muskism: A Guide for the Perplexed, Slobodian and Tarnoff, authors' interview: https://verfassungsblog.de/muskism/
+
+---
+
 ## 2026-07-05 (Edition #35)
 
 ### 1. AI is raising the price of playing and of building (AI x gaming)

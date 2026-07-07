@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-07 (Edition #37)
+
+### 1. A nations cup out-drew the world championship (gaming & esports industry)
+
+PUBG Nations Cup 2026 peaked at 808,543 concurrent viewers during its Seoul Grand Finals, with 5.07M hours watched across 21 hours of airtime (Esports Charts data via this week's Gaming News Brief). Brazil took the title with 124 points, 5 ahead of South Korea, the first Americas team ever to win it. The brief calls PNC the second-biggest PUBG esports event ever, ahead of PUBG's own global championship. And the monetization layer worked: a Fantasy game with 2.6M participants, tied to an Event Pass that helps fund the prize pool.
+
+The mechanism underneath is language-market depth. Korean and Vietnamese audiences carried much of the viewership on the back of national-team runs. For ENC in November this is the closest live case study you will get: national pride converts to viewership through language markets, and to revenue through the fantasy-plus-pass mechanic.
+
+One question to chew on: which 3 language markets would carry ENC's numbers if their teams go deep, and does the broadcast plan treat them as first-class today?
+
+### 2. Describe a game, ship a game (AI x gaming)
+
+Kantrip raised $2.75M, co-led by Arcadia Gaming Partners and 20VC, with angels including Discord CEO Humam Sakhnini (formerly President at King and Activision Blizzard) and React Native co-creator Christopher Chedeau (per Gamigion). The product is an AI-native mobile game engine plus liveops platform: describe a game, and its agents build, render, and ship it natively to the App Store and Google Play. The tagline is "a mobile game studio in everyone's hands."
+
+The check is small. The signal sits in who wrote it and what it implies: the floor for shipping a real game keeps dropping toward zero. When anyone can ship, the scarce assets move up the stack, to distribution and to live moments where attention concentrates. That is the ground EWC stands on, and a flooded market makes that ground more valuable.
+
+One question to chew on: if shipping a mobile game becomes as cheap as posting a video, what does EF own that gains value with every new game released?
+
+### 3. A $250M earnout was a fight scheduled at signing (leadership & negotiation)
+
+Krafton settled its lawsuit with Unknown Worlds' founders over the $250M performance bonus tied to Subnautica 2 (Bloomberg, July 1). The short history: the founders sued, claiming Krafton delayed the game to dodge the payout. Krafton fired CEO Ted Gill, a court reinstated him in March, and the settlement now pays bonuses to the entire staff in 3 annual installments, including recent hires. Gill steps down anyway, "mutually agreed to part ways."
+
+The design flaw sat in the contract from day one: an earnout that pays one side based on a milestone the other side controls (release timing) schedules the conflict at signing. Both sides then spent well over a year litigating a clause instead of shipping a game. For EF's contract architecture the test is symmetry: every trigger in a deal should be controlled by the party it pays, or shared. Note also the repair move, widening the bonus to the whole staff, which buys back goodwill with the team that still has to deliver.
+
+One question to chew on: which clause in EF's live contracts pays one side on a trigger the other side controls, and what would the symmetric version look like?
+
+### 4. The last frontier runs on an Asian playbook (gaming & esports industry)
+
+Joe Studwell's How Africa Works, on the Economist's best-of-2026 list, asks what actually accelerates Africa's growth, a question he says Bill Gates invited him to pursue after How Asia Works. From 4 case countries (Botswana, Mauritius, Ethiopia, Rwanda) his answer: the African successes climbed the same ladder as Asia, smallholder agriculture first, then disciplined export manufacturing, largely against the prescriptions of the international community. And the population boom that alarms most commentators is, in his telling, the foundation of the continent's flourishing. (This draws on the publisher's description and reviews including Foreign Policy's. I have not read the full book.)
+
+The gaming read: Africa holds the youngest, fastest-growing audience on earth, and Studwell's lens says watch which countries invest in their people. That echoes the Oks China-India essay from June: human capital drives the divergence. For EF's long-cycle map of where EWC and ENC audiences come from in 2030, country selection should track schooling and connectivity investment. Headline GDP lags those.
+
+One question to chew on: which 2 African markets would you put on the ENC 2030 radar today, judged by people-investment instead of market size?
+
+#### News of the day
+
+- **Xbox plans 3,200 job cuts and will drop five acclaimed studios** (gaming & esports industry). Christopher Dring reports the reallocation phase turning concrete, the follow-through on yesterday's two-clocks lesson. [The Game Business](https://www.thegamebusiness.com/p/xbox-plans-3000-job-cuts-and-will)
+- **EA renames its FC Pro trophy after Diogo Jota** (gaming & esports industry). With his family's blessing, on the first anniversary of his passing. The Diogo Jota FC Pro World Championship Trophy gets lifted for the first time at the Esports World Cup on July 26. [Insider Gaming](https://insider-gaming.com/ea-sports-rename-fc-pro-world-championship-after-diogo-jota/)
+- **Ukraine's esports federation bans 14 players for teaming with Russians** (gaming & esports industry). One-year bans including s1mple, scoped to UESF-sanctioned competitions only (EFG, BLAST and PGL events unaffected). National-eligibility politics colliding with player careers, worth reading closely from an ENC seat. [Dot Esports](https://dotesports.com/general/news/esports-players-banned-russian-teammates)
+- **CDL's season watch time rose 34.7% after it ended YouTube exclusivity** (gaming & esports industry). The Stage 4 Major in Nanterre set an all-time Call of Duty record at 379.5K peak viewers, with Twitch carrying 44.2% of season watch time and a French home-crowd run driving the peak. Distribution breadth beat exclusivity money. [Esports Charts](https://escharts.com/news/call-duty-league-2026-stage-4-major-viewership-record)
+- **Papergames pulls a new Love & Deepspace love interest after fan backlash** (gaming & esports industry). The character was cancelled before release, a measure of how much power organized fandoms hold in China's biggest otome game. [Niko Partners](https://substack.nikopartners.com/p/papergames-cancels-release-of-new)
+
+**Sources (Edition #37)**
+
+- Gaming News Brief (29th June - 5th July), Esports World Cup: https://esportsworldcup.beehiiv.com/p/gaming-news-brief-29th-june-5th-july
+- AI-native mobile game engine and live-ops platform Kantrip raised $2.75M, Gamigion: https://www.gamigion.com/ai-native-mobile-game-engine-and-live-ops-platform-kantrip-raised-2-75m/
+- Krafton agrees to pay Subnautica 2 bonuses as developer's CEO resigns, Bloomberg: https://www.bloomberg.com/news/articles/2026-07-01/krafton-agrees-to-pay-subnautica-2-bonuses-as-developer-s-ceo-resigns (background: https://www.engadget.com/2206022/messy-subnautica-2-saga-ends-with-unknown-worlds-ceo-departing-again/)
+- How Africa Works, Joe Studwell, Grove Atlantic: https://groveatlantic.com/book/how-africa-works/ and Foreign Policy review: https://foreignpolicy.com/2026/04/24/how-africa-works-joe-studwell-review-development-economics-asia/
+
+---
+
 ## 2026-07-06 (Edition #36)
 
 ### 1. Xbox's reset runs on two clocks (gaming & esports industry)

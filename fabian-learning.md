@@ -8,6 +8,153 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-10 (Edition #40)
+
+### 1. Godot banned AI-written code from its engine (AI x gaming)
+
+The Godot Foundation amended its contribution policy on June 30: AI agents may write no code for the open-source engine, and contributors who submit heavily AI-generated work, or reply to reviewers with AI-generated messages, get banned. Maintainers had flagged the flood back in February. Tommy Thompson's read on why this is the right call: generating a pull request has become almost free, while reviewing one still takes a skilled human real hours, so a small review team drowns in plausible-looking submissions nobody actually understands. The announcement's core line: "AI cannot take responsibility."
+
+For Ralf's AI-first push this is the missing governance clause. AI as force multiplier works while every output has a named human who understands it deeply enough to fix it when it breaks. The binding constraint has moved from generation capacity (now near infinite) to review capacity, and policy has to protect the reviewers.
+
+One question to chew on: which EF workflow now produces AI output faster than a named human can review and own it, and what would our version of Godot's contribution policy say?
+
+### 2. Games media lost a net 286 journalists in half a year (gaming & esports industry)
+
+Press Engine data via The Game Business: 349 games journalists left the industry in 2026 so far (255 of them specialists) against 63 joiners, a net loss of 286, within 11 of the full-year 2025 decline by early July. 106 came from tier-1 outlets, and since 2020 the specialist corps has shrunk by 1,674. Against that backdrop, former Eurogamer and VG247 leaders just launched Respec. Founder Alex Donaldson's bet: a media brand that feels like a club survives the collapse of search traffic, and PR teams increasingly get more from a placement at a small outlet whose audience evangelizes than from the biggest raw-traffic brand.
+
+For EF the earned-media channel is shrinking on a measurable curve while owned reach (co-streamers, creators, community outlets) compounds. Note the geography: beyond the US (-104) and UK (-54), Italy, Spain, France and Brazil each lost 20+ journalists this year, and France is where our story is on stage right now.
+
+One question to chew on: if the specialist press keeps shrinking by roughly 300 a year, which 10 club-like outlets should EF build durable relationships with now, before everyone else prices them in?
+
+### 3. The most valuable private gaming company got there while skipping esports (gaming & esports industry)
+
+The Hurun Research Institute ranks miHoYo as the world's 25th most valuable private company at roughly $30 billion (via Niko Partners). The trajectory is the striking part: about $7.2 billion in 2023, around $23 billion in 2024, $30 billion now. The next gaming company on the list is Lilith at #256 with $4.4 billion. (The ranking only covers private companies founded after 2000, so Valve sits outside it.) miHoYo built this on Genshin Impact, Honkai: Star Rail and Zenless Zone Zero: anime-style live-service worlds monetized direct to fans through characters, story, concerts and collabs, with, as far as I can tell, no meaningful competitive circuit anywhere in the portfolio.
+
+The read for the portfolio map: competitive mastery on a stage is one durability engine, and character-and-story attachment is another that currently compounds valuation faster. The strongest fandoms in gaming increasingly sit in titles that will never enter EWC as tournaments.
+
+One question to chew on: what could EF credibly offer a company like miHoYo, festival presence, show formats, creator moments, where the value runs on fandom rather than competition, and is that a product we want to build?
+
+### 4. When the stabilizers turn into the destabilizers (leadership & negotiation)
+
+The Doom Loop by Eswar Prasad (February 2026, from the Economist's 2026 list) argues that the forces the world relied on for stability now feed disorder. Globalization and financial integration deepened inequality and stoked political backlash, and the institutions built to manage cooperation, the IMF and WTO among them, kept running 20th-century playbooks against 21st-century realities. The loop: each stabilizer that stops adapting generates the very shocks it was built to absorb. (I have not read the full book, this draws on the publisher's description and reviews, and at least one review, in RealClearMarkets, attacks the thesis hard, so treat it as contested.)
+
+The transferable idea for EF: a stabilizer that stops adapting quietly becomes a risk. Our own stabilizers, the long-term hosting agreement, the flagship publisher contracts, the Riyadh anchor, each deserve the same audit: is this still stabilizing because it adapts, or only because nothing has tested it yet?
+
+One question to chew on: which EF stabilizer has gone longest without a real stress test, and what would adapting it before the test look like?
+
+#### News of the day
+
+- **Unity opens direct-to-consumer commerce for mobile developers** (gaming & esports industry). Mobile Gaming Today #114 flags the launch and pegs mobile D2C at a $17 billion market already (their figure). Webshop economics moving into the engine layer, the same direct-to-fan current as the creator-code lesson from Monday. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-114)
+- **Sony region-locks Marvel Tōkon in about 130 countries, and the FGC unites against it** (gaming & esports industry). A PSN account requirement on Steam locks out every market where PSN does not operate, which puts the new fighting game's esport potential in doubt before launch. Worth watching from a portfolio seat: a single distribution decision can cap a title's competitive ceiling. [Esports Insider](https://esportsinsider.com/2026/07/sony-marvel-tokon-fighting-souls-region-lock-fgc)
+- **China moves on tungsten exports after rare earths** (leadership & negotiation). Bill Bishop's July 2 issue flags tungsten export controls, one more data point in the supply-choke pattern from the June rare-earths lesson. Largely paywalled, so use the framing rather than hard details. [Sinocism](https://sinocism.com/p/official-explanation-of-citic-tower)
+
+**Sources (Edition #40)**
+
+- Godot Makes The Right Call in Blocking AI Code in Their Engine: https://www.aiandgames.com/p/godot-makes-the-right-call-in-blocking
+- The number of video game journalists has fallen by nearly 300 in 2026: https://www.thegamebusiness.com/p/the-number-of-video-game-journalists
+- miHoYo is the most valuable private gaming company: https://substack.nikopartners.com/p/mihoyo-is-the-most-valuable-private
+- The Doom Loop, Eswar Prasad (Brookings): https://www.brookings.edu/books/the-doom-loop/ and a critical review: https://www.realclearmarkets.com/articles/2026/04/10/book_review_eswar_prasads_the_doom_loop_1175232.html
+
+---
+
+## 2026-07-09 (Edition #39)
+
+### 1. Meta built a TikTok for prompt-made games (AI x gaming)
+
+Meta quietly shipped Pocket on iOS and Android around June 29, no announcement, spotted through App Store listings and reported by TechCrunch on July 2. Type a prompt, get a playable mini game (Meta calls them "gizmos"), then share it into a feed of other people's creations. It builds on Meta's acquisition of the Gizmo team, whose own app had logged 635K installs.
+
+Tuesday's Kantrip lesson said the floor for shipping a game keeps dropping toward zero. Pocket shows the fight one level up: when anyone can make a game, the feed that decides which games get played is the asset, and Meta wants to own that feed. EF's version of the feed is the live moment where attention concentrates on mastery.
+
+One question to chew on: Meta is betting the scarce layer is distribution. EWC bets it is mastery on a stage. Can we put a number on which one compounds faster, and would that number convince a publisher?
+
+### 2. June moved millions of copies and very little money (gaming & esports industry)
+
+GameDiscoverCo's June roundup: only 2 new Steam releases crossed $10M gross, against 6 in May. Meanwhile Meccha Chameleon moved 11.5M units in the month at $6 and logged 23.6M hours watched on Twitch, with the friendslop tier (Burglin' Gnomes, 409K units at $10) stacking up behind it. The premium side fought over scraps: the co-op extraction shooter SAND: Raiders of Sophie grossed about $5M at $25 in its first week, and that was a good result.
+
+The picture for EWC title strategy: attention now converts at low price points, and the games producing tomorrow's mass audiences cost $6 and live on Twitch. Premium launches still make revenue headlines, and the audience pyramids get built underneath them.
+
+One question to chew on: in the next title-selection cycle, how much weight should a $6 social hit with 23M watch hours carry against a $25 launch with better optics, and what does each do to club economics?
+
+### 3. Turkey rewrote its tax code around game studios (gaming & esports industry)
+
+Turkey's new framework came into force on July 3, per Gamigion's guide: certified studios developing their own games can qualify for a 12.5% corporate rate on production income from the 2027 tax year (the default rate is 25%), 80% of software-export profits stay exempt, and TeknoPark studios keep their exemptions through 2028. (Tax rules are gnarly, verify the specifics with a professional before quoting them anywhere.)
+
+Read it as industrial policy. Turkey already produced Peak and Dream, and now it prices itself as the place to build the next 10 studios while Western hubs cut and consolidate. Same competition-for-studios logic as Riyadh's, different instrument: they bid with the tax code, we bid with an ecosystem.
+
+One question to chew on: which moves a founder's relocation decision harder, a 12.5% rate or a funded esports ecosystem with a stage, and do we have the data to answer that instead of assuming?
+
+### 4. Harry Reid negotiated at walking pace (leadership & negotiation)
+
+The Game Changer by Jon Ralston, from the Economist's 2026 list, is the first full biography of the Senate leader who carried Obamacare and the post-2008 rescue into law. The reviews converge on 2 traits: unhurried, deliberate dealmaking, and a wry self-awareness about bending his own principles to get progress. When the existing rules blocked him, he changed the rules, the filibuster carve-out being the famous case. (Drawing on Kirkus and the LA Review of Books, I have not read the full book.)
+
+The caveat the reviewers land on is the useful part: rule changes made in power become weapons in the other side's hands later, and Reid's playbook helped build the hardball era that outlived him. Procedural wins are loans. The interest comes due when the power balance flips.
+
+One question to chew on: which rule are we currently rewriting with a publisher or a federation that we would hate to live under once the other side holds the pen?
+
+#### News of the day
+
+- **What to build when a simple LED wall is not enough** (live events & immersive). This week's Immersive Experience Insights issue walks through modular immersive-space systems for venues, permanent or touring, purpose-first. Practical checklist material for activation planning. [Immersive Experience Insights](https://immersiveexperience.substack.com/p/how-to-bring-immersive-story-to-life)
+- **PlayStation's 2026 top sellers, with the physical split** (gaming & esports industry). Alinea's copies-sold data shows how thin the disc share has become, the context behind Sony's decision to end disc production in 2028. [The Alinea Insight](https://alineaanalytics.substack.com/p/2026s-top-playstation-games-by-copies)
+- **Pakistan approves its first national esports policy** (gaming & esports industry). Last week's Gaming News Brief flags the policy and a base of roughly 60M gamers. Worth reading next to yesterday's Pakistan development lesson: the state is now formally in. [Gaming News Brief](https://esportsworldcup.beehiiv.com/p/gaming-news-brief-29th-june-5th-july)
+
+**Sources (Edition #39)**
+
+- Meta quietly launches vibe-coded gaming app Pocket: https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/
+- June 2026's top new PC & console games, revealed: https://newsletter.gamediscover.co/p/june-2026s-top-new-pc-and-console
+- Taxation in Turkish Mobile Gaming 2026: https://www.gamigion.com/taxation-in-turkish-mobile-gaming-2026/
+- The Game Changer (Kirkus review): https://www.kirkusreviews.com/book-reviews/jon-ralston/the-game-changer-3/
+
+---
+
+## 2026-07-08 (Edition #38)
+
+### 1. 1,000 days after the deal, Xbox unbundles it (gaming & esports industry)
+
+Ralf forwarded this one, so treat this as the chew-on companion. Joost van Dreunen's read: almost exactly 1,000 days after the Activision Blizzard acquisition formally closed, Asha Sharma is pushing 5 studios out of the Xbox portfolio. Ninja Theory and Undead Labs are being sold with funding to finish their games, Double Fine and Compulsion go back to their founders with IP and catalogs intact, Arkane Lyon enters consultation.
+
+The sharp part sits in the regulatory file. Microsoft waved King at regulators to argue the deal was about mobile, and mobile is now roughly 61% of global games revenue, so the reset keeps King and Minecraft (Sharma reportedly thinks Microsoft "massively underinvested" there, the line you flagged to Ralf) and sheds the prestige studios the deal era collected. Buy-side logic and hold-side logic turned out to be 2 different businesses.
+
+One question to chew on: EWC's publisher portfolio is also a collection assembled in a boom. If we ran a Sharma-style review 1,000 days into each partnership, which one would we restructure first, and what stops us from doing that review now?
+
+### 2. An operating system named after Musk (leadership & negotiation)
+
+Muskism by Quinn Slobodian and Ben Tarnoff, next up from the Economist's 2026 list. Their frame: Ford was the template capitalist of the 20th century and Musk is the template for the 21st. Fordism built durable structures for mass consumption, rationalized production and disciplined, well-paid workers. Muskism, as they read it, runs on spectacle and mission-talk, with far less interest in distributing the gains broadly. (I am drawing on Mark O'Connell's NYRB review and the publisher's description, I have not read the full book.)
+
+The useful test for EF: which operating system does our ecosystem run on? Life-changing prize money, funded clubs and the durability bet are Fordist moves, structures many people can build a career on. The temptation in every boom is the Muskist shortcut: one spectacular narrative, concentrated upside, and nothing underneath that survives the founder's attention moving on.
+
+One question to chew on: if a critic audited EWC the way Slobodian and Tarnoff audit Musk, where would they find spectacle outrunning structure, and could we show them the structure?
+
+### 3. Pakistan ships scale, Estonia ships sophistication (gaming & esports industry)
+
+Naavik's digest maps 2 mobile development regions most industry maps skip, with opposite playbooks. Pakistan crossed 1 billion downloads in 2025 on high-volume output, and its open question is converting downloads into paying players. Estonia is the reverse profile: small, technical, and the strongest revenue growth of the regions Naavik analyzed over the last 3 years.
+
+This extends Monday's Studwell lesson from the country level to the studio level: watch where capability is being built, because headline market size lags it. For EF the map reads as talent and audience at once. Both regions sit outside the usual publisher circuits, which is exactly when courting them is cheap.
+
+One question to chew on: which overlooked producing region should EF build a relationship with before the rest of the industry prices it in, and what would the first concrete move be?
+
+### 4. Taiwan dismantled its own energy security, one veto at a time (leadership & negotiation)
+
+ChinaTalk's piece is blunt: Taiwan imports 97% of its energy and holds about 11 days of LNG reserves, and it still phased out nuclear while botching the renewables rollout. No single villain. Different factions blocked renewables for different local reasons, and state-set power prices kept fossil imports quietly subsidized, so every player defended its own lane while the island's resilience paid the bill.
+
+The transferable idea: resilience rarely fails in one decision, it erodes through accumulated local vetoes that each looked reasonable. For an event business the equivalents are single supply lines, one permit channel, one vendor, one platform per market, each defended by whoever owns it.
+
+One question to chew on: where in our operation does one import line carry the whole grid, and what is our version of the 11-day buffer?
+
+#### News of the day
+
+- **Retailers brace for a GTA VI console stock shock** (gaming & esports industry). Christopher Dring reports retail is warning that console demand around GTA VI's launch could outstrip supply, a hardware ripple from one software date. [The Game Business](https://www.thegamebusiness.com/p/retailer-warns-of-gta-console-stock)
+- **Short-drama apps now finance user acquisition at games scale** (gaming & esports industry). Mobile Gaming Today #114 flags Shortical securing $100M in UA financing, short drama competing with games for the same minutes and the same ad slots. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-114)
+- **Goal State reaches the edit** (AI x gaming). Tommy Thompson's crowdfunded lecture series on game-AI foundations is in post-production, per his summer update. The eventual release is worth the team's time. [AI and Games](https://www.aiandgames.com/p/goal-state-were-in-the-edit-now)
+
+**Sources (Edition #38)**
+
+- Unbundling Xbox: https://superjoost.substack.com/p/unbundling-xbox
+- Two Underrated Mobile Development Regions You Need To Know: https://naavik.co/digest/two-underrated-mobile-development-regions-you-need-to-know/
+- Muskism, reviewed by Mark O'Connell (NYRB): https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/
+- Taiwan's War on Renewables: https://www.chinatalk.media/p/taiwans-war-on-renewables
+
+---
+
 ## 2026-07-07 (Edition #37)
 
 ### 1. A nations cup out-drew the world championship (gaming & esports industry)

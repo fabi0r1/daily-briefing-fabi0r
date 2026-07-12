@@ -8,6 +8,104 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-12 (Edition #42)
+
+### 1. A field map for AI in games, 12 years in the making (AI x gaming)
+
+Tommy Thompson opened his new podcast with a primer episode on how and where AI actually sits in the 2026 games industry, from classic game AI to the generative wave, built on the case-study research he has collected since 2014. Per the episode notes, the second half walks through player-sentiment data, including Quantic Foundry's survey on how players feel about generative AI. (I'm working from the episode notes here, the full argument is in the audio.)
+
+The useful move is the map itself. Behavior, navigation, and difficulty systems have shipped in games for decades and players never objected. The generative layer (assets, code, dialogue) carries different economics and a very different reception, as yesterday's Steam survey showed. Sorting any "AI in gaming" pitch into the right family is the first filter.
+
+One question to chew on: when someone says "AI" in an EF meeting, do we all mean the same layer, and would a shared one-page map of the categories save us from talking past each other?
+
+### 2. Steam's record half: $11.1 billion in 6 months (gaming & esports industry)
+
+Alinea estimates games on Steam grossed $11.1B in H1 2026, the platform's highest half-year ever, up 14.5% on H1 2025 and up 8% even on the holiday-heavy H2 2025. The half nearly matched all of pandemic-peak 2021 ($11.4B) in half the time. Alinea's growth drivers: the surge in Asian players (China especially), higher launch prices, viral co-op hits, smarter back-catalogue strategies, and third-party publishers returning after their own-launcher experiments.
+
+For the portfolio map this is the audience pool under EWC's PC titles, and it's still expanding, with China doing much of the pushing. Note which drivers are ours to touch: co-op virality builds tomorrow's communities at $6 price points, and back-catalogue play keeps older competitive titles alive longer than their hype cycles.
+
+One question to chew on: of Steam's 5 growth engines, which does EWC actually capture today, and which one could a format or title decision capture next year?
+
+### 3. You buy the tractor, Deere keeps the keys (leadership & negotiation)
+
+Matt Stoller's July 10 piece walks through the FTC and 5-state case against John Deere. Modern tractors run on embedded computers (ECUs), and Deere locked diagnostics and repair behind official dealers charging $130-200 an hour. Two proposed settlements would give independent shops repair resources on "fair and reasonable" terms, and Stoller's warning is the lesson: settlements that leave the intellectual-property architecture intact tend to preserve the control they claim to open up.
+
+The transferable idea is that power sits at the layer only one side can touch. Deere's is the ECU. In our world the equivalents are license terms, data access, and broadcast rights. A "fair and reasonable access" clause is worth little while the other side alone holds the diagnostic keys.
+
+One question to chew on: across EF's live contracts, which choke points do we hold, which do publishers hold, and where have we accepted a fair-and-reasonable promise where we should have taken a key?
+
+### 4. The right to keep playing is reaching legislatures (gaming & esports industry)
+
+Christopher Dring's Micro covers the Protect Our Games Act, a California bill meant to stop premium online games from being shut down and made permanently unplayable. It passed the California State Assembly, then failed a senate vote. Dring frames it as another publisher win against the Stop Killing Games consumer campaign, and the campaign has vowed to keep pushing.
+
+Every EWC title is a live-service game, so end-of-life policy moving from community complaint to draft legislation is our weather too. The jurisdictions writing these drafts (California, the EU) are where our publishers live, and a passed version anywhere changes the cost calculus of the games our stages run on. The player-first lens says EF benefits from having a view before it's forced to have one.
+
+One question to chew on: if a Stop Killing Games-style law passes in a major market, which of our publishers feels it first, and does that change anything about how we structure multi-year title commitments?
+
+#### News of the day
+
+- **China may limit access to top AI models** (AI x gaming). Bill Bishop's July 7 issue flags a possible PRC move to restrict access to leading AI models. Largely paywalled, so treat as framing, and the question mark is Bishop's own. [Sinocism](https://sinocism.com/p/floods-and-xis-instructions-prc-to)
+- **"Eastern Data, Western Compute" gets called fake** (leadership & negotiation). ChinaTalk investigated China's flagship plan to route AI compute to the country's interior and finds it working far below the billing. A useful reminder that megaproject narrative and megaproject reality diverge, in any country. [ChinaTalk](https://www.chinatalk.media/p/eastern-data-western-compute-is-fake)
+- **France's gambling regulator says all esports betting is illegal, mid-EWC** (gaming & esports industry). The ANJ warning landed July 9, right in our Paris window. Compliance context worth having on the radar while the event runs. [Esports.net](https://www.esports.net/news/france-says-esports-betting-illegal-at-esports-world-cup/)
+
+**Sources (Edition #42)**
+
+- #001: A Primer on AI in the 2026 Games Industry, AI and Games: https://www.aiandgames.com/p/001-a-primer-on-ai-in-the-2026-games
+- Steam is having another record year for revenue, The Alinea Insight: https://alineaanalytics.substack.com/p/steam-is-having-another-record-year
+- You'll Own Nothing and Be Happy, BIG by Matt Stoller: https://www.thebignewsletter.com/p/youll-own-nothing-and-be-happy-why
+- Publishers score US victory against Stop Killing Games, The Game Business: https://www.thegamebusiness.com/p/publishers-score-us-victory-against
+
+---
+
+## 2026-07-11 (Edition #41)
+
+### 1. Steam's core fans accept AI tools and distrust AI disclosures (AI x gaming)
+
+GameDiscoverCo surveyed roughly 3,800 core Steam fans (fielded June 25 to July 2) on AI in games. On buying a game that carries an AI disclosure: about 43% have no big issue, 26% are neutral, 31% view it negatively, and 8% say they simply won't buy. Only 17% believe developers fully disclose their audiovisual AI use. And 56% think even AI coding helpers, which Valve exempts from disclosure, should be disclosed. In the freeform answers, about 51% accept AI for some uses while rejecting others, with code helpers the most accepted category and creative work the least.
+
+For Ralf's AI-first push the finding underneath the percentages is a trust gap: players judge AI use case by case and doubt the self-reporting. The playbook the data suggests: disclose confidently on production and tooling, keep named humans on creative output, and treat the disclosure itself as trust infrastructure.
+
+One question to chew on: if EWC published an honest AI-use disclosure for its own broadcasts and content, what would it say, and would we be proud of the document or hedging through it?
+
+### 2. Saber runs 3,500 people like a repertory company (gaming & esports industry)
+
+Tim Willits told Christopher Dring how Saber makes "AAA games smarter": scope every project to the fun, move people fluidly across titles rather than parking 200 developers on one game for years, and build where great talent is affordable. Space Marine 2 proved the model before Clair Obscur became the industry template, and SnowRunner, built by a handful of people, has made hundreds of millions. On licensed IP: "The IP can open the door, but the game has got to be great to get people through it." World War Z passed 30M players, and Willits says Paramount calls it one of the most successful licensed properties in its history.
+
+The door-opener line maps directly onto EWC: publisher IP opens our door, and the event has to be great to get people through it. And Willits' image of "virtual dollars flying out of the screen" on things nobody notices is a scope-review lens for a 7-week production.
+
+One question to chew on: where in the Paris run would a Saber-style scope review find money the audience would never miss, and who owns that review?
+
+### 3. The Murdoch succession priced a moral awakening at $1.1 billion (leadership & negotiation)
+
+Bonfire of the Murdochs by Gabriel Sherman (February 2026, from the Economist's 2026 list) distills nearly 2 decades of reporting and over 150 sources into the fight for the last great media dynasty. Kirkus's read: Rupert edged 3 of his 4 heirs out of the family business by claiming they were planning a coup, then spoke to them only through lawyers, and each frozen-out sibling walked away with a $1.1B settlement. Sherman's line on James Murdoch lands hardest: "His moral awakening, it turned out, had a price tag." (I have not read the full book, this draws on Kirkus and the surrounding reviews.)
+
+The transferable idea: family-controlled empires make strategy by succession logic, and outside partners get surprised when the family fight flips the strategy overnight. Several of our counterparts are founder- or family-controlled. Mapping who holds the votes after the founder is part of knowing the partner.
+
+One question to chew on: for our family- and founder-led partners, do we actually know the succession picture, and do we have any relationship with the next generation before we need one?
+
+### 4. Sphere turned a $2.3 billion overrun into the world's top-grossing arena (live events & immersive)
+
+CRE Daily's July 5 brief, on Pollstar data: Sphere in Las Vegas grossed $379M on 1.7M tickets in 2025, the highest of any arena in the world, 3 years after opening late and nearly $1B over budget. The engine is residencies: artists invest in custom production once and amortize it across dozens of shows, which supports premium pricing (average resale $521 this year, up from $415). The dark hours get monetized too: the venue's remastered Wizard of Oz took over $260M in ticket sales through January 20, per the company. Expansion is now planned for Abu Dhabi and a 6,000-seat venue outside Washington DC.
+
+Residencies are the venue version of our 7-week format: fixed production cost spread across weeks, a destination event worth traveling for. The sharper point for us is the dark-hours line. Sphere fills its building when no concert is running.
+
+One question to chew on: what is EWC's Wizard of Oz, the programming that earns money from our venue build in the hours between finals?
+
+#### News of the day
+
+- **Xbox set a 77M Game Pass target for 2026 and sits below half of it** (gaming & esports industry). Gies W27 pairs the 3,200 job cuts and 5-studio divestment with the subscription miss sitting underneath them. The reallocation story keeps tracing back to that gap. [Gies weekly](https://giesweekly.substack.com/p/xbox-cuts-3200-jobs-and-divests-five)
+- **Stillfront CEO Alexis Bonte steps down** (gaming & esports industry). Mobile Gaming Today #114 flags the change, he stays until a successor is appointed. One more leadership reset in consolidated mobile land. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-114)
+- **EFG bans skin-trading and skin-gambling sponsors from CS2 events** (gaming & esports industry). Any company that touches a player's Valve inventory is out as a team sponsor at EFG tournaments, following Valve's own December restriction. Worth knowing from an EF seat, since EFG runs our events. [The Esports Radar](https://esportsradar.gg/esl-officially-bans-skin-trading-and-gambling-sites-as-team-sponsors-in-cs2-tournaments/)
+
+**Sources (Edition #41)**
+
+- What do Steam fans really think about AI in games?, GameDiscoverCo: https://newsletter.gamediscover.co/p/what-do-steam-fans-really-think-about
+- Saber Interactive: "We can just do AAA games smarter", The Game Business: https://www.thegamebusiness.com/p/saber-we-can-just-do-aaa-games-smarter
+- Bonfire of the Murdochs (Kirkus review): https://www.kirkusreviews.com/book-reviews/gabriel-sherman/bonfire-of-the-murdochs/
+- Sphere's Las Vegas Venue Turns a Costly Bet Into a Hit, CRE Daily: https://www.credaily.com/briefs/spheres-las-vegas-venue-turns-a-costly-bet-into-a-hit/
+
+---
+
 ## 2026-07-10 (Edition #40)
 
 ### 1. Godot banned AI-written code from its engine (AI x gaming)

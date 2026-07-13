@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-13 (Edition #43)
+
+### 1. Gaming lost the silicon auction (AI x gaming)
+
+Naavik's July 12 digest documents something with no precedent in 4 decades of console history: every major platform holder raised prices mid-generation. The PS5 sits at $649.99 against a $499.99 launch, the Xbox Series X went from $499.99 to $799.99, and Omdia estimates mainstream PC DRAM prices rose nearly 100% in 2025 with another 60% in Q1 2026 alone. The mechanism: 3 memory makers (Samsung, SK Hynix, Micron) shifted capacity to AI data centers that pay nearly any price, and memory makes up at least 20% of a base PS5's bill of materials. Naavik's forecast is the longest console generation on record, cloud tiers repositioned as the entry-level SKU, and the affordable end (Nintendo, mobile, PC) absorbing the players a $700 box pushes away. GTA VI on November 19 papers over the cliff for one holiday. May 2026 already showed PS5 unit sales down 58% year on year.
+
+This extends the July 5 cost lesson from the component side, and it moves audiences, which is our business. When console entry prices climb, growth flows to platforms that ask for no new hardware, and mobile titles already sit at the top of EWC's prize pool table.
+
+One question to chew on: if console pricing pushes the next wave of players to mobile and PC, which EWC titles inherit them, and does our 2027 portfolio weighting anticipate that shift?
+
+### 2. Blizzard hands Overwatch's home market to Nexon (gaming & esports industry)
+
+Blizzard and Nexon announced on July 7 that the Korean PC version of Overwatch transfers to Nexon on August 12, timed with the Season 4 update. Nexon Korea takes over local live operations, business management, and PC bang services, while Blizzard keeps the IP and core development. Players link their Battle.net accounts to Nexon accounts by August 11 to carry progress across.
+
+Korea is the market that built Overwatch esports, and PC bang economics decide a shooter's health there. Two readings, and they cut in opposite directions: Blizzard renting the strongest local operator to strengthen its most competitive market, or Blizzard stepping back from a region it no longer wants to run itself. Which reading holds should shape how much weight we put on Blizzard's next Overwatch commitment, given the game sits on our watchlist under the publisher-support criterion. Fernando and Bobby will have a view.
+
+One question to chew on: if Nexon now owns the Korean player relationship for Overwatch, does that make the game's base in its strongest region more durable or less, and how do we find out before our next portfolio call?
+
+### 3. Weigh the voice by the track record (leadership & negotiation)
+
+From Principled Perspectives, the Substack where Brandon Lake works chapter by chapter through Ray Dalio's Principles: an idea meritocracy, where the best idea wins regardless of rank, breaks in practice on 2 forces, ego and noise. Dalio's fix is believability-weighted decision making. Everyone speaks, and influence goes to people who have repeatedly succeeded at the thing in question and can explain the cause-and-effect behind their conclusion. Both criteria matter. A track record without explainable reasoning turns into authority. Reasoning without a track record stays theory.
+
+The Culture Code lens builds the safety that gets every voice into the room. Believability-weighting is the second half: how those voices should count once they are in. Dalio's line is that done consistently, it produces the best outcomes and preserves alignment, because even people who disagree can get behind a decision whose weighting they understand.
+
+One question to chew on: in our next game-selection debate, whose input counts through track record and explained reasoning, and whose counts only through the title on the org chart?
+
+### 4. How a world appears is still an open question (AI x gaming)
+
+Michael Pollan's A World Appears (February 2026, from the Economist's 2026 list) is his journey into consciousness science. The title comes from neuroscientist Anil Seth: "I open my eyes and a world appears." Pollan interviews plant neurobiologists hunting the first flicker of awareness, scientists trying to engineer feelings into AI, and novelists capturing felt experience, and he starts from admitted ignorance, letting the experts disagree instead of forcing a thesis. Reviewers converge on the same verdict: no easy answers arrive, and that restraint is the book's value. (I have not read the full book, this draws on the publisher's description and reviews.)
+
+The AI read for us: science cannot yet say what feeling is, so any pitch claiming AI characters that "feel" is selling past the state of knowledge, the same gap the AI-NPC lesson in edition #36 found from the product side. Pollan's method is the second lesson: start from ignorance, interview the believable people, resist the tidy narrative.
+
+One question to chew on: when the next emotional-AI companion pitch reaches us, what evidence would separate engineered feeling from scripted mimicry, and would we recognize it?
+
+#### News of the day
+
+- **The Game Business grades May 2026: big for Forza, Bond, Batman and Subnautica, tough for PlayStation** (gaming & esports industry). Christopher Dring's monthly State of Games data report landed July 10. The body sits behind the paywall, so the headline framing is the usable part: a big month for Forza, Bond, Batman and Subnautica, and a tough one for PlayStation. Read it next to today's hardware lesson, the platform raising prices hardest just posted the weakest month. [The Game Business](https://www.thegamebusiness.com/p/the-state-of-games-may-2026)
+- **Kaon AI raises $60M as its story engine hits 2M daily users** (AI x gaming). Variety reports the B Capital-led round (July 8) for the company behind FlowGPT and Emochi, which builds personalized AI story worlds. Per the company, Emochi runs $45M in annual recurring revenue and its 2M daily users average 150 minutes a day on the platform. That session time is the number to sit with: AI-native interactive fiction is already competing for the same daily minutes as games. [Variety](https://variety.com/2026/digital/news/ai-startup-kaon-ai-raises-60-million-funding-round-1236803914/)
+- **Pokémon Go turns 10 with a Times Square takeover** (live events & immersive). The game marked its tenth anniversary on July 6 with roughly $9.1B in decade player spending (AppMagic estimates), its first free Go Fest Global on July 11-12, and a walk-through Times Square activation. Under new owner Scopely, the Niantic games brand is being renamed Scopely Explore. City-scale AR events still fill squares 10 years in, worth noting for festival formats that live outside the arena. [PocketGamer.biz](https://www.pocketgamer.biz/pokemon-go-celebrates-10th-anniversary-with-over-9bn-in-revenue/)
+- **An EU battery rule retires the original Switch in Europe** (gaming & esports industry). Nintendo stops selling the original Switch, Switch Lite and Switch OLED to European retailers from mid-February 2027, because an EU regulation requires user-replaceable batteries and a redesign makes no sense this late in the hardware's life. Other regions are unaffected. A console generation closing in one region by regulation is a fitting footnote to today's longest-generation lesson. [Nintendo Life](https://www.nintendolife.com/news/2026/07/nintendo-will-stop-selling-the-original-switch-from-february-2027)
+
+**Sources (Edition #43)**
+
+- The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business, Naavik: https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/
+- Blizzard Entertainment and NEXON Enter Publishing Agreement for Overwatch in Korea, Blizzard: https://news.blizzard.com/en-us/article/24243866/blizzard-entertainment-and-nexon-enter-publishing-agreement-for-overwatch-in-korea
+- Principled Perspectives #1: Believability-Weighted Decision Making, Brandon Lake: https://principledperspectives.substack.com/p/principled-reactions-1-believability
+- A World Appears, Michael Pollan (Penguin Press): https://michaelpollan.com/books/a-world-appears/ and review: https://www.washingtonindependentreviewofbooks.com/bookreview/a-world-appears-a-journey-into-consciousness
+
+---
+
 ## 2026-07-12 (Edition #42)
 
 ### 1. A field map for AI in games, 12 years in the making (AI x gaming)

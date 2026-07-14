@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-14 (Edition #44)
+
+### 1. A neural network dreams a playable Rocket League (AI x gaming)
+
+General Intuition and Kyutai, working with Epic Games, released MIRA: a 5B-parameter world model that runs a full Rocket League 2v2 in real time. There is no game engine inside. A single neural network reads all 4 players' inputs and draws the next frame itself, at 20 frames per second on 1 GPU, trained on 10,000 hours of bot gameplay. The code and the Rocket Science dataset are open source, and a demo runs in the browser. The team calls it a dream of Rocket League.
+
+Rocket League is an EWC title, so this lands close to home. When a network can produce a playable copy of a live multiplayer game, publisher IP control gets a new frontier: the simulation was built with Epic at the table, which reads like publishers deciding they would rather sit inside this wave than under it. Worth noting the ceiling too: 20fps, bot-trained, visibly dreamlike. The direction matters more than the current quality.
+
+One question to chew on: when a playable neural copy of an EWC title runs in a browser, what does a publisher's license actually cover in 3 years, and should our long-form contracts start naming world models at all?
+
+### 2. June's tournaments showed up in China's livestream charts (gaming & esports industry)
+
+Niko Partners' June livestreaming tracker has shooters on top in China, and names esports as the driver. Counter-Strike 2 drew 137.5M viewers, up 50% month on month, on the back of IEM Cologne. Valorant drew 128.9M, up 62%, during Masters London, where EDward Gaming took 3rd and $125,000. Tencent's portfolio placed 5 titles in the top 10 by Niko Index: Delta Force at #1, then Valorant, Peacekeeper Elite, CrossFire, and Valorant Mobile.
+
+This is the mutual-KPI argument in one dataset: tournament months visibly move a publisher's viewership numbers in the biggest market, and local team success (EDG podium vs TYLOO's 17th at Cologne) decides how big the move gets. IEM Cologne is EFG-run, which makes the chain from our operational family to Tencent's and Riot's China KPIs unusually direct.
+
+One question to chew on: which EWC weeks produce a spike Niko's tracker can see, and do we put those charts in front of Tencent and Riot ourselves, before they read them without us in the room?
+
+### 3. Harry Reid rewrote the rules, then had to live under them (leadership & negotiation)
+
+The Game Changer by Jon Ralston (from the Economist's 2026 list) is the first full biography of Harry Reid, the Nevada senator Kirkus calls "a quietly persistent politician" who got the era's biggest legislation done. Two details travel well. Reid chaired the Nevada Gaming Commission and wrangled a mobbed-up casino industry before he ever ran the Senate, and his signature move was changing the rules of the game rather than winning inside them, most famously weakening the filibuster in 2013 after opposing the same change when the other side proposed it. (I have not read the full book, this draws on the Kirkus review and the publisher's page.)
+
+The transferable idea: a rule you bend for advantage governs you the moment positions reverse. Our contracts work the same way. Every concession we write into one publisher deal becomes the template the next publisher demands, and every governance precedent we set at EWC or ENC is one we will be held to when it cuts against us.
+
+One question to chew on: which rule have we bent this cycle to win a negotiation, and are we comfortable living under it when a publisher invokes it back at us in 2027?
+
+### 4. Ubisoft is collecting rent on a 13-year-old hit (gaming & esports industry)
+
+Alinea's forward call on Assassin's Creed Black Flag Resynced: 300K Steam copies sold before launch, worth almost $14M gross, 5.39x what AC Shadows sold at the same pre-release milestone, and already more than Skull & Bones' entire Steam lifetime. Ubisoft priced it at $59.99, deliberately under the new $80 ceiling, to widen the audience on a low-risk title. Rhys Elliott calls the mechanism the amortisation of nostalgia: a remake extracts fresh, high-margin revenue from IP whose brand and design were paid off a decade ago.
+
+For us the read is publisher health as portfolio weather. Ubisoft holds R6 at EWC and Yves is a political asset for Paris, so a cushion of low-risk remake revenue while their long bets bake changes what we can realistically ask of them next year. The format logic transfers too: a proven blueprint re-run at a fraction of first-build cost is the cheapest durable revenue in the business.
+
+One question to chew on: what is EF's Black Flag, the proven format we could re-run nearly as-is for a fraction of its first cost, and why haven't we?
+
+#### News of the day
+
+- **UK retail body condemns PlayStation's disc phase-out** (gaming & esports industry). The Entertainment Retailers' Association, which counts Amazon, Game, Sainsbury's and HMV among its members, publicly attacked PlayStation's plan to stop manufacturing game discs from January 2028, insisting removing discs is no progress at all. The full piece sits behind Christopher Dring's paywall, so treat the detail as headline framing. Physical retail is now openly fighting the end of the disc rather than quietly absorbing it, which keeps the game-ownership fight from edition #42 escalating on a second front. [The Game Business](https://www.thegamebusiness.com/p/retail-trade-body-condemns-playstations)
+- **Mythos-class AI models flip the China hardware-risk debate** (AI x gaming). Former Pentagon cyber official Mieke Eoyang argues on ChinaTalk (July 9) that frontier models finding vulnerabilities at scale changes supply-chain logic: when anyone can audit any product, trust shifts from country of origin to how transparently a maker patches what gets found. She says blanket US import bans stop making security sense, and China's disclose-to-government-first rules become a competitive liability. For an organization that buys and integrates event tech from vendors on several continents, review-per-vendor beats review-per-flag. [ChinaTalk](https://www.chinatalk.media/p/does-mythos-change-cyber-risk-on)
+- **Mario Kart Tour shuts down September 30, no offline version** (gaming & esports industry). Nintendo announced on July 8 that the 7-year-old mobile title closes fully, with in-app purchases already winding down and nothing playable left after the switch-off. A billion-download game from the biggest IP holder in the business going dark with no preservation path is exactly the scenario the Stop Killing Games campaign (edition #42) organizes around, handed to legislators as a fresh example. [Engadget](https://www.engadget.com/2210493/nintendo-will-shut-down-mario-kart-tour-september-30/)
+- **MLB's All-Star week is running inside an LED dome** (live events & immersive). Cosm's new Atlanta venue, an 87-foot dome that opened June 10 at Centennial Yards, carries the Home Run Derby (July 13) and tonight's All-Star Game as premium "Shared Reality" experiences, with the NBA already signed to a long-term venue deal. A ticketed middle layer is forming between the broadcast and the stadium, and it monetizes marquee sports moments in cities the event never visits. Worth holding against the EWC question from edition #41: our finals could fill domes we do not own. [CBS Atlanta](https://www.cbsnews.com/atlanta/news/atlantas-new-immersive-sports-venue-cosm-will-open-in-june/)
+
+**Sources (Edition #44)**
+
+- MIRA: Multiplayer Interactive World Models, General Intuition x Kyutai x Epic Games: https://mira-wm.com/
+- Livestreaming Tracker June 2026 Highlights, Niko Partners: https://substack.nikopartners.com/p/livestreaming-tracker-june-2026-highlights
+- The Game Changer, Jon Ralston (Kirkus review): https://www.kirkusreviews.com/book-reviews/jon-ralston/the-game-changer-3/ and publisher page: https://www.simonandschuster.com/books/The-Game-Changer/Jon-Ralston/9781982194413
+- Two summer games due to make a BIG splash, The Alinea Insight: https://alineaanalytics.substack.com/p/two-summer-games-due-to-make-a-big
+
+---
+
 ## 2026-07-13 (Edition #43)
 
 ### 1. Gaming lost the silicon auction (AI x gaming)

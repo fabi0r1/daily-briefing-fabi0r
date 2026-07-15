@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-15 (Edition #45)
+
+### 1. Netflix is building the smallest possible step from watching to playing (gaming & esports industry)
+
+Christopher Dring interviewed Sean Krankel, Netflix's narrative games boss, about Unhinged: a 30 to 40 minute horror story starring Sadie Sink, Zoë Kravitz and Troy Baker that streams to your TV while your phone acts as controller, flashlight, and in-story phone. It took 18 months and a lot of subtraction. Early builds had branching dialogue and a full fake phone interface, and the team cut all of it because every extra player verb fought the pacing. The target: some of Netflix's 700M viewers who love thrillers and never touch a 30-hour game. Response was strong enough that sequels, anthologies, and multiplayer variants are on the table, and Krankel's stated goal is that in a year or two Netflix is "naturally the place that I would go to play a story."
+
+The design insight travels: reaching non-gamers meant cutting mechanical friction while keeping emotional depth, and the success metric was top-of-funnel (people trying their first game on the platform). That is exactly the shape of EWC's mainstream problem. The gap between watching a final and playing the game is our funnel too, and Netflix just showed the step can be 30 minutes long and use hardware the audience already holds.
+
+One question to chew on: what is EWC's Unhinged, the 30-minute interactive on-ramp that turns a viewer of our broadcast into a participant without asking them to install anything?
+
+### 2. Muskism reads one man as the operating system of an era (leadership & negotiation)
+
+Muskism: A Guide for the Perplexed by Quinn Slobodian and Ben Tarnoff (from the Economist's 2026 list, 167 pages) treats Elon Musk the way historians treat Ford: as the template for how capitalism organizes itself in a century, with an ideology the authors call Muskism. Their sharpest claim, per the reviews: Musk's political imagination was shaped by apartheid South Africa's "reactionary technocracy", and the systems he builds carry that formation. Reception is split. Kirkus reads it as a serious left analysis, The Observer found it thoughtful in parts and too clever by half. (I have not read the full book, this draws on Kirkus, the publisher's page, and the review roundup.)
+
+The transferable idea for us sits below the politics: when a company is one person, the founder's formation IS the counterparty risk. Several of our partners are founder-shaped in exactly this way, and reading the founder's history tells you more about the next 5 years of the company than its org chart does.
+
+One question to chew on: for our most founder-dependent partners, could we write one honest page on how the founder's formative years predict their next strategic reversal, and would we act on it?
+
+### 3. Valve is auditing AI disclosures down the supply chain (AI x gaming)
+
+Buried in GameDiscoverCo's July 14 issue: an anonymous indie publisher submitted a demo to Steam and Valve accused them of not reporting AI-generated images. The publisher went back to their artist, who had a no-AI clause in his contract, and discovered the artist's own background artist had used AI. Valve caught what two layers of contract did not. GDCo's read is that Steam actively checks submissions rather than trusting the form.
+
+Edition #41 had the demand side: players judge AI case by case and doubt self-reporting. This is the enforcement side arriving, and the supply-chain detail is the lesson. Your disclosure is only as honest as your contractor's contractor, and platforms are starting to verify. For Ralf's AI-first push that means an EWC AI-use statement needs an audit path through our vendor chain, because the first party to check will find what we did not.
+
+One question to chew on: if a platform ran Valve-style detection on everything our vendors deliver for Paris, would the result match what those vendors told us in their contracts?
+
+### 4. vgames raised $500M to lend against the revenue the money creates (leadership & negotiation)
+
+Israeli gaming fund vgames launched a $500M growth financing platform, backed by insurance group Phoenix and run jointly with General Catalyst. The structure is the story: it finances user acquisition for gaming and consumer companies, and repayments are tied to the revenue that UA generates rather than fixed loan schedules. No equity dilution, no fixed debt clock, the capital gets paid back at the speed the growth it bought actually materializes.
+
+That is contract architecture worth stealing. Payment tracking the outcome it funds aligns both sides automatically, where flat fees and fixed schedules make one side carry all the variance. Our publisher deals live on the same question: the marketing-services structure already moves us this way, and the mutual-KPI posture with Riot and Tencent is the same principle wearing a different suit.
+
+One question to chew on: which of our flat commitments for 2027 could be restructured so the payment curve follows the KPI it is supposed to buy, and would the publisher take that trade?
+
+#### News of the day
+
+- **Paralives sold 1M copies in its first month of Early Access** (gaming & esports industry). The 15-person indie life sim hit 1M sales by June 24, a month after its May 25 Steam launch, against an internal goal of 100,000, with 250,000 copies moved in the first 8 hours and reviews holding at 90% positive. A community-funded challenger landing this hard in The Sims' backyard is a durability-over-budget story, and it lands on the desk of our partner EA. [mxdwn Games](https://games.mxdwn.com/news/paralives-sells-1-million-copies-in-its-first-month-of-early-access/)
+- **Mobile Gaming Today flags a shrinking mobile market** (gaming & esports industry). Issue #115's roundup puts mobile IAP at $19.4B, down 4% year on year, with downloads down 12% to multi-year lows (the free issue does not state the measurement window, so treat the figures as headline framing). Mobile titles carry EWC's biggest prize pools and the mobile-as-growth-lever assumption sits under our portfolio math, so a contracting spend base is worth tracking to the source report. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-115)
+- **Games of the Future 2026 confirmed its Astana lineup, running inside our Paris window** (live events & immersive). The phygital event runs July 29 to August 9 with 800+ athletes and a $4M+ prize pool across Dota 2, CS2, PUBG, UFL, Fatal Fury and phygital disciplines, per the July 1 announcement. A sovereign-backed hybrid sports-and-esports format overlapping EWC weeks 4 and 5, sharing titles with our slate, is a second national bet on owning the future-of-competition narrative. [PR Newswire](https://www.prnewswire.com/news-releases/games-of-the-future-2026-confirms-global-lineup-for-astana-302815818.html)
+
+**Sources (Edition #45)**
+
+- Interview: Netflix wants to become the 'place to play a story', The Game Business: https://www.thegamebusiness.com/p/interview-netflix-wants-to-become
+- Muskism, Slobodian and Tarnoff (Kirkus review): https://www.kirkusreviews.com/book-reviews/quinn-slobodian/muskism/ and author page: https://www.bentarnoff.com/muskism/
+- How Paralives sold a million copies in its first month (AI-disclosure item), GameDiscoverCo: https://newsletter.gamediscover.co/p/how-paralives-sold-a-million-copies
+- Gaming fund vgames raises $500 million, Calcalist / Ctech: https://www.calcalistech.com/ctechnews/article/rkgqz8fvze
+
+---
+
 ## 2026-07-14 (Edition #44)
 
 ### 1. A neural network dreams a playable Rocket League (AI x gaming)

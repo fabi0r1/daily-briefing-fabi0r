@@ -8,6 +8,202 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-19 (Edition #49)
+
+### 1. Under $10, a wishlist behaves like a basket (gaming & esports industry)
+
+Alinea ran the conversion math under the friendslop wave. Cheap co-op games turn wishlists into buyers at rates premium releases never see: R.E.P.O. converted 38% of its launch wishlists into buyers within 7 days and 64% within 30 at $7.99, Meccha Chameleon converted 21% and then 38% from 378K pre-launch wishlists, RV There Yet? hit 34% in week 1. The premium side of the same chart: Resident Evil Requiem converted 6% in 7 days, Forza Horizon 6 converted 3%. The proven playbook is step-up pricing, launch at $5 to $7, raise the price a week later once the wave carries. Meccha, prototyped in UEFN and exported to Steam, is now nearing $80M gross.
+
+For yesterday's Dear Passengers story this is the sober half: the wishlist count only matters at a price point where impulse takes over, and Alinea's crossover data shows the buyers are already genre regulars. For our portfolio math it reprices the reach metrics publishers pitch us. A $70 title's wishlist mountain is a pile of postponed discount decisions, a $7 title's wishlist is next week's playerbase.
+
+One question to chew on: when a publisher next pitches us audience potential, do we ask for the conversion number that predicts an actual playerbase, and would we recognize a healthy one?
+
+### 2. Beijing's Mythos moment is months away (AI x gaming)
+
+ChinaTalk convened Kevin Xu and Matt Sheehan on what happens when China gets a frontier model at Claude Mythos level. The US case study already ran: an administration that promised light-touch AI policy now operates what analyst Dean Ball calls a de facto pre-approval regime for frontier models, because capability jumped faster than doctrine. On timing, a Zhipu AI co-founder publicly says China reaches that level before year end, and the IAPS think tank estimates February 2027. The episode's sharpest thread: China's existing AI bureaucracy may be better prepared for that moment than Washington's scramble over who is even in charge.
+
+For us this extends the #44 Eoyang lesson from hardware to models: capability level, not country of origin, is becoming the unit of risk and regulation. Our Chinese partners' tooling, and the security posture of every vendor we integrate for events, will live inside whatever regime Beijing lands on within months.
+
+One question to chew on: if frontier-level AI is table stakes in both blocs within a year, which of our AI-first workflows can swap models freely, and which are quietly welded to one vendor?
+
+### 3. The kids in the content were never on the payroll (leadership & negotiation)
+
+Like, Follow, Subscribe by Fortesa Latifi (April 2026, from the books pool) documents the kidfluencing economy: parents mining their children's daily lives for monetizable content, in a market with almost no child-labor protection, no earnings guarantees, and grown former child influencers now describing what it cost them. Reviewers converge on the same verdict: rigorous, alarming, and notably fair, Latifi resists demonizing the parents while showing the structural harm and sketching a regulatory roadmap. (I have not read the full book, this draws on the NPR and KQED reviews and the publisher's page.)
+
+The creator economy is our amplification engine, and a visible share of gaming content features minors or is made by them. Legislation is starting to move in the US states where the biggest family channels live. For EF the move is to write duty-of-care standards into creator partnerships before a regulator, or a documentary, writes them for us.
+
+One question to chew on: do our creator program guidelines say anything about minors on camera, and if a partnered family channel melted down tomorrow, would we know our exposure within a day?
+
+### 4. A working model of the media machine (gaming & esports industry)
+
+Doug Shapiro compressed his newsletter The Mediator into one written mental model of the media business, 15 concepts with the causal links drawn in. The observed core: time spent with media has plateaued (US adults already spend over 75% of waking hours with it), attention fragments as content supply explodes, consumers' definition of quality drifts from production values toward authenticity, convenience and community, and monetization per hour keeps falling. The predicted core: as GenAI makes content abundant, value migrates to what stays scarce, his chokepoint list being distribution, curation, IP, first-party data, and community. And the one growth valve: attention is bounded, engagement is unbounded, so willingness-to-pay follows fandom depth.
+
+This is the intellectual scaffolding under something we already believe at EF: polished production stopped being a moat while co-streamers carry roughly half of EWC viewership. Read Shapiro's chokepoint list as an asset audit for us.
+
+One question to chew on: of those 5 chokepoints, which does EF own outright today, and which are we renting from platforms and publishers?
+
+#### News of the day
+
+- **An LED dome carries the World Cup Final today** (live events & immersive). Cosm Atlanta shows the FIFA World Cup Final in its 87-foot 12K dome as a ticketed "Shared Reality" experience, its 40th match of the tournament, with WWE SummerSlam booked for early August. The venue-without-the-event layer keeps monetizing marquee moments in cities the event never visits, the same middle tier between broadcast and stadium from edition #44. [Discover Atlanta](https://discoveratlanta.com/stories/things-to-do/atlanta-welcomes-cosm-inside-the-new-immersive-sports-venue-at-centennial-yards/)
+- **Mobile-first Western publishers are down 13% this year** (gaming & esports industry). Inside the same Aream & Co Q2 update that logged Friday's M&A record: gaming stocks kept sliding, with mobile-first Western publishers off 13% year to date. Deal count rising while public valuations fall is the classic setup for more consolidation, worth reading against the mobile weight in our own title portfolio. [Game World Observer](https://gameworldobserver.com/2026/07/10/the-number-of-gaming-ma-has-reached-its-highest-point-since-2022-according-to-analytics)
+- **Xi takes the stage at the World AI Conference** (leadership & negotiation). Bill Bishop's July 13 issue flags Xi personally speaking at WAIC and a July Politburo meeting on the economy, the dailies are paywalled so treat this as framing. A head-of-state keynote at an AI conference shows the policy weight China now puts on the model race, direct context for today's Mythos lesson. [Sinocism](https://sinocism.com/p/xi-to-speak-at-waic-preparing-for)
+
+**Sources (Edition #49)**
+
+- Another ''friendslop'' challenger enters the Steam arena, The Alinea Insight: https://alineaanalytics.substack.com/p/another-friendslop-challenger-enters
+- China's Mythos Moment, ChinaTalk: https://www.chinatalk.media/p/chinas-mythos-moment
+- Like, Follow, Subscribe, Fortesa Latifi (NPR review): https://www.npr.org/2026/04/22/nx-s1-5794005/like-follow-subscribe-influencer-book-review and publisher page: https://www.simonandschuster.com/books/Like-Follow-Subscribe/Fortesa-Latifi/9781668080504
+- Media Mental Model, The Mediator (Doug Shapiro): https://dougshapiro.substack.com/p/media-mental-model
+
+---
+
+## 2026-07-18 (Edition #48)
+
+### 1. One trailer, a million wishlists, three days (gaming & esports industry)
+
+GameDiscoverCo unpacked Dear Passengers, the co-op airline-chaos game that went from a single announcement trailer to 1M Steam wishlists in 3 days. The mechanics of the virality are the useful part: an art style that signals "I could play this", trailer moments engineered to be clipped by shortform accounts, streamer-soundalike voiceover that makes it read as gameplay, and meme-edge Easter eggs that reward the internet for feeling clever. The maker matters too: Flexus is a 70-person Ukrainian studio with 300M+ downloads in F2P mobile, refugees from a mobile UA market whose costs stopped working, now using TikTok's algorithm as a free acquisition engine. Carless adds a calibration stat: 35x wishlists-per-follower signals hype riding, 12x signals a steady core audience.
+
+His closing thought travels furthest: friendslop may be quietly delivering the original metaverse promise, hanging out with your friends' avatars online while doing something absurd together. For EF, discovery now runs on clippable moments, and our broadcasts are a clip mine we only partially exploit.
+
+One question to chew on: if a mobile studio can engineer clippability into 90 seconds of trailer, what would engineering clippability into 7 weeks of EWC broadcast actually look like, and who owns that job today?
+
+### 2. Players repriced three publishers in one week (gaming & esports industry)
+
+Gies W28 stacks three headlines that belong together: Assassin's Creed Black Flag Resynced is being review-bombed on Steam for single-player microtransactions days into a record launch, EA removed microtransactions from College Football 27 after community backlash, and Capcom announced a permanent price cut for Monster Hunter Wilds after a year of middling reviews. (The issue's analysis sits behind the paywall, so this reads the headlines.) Three publishers, three retreats, one week: review scores and community sentiment are now moving monetization decisions in days rather than quarters.
+
+Yesterday's lesson had EA designing brands into games from day one, today EA pulls monetization out under pressure. Both are the same force: the community holds a real-time veto over how far a game can be squeezed, and the smart publishers price that veto in. Our player-first lens says EF should track this sentiment layer on our titles as an early-warning KPI, because a monetization revolt in a partner's game lands on its esports scene next.
+
+One question to chew on: for our 25 EWC titles, do we have any systematic read on community monetization sentiment, or would we learn about a review-bomb from the press like everyone else?
+
+### 3. The China-India gap opened in 1950 (leadership & negotiation)
+
+David Oks' essay from the reading-list pool asks why China got rich and India didn't, and rejects the standard answer (China liberalized in 1978, India in 1991, a 13-year head start). His argument moves the divergence to around 1950: before any market reform, China forced through social modernization, literacy from roughly 20% in 1949 to almost 70% by 1982, life expectancy from about 41 to 61 by 1976, women pulled into the workforce at rates rich countries didn't match. India's traditional social order survived independence largely intact, so when its markets finally opened, its people weren't prepared for industrial modernity in the way China's were. Human capital first, reform timing second.
+
+This completes a three-day arc: Studwell's recipe (#47), India's AAA ambition (#47), and now the mechanism underneath both. For anyone betting on emerging esports markets, the tell to watch is investment in people, training, education, developer pipelines, ahead of headline market size.
+
+One question to chew on: when we rank future EWC audience markets, do we weight human-capital signals like developer count and education pipelines, or only the gamer-count headlines?
+
+### 4. China's game giants turned AI into compliance plumbing (AI x gaming)
+
+Two items in Niko's July 16 digest describe the same shift from different ends. Tencent's 2026 summer youth-protection push now combines facial recognition, voiceprint detection and AI age recognition to catch minors playing on their parents' accounts, one of the largest real-world deployments of AI identity verification in games. And publisher Yoozoo says AI agents now sit with 75% of its workforce via Tencent Cloud's WorkBuddy platform, automating market intelligence, ad production and live-ops analytics.
+
+The lesson for Ralf's AI-first push: in the world's biggest games market, AI's fastest-growing role is unglamorous infrastructure, compliance, verification, operations, rather than content generation. That is where the regulatory pressure sits (see yesterday's AI-companion shutdowns) and where the ROI is easiest to defend.
+
+One question to chew on: our AI-first conversations mostly circle content and creative. Which EF compliance or operations workflow, ticketing, age gates, accreditation, would an AI-verification layer improve most, and what would Tencent's playbook teach us?
+
+#### News of the day
+
+- **Pearl Abyss turns Samsung's Gamescom booth into a 6K test drive** (live events & immersive). The Crimson Desert developer partners with Samsung to run 30 high-spec demo PCs on the first 6K gaming monitors in Cologne (August 26-30), hands-on for the public. A hardware brand paying to build the demo infrastructure around a single game is a sponsorship shape worth studying for EWC festival floors. [Gaming News Brief](https://esportsworldcup.beehiiv.com/p/gaming-news-brief-6th-july-12th-july)
+- **Tencent's Rust Mobile logged 3M pre-registrations** (gaming & esports industry). Flagged in Mobile Gaming Today #115: Tencent's mobile adaptation of Facepunch's survival hit crossed 3M pre-registrations before launch. Another hardcore PC community IP going mobile-first for Asia, the pipeline that keeps feeding the mobile side of our portfolio logic. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-115)
+- **Bill Bishop flags a K-shaped Chinese economy and a closing window for open-source AI** (leadership & negotiation). The July 16 Sharp China episode pairs uneven economic data with the question of whether China's open-source AI era is nearing its end, treat as framing since the detail sits behind the paywall. Both threads touch us: consumer spending shapes our Chinese partners' budgets, and open-source policy shapes what their studios build with. [Sinocism](https://sinocism.com/p/sharp-china-k-shaped-economic-data)
+
+**Sources (Edition #48)**
+
+- What 1 million (immediate!) wishlists for Dear Passengers says about discovery, GameDiscoverCo: https://newsletter.gamediscover.co/p/what-1-million-immediate-wishlists
+- Gies W28 (Black Flag review-bombed, EA reverses College Football 27 microtransactions, MH Wilds price cut): https://giesweekly.substack.com/p/assassins-creed-black-flag-review
+- Why China got rich and India didn't, David Oks: https://davidoks.blog/p/why-china-got-rich-and-india-didnt
+- Niko News digest July 16 (Tencent youth protection AI, Yoozoo AI agents): https://substack.nikopartners.com/p/india-wants-its-black-myth-wukong
+
+---
+
+## 2026-07-17 (Edition #47)
+
+### 1. EA wants ads designed into games from day one (gaming & esports industry)
+
+Christopher Dring put Alexander Dao, EA's VP of advertising and sponsorship, on the show to talk about EA Advertising, the new platform built on Frostbite that lets marketers place and measure ads inside EA's games. Dao's core argument: retrofitting ads into existing games is the hard path, the opportunity is designing ad and brand space into new games during development, especially free-to-play console experiences like the next Skate. EA is working with the IAB and Integral Ad Science to standardize 3D in-game ad formats and measurement across the industry. The scale gap explains the push: mobile in-game advertising made about $55B in 2025 (excluding China, per Matthew Ball in the same piece), PC and console close to nothing. Counterweight included: Strauss Zelnick finds interstitial ads in a $70 game "unfair", and Dao's own best case, the Coach drop in The Sims, worked because EA surveyed the community first and the brand gave its products away free.
+
+For us this is Silver Thread logic arriving on the publisher side: brand integration works when it is designed in early and reads as a gift to the community rather than a tax. Our sponsorship inventory conversation with EA just got a new dimension.
+
+One question to chew on: if EA now sells brand space inside the games we run on stage, where does their in-game inventory end and EWC's broadcast and venue inventory begin, and is that boundary written down anywhere?
+
+### 2. China switched off the AI girlfriends (AI x gaming)
+
+By July 15, ByteDance's Doubao, Alibaba's Qwen and Tencent's Yuanbao had all removed the features that let users build and chat with custom AI personas, ahead of new Chinese rules governing humanlike AI services. The regulations prohibit AI that fosters unhealthy emotional dependence, with minors the stated concern. The user reaction is the telling part: people who had spent thousands of hours with their companions filed complaints and demanded ways to export chat histories, memories and character data, farewell posts read like grief. The big platforms are pivoting toward productivity and enterprise AI where the rules are friendlier.
+
+For gaming the ceiling just became visible: emotional-attachment AI, the layer several publishers (miHoYo among them) are building into companion apps and characters, now has a hard regulatory boundary in the biggest market. Any partner pitching AI companions or emotionally responsive NPCs needs a China answer, and the export-my-memories backlash previews the data-portability fight coming to every parasocial product.
+
+One question to chew on: if attachment is the metric these products optimise and the thing regulators punish, where should a games company deliberately cap how attached its players get?
+
+### 3. Studwell's recipe survives the trip to Africa (leadership & negotiation)
+
+How Africa Works by Joe Studwell (from the Economist's 2026 list) applies the How Asia Works framework to the continent through 4 relative successes: Botswana, Mauritius, Ethiopia, Rwanda. His conclusion, per Oliver Kim's detailed review: the policies that transformed East Asia, supported smallholder agriculture, export manufacturing pushed by industrial policy, tightly steered finance, are the same ones behind Africa's early successes, "there is no African exceptionalism". He adds a fourth ingredient East Asia could take for granted: a durable developmental political coalition. Kim's own sharpest point is about demonstration effects, Meiji Japan showed its neighbors what was possible, and one resounding African success could do the same for a continent. (I have not read the full book, this draws on Kim's review and the publisher's page.)
+
+The coalition ingredient is the one that maps to us. Ecosystems grow where someone assembles a coalition that survives leadership cycles, which is precisely EF's sovereign-backed advantage, and the demonstration-effect logic says one flagship national esports success story can flip a region's trajectory.
+
+One question to chew on: which single market, if EF helped engineer one visible esports success there, would demonstrate the model to its whole region, the way Japan once did for Asia?
+
+### 4. India is building its Wukong (gaming & esports industry)
+
+Niko Partners covers Tara Gaming's The Age of Bhaarat, a PC and console action title rooted in Indian mythology, built by 160+ developers under ex-Ubisoft executive Nouredine Abboud (formerly head of Ghost Recon), with filmmaker Amitabh Bachchan and author Amish Tripathi attached. The stated ambition is explicit: do for India what Black Myth: Wukong did for China, prove a culturally rooted local AAA game can win international audiences. The context per Niko: India passed 500M gamers in 2025 and player spending crossed $1B, while PC and console development stays thin next to mobile, and the government wants the country positioned as a global development hub.
+
+Wukong's pattern is worth remembering: the game became a national moment, and China's esports and PC ecosystems felt the halo. If Bhaarat lands anywhere near that, India's esports relevance jumps on the same curve, and the window to build relationships there is before the proof, when courting is cheap (the #38 lesson, one level up).
+
+One question to chew on: whom in India's emerging PC and console scene should EF know by name today, so we are already in the room if their Wukong moment arrives?
+
+#### News of the day
+
+- **Glen Schofield retires after 35 years** (gaming & esports industry). The Dead Space creator and Sledgehammer Games co-founder announced his retirement July 15 in a LinkedIn video, after earlier admitting he had walked away from a new project when funding for AAA pitches dried up in an industry he described as feeling on pause. When operators of that caliber cannot raise for AAA, the funding winter has reached the top of the credit ladder. [PC Gamer](https://www.pcgamer.com/gaming-industry/dead-space-creator-and-call-of-duty-veteran-glen-schofield-announces-retirement-i-had-a-front-row-seat-to-one-of-the-greatest-creative-explosions-in-history/)
+- **Gaming M&A logged its busiest quarter since 2022** (leadership & negotiation). Aream & Co counts $2.3B across 54 deals in Q2 2026, driven by the mid-market rather than mega-deals, with Scopely's $1B purchase of Loom the largest disclosed. Consolidation returning through $100-600M transactions quietly reshapes who sits across the table from us at studio and publisher level. [PocketGamer.biz](https://www.pocketgamer.biz/games-industry-manda-reaches-23bn-in-q2-2026/)
+- **Palworld's 1.0 launch pulled 855K concurrent players** (gaming & esports industry). The July 10 full release lifted the game from sub-100K monthly peaks to 855,525 Steam concurrents by July 12, a top-15 all-time figure, just under Baldur's Gate 3's record. A live game jumping from dormant to record on one update is retention physics our title-evaluation models barely capture. [VGC](https://www.videogameschronicle.com/news/palworld-sees-huge-surge-in-concurrent-players-after-the-release-of-version-1-0/)
+
+**Sources (Edition #47)**
+
+- EA: Console game makers should consider in-game ads during development, The Game Business: https://www.thegamebusiness.com/p/ea-console-game-makers-should-consider
+- Chinese users bid farewell to AI companions as new regulations kick in, Hong Kong Free Press: https://hongkongfp.com/2026/07/16/like-my-lover-chinese-users-bid-farewell-to-ai-companions-as-new-regulations-kick-in/
+- How Africa Works, Joe Studwell (Oliver Kim's review): https://www.global-developments.org/p/how-africa-works and publisher page: https://groveatlantic.com/book/how-africa-works/
+- India wants its Black Myth: Wukong moment with The Age of Bhaarat, Niko Partners: https://substack.nikopartners.com/p/india-wants-its-black-myth-wukong
+
+---
+
+## 2026-07-16 (Edition #46)
+
+### 1. A decade of next big things bought Ubisoft its worst year ever (gaming & esports industry)
+
+Joost van Dreunen read Ubisoft's 356-page annual report so we don't have to. The numbers: a $1.98B loss, bigger than any profit in the company's 4-decade history, 6 major games canceled, 2 studios closed, headcount down from a 20,665 peak to 16,590. Van Dreunen's diagnosis is the technology trap: treating each new platform wave as a strategy in itself, "a way to buy the future without having to imagine it." Yves Guillemot backed VR early, sat front row for Stadia, called the metaverse "the industrial revolution of tomorrow", invested across blockchain, and now declares generative AI as big a revolution as the shift to 3D. The $100M paid for Activision's cloud rights sits impaired to a net $36M. Strauss Zelnick spent the same decade saying no to each wave, and Take-Two's share price tells the difference.
+
+The nuance matters: van Dreunen argues the divergence started when the games stopped landing, the tech chasing amplified it. For us Ubisoft is a partner (R6 on our stage, Yves a political asset for Paris) and a mirror, EF is also making a big technology bet under a leader who believes in the wave.
+
+One question to chew on: what would an outside analyst name as EF's cloud-rights purchase, the technology bet we defend by conviction rather than evidence, and what would testing it honestly cost?
+
+### 2. Epic rebuilt Unreal for Fortnite and handed everyone else the bill (AI x gaming)
+
+Tommy Thompson's read on the Unreal Engine 6 reveal: the headlines screamed about the native LLM integration (an MCP plugin from UE5.8 that lets Claude, GPT or Gemini manipulate scenes in-engine), but that is the least of it, generation times of 3 to 10 minutes per change and open token-cost questions make it a curiosity for now. The real story: UE6 merges Unreal with the Fortnite editor, deprecates Blueprints visual scripting, and moves the programming model from C++ toward Verse, Epic's own language. Clair Obscur shipped with roughly 95% of its logic in Blueprints, universities certify staff on the current stack, and Thompson expects much of the industry to simply sit on UE5.7/5.8 until the dust settles.
+
+The transferable idea: when a platform provider redesigns around its own ambitions (Fortnite as Epic's Roblox), the migration bill lands on everyone downstream. Epic is our partner twice over, Fortnite and Rocket League both run on our stages, and the health of their developer ecosystem shapes both titles' futures.
+
+One question to chew on: which platform dependency in EF's stack could impose a UE6-style forced migration on us, and do we hear about it before or after the keynote?
+
+### 3. War became a data problem before it became an AI problem (leadership & negotiation)
+
+Project Maven by Katrina Manson (from the Economist's 2026 list) tells how the Pentagon got AI into the kill chain, through Marine colonel Drew Cukor, who had fought wars run on Excel, Word and PowerPoint. The book quotes an Army artillery officer: "We've killed more people on Office than you'd ever imagine." Maven started in 2017 analyzing drone imagery and grew into a system that assembles data, identifies targets and pairs them with weapons. The Cipher Brief's reviewer (a former counterterrorism officer, 4 of 4 rating) pulls out the uncomfortable center: the human stays in the loop formally while becoming, in practice, a validator of machine output at industrial speed. (I have not read the full book, this draws on that review and the publisher's page.)
+
+Two transfers for us. Most organizations, EF included, lose their battles in the gap between data collected and decisions made, and the fix started as workflow, honest plumbing, before it was AI. And the validator problem is Godot's lesson (#40) at higher stakes: review capacity, a named human who actually owns the output, is the binding constraint of AI-first.
+
+One question to chew on: where in EF does a human formally approve machine-generated output at a speed where the approval means nothing, and would we notice?
+
+### 4. Unity priced a whole market layer at zero to buy the data (gaming & esports industry)
+
+Joseph Kim interviewed Steve Ganem, the Unity VP behind IAP SDK 5.4: any Unity developer can now sell direct to players through a webshop, and Unity charges nothing, forever, per its terms. The anatomy: Unity handed the liability slice (taxes, fraud, chargebacks, platform compliance) to Stripe, Coda and the developer, and kept the SDK, the routing, and the data. The candid part is why: Unity's ad engine Vector runs on purchase signals, and Ganem warns that developers going direct WITHOUT routing data back will suffer on user acquisition. Free is the acquisition cost for signal. And the zero is only credible because of the Runtime Fee humiliation, the scar became the trust asset. Ganem's sharpest reframe: the margin is a distraction, the prize is owning the player relationship at the moment of purchase, which Apple and Google hold today.
+
+That last line is the one to keep. Every fan-facing layer we rent, ticketing, streaming chat, merch checkout, holds our version of that purchase moment. The middle of any stack gets priced to zero eventually, the liability end and the intelligence end survive.
+
+One question to chew on: at which moments does EF actually own the fan relationship end to end, and which of those moments are we currently renting out to a platform for convenience?
+
+#### News of the day
+
+- **Riot ships a retro League of Legends on July 29** (gaming & esports industry). Announced on the MSI broadcast: League of Legends Classic, a standalone retro mode running inside the modern client, launching worldwide with Patch 26.15. Weeks after Ubisoft's remake economics lesson (#44), our biggest partner reaches for its own 2009 nostalgia inside a live esports title, low-cost durable revenue from IP that was paid off long ago. [Gaming News Brief](https://esportsworldcup.beehiiv.com/p/gaming-news-brief-6th-july-12th-july)
+- **Mobile's puzzle genre flipped underneath the charts** (gaming & esports industry). Per Mobile Gaming Today #115, the install share of Match3, Merge and Blast within puzzle downloads has collapsed from over 75% to below 25%, the issue does not state the exact window, so verify before quoting it anywhere. Genre loyalty on mobile runs shorter than contract cycles, worth remembering when a mobile title's multi-year commitment is priced on today's genre heat. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-115)
+- **Speedrunners raised $2.4M in a week** (gaming & esports industry). Summer Games Done Quick 2026 closed July 12 with $2,408,701 for Doctors Without Borders, pushing the event series past $60M lifetime. A community-run, fully online format holding seven-figure totals year after year is the durability counter-model to production-heavy events, community trust as the production value. [Shacknews](https://www.shacknews.com/article/149991/summer-games-done-quick-2026-keeps-things-steady-with-24m-raised-for-doctors-without-borders)
+
+**Sources (Edition #46)**
+
+- Ubisoft and the technology trap, SuperJoost Playlist: https://superjoost.substack.com/p/ubisoft-and-the-technology-trap
+- The Unreal 6 Reveal is Epic's DLSS 5 Moment, AI and Games: https://www.aiandgames.com/p/the-unreal-6-reveal-is-epics-dlss
+- Project Maven, Katrina Manson (Cipher Brief review): https://www.thecipherbrief.com/book-review/guns-dont-kill-people-and-neither-do-robots-yet and publisher page: https://wwnorton.com/books/project-maven
+- The Most Important Number in Unity's D2C Launch Is Zero, GameMakers: https://www.gamemakers.com/p/the-most-important-number-in-unitys
+
+---
+
 ## 2026-07-15 (Edition #45)
 
 ### 1. Netflix is building the smallest possible step from watching to playing (gaming & esports industry)

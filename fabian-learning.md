@@ -8,6 +8,104 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-21 (Edition #51)
+
+### 1. Douyin grew by choosing its dependencies (gaming & esports industry)
+
+Joost Rietveld's Platform Papers hosts new MIS Quarterly research on how Douyin (TikTok's Chinese original) went from 0.75M to 208M users in 2 years while still depending on the platforms it would later displace: over 56% of its early users found it through friends sharing clips on WeChat and Weibo. The authors call it the complementor's dilemma. Grow, and the platforms you ride on start treating you as a threat. Hold back, and you stay small. Douyin's answer was a sequence: stay tightly coupled while weak, shift to selective coupling when WeChat lost interest in short video (keep leaning on WeChat, poach users from Weibo), then compete openly, and only absorb the incumbents' blocking once it had its own user base, monetization tools and SDKs for others to build on. By 2018 WeChat and Weibo cut video sharing, and it no longer mattered.
+
+The ladder maps onto us twice. EF rides publisher IP and rented distribution the way Douyin rode WeChat, and our co-streamers ride us the same way, so the research's sharpest line cuts in both directions: build independence before confronting incumbents, and expect your best complementors to try exactly that on you.
+
+One question to chew on: of our big couplings (publisher IP, Twitch and YouTube distribution, EFG operations), which one could we loosen selectively over the next 2 years, and which must stay tight at any price?
+
+### 2. Roblox put a game studio inside a text box (AI x gaming)
+
+Roblox announced Build, a mobile feature that turns a single text prompt ("a cozy adventure game in a dense forest") into a playable game, handling mechanics, environment, characters, style and sound through a mix of open-source and proprietary models. Public alpha starts July 28 in New Zealand for age-verified users as young as 9; from 16 up, creations can be published to the global audience, with free and paid tiers. The slop question got a concrete answer: discovery stays ranked by long-term retention, in Roblox's words "if no one plays it, no one can find it." Context for the mood: 52% of professionals in GDC's industry survey this year said generative AI is having a negative impact.
+
+This is the partner Morten is building our Roblox track with, and the announcement changes what that partnership is: a company turning its player base into its developer base. Retention-ranked discovery is also the practical version of Shapiro's curation chokepoint from #49, worth stealing as a principle for any UGC or creator program we run.
+
+One question to chew on: if Roblox's next hit experiences come from 9-year-olds typing prompts, what does an EF product on that platform assume about who creates, and is our concept built for that world or the old one?
+
+### 3. Mafias grow where institutions leave gaps (leadership & negotiation)
+
+Mafia: A Global History by Ryan Gingeras (from the Economist's 2026 list) defines mafia broadly: any organized network that operates through violence alongside, and in tension with, state authority. On that definition he traces a single story from bandit networks in the Ottoman Empire through the Sicilian Mafia, the Triads, Capone and Escobar to modern cartels. Reviewers say the Ottoman chapters are the strongest and that the book trades depth for range; the through-line is that these networks thrive where formal institutions leave gaps, selling protection, enforcement and dispute resolution the state fails to provide. (I have not read the full book, this draws on the Voice Magazine review and the publisher's page.)
+
+Esports has its own vacuum-fillers: match-fixing rings, boosting economies, gray-market betting, account trading. Each one sells something the formal ecosystem of publishers, organizers and federations has left unserved. Integrity work like ENC's rulebook is competition against informal operators, and the way to win is the way states win: provide the service better than the gray market does.
+
+One question to chew on: which service do gray operators currently sell to players and fans that EF could formalize first, before someone less accountable owns the relationship?
+
+### 4. Paralives out-patiented The Sims (gaming & esports industry)
+
+GameDiscoverCo unpacked how Paralives, a 15-person team led by Alex Massé, sold 1M copies in its first Early Access month in the hardest genre to enter. The funding model is the story: a Patreon running since 2019 at roughly $50K a month, about $3M cumulative, with every weekly post building a community that waited 7 years. The launch numbers show what that patience bought: 78K concurrent players on day 1, refunds at 6.5% against a 9.5% median, close to 25,000 Steam Workshop mod items in the first month, and 1.8M wishlists still unconverted. The team's pledge: free expansions only, no paid DLC ever.
+
+Community-funded patience beat venture pace, and the no-paid-DLC promise reads like the Culture Code in commercial form, a belonging cue priced into the business model. That is the durability bet we keep making at EF, executed at indie scale.
+
+One question to chew on: what is EF's version of the weekly Patreon post, the cadence that turns an audience into co-owners years before the product is finished?
+
+#### News of the day
+
+- **Tencent's shooters carried China's June livestreaming charts** (gaming & esports industry). Niko's China Games & Livestreaming Tracker has shooter titles among the most-watched livestreaming content in June 2026, and credits global esports events for the surge. That is the exact viewing lane our new Chinese distribution rides on, and it says the genre mix of our portfolio matches what China actually watches. [Niko Partners](https://substack.nikopartners.com/p/livestreaming-tracker-june-2026-highlights)
+- **Build A Rocket Boy's ex-staff turned a playtest into a picket** (gaming & esports industry). Flagged in The Game Business: former staff of the MindsEye developer are protesting the studio's fan playtests after around 400 layoffs. Community goodwill has become a labor-relations battleground, a new flavor of the real-time community veto from #48, and a reminder that our partners' internal conflicts can surface inside player-facing moments we share a stage with. [The Game Business](https://www.thegamebusiness.com/p/ea-console-game-makers-should-consider)
+- **Steam just booked its biggest half-year ever** (gaming & esports industry). Alinea Analytics estimates Steam generated about $11B in H1 2026, its largest six months on record (their estimate, Valve publishes no figures). Against yesterday's shrinking console-shipment forecast, the PC keeps pulling in the players, the co-streamers and the money, which is where most of our 25 titles live. [The Alinea Insight](https://alineaanalytics.substack.com/p/steam-is-having-another-record-year)
+
+**Sources (Edition #51)**
+
+- The Complementor's Dilemma, Platform Papers: https://platformpapers.substack.com/p/the-complementors-dilemma
+- Roblox launches an AI-powered game creation feature in its mobile app, TechCrunch: https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/
+- Mafia: A Global History, Ryan Gingeras (Voice Magazine review): https://www.voicemag.uk/review/16447/book-review-mafia-a-global-history-by-ryan-gingeras
+- How Paralives sold a million copies in its first month, GameDiscoverCo: https://newsletter.gamediscover.co/p/how-paralives-sold-a-million-copies
+
+---
+
+## 2026-07-20 (Edition #50)
+
+### 1. Xbox wrote down a decade in a thousand words (gaming & esports industry)
+
+Naavik's read on the July 6 memo in which Asha Sharma, 5 months into the CEO job, ended the Game Pass era: roughly 3,200 roles cut through FY27 (about 1,600 immediately), Compulsion and Double Fine set independent with their IP, Ninja Theory and Undead Labs sold, Arkane France in consultation, and Mojang plus King pulled out of the content org to report to her directly. The candor is the striking part. The memo says divested studios lost 64 cents per dollar invested in a typical year, the whole division runs at about a 3% margin, and Game Pass plateaued around 30M subscribers against a strategy premised on 100M. Add the component crisis (Xbox expects to pay over 5 times 2025 prices for console storage by holiday 2027, prices rise $100 to 150 on August 1) and the old model has no arithmetic left.
+
+Naavik's sharpest push-back is on the new goal: 1 billion daily active users is the wrong number, since audiences have been flat for years and the industry's growth is monetization per player. And the deeper read: every move (clean verticals, first-ever consolidated P&L, franchises over platform) works equally well as a turnaround or as packing the boxes for a spin-off. Ubisoft (#46) was a decade of tech bets ending in a loss; this is a decade of strategy ending in a memo.
+
+One question to chew on: if a new CEO wrote EF's version of this memo with 64-cent-line candor, which number would be on page one, and do we know it today?
+
+### 2. Developers stopped waiting for permission on AI (AI x gaming)
+
+Tommy Thompson's report from Develop:Brighton. The talking point of the week, from games lawyers to trade bodies, was AI governance: studios that built real AI policies are now separating from those still improvising as legal loopholes and toxic practices surface. Unity, after years of tone-deaf GenAI marketing, pitched AI its indie base actually wants: DLSS, FSR and PSSR upscaling integrated into the render pipeline, and neural texture compression that runs on the AI cores of modern GPUs (already shipped quietly in games like God of War: Ragnarok, where 99.9% of players never noticed). The bigger LLM tooling seems to have been held for Unite in Seoul, where audiences are friendlier to generative AI.
+
+His summary mood travels beyond AI: "people are tired of watching institutions fail to deliver," and the indignation is driving self-organized fixes, from the Debug print magazine to the community-run BITs showcase outgrowing Develop's own expo floor. For Ralf's AI-first push the Brighton lesson is that governance is now the visible dividing line between serious and sloppy AI adoption.
+
+One question to chew on: if EF's AI usage had to survive a Develop-panel audit tomorrow, does the written policy exist, and who signed it?
+
+### 3. Westad reads the 2020s like the 1910s (leadership & negotiation)
+
+The Coming Storm by Odd Arne Westad (March 2026, from the Economist's 2026 list) takes World War I as the reference point for today's multipolar world: great powers seeking regional dominance, rising nationalism, globalization resented, tariffs and terrorism dominating the agenda. Per the Kirkus review, Westad argues the US "squandered its global position through unnecessary wars, uncertain strategic priorities, and domestic social and economic decline," while China is set on dominating its region and Russia, weakened, fights to reclaim its old sphere. His prescription is the useful part: deliberately resolve some of the open conflicts to take pressure out of the system before it finds its spark, EU membership for Ukraine among his examples. (I have not read the full book, this draws on the Kirkus review and the publisher's page.)
+
+EF operates inside exactly this multipolarity: Chinese authorities on ENC terminology, US publishers with security teams that vetoed Riyadh, a French host government, a Saudi mandate. Westad's operational lesson is that in a powder-keg system, closing one open conflict buys stability the whole system prices in.
+
+One question to chew on: which single open conflict in our stakeholder map, deliberately settled this year, would de-risk 2027 planning the most?
+
+### 4. A $30 billion argument for owning your community (gaming & esports industry)
+
+Hurun's new global ranking of private companies, via Niko, puts miHoYo 25th overall, the highest of any gaming company, at approximately $30B. The curve is the lesson: about $7.2B in 2023, around $23B in 2024, $30B now, quadrupling in 3 years on a live-service portfolio (Genshin Impact, Honkai: Star Rail, Zenless Zone Zero) it built and operates itself. The next gaming company on the list is Lilith Games at $4.4B, ranked 256th. One caveat Niko flags: the list only covers private companies founded after 2000, so Valve sits outside it.
+
+The uncomfortable part for us: the most valuable private company in games built its worth on direct community relationships and largely ignores esports. Understanding why (its monetization never needed tournament reach) is more useful than pitching them our stage.
+
+One question to chew on: what would an esports platform have to offer a company that already owns its community end to end, and does our current publisher pitch contain that answer?
+
+#### News of the day
+
+- **Compulsion goes hunting for partners on day one of independence** (gaming & esports industry). Flagged in The Game Business: Compulsion Games is openly seeking partnerships after Xbox set it independent with its IP and catalog. Newly free AAA studios with owned IP are exactly the fuel behind Q2's record mid-market M&A (#47), so expect the acquirer list for studios like this to shape who sits across our table next year. [The Game Business](https://www.thegamebusiness.com/p/ea-console-game-makers-should-consider)
+- **Analysts forecast console shipments falling 19.5% this year** (gaming & esports industry). From the numbers still unmined in Gies W28: an analyst forecast has 2026 console shipments dropping 19.5% to 33.9M units, and a survey finds 45% of PS5 enthusiasts considering a move to PC (the issue's detail sits behind the paywall, treat both as reported framing). Component costs are pricing the console model out in real time, the same arithmetic as today's Xbox lesson, and the audience keeps drifting toward PC where our co-streaming reach is strongest. [Gies weekly](https://giesweekly.substack.com/p/assassins-creed-black-flag-review)
+- **Stillfront extends a €60M loan to buy time** (gaming & esports industry). Mobile Gaming Today #115 flags the Swedish mobile roll-up extending a €60M loan, weeks after its CEO announced his exit (#41's news). With mobile-first Western publishers down double digits this year, the acquisition-built mobile groups are now managing debt rather than buying growth, context for every mobile title commitment we price. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-115)
+
+**Sources (Edition #50)**
+
+- The Memo That Undid 10 Years of XBOX Strategy, Naavik: https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/
+- Post-Develop:Brighton Musings, AI and Games: https://www.aiandgames.com/p/post-developbrighton-musings-170726
+- The Coming Storm, Odd Arne Westad (Kirkus review): https://www.kirkusreviews.com/book-reviews/odd-arne-westad/the-coming-storm-2/ and publisher page: https://us.macmillan.com/books/9781250410283/thecomingstorm/
+- miHoYo is the most valuable private gaming company, Niko Partners: https://substack.nikopartners.com/p/mihoyo-is-the-most-valuable-private
+
+---
+
 ## 2026-07-19 (Edition #49)
 
 ### 1. Under $10, a wishlist behaves like a basket (gaming & esports industry)

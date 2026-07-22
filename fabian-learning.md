@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-22 (Edition #52)
+
+### 1. Jagex bet the whole company on one game (gaming & esports industry)
+
+Jagex now calls itself "The RuneScape Company." CEO Jon Bellamy sold off its one non-RuneScape title (Scum) and its studio, and pointed the entire business at three goals: turn around the aging RuneScape MMO, put £200M into the thriving Old School version, and launch the survival game Dragonwilds on consoles in September. His line to The Game Business: it is "really liberating to be able to do one thing better than anybody else in the world."
+
+Two details are worth keeping. The monetization reset cost real money: Jagex pulled its lucrative Treasure Hunter microtransaction, RuneScape revenue fell "quite a large chunk," and membership stabilized for the first time in nearly 4 years. And a cultural-fit assumption broke: Jagex long assumed its very British humor was Western-only, then Dragonwilds launched in China and 41% of first-week sales came from Chinese buyers. Both map to EF: paying a near-term revenue cost to reset a game for long-term health is our durability bet, and our own "which markets fit which games" assumptions deserve a live test.
+
+One question to chew on: where are we holding a lucrative revenue layer that quietly caps a title's long-term health, and would we take Jagex's trade?
+
+### 2. AI won the memory auction, consoles pay the tax (AI x gaming)
+
+Something new happened in console history: every major platform raised prices mid-generation, some of them twice. The PS5 is now $649.99 (up from $499.99 at launch), the Xbox Series X jumped to $799.99, and Valve's Steam Machine landed above $1,000, roughly $250 over what Valve planned to charge. The cause is barely about gaming. Memory chips (DRAM and NAND) come from a 3-maker oligopoly, and when AI data centers started paying almost anything for them, gaming hardware lost the auction. Omdia estimates PC DRAM prices rose close to 100% in 2025 and another 60% in Q1 2026, with memory around 20% of a base PS5's build cost (these are Omdia estimates, worth verifying before quoting).
+
+Naavik's downstream read: the longest console generation on record, the cheap entry-level console gone for this cycle, and demand drifting toward PC, mobile, and cloud, the platforms that ask players to buy no new hardware at all. That drift lands right where our co-streaming reach is strongest. AI's second-order effects are repricing the hardware our audience plays on, before AI writes a single line of our content.
+
+One question to chew on: if console prices push a slice of players onto PC and mobile over the next 2 years, does that help or hurt EWC's reach math, and are we modeling it?
+
+### 3. China turned lab monkeys into a supply-chain lever (leadership & negotiation)
+
+ChinaTalk's Nick Corvino traces a supply chain that is literally alive: research monkeys. China supplied roughly half to two-thirds of the lab monkeys imported into the US through the 2010s, then dropped to zero from 2020, and prices jumped from a few thousand dollars to $20,000 and above (the piece cites FDA figures reaching $50,000). Macaques stay hard to replace for vaccines and gene therapy, and the supply cannot scale overnight: gestation runs about 5.5 months, and animals reach research age at 3 to 5 years.
+
+The transferable idea is that a living pipeline runs on trust in records. A research monkey's value depends on verifiable age, parentage, and pathogen history, and fake paperwork can wreck a multi-million-dollar study. The US has three imperfect options: buy from less reputable suppliers, breed slowly at home, or buy a foreign supplier and run it to your own standards (Charles River bought its Cambodian supplier for about $510M). Any pipeline EF builds, national-team talent, referees, production crews, works the same way: it takes years, and provenance is the moat.
+
+One question to chew on: which capability are we assuming we can buy on demand when we need it, that actually needs years of building and a records trail we do not yet keep?
+
+### 4. Wooldridge wants the centre to police big business (leadership & negotiation)
+
+Adrian Wooldridge's new book (Centrists of the World Unite! in the UK, The Revolutionary Centre in the US) argues the political centre lost its nerve and should recover it. The point worth stealing sits below the politics: he says centrists should stop being relaxed about big business that makes money by manipulating people's choices and spreading misinformation, and should put the common good first even when that constrains commercial interests. (I am drawing on reviews in History Today and a Niskanen Center interview, not the full book, and one reviewer flagged that it barely mentions AI.)
+
+That maps straight onto the player-first posture. The clearest EF version of "police manipulative business" is the monetization-revolt pattern we keep tracking, the review-bombs and microtransaction reversals: the market is punishing choice-manipulation in real time, and a platform that sides with players early builds trust that compounds. The coalition angle matters too, since EF governs across Saudi, French, US, and Chinese stakeholders who rarely agree, and a common-good frame holds a coalition that pure faction-management cannot.
+
+One question to chew on: on the games we run, where would siding openly with players against a manipulative monetization design cost us a partner short-term and earn trust that outlasts them?
+
+#### News of the day
+
+- **Kaon AI banks $60M for AI-generated entertainment** (AI x gaming). The former FlowGPT team raised $60M for AI-native media, and its app Emochi reports 2M daily users at 150-minute average sessions and $45M ARR, generating video and images around each user's stated preferences. The attachment-and-personalization layer several publishers are chasing, funded at scale, and the same emotional-dependence model China just moved to regulate (#47). [GamesBeat](https://gamesbeat.com/kaon-ai-raises-60m-for-genai-entertainment/)
+- **Pokémon Go turned Times Square into a real-world game board at 10 years** (live events & immersive). Niantic (now under Scopely) ran a physical Times Square activation for its anniversary weekend, with the game past roughly $9B in lifetime player spending per AppMagic estimates (verify the figure before quoting). The venue-as-experience play EF keeps circling, run on the world's busiest corner. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/10/3325448/0/en/Pok%C3%A9mon-GO-celebrates-its-10-year-anniversary-by-transforming-Times-Square-into-an-immersive-real-world-adventure.html)
+- **Nolan's Odyssey shipped an official Roblox game before the film** (live events & immersive). Universal's free companion (The Odyssey: Defy the Gods) passed 1.8M visits ahead of the July 17 theatrical release, a co-op survival experience tied to the movie. A film studio using Roblox as pre-release marketing is a direct read for our ENC Roblox track. [Dexerto](https://www.dexerto.com/roblox/christopher-nolans-the-odyssey-gets-bizarre-official-roblox-game-3381545/)
+- **Premium mobile game releases jumped 77% in 2025** (gaming & esports industry). GamesIndustry.biz, on AppMagic data, counts nearly 750 premium titles last year, with PC and console ports up from 7 to 23 and Balatro alone at $21.3M on mobile, while free-to-play still held 96% of downloads. Paid games are finding a mobile home again, relevant to how we price the mobile weight in our portfolio. [Pocket Tactics](https://www.pockettactics.com/premium-mobile-games-increase)
+
+**Sources (Edition #52)**
+
+- RuneScape CEO: We want to be bigger than World of Warcraft, The Game Business: https://www.thegamebusiness.com/p/runescape-ceo-we-want-to-be-bigger
+- The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business, Naavik: https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/
+- The Monkey Supply Chain, ChinaTalk: https://www.chinatalk.media/p/the-monkey-supply-chain
+- Centrists of the World Unite!, Adrian Wooldridge (History Today review): https://www.historytoday.com/archive/review/centrists-world-unite-adrian-wooldridge-review and Niskanen Center interview: https://www.niskanencenter.org/recovering-the-lost-genius-of-liberalism-with-adrian-wooldridge/
+
+---
+
 ## 2026-07-21 (Edition #51)
 
 ### 1. Douyin grew by choosing its dependencies (gaming & esports industry)

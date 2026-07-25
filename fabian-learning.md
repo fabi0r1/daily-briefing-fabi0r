@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-25 (Edition #53)
+
+### 1. AI is shrinking game teams toward one (AI x gaming)
+
+Rest of World reported from Turkey, once Europe's biggest game-dev hub after London with 800+ studios. Founder Emirhan Gül says that with Claude Code he now runs his studio on 2 full-time staff instead of the dozen his old job needed, handling code, game design, social, and investor meetings himself. Another ex-Peak developer built and shipped a mobile game solo in about 2 months using AI, with no hands-on coding. The other side is brutal: more than a quarter of gaming workers worldwide were laid off in the past 2 years, junior programmer, artist, and writer roles have "tanked," and new Turkish studio formation fell from roughly 200 in 2021 to 30 last year.
+
+This is Ralf's lean-team thesis playing out in the wild, and its cost. AI lets a tiny team ship, and it removes the training ground where juniors used to grow into seniors. For EF, running lean is now realistic, and the second-order question is who trains the next generation of talent our ecosystem depends on once the entry rungs disappear.
+
+One question to chew on: if AI lets us run our functions with half the headcount, where do we deliberately keep junior seats open so the pipeline we need in 5 years still exists?
+
+### 2. Trust is worth 227% more spend (gaming & esports industry)
+
+Joseph Kim put a number on the thing studios undervalue: the direct player relationship. His guest, Tebex GM Liam Wiltshire, runs the payment rails under community game servers (Minecraft, FiveM, Hytale) and has processed $1.5B in lifetime payments. The data is the lesson. When a purchase runs through a creator code the player actually trusts, average spend jumps from $24 to $41, and in Rust from $18 to $60, and 84% of players only ever use one code. Buy-now-pay-later lifts the same player's spend 50 to 70%, because players treat a game purchase as an investment spread across the months they expect to play.
+
+The frame that travels: every rented channel (paid acquisition, store featuring, the algorithm) costs more per impression over time, and the player relationship is the one channel that gets cheaper as it strengthens. Platforms hand back fee percentage before they hand back the login, payment method, and purchase history, because that relationship is the moat. Our co-streamers are exactly this kind of trusted-creator channel, and the Rust number says trust converts to spend at a rate our reach metrics never show.
+
+One question to chew on: which of our co-streamers could function as a creator-code trust channel, and do we measure the spend lift their audiences carry, or only their view counts?
+
+### 3. We are wired for belonging (leadership & negotiation)
+
+Justin Garcia, who runs the Kinsey Institute, argues in The Intimate Animal that humans evolved for deep social bonding, and that modern life has opened an "intimacy crisis," a gap between the closeness we are built to need and the closeness we actually get. He defines intimacy plainly: the experience of feeling seen, heard, and known. (I am drawing on the Kirkus review, an Indiana University summary, and the publisher's page, not the full book.)
+
+Strip out the romance and the idea lands on communities. The strongest fandoms sell belonging, the feeling of being known by a group, which is Coyle's Culture Code point about belonging cues, and it is why the deepest communities hold people for a decade. For EF the durable asset is the sense of belonging our events and clubs create, and belonging shows up in retention and repeat spend.
+
+One question to chew on: which EF touchpoint makes a fan feel actually known, and how would we tell whether we are building belonging or just counting an audience?
+
+### 4. Saber does AAA smarter by refusing to silo talent (gaming & esports industry)
+
+Saber Interactive's Tim Willits explained how a 3,500-person studio ships AAA-quality games on non-AAA budgets. The method: scope hard to the fun, refuse to silo staff (people move across John Wick, SnowRunner, and Space Marine 3 as each project needs them), and develop in more affordable locations. His proof points: SnowRunner was made by a handful of people and earned hundreds of millions, and Space Marine 2 "literally changed everything" for the studio's standing. Saber holds more licensed products in development than perhaps any developer, because a known name opens the door, and the game still has to be great to keep people through it.
+
+This is lean production as a discipline, and it pairs with today's AI lesson: small teams that move people to where the work is, plus proven IP for a built-in audience, out-execute big siloed teams burning cash. For EF the read is on how we staff and how we use publisher IP. Saber's "the IP opens the door, the game keeps them" line is the standard our publisher-IP stages should hold, and its refusal to silo talent is a model for how a lean Games team covers 25 titles.
+
+One question to chew on: where are we running a big siloed effort that a smaller, cross-deployed team could do better and cheaper, and what stops us from moving people the way Saber does?
+
+#### News of the day
+
+- **EWC 2026's League of Legends broke its viewership record** (gaming & esports industry). Karmine Corp beat reigning champions T1 on the way to the final, and the tournament peaked near 1.48M viewers with average viewership up 33.5% year on year, EWC's strongest LoL showing yet. Our own event is posting record numbers on a Riot title weeks after the $28M/yr renewal. [Esports Charts](https://escharts.com/news/ewc-2026-stronger-audiences-league-legends)
+- **EWC Week 3 puts $3.5M live across FC and PUBG** (live events & immersive). The FC Pro World Championship (36 players, $1.5M, July 22 to 26) and PUBG (24 teams, $2M, July 21 to 26) are running now, both feeding Club Championship points. Two more marquee weekends of live competition inside the Paris run. [Esports World Cup](https://esportsworldcup.com/en/news)
+- **Ubisoft Barcelona struck over 51 layoffs** (gaming & esports industry). Staff at the Rainbow Six studio held six demonstrations across three weeks through July 16, protesting cuts of nearly 30% of the office and pushing for a 5-year layoff freeze. R6 is on our stage, and a partner's labor unrest can surface inside the scenes we share. [Game Developer](https://www.gamedeveloper.com/business/ubisoft-barcelona-to-go-on-strike-over-proposed-layoffs)
+
+**Sources (Edition #53)**
+
+- AI is shrinking video game development teams to one, Rest of World: https://restofworld.org/2026/ai-video-games-developer-jobs/
+- The Most Valuable Asset in Games Isn't Your Game, GameMakers: https://www.gamemakers.com/p/the-most-valuable-asset-in-games
+- The Intimate Animal, Justin R. Garcia (Kirkus review): https://www.kirkusreviews.com/book-reviews/justin-r-garcia/the-intimate-animal/ and Indiana University summary: https://news.iu.edu/college/live/news/49229-in-new-book-the-intimate-animal-ius-justin-garcia
+- Saber Interactive: We can just do AAA games smarter, The Game Business: https://www.thegamebusiness.com/p/saber-we-can-just-do-aaa-games-smarter
+
+---
+
 ## 2026-07-22 (Edition #52)
 
 ### 1. Jagex bet the whole company on one game (gaming & esports industry)

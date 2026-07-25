@@ -8,7 +8,7 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
-## 2026-07-25 (Edition #53)
+## 2026-07-25 (Edition #55)
 
 ### 1. AI is shrinking game teams toward one (AI x gaming)
 
@@ -48,12 +48,110 @@ One question to chew on: where are we running a big siloed effort that a smaller
 - **EWC Week 3 puts $3.5M live across FC and PUBG** (live events & immersive). The FC Pro World Championship (36 players, $1.5M, July 22 to 26) and PUBG (24 teams, $2M, July 21 to 26) are running now, both feeding Club Championship points. Two more marquee weekends of live competition inside the Paris run. [Esports World Cup](https://esportsworldcup.com/en/news)
 - **Ubisoft Barcelona struck over 51 layoffs** (gaming & esports industry). Staff at the Rainbow Six studio held six demonstrations across three weeks through July 16, protesting cuts of nearly 30% of the office and pushing for a 5-year layoff freeze. R6 is on our stage, and a partner's labor unrest can surface inside the scenes we share. [Game Developer](https://www.gamedeveloper.com/business/ubisoft-barcelona-to-go-on-strike-over-proposed-layoffs)
 
-**Sources (Edition #53)**
+**Sources (Edition #55)**
 
 - AI is shrinking video game development teams to one, Rest of World: https://restofworld.org/2026/ai-video-games-developer-jobs/
 - The Most Valuable Asset in Games Isn't Your Game, GameMakers: https://www.gamemakers.com/p/the-most-valuable-asset-in-games
 - The Intimate Animal, Justin R. Garcia (Kirkus review): https://www.kirkusreviews.com/book-reviews/justin-r-garcia/the-intimate-animal/ and Indiana University summary: https://news.iu.edu/college/live/news/49229-in-new-book-the-intimate-animal-ius-justin-garcia
 - Saber Interactive: We can just do AAA games smarter, The Game Business: https://www.thegamebusiness.com/p/saber-we-can-just-do-aaa-games-smarter
+
+---
+
+## 2026-07-24 (Edition #54)
+
+### 1. Xbox blurs its own console line (gaming & esports industry)
+
+Gies' W29 digest leads with a pairing worth reading twice. Microsoft announced backwards compatibility for PC, with the first 4 games revealed, bringing the old Xbox console library to Windows machines. In the same issue, senior Xbox leadership insists "there has to be a reason for people to buy an Xbox" and recommits to console exclusivity. (I am reading Gies' summary here, the underlying announcements sit behind their links.)
+
+Both statements can be true at once, and the direction of travel is one-way: the library is moving to where the players are going, and that is PC. The read for us comes from our own dual-narrative work. Watch what a partner ships and treat the public line as positioning. Xbox's actions say the hardware boundary matters less every quarter, whatever the messaging says.
+
+One question to chew on: which partner commitments are we taking at face value where the shipping behavior already points the other way?
+
+### 2. Games were generating content long before LLMs (AI x gaming)
+
+Tommy Thompson's new AI and Games podcast welcomed its first guest: Dr Michael Cook of King's College London, a researcher with over a decade in procedural content generation (PCG), whose new book Next Level introduces the field to readers without a computer-science background. PCG is the older generative craft behind games like Dwarf Fortress and Caves of Qud. Designers write rules and constraints, the system generates endless content inside them, and the results stay explainable.
+
+That distinction is a diligence tool for us. When a publisher pitches an "AI-powered" feature for one of our stages, the first question is which kind: rule-based generation the designers fully control, or an LLM layer whose outputs nobody can fully predict. The risk profiles differ completely, and most AI-in-games debates blur both into one word.
+
+One question to chew on: in our next publisher AI conversation, can we name which kind of AI actually sits in the feature, and does our enthusiasm survive the answer?
+
+### 3. Write the scenario to its end (leadership & negotiation)
+
+Carlo Masala, a defense professor in Munich, wrote If Russia Wins as one concrete scenario instead of a risk list. It is March 2028, Ukraine has signed a forced peace in Geneva costing about 20% of its territory, and Russia tests NATO by seizing the Estonian border city of Narva and the island of Hiiumaa. About 90 pages, an international bestseller, built on interviews with officials and experts. (I am drawing on the Foreign Policy and NZ Booklovers reviews, not the full book.)
+
+The method is the lesson. A specific, dated, named future forces every assumption into the open, where an abstract risk list lets them hide. Ministries took Masala seriously precisely because the book reads like a report from 2028. For an organization that plans events years ahead across volatile geographies, one written-out scenario per quarter would earn its cost many times over.
+
+One question to chew on: which single scenario deserves the Masala treatment from us this quarter, written to its end with names and dates, and who are the 5 people who must read it?
+
+### 4. Amazon aims Luna at 2.5 billion underserved players (gaming & esports industry)
+
+Amazon put its Luna game streaming service directly inside the Prime Video app, and games boss Jeffrey Gattis explained the thesis to The Game Business: about 3 billion people play games while only 300 to 500 million dedicated gaming devices exist in the wild, and that gap is an audience nobody serves (his figures). Cloud gaming was historically "a little bit of a solution in search of a problem" while consoles stayed affordable, he says. With hardware prices climbing, the problem has arrived. Luna carries AAA titles like EA Sports FC 26 and Hogwarts Legacy, Tomb Raider is coming, and Gattis targets "tens of millions" of players.
+
+This pairs with yesterday's Netflix lesson: two streamers, same bet, that the next wave of players arrives through apps they already have rather than hardware they refuse to buy. EA Sports FC inside Prime Video is one of our publisher partners reaching people console esports never touched.
+
+One question to chew on: if the next 100 million console-quality players onboard through Prime and Netflix, where does their esports fandom start, and are we standing there?
+
+#### News of the day
+
+- **Chinese publishers are scaling back at Tokyo Game Show 2026** (gaming & esports industry). Niko Partners flags that several major Chinese publishers with a strong TGS presence in recent years are absent from the consumer exhibition area this time. After years of aggressive global expansion, Chinese publishers picking their spots more carefully is a posture shift worth tracking, for our own partner conversations and for the wider China-outbound read that shapes our ENC work. [Niko Partners](https://substack.nikopartners.com/p/chinese-publishers-scale-back-presence)
+- **Rival app stores went live inside Google Play on July 22** (gaming & esports industry). Epic and Google withdrew their proposed settlement on July 15, which left Judge Donato's original 2024 injunction in force, and the US Play Store now has to carry third-party app stores, with US app listings auto-included unless developers opt out. Mobile is where our biggest audiences play, and the store that controlled discovery and the 30% cut just lost exclusive control of both. [9to5Google](https://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/)
+- **Hasbro wrote down $56M on cancelled games** (gaming & esports industry). The Baldur's Gate and D&D owner scrapped several titles due "2028 and beyond" in its Q2 earnings, keeping Exodus and Warlock on track, and CEO Chris Cocks framed it as concentrating digital spend behind the franchises with the clearest upside. One more owner choosing fewer, bigger bets, the portfolio discipline running through the whole industry right now. [Game Developer](https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-after-scrapping-several-video-games)
+
+**Sources (Edition #54)**
+
+- Hasbro takes a $56 million hit | Xbox brings backwards compatibility to PC, Gies: https://giesweekly.substack.com/p/hasbro-takes-a-56-million-hit-on
+- #002: Reaching the 'Next Level' with Mike Cook, AI and Games: https://www.aiandgames.com/p/002-reaching-the-next-level-with
+- If Russia Wins, Carlo Masala (Foreign Policy review): https://foreignpolicy.com/2026/02/26/if-russia-wins-carlo-masala-review-ukraine-nato/ and NZ Booklovers review: https://www.nzbooklovers.co.nz/post/if-russia-wins-a-scenario-by-carlo-masala
+- Amazon Luna: We're not trying to replace consoles (but maybe we could), The Game Business: https://www.thegamebusiness.com/p/amazon-luna-were-not-trying-to-replace
+
+---
+
+## 2026-07-23 (Edition #53)
+
+### 1. Netflix built a smaller step into gaming (gaming & esports industry)
+
+Netflix's narrative games boss Sean Krankel walked The Game Business through Unhinged, its surprise horror hit starring Sadie Sink and Zoë Kravitz: a 30 to 40 minute playable story streamed to your TV, with your own phone as the controller, the flashlight, and the character's actually ringing phone. The design method was subtraction. Early builds had branching dialogue and a fake full phone interface, and the team cut both because every extra player verb fought the pacing. The game targets some of Netflix's 700 million viewers rather than gamers, and Krankel calls it a "very big top of funnel" for people who had never touched a game on the platform.
+
+The gap between watching a horror film and playing Resident Evil is a chasm. Unhinged is a single step. Our version of that chasm sits between watching esports and competing, and almost everything we build serves people already on the far side. Krankel's sharpest point: reaching non-gamers means shaving off the mechanical roughness while keeping the full emotional depth.
+
+One question to chew on: what is our 30-minute Unhinged, the lowest-threshold step that turns an EWC viewer into a participant?
+
+### 2. Gamers are fighting an enclosure movement (leadership & negotiation)
+
+Matt Stoller's BIG connects the gamer revolt over Sony ending physical game discs to a 400-year-old pattern. Law professor James Boyle named it the second enclosure movement back in 2003: the way aristocrats fenced off England's common land between the 1600s and 1800s, intellectual-property law and platform power now fence off things we used to own, like lending a game, reselling it, or repairing our own equipment. Stoller's telling detail: a petition against Sony's move collected a third of a million signatures, and the anger includes people who buy everything digitally anyway (his figures and framing).
+
+The lesson underneath: property anger is coalition fuel. Gamers who once cheered Microsoft's Activision deal now read the price rises and layoffs that followed as the thing regulators tried to prevent, and once a community reframes a business decision as taking what was theirs, the backlash outlives any patch. Whatever we sell fans, from digital collectibles to passes, the ownership expectation is part of the product.
+
+One question to chew on: which fan-facing asset of ours carries an implicit ownership promise, and what would fans say we took if we ever changed its terms?
+
+### 3. Godot demands a human who owns the code (AI x gaming)
+
+The Godot game engine, the open-source challenger carving territory out of Unity, changed its contribution policy on June 30: AI agents may no longer write code submissions, and users who submit heavily AI-generated work get banned. Tommy Thompson of AI and Games backs the call, and his reasoning travels well beyond code. Generating a pull request became nearly free while reviewing one still costs an expert hours, and Godot's small review team was drowning. The project's sharpest line: "AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it."
+
+That asymmetry is coming for every approval queue we run, from contract drafts to partner decks. AI makes submissions cheap while review stays expensive, so every queue owner needs a rule. Godot's rule is a named human who understands the work well enough to fix it, which is a strong default for an AI-first organization too.
+
+One question to chew on: which EF approval queue floods first as AI drafting spreads, and what is our version of Godot's responsibility rule for it?
+
+### 4. The mobile hit rate is 0.6% (gaming & esports industry)
+
+Mobile Gaming Today counted 618 hybridcasual games launched in Q1 2026, every one with at least 3 months on the market by June 30. The share that reached the $10M success bar: 0.6%, which is roughly 4 games (Gamigion's data). The same issue notes the money is returning anyway. Drakestar's Q2 report puts gaming funding above $2.5B, the strongest quarter in the last 12 months.
+
+For a portfolio built heavily on mobile titles, the math says the proven live game with an established esports scene is the scarce asset, and it gets scarcer as launch volume rises and hit rates sink. It also explains why publishers guard their winners so hard: each one out-survived hundreds of launches.
+
+One question to chew on: if only about 4 new mobile games a quarter clear the bar, should our scouting concentrate on catching those 4 early rather than screening the 600?
+
+#### News of the day
+
+- **Gamescom 2026 sold out its exhibition space for the first time** (live events & immersive). Every part of the Cologne show floor (August 26 to 30) is booked, organizers are exploring expansion for 2027, and Konami and Tencent Games joined the lineup. Record physical trade-show demand in the same year the industry keeps shedding jobs says presence still converts, a signal that supports our own festival thesis. [VGC](https://www.videogameschronicle.com/news/gamescoms-exhibition-space-has-completely-sold-out-for-the-first-time/)
+- **Riot made LoL Classic's retro skins free after a fan backlash** (gaming & esports industry). Beta players found 56 classic skins locked behind a battle-pass grind or roughly $5 in Riot Points, and within days Riot reversed course and made every classic skin the free default ahead of launch. Our biggest partner just showed the community veto working in real time, and chose player trust over margin. [Kotaku](https://kotaku.com/league-of-legends-classic-skins-free-riot-points-2000717612)
+- **Tencent is in talks to buy SuperPlay for up to $1.5B** (gaming & esports industry). Calcalist reports early-stage negotiations for Playtika's Israeli studio, which Playtika bought in 2024 for $700M upfront, roughly a 2x return in under 2 years if the deal closes at the top of the range. Tencent shopping for proven mobile hitmakers again is the surest sign of where it sees durable value in this market. [Calcalist](https://www.calcalistech.com/ctechnews/article/hkvfmqsvme)
+
+**Sources (Edition #53)**
+
+- Interview: Netflix wants to become the 'place to play a story', The Game Business: https://www.thegamebusiness.com/p/interview-netflix-wants-to-become
+- Monopoly Round-Up: Video Gamers Rebel Against Sony, Microsoft, and the DMCA, BIG by Matt Stoller: https://www.thebignewsletter.com/p/monopoly-round-up-video-gamers-rebel
+- Godot Makes The Right Call in Blocking AI Code in Their Engine, AI and Games: https://www.aiandgames.com/p/godot-makes-the-right-call-in-blocking
+- Mobile Gaming Today #116, Gamigion: https://gamigion.substack.com/p/mobile-gaming-today-116
 
 ---
 

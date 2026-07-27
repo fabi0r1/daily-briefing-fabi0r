@@ -8,6 +8,105 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-27 (Edition #57)
+
+### 1. Hollywood now buys proven crowds (gaming & esports industry)
+
+Naavik traces how Backrooms went from a 2019 4chan photo of an empty yellow office to A24's biggest film launch ever. Creators built hundreds of Backrooms games (the largest, Apeirophobia, counts 422M Roblox visits), a 16-year-old named Kane Parsons turned the meme into a YouTube series, and A24 signed Parsons directly because nobody owns the meme itself. The film made about $330M on a budget under $10M, and Parsons, at 20, became the youngest director to top the US box office. The pattern is repeating: 99 Nights in the Forest (26B Roblox visits) sparked a studio bidding war for its film rights, and Steal a Brainrot (70.8B visits) got optioned too.
+
+Naavik's sharpest point is what a UGC platform does that no marketing department can: it hands world-building to thousands of creators, converts videos fans watch into worlds they play, and produces live demand signals (visits, concurrents) that beat any trailer view count. That last one is scouting gold for us. Those signals are a pre-commercial heat map for where young fandom actually lives, and they sit on the same platform as our ENC Roblox track.
+
+One question to chew on: which live demand signal would have to spike before we bet an EWC or ENC slot on a scene, and do we watch anything that early today?
+
+### 2. China's labs are hiring for feelings (AI x gaming)
+
+ChinaTalk's Irene Zhang went deep on AI roleplay, and the numbers reframe what consumer AI is for. Per the OpenRouter and a16z State of Open Models study, the use case that burned the most open-model tokens last year was roleplay, ahead of writing code. China now regulates and productizes this at once: the CAC's rules on human-like interactive AI took effect July 15 (a world first), banning providers from manipulating users into emotional dependence and gating minors' access, and ByteDance and Alibaba pulled companion features in response. Meanwhile MiniMax, whose largest revenue source is still its character-chat app Talkie, shipped a roleplay-specific model in January, and DeepSeek posted a hiring notice for a product manager covering "character roleplay and emotional companionship," calling for "sharp literary taste."
+
+The read for us: emotional attachment is the deepest engagement layer in consumer AI, and the companies closest to our Chinese partners treat it as a product line, with the regulator already in the room. Fandom runs on the same fuel, the feeling of a relationship with a character or a team.
+
+One question to chew on: as AI characters absorb attention hours, do they compete with esports fandom for the same emotional budget, and how would we see that shift in our audience data?
+
+### 3. Propaganda outruns proximity (leadership & negotiation)
+
+The Descent by Marc Bennetts (from the Economist 2026 list) is a Times correspondent's account of 25 years in Russia, from Yeltsin's final years until the paper pulled him out after his arrest at an anti-war protest. He charts how state media normalized each step of the slide into a wartime dictatorship, and the detail reviewers keep returning to: the propaganda worked on people close to him, including family members who believed the screen over the person in the room. (I am drawing on the Washington Monthly review and publisher material, not the full book.)
+
+The transferable idea is uncomfortable and useful: a daily information environment beats personal relationships at scale, and the shift happens gradually enough that each step feels normal. Our stakeholders live in fully different information environments (Chinese authorities, US publisher security teams, French hosts, Saudi leadership), and the story each hears about EF every day is written locally, whether we participate or stay silent.
+
+One question to chew on: in which stakeholder's daily information environment is EF's story currently told entirely by someone else, and what would a native presence there cost?
+
+### 4. 400 million reasons to ask why they spend (gaming & esports industry)
+
+Niko Partners surveyed 8,000 Gen Z esports fans for a whitepaper produced with Hero Esports and ESL FACEIT Group, and estimates the global Gen Z esports audience now exceeds 400M people (their estimate, from the survey work, and the full whitepaper is a free download). The framing matters as much as the headline: esports gives Gen Z the same sense of passion, identity, and community found in other sports, and the research maps how these fans engage with brands and what fuels their loyalty.
+
+Two things worth holding. Our own operations partner co-produced the defining research on our core audience. And the report's focus is why they spend, the loyalty drivers rather than the headcount, which is exactly the layer our sponsor conversations rarely reach past. Identity and community as spend drivers is the Culture Code's belonging point in market-research clothes.
+
+One question to chew on: if a sponsor asked what makes this audience loyal to our events specifically, could we answer with our own data, or only with Niko's?
+
+#### News of the day
+
+- **RvPLegend completes a Play-Ins-to-champion run at FC Pro** (gaming & esports industry). Razvan "RvPLegend" Puiu beat Levy "levyfinn" Rieck 6-5 in the Grand Final on July 26, taking $250,000 and becoming the first Romanian FC Pro world champion after entering the tournament through the Play-Ins. A full underdog arc on our own stage, and exactly the player-first story our clip mine should be cutting from. [SoccerGaming](https://soccergaming.com/fc-pro-26-world-championship-history-made-as-new-champion-crowned)
+- **Virtus.pro takes PUBG gold under the Smash Rule** (live events & immersive). The team reached the match-point threshold and then secured the Chicken Dinner on July 26 to close the $2M PUBG: Battlegrounds tournament, earning $650,000 and 1,000 Club Championship points, with Nino "NIXZYEE" Mikec named MVP. The Smash Rule gave the Paris crowd a single decisive moment, a format experiment paying off in drama. [esports.gg](https://esports.gg/guides/esports/pubg-at-esports-world-cup-2026-schedule-teams-and-results/)
+- **Kimi K3 has Washington asking DeepSeek questions again** (leadership & negotiation). Sharp China covers the arrival of Moonshot's Kimi K3 model, the "DeepSeek 2.0 concerns" it triggered among US investors and policymakers, and Xi's keynote at the World AI Conference (episode detail sits behind the paywall, treat as framing). China's frontier-model surge is the backdrop to every AI conversation our Chinese partners bring us. [Sinocism](https://sinocism.com/p/sharp-china-kimi-madness-xis-ai-vision)
+
+**Sources (Edition #57)**
+
+- How Online Fandom Is Rewriting the IP Playbook, Naavik: https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/
+- Chinese Labs' Latest Product? Roleplay, ChinaTalk: https://www.chinatalk.media/p/ai-roleplay-a-deep-dive
+- The Descent, Marc Bennetts (Washington Monthly review): https://washingtonmonthly.com/2026/04/22/the-price-of-a-lost-russia-a-correspondents-eulogy-bennetts/ and publisher page: https://www.waterstones.com/book/the-descent/marc-bennetts/9781399421690
+- The Esports Generation whitepaper, Niko Partners x Hero Esports x ESL FACEIT Group: https://substack.nikopartners.com/p/the-esports-generation-who-they-are
+
+---
+
+## 2026-07-26 (Edition #56)
+
+### 1. Sony banks the margin and bills it to loyalty (gaming & esports industry)
+
+Joost van Dreunen ran the numbers under Sony's decision to end PlayStation discs. Discs peaked at about 402M units in 2008 and fell to 82M in 2025, while digital passed discs in 2019 and hit 382M last year. On an $80 first-party game Sony nets about $52 through retail and the full $80 through its own store, and its cut on third-party sales doubles from $12 to $24 (Jason Schreier's math, which van Dreunen extends: a GTA VI-scale launch hands Take-Two roughly $430M extra in year 1 from the shift alone). The last plant pressing PlayStation discs, in the Austrian village of Thalgau, is already being retooled to make lenses for cars. None of the savings reach the player.
+
+The counter-moves carry the lesson. Xbox's new CEO permanently cut the Game Pass Ultimate price and Nintendo built game-key cards, both consciously paying margin to keep players feeling heard. Van Dreunen's line that travels: owning the transaction and owning the relationship are two different assets, and trust is the one a store cut can't buy back. That is our co-streaming logic and our player-first line, restated as platform economics. (The Stoller enclosure angle on the same story ran in #53, this is the balance-sheet view.)
+
+One question to chew on: which EF revenue lever would, if we maxed it out, quietly spend the fan trust our durability bet depends on?
+
+### 2. On-device AI arrives with a rights contract (AI x gaming)
+
+Studio Atelico ($5M in seed funding, founders out of Uber, Meta, and Sega) is shipping the creature battler Bobium Brawlers as a live testbed for its own AI engine: players describe a monster, the models generate it on the device itself, with no cloud inference, no recurring API bills, and offline play included. Two design choices stand out. The models are trained on the studio's own artists' work instead of scraped public data, and the studio drafted an Artist Rights Contract defining how art can be used and whether the artists share the upside. Product chief Chris Olson's line: "We want the technology to uplift humans."
+
+Two transferables for Ralf's AI-first push. Narrow tasks don't need frontier models, a small local model can be the cheaper and more reliable fit. And the rights framework is becoming the visible line between serious and sloppy AI adoption, the studio-level version of the governance divide Develop:Brighton surfaced in #50.
+
+One question to chew on: if we trained AI tools on EF's own archive (broadcast footage, design assets, decks), what is our version of the Artist Rights Contract for the people who made that material?
+
+### 3. Fear is the most expensive line item (leadership & negotiation)
+
+Owen Mahoney ran Nexon for a decade, growing it 23.5% a year and revenue 7.5 times, and his diagnosis of big-company caution is blunt: CEOs avoid the $300M bets on new IP because "they're like anyone else, they're afraid of losing their jobs," and the result is expensive, derivative games drowning in a red ocean of lookalikes. His proof that courage and cost are separate things: Embark's ARC Raiders, built by about 60 people over 6 years, has sold at least 14M copies against Battlefield 6 and Call of Duty entries made by teams many times that size.
+
+His famous framing inside Nexon was that translating Korean games for the West was like eating a burger with kimchi in it: name the dilemma sharply, then change the approach instead of pushing harder. Sizing a bet by what hasn't been done, rather than by what peers are doing, is the durability bet in one sentence, and the 60-person ARC Raiders team is the lean-team thesis with a scoreboard.
+
+One question to chew on: which of our current bets is sized to match what peers do, and what would the version aimed at something nobody has done actually cost?
+
+### 4. Steam reviews work like a credit rating (gaming & esports industry)
+
+Simon Carless surveyed about 3,800 committed Steam players (June 25 to July 2) on how reviews move their wallets. 40.5% always check reviews before buying and another 32% check most of the time. The deterrence thresholds are the real finding: 20.3% turn skeptical once a game slips below Very Positive, and at Mixed or below roughly half the audience is eyeing the game skeptically. When recent reviews dip under the all-time score, 32.9% study them closely. The top complaint, from 20% of respondents: joke and meme reviews.
+
+So a live game's rating behaves like a credit rating, a public number that reprices the whole asset when it slips a tier, with the recent-versus-all-time split as the early-warning line. For a portfolio of 25 titles, tier thresholds are a watchable risk signal, sharper than sentiment vibes and cheaper than a research firm.
+
+One question to chew on: at which review tier does a title stop being stage-worthy for us, and is that number written down anywhere or decided fresh each time?
+
+#### News of the day
+
+- **The EWC festival lands on the Champs-Élysées on August 2** (live events & immersive). A free open-air festival co-created with the Comité Champs-Élysées runs 3:30 to 8 p.m., with pro competition in Trackmania, Rocket League, and EA SPORTS FC 26 in front of the Arc de Triomphe. The main event steps out of the expo hall and onto the most famous avenue in France, the reach-beyond-the-fans play in physical form. [Esports World Cup](https://esportsworldcup.com/en/news/the-esports-festival-champs-elysses)
+- **The EU cleared the $55B EA take-private under merger rules** (gaming & esports industry). The European Commission approved the deal on July 23, with a separate Foreign Subsidies Regulation decision due by July 30 and the CFIUS review still open. PIF would hold over 93% alongside Silver Lake and Affinity Partners, in what would be the largest debt-financed buyout on record. Our most contingency-sensitive publisher is weeks from sitting inside the PIF family. [Game World Observer](https://gameworldobserver.com/2026/07/23/the-european-commission-has-approved-the-sale-of-electronic-arts-for-55-billion)
+- **Dead Space creator Glen Schofield is retiring** (gaming & esports industry). Christopher Dring reports the veteran behind Dead Space and The Callisto Protocol is stepping away after struggling to find the AAA budgets he wants. When even marquee creators can't raise AAA money, the caution Mahoney describes above has a face. [The Game Business](https://www.thegamebusiness.com/p/dead-space-creator-glen-schofield)
+- **Saudi studio Floaty raised $1M and shipped 4 games in a month** (gaming & esports industry). Merak Capital backed the mobile studio, which released Horde Rush: Ninja Survivor, Cyber Hero Squad, Monster Grid, and Macaron Clash within weeks of each other. A small, real signal of grassroots development capacity building at home. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-116)
+
+**Sources (Edition #56)**
+
+- PlayStation's last disc, SuperJoost Playlist: https://superjoost.substack.com/p/playstations-last-disc
+- Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI, GamesIndustry.biz (via GameDev.net): https://gamedev.net/news/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai-r4586/
+- Why CEOs shouldn't be afraid to make big bets on fun, GamesBeat (The BIG Show): https://gamesbeat.com/why-ceos-shouldnt-be-afraid-to-make-big-bets-on-fun-the-big-show-with-owen-mahoney/
+- Will fewer people buy your Steam game due to player reviews?, GameDiscoverCo: https://newsletter.gamediscover.co/p/will-fewer-people-buy-your-steam
+
+---
+
 ## 2026-07-25 (Edition #55)
 
 ### 1. AI is shrinking game teams toward one (AI x gaming)

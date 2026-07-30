@@ -8,6 +8,154 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-07-30 (Edition #60)
+
+### 1. Remakes are the closest thing to a sure bet (gaming & esports industry)
+
+Rhys Elliott crunched Alinea's copies-sold estimates for current-gen remakes, and the leader makes the case alone: the Resident Evil 4 remake has sold 16.8M copies and grossed about $560M for Capcom (Alinea's estimates, Valve and Capcom publish no such splits). The detail worth keeping is the flywheel: Steam's share of that revenue grew from 28% in launch week to 34.1% today, as discounting pulls in players from China, Brazil, and Russia, markets consoles barely reach. His pattern for what works: adored, aged, and available everywhere.
+
+The strategic read: a remake is a proven design blueprint with a built-in fanbase and a shorter production cycle, so it throws off dependable revenue that buys a publisher room for the risky swings (Capcom's remake engine is what made an oddity like Pragmata possible). He adds the catch: the model only works lean, run it through a bloated cost base and the efficiency advantage disappears. That is portfolio thinking we recognize, a dependable core funding the experiments.
+
+One question to chew on: which of our formats is the "remake" (proven, dependable, cheap to rerun), and are we using its surplus to fund a real swing or just banking it?
+
+### 2. A census of 53,597 games says AI ships volume (AI x gaming)
+
+Sulka Haro, ex-lead designer of Habbo Hotel and now CEO of Mainframe Industries, pulled every Steam release from July 2023 to July 2026, all 53,597 of them, and checked which carry the AI-content disclosure. The share is climbing fast: 10.9% of releases in 2024, 19.9% in 2025, 30.8% in 2026. The conversion is standing still: an AI-flagged game reaches even modest success (100+ reviews, roughly 3,000 sales) at about 55% of the non-AI rate, and that ratio has held flat for two years.
+
+So AI is a volume story, more shots on goal with each shot converting worse than the average. The genres where AI games do sell are the content-hungry ones (simulation, management, life sims), and even there ratings sit at an unremarkable 73 to 83%. For Ralf's AI-first push the read is precise: AI lowers the floor for shipping, and taste plus distribution stay the scarce assets that raise the ceiling. The disclosure flag itself is becoming a usable quality prior for scouting.
+
+One question to chew on: in our own AI-first workflows, where are we mistaking more output for better output, and what is our version of the 100-review success bar?
+
+### 3. Stillfront stopped rescuing every game (gaming & esports industry)
+
+Stillfront's Q2 report is a clean experiment in portfolio discipline. Key franchises grew 10% organically for the second straight quarter while the rest of the portfolio fell 24%, a decline management chose by cutting user-acquisition spend on weaker titles from SEK 436M to SEK 340M. Margin widened to 29% from 26%, direct-to-consumer bookings climbed to 46% of the total, and the stock jumped about a third on the report. Their frame: double down on the franchises that can still matter 10 years from now.
+
+The market paid a premium for focus, and for the honesty of letting weak assets shrink on purpose. That is our game-prioritization logic (3-star Flagship down to 1-star Selective) with a public scoreboard attached, and it echoes the criterion we already enforce: EF carries no ecosystem alone.
+
+One question to chew on: where in our portfolio are we still paying "UA" (production, staffing, stage time) on a title we would never rank as a 10-year franchise?
+
+### 4. The trap Thucydides never set (leadership & negotiation)
+
+ChinaTalk's WarTalk episode brought on Oxford ancient historian Roel Konijnendijk to test the Thucydides Trap, the rising-power-versus-incumbent frame both Washington and Xi Jinping have invoked. His verdict: the concept is Graham Allison's modern invention, and most Thucydides scholars find little in it that needs Thucydides' name. Sharper still, the historian's own narrative undercuts the inevitability claim: the Peloponnesian War ran on a tangle of grievances, notably Corinth furious about Athens encroaching on its naval sphere, and Spartan fear was one thread among many.
+
+Two ideas travel. Borrowed-authority frameworks flatten the mechanism they claim to explain, so when a slogan sounds like a law of history, ask what actually moved each party. And the war started with the offended third party, the Corinth in the middle, which is worth remembering in every two-power story we sit inside, from platform fights to US-China gaming tension: watch the aggrieved mid-sized player, that is where escalation begins.
+
+One question to chew on: in the standoffs around us right now, who is Corinth, and does our planning track them or only the two giants?
+
+#### News of the day
+
+- **Honor of Kings World Cup opens today at EWC with a cross-title first** (gaming & esports industry). The $3M tournament runs July 30 to August 8 with 20 teams, and for the first time merges Honor of Kings and Arena of Valor rosters into one competition on a dedicated Season 15 patch carrying 111 playable heroes. Play-Ins run today and tomorrow before the group draw. Tencent's flagship arriving as a merged global title on our stage is exactly the cross-regional consolidation play worth watching closely. [UnGeek](https://www.ungeek.ph/2026/07/honor-of-kings-world-cup-kicks-off-at-ewc-2026-on-july-30/)
+- **Meshy raised $400M for AI 3D asset production** (AI x gaming). Mobile Gaming Today flags the raise as part of serious capital rotating into AI production tooling for games. Paired with today's Steam census lesson, the money is flowing into the picks and shovels while the games themselves convert no better, a classic infrastructure-first cycle. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-117)
+- **Beijing warns against exporting "involution"** (leadership & negotiation). Sinocism's daily covers SAMR's warning to companies about the "externalization of involution", pushing domestic cutthroat price wars into overseas markets, alongside rare public comments from DeepSeek's CEO (the daily sits behind a paywall, so treat this as framing). A regulator telling its champions to compete less brutally abroad is context for every Chinese-partner pricing conversation. [Sinocism](https://sinocism.com/p/another-csrc-meeting-deepseek-ceo)
+
+**Sources (Edition #60)**
+
+- This gen's top remakes & remasters by copies sold, The Alinea Insight: https://alineaanalytics.substack.com/p/this-gens-top-remakes-and-remasters
+- Three years of AI on Steam, Sulka Haro: https://fragwyz.substack.com/p/three-years-of-ai-on-steam
+- Stillfront Interim Report Q2 2026: https://www.stillfront.com/en/stillfronts-interim-report-q2-2026-strengthened-profitability-and-continued-revenue-stability/ and Investing.com summary: https://ng.investing.com/news/company-news/stillfront-q2-2026-slides-margins-expand-as-key-franchises-grow-10-93CH-2615537
+- WarTalk: Ancient Greece Edition, ChinaTalk: https://www.chinatalk.media/p/wartalk-ancient-greece-edition
+
+---
+
+## 2026-07-29 (Edition #59)
+
+### 1. Warframe grew hardest after everyone called the peak (gaming & esports industry)
+
+Christopher Dring sat down with Digital Extremes president Sheldon Carter in the week Destiny's shutdown still hangs over the genre. Five years ago DE's own people said Warframe had peaked and started a second game. Then the studio changed how it developed and promoted the 13-year-old title, and Carter now calls the last two years "our biggest growth period", with a fresh Android launch opening geographies the game never touched. The 500-person, Tencent-owned studio grew its second game, Soulframe, by moving people across slowly for two years so Warframe never starved.
+
+The engine under it is what Carter calls trust-based development: constant communication and fast public correction of mistakes, run by a creative director who was previously the community director. Players who feel taken care of recruit others, his words. Meanwhile the better-funded rival that out-marketed them for a decade is gone. Durability beat spectacle, which is the exact bet our whole strategy rests on.
+
+One question to chew on: which title on our stage is being managed as "peaked", and what would the Warframe treatment (new development focus, new promotion, new platform) look like for it?
+
+### 2. Tencent checks your age three ways at once (AI x gaming)
+
+Niko Partners flags Tencent's 2026 summer youth-protection push: the playtime limits for minors stay, and enforcement gets an upgrade that stacks facial recognition, voiceprint detection, and AI-based age recognition to catch kids playing on a parent's account. Niko's read is that this is one of the largest real-world deployments of AI identity verification in the games industry, multiple models checking one user across different signals.
+
+The lesson is the direction: compliance has become an AI product line. Our biggest partner treats a regulatory obligation as an engineering domain and builds tooling at population scale, which is worth holding next to Europe's hardening age-assurance debate. Rules like these tend to travel, and events and broadcasts with young audiences will eventually face their own version of the question.
+
+One question to chew on: when age-assurance requirements reach esports platforms and venues, do we build our own answer, buy one, or borrow the playbook our partner is already running at scale?
+
+### 3. History gets taught at the souvenir shop (leadership & negotiation)
+
+Beverly Gage, the Pulitzer-winning Yale historian, spent 2023 and 2024 driving 13 road trips for This Land Is Your Land, visiting the places where Americans actually learn their history: museums, reenactments, roadside attractions, souvenir shops, Disneyland. Published for the country's 250th birthday, the book keeps asking one question on the road, whether the sun is rising or setting on the republic. (I am drawing on the Hippocampus Magazine and Washington Independent reviews, not the full book.)
+
+The idea that travels: institutions write the official record, and the public learns the story at everyday sites far outside their control. Esports works the same way. A new fan learns what EWC is from clips, wiki pages, co-streams, and creator documentaries, long before any press release reaches them. Whoever curates those sites owns the memory, and most of ours are curated by strangers.
+
+One question to chew on: if a 15-year-old learns what EWC is from three pieces of content this year, do we know which three, and did we make any of them?
+
+### 4. The long tail pays 2.5x, and it is thinning (gaming & esports industry)
+
+Simon Carless benchmarked the post-launch tail across roughly 5,000 Steam games launched 2023 to 2025 with real first months. The medians: a game sells 2.59x its Week 1 copies by Year 1 and 3.32x by Year 2 (revenue slightly less, 2.46x and 2.99x, as discounts kick in). The tail is shrinking, down about 20% from the 3.05x his 2021 survey found, because launch volume is outgrowing even Steam's strong revenue growth. Two multipliers stand out: games with 100K+ Week 1 sales tail at 4.64x, and co-op-tagged games at 3.53x, a full 35% above the median.
+
+Read those two together and the durability bet gets a formula: strong launches compound, and social play multiplies the tail, because friends recruit friends. Esports sits exactly on that lever, a recurring reason to come back to a game years after launch. That is a quantified argument for what we sell publishers.
+
+One question to chew on: for the titles on our stage, can we show a tail curve that bends upward around our events, and if we can, why is that chart missing from every publisher renewal deck?
+
+#### News of the day
+
+- **Saudi studio Ash Games raised $1.5M from Merak Capital and Impact46** (gaming & esports industry). The studio builds mobile games rooted in Saudi and Arab history, folklore, and traditions. Second Merak-backed Saudi studio inside a month after Floaty, so a pattern is forming: local capital seeding local IP, the grassroots layer under the Kingdom's esports infrastructure. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-117)
+- **Europe's live-production industry is bracing for a cost-discipline era** (live events & immersive). A newsletter from ARAM CEO Rafal Mrzyglocki (25+ years in event technology) argues Europe's fragmented production market now rewards companies that pair creative ambition with engineering structure and repeatable production models (a vendor's perspective, worth reading as such). The pressures he lists, budgets, logistics, safety, clients needing certainty, are the same ones our 7-week Paris run negotiates daily. [Entertainment Insights](https://entertainmentinsights.substack.com/p/whats-next-for-events-in-europe-inside)
+- **Palworld 1.0 pushed past 30M copies sold** (gaming & esports industry). Alinea Analytics estimates the survival hit crossed 30M lifetime copies after its 1.0 launch (their estimate, the publisher confirms no total). A three-year-old indie-scale team sustaining a hit at that magnitude keeps the question open of where the next esports-capable audiences actually form. [The Alinea Insight](https://alineaanalytics.substack.com/p/palworld-10-pushes-the-hit-over-30m)
+
+**Sources (Edition #59)**
+
+- Destiny's biggest rival Warframe has had 'two years of massive growth', The Game Business: https://www.thegamebusiness.com/p/destinys-biggest-rival-warframe-has
+- Tencent deploys AI-powered tools for youth compliance, Niko Partners: https://substack.nikopartners.com/p/india-wants-its-black-myth-wukong
+- This Land Is Your Land, Beverly Gage (Hippocampus review): https://www.hippocampusmagazine.com/2026/05/review-this-land-is-your-land-a-road-trip-through-us-history-by-beverly-gage/ and Washington Independent review: https://www.washingtonindependentreviewofbooks.com/bookreview/this-land-is-your-land-a-road-trip-through-u.s-history
+- What 'long tail' should you expect for your PC game in 2026?, GameDiscoverCo: https://newsletter.gamediscover.co/p/what-long-tail-should-you-expect
+
+---
+
+## 2026-07-28 (Edition #58)
+
+### 1. Attention becomes Xbox's second currency (gaming & esports industry)
+
+Joost van Dreunen's office-hours session digs into Xbox's new test of ad-supported game streaming and why the idea might finally stick. Microsoft has circled in-game advertising since buying adtech firm Massive for $200M two decades ago, and ads never fit a business built on selling boxes. The service era changes the math: Game Pass has little room to raise prices (the new Xbox CEO just cut the premium tier to $23), so Microsoft is moving to monetize attention, with advertising subsidizing access for players priced out of $80 games.
+
+Van Dreunen places the test inside a bifurcating market: premium spenders on one side, an ad-funded access tier on the other. For us that second tier matters most, because it grows the reachable player base our viewership math depends on, and because publisher-owned ad rails will one day sit next to our sponsorship inventory as competing shelf space for the same attention.
+
+One question to chew on: when publishers run their own in-game ad inventory at scale, does EWC sponsorship gain worth as the premium, proven end of that market, and what would we need to measure now to make that case later?
+
+### 2. Players grade gen AI before they press play (AI x gaming)
+
+Tommy Thompson's podcast primer on AI in the 2026 games industry points to survey data worth keeping. Quantic Foundry asked 1,799 gamers (October to December 2025) about generative AI in games: 85% answered negative, 63% chose the most negative option available, the most skewed result the firm reports in years of gamer research. The trend line is hardening, too. In their 2024 survey, AI-generated quests and dialogue drew 46% negative. The same items now run 77% and 83%.
+
+The demographic cut is the sharp part: 3% of 13-to-17-year-olds and 7% of 18-to-24s view the technology positively, against 22% of gamers 45 and older. The cohort every growth strategy chases, the one filling our arenas, is the most hostile. For EF, visible gen-AI use in fan-facing content carries real brand risk with exactly our core audience, and a disclosure label reads to that audience like a warning sticker.
+
+One question to chew on: where does generative AI already touch our fan-facing output, and would we be comfortable disclosing every instance of it on the big screen?
+
+### 3. The outsider's eye is an asset (leadership & negotiation)
+
+Michael Moritz spent 35 years at Sequoia Capital and led the firm from 1995 to 2012, one of the most successful investors of his generation. His memoir Ausländer (from the books queue) traces the family behind that career: parents who escaped Nazi Germany as child refugees and rebuilt in Cardiff, and a title, German for "foreigner", naming the feeling he says never left him, in gritty South Wales or at the top of Silicon Valley. Reviewers place it beside The Hare with Amber Eyes. (I am drawing on the Jewish Chronicle, Nation.Cymru, and Irish Times reviews, not the full book.)
+
+The transferable idea: the person who belongs nowhere watches everything, and the watching compounds into judgment. Moritz made a career of seeing what insiders had normalized. You run the same asset: a German in a Saudi organization staging its flagship in Paris is an outsider three times over, and that vantage is the perspective-taking engine your negotiation record already runs on. The discomfort is the tool.
+
+One question to chew on: in which room have we become insider enough to stop noticing what a newcomer would spot in 5 minutes?
+
+### 4. India wants its Wukong moment (gaming & esports industry)
+
+Niko Partners profiles Tara Gaming, the Indian studio building The Age of Bhaarat, a PC and console action title rooted in Indian mythology, with a team of 160+ developers led by former Ubisoft Ghost Recon boss Nouredine Abboud, and Amitabh Bachchan plus bestselling author Amish Tripathi attached. The template is explicit: do for India what Black Myth: Wukong did for China, prove a culturally rooted local AAA can win international audiences. Niko's data frames the gap: India passed 500 million gamers in 2025 with player spending above $1 billion, while PC and console development stays thin next to mobile.
+
+Wukong showed a local AAA can be a national moment and an export at the same time, and the Indian government wants the development-hub story that follows. For us, India is the largest audience pool where esports has no anchored top-tier presence. A homegrown hit would mint the fandom years before anyone stages it, and the organizer who watches earliest books it first.
+
+One question to chew on: what would have to be true by 2028 for an Indian title or an Indian national team to headline for us, and is anyone assigned to watch for it?
+
+#### News of the day
+
+- **A court ordered Papaya to hand Skillz $719M over bot-run tournaments** (gaming & esports industry). A New York federal judge entered the disgorgement order July 27 in the false-advertising case: Papaya's cash-tournament games matched players against bots while advertising human competition, and roughly 70% of the $6.7B in advertised prize money, about $4.7B, was never paid out because bots "won" it. Competitive integrity now carries a nine-figure price tag, the strongest external validation yet for treating fair-play infrastructure as a core asset. [PocketGamer.biz](https://www.pocketgamer.biz/court-orders-papaya-gaming-to-pay-skillz-719m-in-false-advertising-case/)
+- **Xbox, Amazon and Netflix are all trying to make game streaming matter** (gaming & esports industry). Christopher Dring's Micro episode connects Xbox's ad experiment with the streaming pushes we tracked from Luna and Netflix: three giants converging on games delivered through apps people already have. The distribution layer for the next 100 million players is being contested right now, ahead of the fandom layer we live on. [The Game Business](https://www.thegamebusiness.com/p/xbox-amazon-and-netflix-try-to-make)
+- **Unity 7 arrived as the engine's biggest bet in years** (AI x gaming). Mobile Gaming Today highlights up to 4.7x faster Play Mode and 90% faster shader builds, aimed squarely at developer iteration speed. Faster iteration on the engine most mobile titles run on compounds across our portfolio's production pipelines. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-116)
+- **EWC Week 4 stacks four champions in one week** (live events & immersive). Insider Gaming's preview counts seven competitions: title deciders in Overwatch, Call of Duty: Warzone, Street Fighter 6, and the MLBB Mid Season Cup, plus Honor of Kings groups and last-chance qualifiers for TEKKEN 8 and Black Ops 7. The densest stretch of the Paris run so far. [Insider Gaming](https://insider-gaming.com/esports-world-cup-ewc-week-4-preview/)
+
+**Sources (Edition #58)**
+
+- Will in-game ads work this time around?, SuperJoost Playlist: https://superjoost.substack.com/p/will-in-game-ads-work-this-time-around
+- Gamers Are Overwhelmingly Negative About Gen AI in Video Games, Quantic Foundry: https://quanticfoundry.com/2025/12/18/gen-ai/ (via #001: A Primer on AI in the 2026 Games Industry, AI and Games: https://www.aiandgames.com/p/001-a-primer-on-ai-in-the-2026-games)
+- Ausländer, Michael Moritz (Jewish Chronicle review): https://www.thejc.com/life/books/auslander-review-a-tale-that-supports-the-theory-we-dont-belong-anywhere-x6fg42fc and Nation.Cymru review: https://nation.cymru/culture/book-review-auslander-one-familys-story-of-escape-and-exile-by-michael-moritz/
+- India wants its Black Myth: Wukong moment with The Age of Bhaarat, Niko Partners: https://substack.nikopartners.com/p/india-wants-its-black-myth-wukong
+
+---
+
 ## 2026-07-27 (Edition #57)
 
 ### 1. Hollywood now buys proven crowds (gaming & esports industry)

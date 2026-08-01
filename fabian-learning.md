@@ -8,6 +8,105 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-01 (Edition #62)
+
+### 1. Sony's flat quarter produced 37% more profit (gaming & esports industry)
+
+Sony reported its Q1 on July 30: gaming revenue held flat at ¥937.1B while gaming operating income jumped 37% to ¥202.0B. PlayStation counted 125M monthly active accounts in June, a record for that month, while PS5 hardware slipped to 1.6M units in the quarter. Sony raised its full-year outlook to ¥12.5 trillion and named gaming a main driver, with GTA VI landing in November as the tailwind everyone can see.
+
+Hold this next to yesterday's Xbox numbers and the platform era gets legible: hardware is a shrinking on-ramp, and the profit lives in the engagement Sony already owns, store margin and network services working an installed base (the disc economics from #56, now visible on a P&L). Flat revenue with surging profit is what a mature platform run well looks like. The budget conversations we walk into this autumn will be shaped by which of these two curves a partner sits on.
+
+One question to chew on: when a partner's platform profit comes from engagement depth, which EWC metric do we lead with in the renewal deck, and would their CFO accept it?
+
+### 2. An AI actor is only as good as its pause (AI x gaming)
+
+Iconic Labs released Pressure Point, a browser demo built around its Digital Actor technology: one NPC, one location, one scenario, and a published blog on the architecture underneath. The number that matters is 1,200 milliseconds, the median gap between the player speaking and the character answering. Tommy Thompson's read at AI and Games: waiting for an AI to talk kills these experiences, and the single-scenario constraint is what keeps the character coherent.
+
+Two transferables. Conversational AI is a latency product first and everything else second. And the teams publishing their architecture are the ones worth taking seriously, the same maturity signal as Studio Atelico's rights contract in #56. If we ever pilot an AI fan experience, a venue guide or a watch-along companion, the spec starts with the pause and the scope starts small enough to hold character.
+
+One question to chew on: what is the narrowest single-scene AI fan experience we could test at ENC in November, and what response delay would a fan in a loud arena actually tolerate?
+
+### 3. 29 countries signed up for China's AI bloc (leadership & negotiation)
+
+China formalized WAICO, the World Artificial Intelligence Cooperation Organization, in Shanghai last week: 29 signatories, most from Africa, South America, and South Asia, plus Russia. The US-led counterpart, Pax Silica, counts 23 members centered on Europe with a handful of Middle Eastern and Asian states. Moonshot releasing Kimi K3 as open weights in the same window is the commercial arm of the same play: China exports access while the US exports control.
+
+AI governance is splitting into two stacks, and membership follows the models a country's businesses can afford to run. For an organization staging global events with American and Chinese partners on one stage, the practical question arrives earlier than the diplomatic one: our tools, our partners' tools, and our hosts' regulations will each land somewhere in that split, and pretending the split is far away is how you end up standardized by accident.
+
+One question to chew on: which AI stack are our own operations quietly standardizing on right now, and did anyone choose it on purpose?
+
+### 4. One exit seeded 43 companies (gaming & esports industry)
+
+Gamigion's Mobile Gaming Today pulled a thread worth keeping: Peak Games sold to Zynga for $1.8B in 2020, and its alumni have since founded 43 gaming startups that together raised more than $860M. Turkey's casual-games bench today runs on people who learned the craft inside one company and left with the confidence to build their own.
+
+The durable idea: gaming ecosystems compound through people, and an acquisition is the moment a company starts teaching the whole market. Saudi's grassroots layer is at the input stage right now, the Ash Games and Floaty seed rounds we tracked in recent editions. The 10-year question is which Saudi studio becomes the one whose alumni found the next 40, and whether those founders stay in the Kingdom's orbit when they leave. The Culture Code angle is real too: people replicate the environment where they felt safe and purposeful, so the culture of that first company gets exported with them.
+
+One question to chew on: if we want a Peak-style diaspora in Saudi gaming by 2035, what has to be true about the first company those founders leave?
+
+#### News of the day
+
+- **Mobile ad spend hit $7B in H1 while player spending dipped 2%** (gaming & esports industry). Sensor Tower's H1 2026 index puts in-app purchases at $40B (down 2%), downloads at 24B (down 12%), and ad spend up 7% to $7B, with AppLovin and AdMob taking a combined 65% of gaming ad revenue. Ads now carry over 70% of mobile game revenue in the US while Japan, Korea, and China stay IAP-led. Our biggest mobile titles earn in both economies, so territory-level sponsorship math should distinguish them too. [Sensor Tower](https://sensortower.com/blog/h1-2026-digital-gaming-market-index)
+- **EWC Week 5 is the calendar's quietest, and that is the experiment** (live events & immersive). The lightest week of the Paris run carries 3 competitions: OpTic Gaming defend their Call of Duty: Black Ops 7 title while the PUBG Mobile and Honor of Kings World Cups play through the week. Fewer simultaneous stages concentrate the broadcast spotlight, worth watching what that does to the viewership curve after the 7-competition density of Week 4. [Insider Gaming](https://insider-gaming.com/esports-world-cup-2026-schedule-week-by-week-breakdown/)
+- **The memory market is now a gaming-hardware tax** (AI x gaming). SK Hynix reported roughly $55B in revenue on AI-datacenter demand and still fell more than 15% on the stock market for missing a $58B projection, partly because PC and smartphone makers struggle to secure chips at current prices. Nvidia raised GPU prices by up to 30% the same week. Every device roadmap our audience buys into just got more expensive. [Kotaku](https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432)
+
+**Sources (Edition #62)**
+
+- Sony Q1 FY2026 results coverage, Investing.com: https://www.investing.com/news/company-news/sony-q1-fy2026-slides-operating-income-surges-40-on-gaming-sensors-93CH-4827007
+- Pressure Point architecture blog, Iconic Labs: https://iconicgames.io/blog/pressure-point/ (via AI and Games: https://www.aiandgames.com/p/uk-and-chinas-shifting-ai-mandates)
+- China launches WAICO in Shanghai, Forbes: https://www.forbes.com/sites/timbajarin/2026/07/28/china-launches-waico-in-shanghai-as-west-sits-out-ai-governance/
+- Turkish Peak Games Alumni, Gamigion: https://www.gamigion.com/turkish-peak-games-alumni/
+
+---
+
+## 2026-07-31 (Edition #61)
+
+### 1. Xbox reached 200 million new players and shrank anyway (gaming & esports industry)
+
+Microsoft closed its fiscal year on July 29 with gaming revenue down 7% to roughly $21.8B. The fourth quarter was the third straight down quarter: Xbox content and services fell 10% and hardware 13%, cushioned only by Game Pass growth after its price cut. Asha Sharma's memo the next day says Xbox reached 200M new players in the year (her figure), names four pillars that Tommy Thompson notes sound much like the old ones, and promises a return to growth by this time next year.
+
+The gap between those two sentences is the lesson: reach and revenue have decoupled. Xbox is buying audience through cheaper access, the $23 Game Pass tier and the ad-supported streaming test from #58, faster than it can monetize it. Expect that scoreboard to reach the publishers under Microsoft too. Activision and Blizzard esports budgets get defended inside a division whose own numbers are red.
+
+One question to chew on: when we pitch a partner whose parent just reported a down year, does our deck hand their internal champion the ROI line they need to survive the budget meeting?
+
+### 2. Fortnite gave 36 characters a voice and fans had already cast them (AI x gaming)
+
+Epic switched on Conversations in its UEFN editor on July 30: 36 Epic-owned Fortnite characters now carry AI voices, with Gemini doing the reasoning and ElevenLabs the speech. Epic recorded voice actors specifically for this developer-made content and says it will work with actor guilds and IP holders to widen the roster. The loudest reaction so far targeted the voices themselves: players complained they sound wrong, because they already knew, somehow, what a character like Peely should sound like.
+
+Tommy Thompson flags the pattern worth keeping: fans form voice-level expectations about characters nobody ever voiced, and that emotional ownership surfaces the moment you make a choice for them. Esports fandom runs on the same ownership. Casters, player nicknames, storylines, all of it belongs to the audience in their heads before it belongs to us.
+
+One question to chew on: which parts of the EWC broadcast do fans believe they own, and do we have that list written down before we let AI near any of it?
+
+### 3. Mary Beard's case for reading difficult things (leadership & negotiation)
+
+Talking Classics: The Shock of the Old (from the books queue) collects Mary Beard's Chicago and Edinburgh lectures into an answer to the oldest question in her field: what is the point of studying the classics? Her sharpest formulation: the classics teach you to read difficult things, and skills in reading difficult things are the ones the world most needs. (I am drawing on the NPR and Kirkus reviews, not the full book.)
+
+Swap "classics" for any hard material and the claim holds. A regulator's carefully worded letter, a contract clause a partner fought for, a counterpart's silence in a negotiation, these are difficult texts, and most strategy mistakes are reading mistakes. Your negotiation record already runs on slow, careful reading of the other side. Beard's point is that the capacity is trainable, and it trains on material that resists a first pass.
+
+One question to chew on: which difficult text in our inbox right now is being skimmed because it resists a fast read, and who owns reading it slowly?
+
+### 4. Roblox built the firehose and bet everything on the filter (AI x gaming)
+
+Roblox announced Build this month: a prompt-to-game pipeline that lets creators generate playable experiences from a phone, running on models its internal AI team trained for the platform. The striking part sits before the feature list. Roblox opens by defending against the obvious risk, promising its discovery systems will keep rewarding long-term retention: "If no one plays it, no one can find it." The roadmap goes further, with playtesting agents, natural-language analytics, and an agent that suggests engagement tweaks.
+
+The economics underneath: generation is heading toward zero cost, so the scarce asset becomes curation, the ranking layer that decides what surfaces. That is our business too. A stage is a curation product, 25 slots against thousands of scenes that want one. And with our ENC Roblox track, the partner's content firehose is about to grow by orders of magnitude while the live demand signals we scouted in #57 stay the ground truth.
+
+One question to chew on: what is our written version of "if no one plays it, no one can find it", the retention bar a scene must clear before it earns a place on our stage?
+
+#### News of the day
+
+- **EA's take-private has every approval it needs and closes August 4** (gaming & esports industry). EA confirmed on July 30 that all regulatory approvals for the PIF-led buyout have been obtained, with closing set for August 4 and Andrew Wilson staying as CEO. After the EU clearance we tracked last week, this is the final step: our most contingency-sensitive publisher moves inside the PIF family within days, which reshapes every EA conversation we take into the autumn. [VGC](https://www.videogameschronicle.com/news/ea-says-all-regulatory-approvals-for-its-saudi-pif-acquisition-have-been-obtained-deal-should-be-done-next-week/)
+- **China approved 197 games in July** (gaming & esports industry). Niko Partners counts 197 domestic and import approvals for the month and forecasts more than 2,000 for the year. A steady licensing cadence is the supply line for the Chinese portfolio our stage depends on, and a useful barometer of regulatory mood while the ENC China question stays open. [Niko Partners](https://substack.nikopartners.com/p/china-approves-197-video-games-in)
+- **The FIFA World Cup showed up in June's game charts** (gaming & esports industry). Christopher Dring's State of Games report for June describes a quiet release month where a major sporting event moved the charts, and console hardware growth ending the moment Switch 2 started lapping its own launch (the full report is paywalled, so treat this as framing). Sport-to-game attention transfer is the mechanism we sell in the other direction. [The Game Business](https://www.thegamebusiness.com/p/the-state-of-games-june-2026)
+- **Drilo Ventures raised a $30M fund for Turkish mobile studios** (gaming & esports industry). Initial checks of $500K to $1.5M for early-stage studios, with capital reserved for follow-ons. Turkey keeps institutionalizing its casual-games bench, and the next edition looks at where that bench came from. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-117)
+
+**Sources (Edition #61)**
+
+- Xbox FY26 results, Yahoo Finance: https://finance.yahoo.com/technology/articles/xbox-revenue-falls-7-fy26-121105743.html and Sharma memo coverage, The Verge: https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth
+- Fortnite Conversations announcement, Epic Games: https://www.fortnite.com/news/publish-islands-with-llm-conversations-starting-july-30 (via AI and Games: https://www.aiandgames.com/p/uk-and-chinas-shifting-ai-mandates)
+- Talking Classics, Mary Beard (NPR review): https://www.npr.org/2026/06/02/nx-s1-5844180/talking-classics-mary-beard-review and Kirkus: https://www.kirkusreviews.com/book-reviews/mary-beard/talking-classics/
+- Build announcement, Roblox: https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox
+
+---
+
 ## 2026-07-30 (Edition #60)
 
 ### 1. Remakes are the closest thing to a sure bet (gaming & esports industry)

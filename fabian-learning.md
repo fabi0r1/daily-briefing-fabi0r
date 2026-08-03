@@ -8,6 +8,107 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-03 (Edition #64)
+
+### 1. The floor is the healthier number (gaming & esports industry)
+
+Joost van Dreunen used Roblox's earnings week to poke at the industry's favorite goal: Roblox and Xbox have both declared for 1 billion daily active users. His guest, IE University's Joe Ploog, argues a network's real strength is engagement depth ("It's how much time a single individual is spending within your product"). The Roblox shape test makes it concrete: peak concurrents are down more than a third from last summer's viral spikes, while trough concurrents, the platform's quietest hour, climbed more than 20%. Ceiling coming down, floor rising, and van Dreunen calls that the healthier platform.
+
+The research he cites points the same way: a 2022 study found servers with more players hold them worse, and developers who update often and tend their communities outperform the viral-growth chasers. For us the transfer is direct. Finals weekends are our ceiling. The floor is what the audience does between them, and a rising floor would be the cleanest evidence the durability bet is working.
+
+One question to chew on: what is our trough metric, the audience number in the quietest week between events, and does anyone report it next to the peak?
+
+### 2. Live performance became the proof of being human (AI x gaming)
+
+Zilan Qian's ChinaTalk essay follows Chinese illustrators through the AI era's strangest ritual. Platforms auto-flag suspected AI art under China's labelling rules (in force since September 2025), and accused artists now livestream themselves drawing, line by line, to prove a human made the work. Her deeper argument: China's art-exam pipeline (standardized prompts, metric grading, 14-hour practice days) trained humans much the way we train models, which is why telling them apart got so hard.
+
+Two transfers. The witch-hunt dynamic warps creators, who start drawing and writing unlike themselves just to avoid resembling a machine, a quiet loss of voice. And live, witnessed performance is turning into the scarcest proof of authenticity on the internet. That is literally our product: humans competing in real time, under referees, in front of a crowd. As feeds fill with synthetic content, that property appreciates on its own.
+
+One question to chew on: do we ever say "live, verified human competition" out loud in our marketing, and what would that line be worth to the first sponsor who wants to buy authenticity?
+
+### 3. Krafton bought itself a second pillar (gaming & esports industry)
+
+Krafton posted a record Q2: revenue up 94.9% year on year to $889.1M and operating profit up 67% to $283.1M, driven by Subnautica 2 crossing 5M copies and PUBG IP revenue growing 25% in the first half. 5 new games are queued for Gamescom.
+
+Read it against yesterday's Lingxi lesson and it becomes one story with two endings. Alibaba spent 7 years failing to build a second pillar and is now selling. Krafton spent years labeled a one-game company and answered by acquiring Unknown Worlds and shipping the acquisition into a franchise. For us Krafton is a live partner (the PUBG Mobile World Cup opens on our stage this week), and a publisher that just proved its diversification thesis walks into every renewal with different confidence and different priorities.
+
+One question to chew on: which of our partners still earns like a one-pillar company, and should that shape the contract length we want with them?
+
+### 4. War odds belong in the planning file (leadership & negotiation)
+
+Peter Apps, the Reuters defence columnist, argues in The Next World War (from the books queue) that the post-Cold-War assumption of permanent peace has collapsed, and that a great-power war today would run on drones, cyber, and economic strangulation more than massed land battles. The Economist's write-up flagged his estimate of a 30 to 35% chance of another world war within a decade. Reviewers keep landing on the same surprise: the book is calm. Apps treats deterrence as a manageable project for societies willing to adapt. (I am drawing on the Wavell Room and Irish Times reviews and the Economist's blurb, not the full book.)
+
+The transferable discipline: give the tail risk a number, then buy adaptability instead of predictions. We lived a small version of this in 2026, and the organizations that handled the year best were the ones with a scenario file already open before they needed it. A 30 to 35% risk on a decade horizon belongs in 2027-2030 planning as a named input: venue geography, partner exposure, insurance, calendar flexibility.
+
+One question to chew on: which named scenario file exists for our 2027 planning, and which current dependency would look reckless in hindsight if the odds land?
+
+#### News of the day
+
+- **3 world titles get decided in Paris this week** (live events & immersive). The August 3 to 9 block runs the Call of Duty: Black Ops 7 main event (August 5 to 9 at stc Arena), the KWC playoffs and final for the merged Honor of Kings and Arena of Valor field (final August 8), and TEKKEN 8's group stage and finals, while Rainbow 6 Siege opens its groups and CS2, Chess, and Rocket League run last-chance qualifiers. 8 titles on site in a single week. [Esports World Cup](https://esportsworldcup.com/en/schedule)
+- **Ubisoft beat its own guidance while shrinking 9.2%** (gaming & esports industry). Q1 net bookings of €255.8M came in slightly above guidance, down year on year against the Assassin's Creed Shadows launch comparison, with Black Flag Resynced now at 3.5M copies. A partner stabilizing matters this week specifically, with R6 Siege opening its EWC group stage. [The Game Business](https://www.thegamebusiness.com/p/the-legend-of-zelda-ocarina-of-time)
+- **Vietnam's mobile market is monetizing past its download peak** (gaming & esports industry). Mobile Gaming Today flags the pattern: installs slowing, studios multiplying, and IAP revenue still climbing. A Southeast Asian market deepening spend per player as volume growth ends is the audience-economics backdrop for every mobile title we stage. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-117)
+- **Arknights: Endfield passed $125M on mobile in 6 months** (gaming & esports industry). Naavik's news roundup counts Hypergryph's cross-platform follow-up past $125M in mobile revenue half a year after launch, one more data point that China's premium-production gacha engines keep minting franchises with global fan bases. [Naavik](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/)
+
+**Sources (Edition #64)**
+
+- The one billion user strategy, SuperJoost Playlist: https://superjoost.substack.com/p/a-billion-daily-active-users
+- Prove You're Human, ChinaTalk: https://www.chinatalk.media/p/prove-youre-human
+- Subnautica 2 and PUBG bolster Krafton's Q2 revenue, Game Developer: https://www.gamedeveloper.com/business/subnautica-2-and-pubg-bolster-krafton-s-q2-revenue
+- The Next World War, Peter Apps (Wavell Room review): https://wavellroom.com/2026/04/22/wavellreviews-the-next-world-war-the-new-age-of-global-conflict/ and Irish Times review: https://www.irishtimes.com/culture/books/review/2026/02/14/the-next-world-war-by-peter-apps-cautious-optimism-for-those-who-can-defend-themselves/
+
+---
+
+## 2026-08-02 (Edition #63)
+
+### 1. Alibaba's exit prices the end of traffic-wins-all (gaming & esports industry)
+
+Naavik's Jian Ma unpacks the reports that Alibaba is seeking a buyer for Lingxi Games, the Three Kingdoms Tactics studio, at a reported RMB 7 to 9 billion (roughly $980M to $1.26B, unconfirmed by Alibaba). The flagship's monthly IAP revenue peaked at $50.9M in May 2020 and stood at $8.1M this June, down 84% (Sensor Tower estimates, IAP only). In 7 years, Lingxi never built a second pillar.
+
+The bigger claim: the traffic-wins-all era of Chinese gaming is over. Alibaba and ByteDance both tried to convert platform traffic into top-tier gaming businesses, and both became sellers (ByteDance's Moonton deal with Savvy is the sister transaction). Naavik's read on the likely buyers completes the picture: mid-tier publishers valuing cash flow, team, and IP at a low multiple. Distribution alone stopped being a moat, and Tencent's counterexample is telling, gaming sits in its DNA rather than bolted onto its traffic.
+
+One question to chew on: which game on our stage are we still valuing on its owner's distribution power rather than on the health of the scene itself?
+
+### 2. What 100% AI adoption in Japan measures (AI x gaming)
+
+Japan's online-game association JOGA landed a headline with its 2026 market report: 100% of surveyed online-game studios use generative AI, with Gemini first and Claude and GitHub Copilot rounding out the top three. Tommy Thompson's response is the useful part. The reported use cases, player-preference analysis and behaviour prediction, are things online-game studios have done with AI for decades. The real shift inside the data is studios trading internal pipelines for enterprise LLM tools, plus a code-generation wave the survey barely names.
+
+He adds a cultural decoder: Japanese companies currently want to be seen embracing the government's AI initiatives, so some answers are box-ticking. For Ralf's AI-first push the transferable is measurement discipline. Adoption headlines flatter everyone, so ask which tasks moved to which tools, and what they replaced.
+
+One question to chew on: an EF survey tomorrow would produce its own 100%. What second question would make the answer worth something?
+
+### 3. Discovery changes at 50 hours played (gaming & esports industry)
+
+Simon Carless mined 16,000+ consented Steam player profiles plus the survey layer on top, and the averages hide the spread. R.E.P.O.'s players average 25 years old and 50.9% of them find games through short-form video, while Clair Obscur's average 31 and over-index hard on podcasts and books. The sharper cut is playtime: among ARC Raiders players past 50 hours, livestream discovery climbs (40.6% to 44.5%), text social media falls, and monthly console play drops hard (Switch from 26.9% to 16.7% of players).
+
+Depth concentrates. As investment in one game grows, fans stop browsing and start following people, one game, one device, a handful of trusted streamers. That is the empirical spine under our co-streaming bet, and it argues for cutting audience data by engagement depth before deciding where any campaign runs.
+
+One question to chew on: which channel owns our fans past the 50-hour mark, and does our media plan treat them the same as the drive-by viewer?
+
+### 4. The plague's history belongs to whoever kept records (leadership & negotiation)
+
+Thomas Asbridge's The Black Death (from the books queue) spent 7 years pulling hundreds of eyewitness accounts into a global history of the 14th-century pandemic. The correction at its center: the Black Death was a catastrophe of nearly the entire medieval world, and probably hit Cairo and Damascus harder than the European cities that dominate the popular memory. Europe owns the story in part because Europe's archives survived to tell it. (I am drawing on The Week's review and the publisher's material, not the full book.)
+
+The transferable idea: after any shock, the version that endures follows the surviving records, and institutions that document themselves get remembered on their own terms. Esports is roughly 25 years old and its record lives in wikis, dead links, and other people's clips. The durable-brand bet has an archive problem attached, because Olympic history is an asset someone built on purpose.
+
+One question to chew on: who at EF owns the permanent record of EWC and ENC (results, footage, player stories), and would it survive any single platform shutting down?
+
+#### News of the day
+
+- **A 15-year-old from Chile took the Street Fighter 6 title** (gaming & esports industry). Jaime "Craime" Bustos beat Hibiki in the grand final at Porte de Versailles this weekend, taking $250,000 and a place among the youngest EWC champions ever on a patient, spacing-led defensive style. Exactly the player-first story our clip mine should be cutting. [Esports World Cup](https://esportsworldcup.com/en/news/sf6-at-ewc26-champion)
+- **The Esports Festival ran on the Champs-Élysées today** (live events & immersive). Free and ticketless from 15:30 to 20:00, co-created with the Comité Champs-Élysées, with pro competition in Trackmania, Rocket League, and EA SPORTS FC 26 on the avenue itself. The reach-beyond-the-halls experiment in its purest physical form, on the same weekend the Overwatch and MLBB MSC titles were decided indoors. [Sortiraparis](https://www.sortiraparis.com/en/what-to-visit-in-paris/walks/articles/349448-the-esports-world-cup-takes-over-the-champs-elysees-for-a-free-celebration)
+- **Xbox and PSN both went dark in the same week** (gaming & esports industry). Gies' weekly digest pairs the outages: Xbox's services failure hit the paid early-access launch of Halo: Campaign Evolved and blocked even single-player and physical games that phone home, while PSN went down during the Marvel Tokon beta window. Account infrastructure is now the single point of failure for everything built on those logins, live events included. [Gies](https://giesweekly.substack.com/p/xbox-and-psn-both-go-dark-eu-clears)
+- **Casual mobile went flat in H1 and the money moved inside it** (gaming & esports industry). Mobile Gaming Today's read of AppMagic's H1 2026 casual report: the market stopped growing, spend reallocated between subgenres, and puzzle now takes roughly 44% of casual earnings (AppMagic estimates). Where the casual money pools shapes which mobile publishers can fund esports adjacencies. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-117)
+- **Zelda: Ocarina of Time is the most anticipated non-GTA game of 2026** (gaming & esports industry). Christopher Dring pooled trailer analytics, IGN wishlists, and Steam wishlist data, and the remake tops both the trailer charts and press coverage. His sales read is the useful part: old-style Zelda remakes historically land at 4 to 6M copies against Breath of the Wild's roughly 35M, so anticipation charts and revenue live on different curves. [The Game Business](https://www.thegamebusiness.com/p/the-legend-of-zelda-ocarina-of-time)
+
+**Sources (Edition #63)**
+
+- Why Platform-Led Gaming in China Is Falling Short, Naavik: https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/
+- UK and China's Shifting AI Mandates, AI and Games: https://www.aiandgames.com/p/uk-and-chinas-shifting-ai-mandates
+- How do PC player demographics change at 50 hours vs. 30 minutes?, GameDiscoverCo: https://newsletter.gamediscover.co/p/how-do-pc-player-demographics-change
+- The Black Death, Thomas Asbridge (The Week review): https://theweek.com/culture-life/books/the-black-death-a-horribly-compelling-global-history-of-the-plague and publisher page: https://www.penguinrandomhouse.com/books/609914/the-black-death-by-thomas-asbridge/
+
+---
+
 ## 2026-08-01 (Edition #62)
 
 ### 1. Sony's flat quarter produced 37% more profit (gaming & esports industry)

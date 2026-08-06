@@ -8,6 +8,154 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-06 (Edition #67)
+
+### 1. Switch 2's second act runs on software margin (gaming & esports industry)
+
+Nintendo closed the platform-holder earnings season this morning: net profit up 53.5% year on year to ¥147.4B on revenue down 9.5% to ¥517.8B, beating consensus by roughly a quarter (CNBC's read). Switch 2 moved 3.82M units in the quarter, 34% below the 5.82M of last year's launch quarter, for 23.68M lifetime, and Nintendo held its 16.5M full-year forecast. Software strength and improving hardware economics carried the beat.
+
+That makes it 3 for 3 after the Xbox and Sony prints in #61 and #62: hardware shrinks while profit grows. The sharper lesson is the comparison trap. A 34% unit decline reads as a slump only against a launch-quarter spike, and the business underneath got healthier. We walk into the same trap in 2027, when every EWC number gets compared to the Paris novelty year.
+
+One question to chew on: which EWC 2026 number will read as decline against 2025's spike, and do we pre-frame that comparison before someone else frames it for us?
+
+### 2. The AI ad engine missed by 1% and repriced 20% (AI x gaming)
+
+AppLovin reported Q2 last night: revenue up 53% year on year to $1.92B, just under the $1.94B consensus, earnings per share of $3.76 against $4.21 expected, and the stock fell more than 20% after hours. The machine underneath stayed strong, with an 84% adjusted EBITDA margin and Q3 guidance of $2.055B to $2.085B (46 to 48% growth). The named culprit: this quarter's upgrade to Axon, the ad model that drives incremental advertiser spend, landed later than usual, just after the quarter closed (Seeking Alpha's coverage of the call).
+
+The lesson sits in that causality. For an AI-first company, the model-release calendar is now a P&L line, and a slipped upgrade shows up as a revenue miss the market prices within hours. As EF workflows lean harder on models, upgrade cadence and regression risk become operational dependencies someone should own, the way broadcast owns redundancy.
+
+One question to chew on: which EF process would visibly degrade if a model provider shipped a bad upgrade during event week, and who would notice first?
+
+### 3. Coercive power spends like a currency (leadership & negotiation)
+
+Richard Gray's ChinaTalk essay walks through the "China differential", the 1952 arrangement under which the US and its allies restricted trade with Beijing more harshly than with Moscow. It held while the Korean War made the threat feel immediate, then commercial interests reasserted themselves: British trade with China grew from $73.5M in 1950 to $1.1B by 1970 while the formal US embargo stood until 1971. Two mechanics travel. Coalitions hold a maximalist line only while the threat feels present. And coercive power rests on structural dependency, so it depletes as counterparts adapt and reroute.
+
+The design answer is the essay's best artifact: NSC/41, the 1949 memo whose single durable objective (keep China from becoming an adjunct of Soviet power) gave decades of oscillating policy a spine. Its warning travels too: every ally has its Hong Kong, the commercial interest that stops them from following you all the way.
+
+One question to chew on: what is our one NSC/41 sentence for the China-at-ENC track, and can we name each stakeholder's Hong Kong before the next escalation instead of after it?
+
+### 4. Homa dug a $131M hole (gaming & esports industry)
+
+Mobile Gaming Today's teardown of All in Hole shows what subgenre ownership pays: Homa's title dominated the eat-and-grow niche and has banked $131M in lifetime in-app purchases, still running at roughly $8M in IAP and about 1M downloads a month (Gamigion's figures, built on AppMagic data). The 100-level deconstruction behind the numbers is the tell: level pacing, difficulty curves and monetization beats tuned with a discipline most people reserve for AAA productions.
+
+The portfolio idea: in a market where new casual launches almost never clear the success bar, owning a narrow subgenre outright beats renting tenth place in a big one. That is our 3-star-to-1-star prioritization logic applied one level deeper, and it cuts the other way too: subgenre kings mint durable audiences quietly, before any scout shows up.
+
+One question to chew on: which narrow scene do we already own outright, and do we run it with All in Hole discipline or treat it as a side stage?
+
+#### News of the day
+
+- **The Honor of Kings final four takes shape in Paris** (live events & immersive). Quarterfinals ran August 5 and 6, semifinals follow tomorrow, and Saturday's grand final closes the bracket, all best-of-7 from here. Team Vitality and Virtus.pro carry the European storyline into a field with AG.AL, ROC Esports, Aurora, Kuaishou Gaming, Geekay and Team Nemesis. [Gamereactor](https://www.gamereactor.eu/esports/1756383/Esports+World+Cup+2026+The+Honor+of+Kings+World+Cup+Playoffs+bracket+has+been+locked+in/)
+- **Miyamoto says players stopped reading spec sheets** (gaming & esports industry). Gies' weekly flags Shigeru Miyamoto arguing gamers no longer look at console specs, in the same week Nintendo's results showed software carrying the profit. When the hardware race stops selling, the content and the moments around it do the selling, which is the business we are in. [Gies](https://giesweekly.substack.com/p/xbox-and-psn-both-go-dark-eu-clears)
+- **2 in 3 Southeast Asian players back mandatory age checks for 18+ games** (gaming & esports industry). Niko's SEA-6 survey work finds 67.5% support mandatory age verification and 61.4% play only official versions of their games. Player-side demand for safety infrastructure keeps growing ahead of regulation, the same direction the Tencent compliance lesson in #59 pointed. [Niko Partners](https://substack.nikopartners.com/p/7-billion-in-2030-opportunities-in)
+
+**Sources (Edition #67)**
+
+- Nintendo Q1 FY27 results, CNBC: https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html and Shacknews: https://www.shacknews.com/article/150272/nintendo-switch-2-3-82-million-sales-q1-fy27
+- AppLovin craters 20% after Q2 revenue falls short, Seeking Alpha: https://seekingalpha.com/news/4626587-applovin-craters-20-after-q2-revenue-falls-short-of-expectations
+- Cold War Lessons for a Constrained America, ChinaTalk: https://www.chinatalk.media/p/cold-war-lessons-for-a-constrained
+- Mobile Gaming Today #117 (All in Hole deconstruction), Gamigion: https://gamigion.substack.com/p/mobile-gaming-today-117
+
+---
+
+## 2026-08-05 (Edition #66)
+
+### 1. Guildrun earned 560,000 Twitch hours before launch (gaming & esports industry)
+
+Simon Carless profiled Guildrun, a PvE roguelike take on the Teamfight Tactics formula from Leyline, a 6-person German team funded partly by regional and national game funds. The demo dropped July 15, the same day the game was announced, and 10 days later it had over 275,000 demo players heading for 300,000, a median playtime of 3 hours 55 minutes, roughly 230,000 wishlists, and 560,000 Twitch hours watched in a week, placing it #59 among all games. The playbook underneath: a community built since December, a beta updated weekly with winrates and pickrates tuned like a live game, and organic outreach to roguelike and autobattler specialists that beat the paid campaigns. Short-form video did almost nothing.
+
+Read it as a scouting lesson. A tiny team took a Riot esports formula, removed PvP, and is minting a scene in public, with every demand signal visible months before release. This is exactly the pre-commercial heat map from #57, now with a concrete case attached.
+
+One question to chew on: what demo-and-Twitch threshold would put a game into our scouting file automatically, and who checks that list today?
+
+### 2. UA's next edge is an agentic stack (AI x gaming)
+
+Gamigion asked mobile UA practitioners what comes next, and the survey's sharpest line is that speed of decision now separates winners. 82.5% of advertisers launch new creatives monthly, and the leaders treat creative as an operational pipeline rather than a stack of assets. One founder describes the growth engine as an agentic architecture across the whole UA stack: ideation, production, testing, tagging, measurement, operations. Meanwhile 80% of spend still flows to Facebook and Google even at studios running nine channels, so the differentiation lives in operations rather than channel choice.
+
+This is the most concrete picture yet of what Ralf's AI-first push looks like in a marketing function: agents compressing the loop from idea to live campaign, with humans setting taste and thresholds. Our partners' UA economics also set their esports budgets, so their adoption speed touches us twice.
+
+One question to chew on: if we rebuilt EWC campaign operations as an agentic pipeline, which decision would gain the most from speed, creative rotation or budget shifts between markets?
+
+### 3. The dying CEO reads his own ledger (leadership & negotiation)
+
+George Saunders returned to the novel with Vigil, a #1 New York Times bestseller built on one night: Jill "Doll" Blaine, a formerly alive escort of souls, sits with K.J. Boone, a retired oil CEO dying in his Dallas mansion, as he accounts for a life of world-shaping, corner-cutting work. Reviewers are split on the polemic (the LA Review of Books calls it uneasy), and most agree it is rare literary fiction that puts actual work, deals and their consequences, at the center. (I am drawing on the Bloomberg and LA Review of Books reviews, not the full book.)
+
+The transferable is the deathbed audit as a planning tool. Boone's night compresses the question every builder defers: which decisions survive scrutiny when the quarter no longer matters. Our whole strategy claims a 10-year horizon, and the honest test of any current call is whether it reads as building or as corner-cutting from that distance.
+
+One question to chew on: which decision from this year would we defend first on Boone's night, and which one would we talk fastest past?
+
+### 4. Southeast Asia's growth flipped from reach to engagement (gaming & esports industry)
+
+Niko Partners published its SEA-6 outlook: the region generated over $5.6B in 2025 (up 4.7%), should cross $5.9B this year, and reaches $7.0B by 2030 at a 4.8% CAGR, with players surpassing 300M this year. Indonesia leads with more than 126M players and a path to $1.5B in spending by 2030, while Thailand crosses $2B in player spending already this year. The split matters most: high-population markets still grow on new smartphones, while the mature markets (Malaysia, Singapore, Thailand) now grow on localized content, live events, community and esports. Nearly a third of players prefer paying outside the app stores, with Thai players above 35%.
+
+Growth driven by live events and esports is our product described by an analyst firm. And the out-of-app payment finding says the direct-to-consumer shift we tracked at the platform level (#55's trust economics) has reached player behavior in our mobile heartland.
+
+One question to chew on: does our first dedicated SEA activation target the new-player wave in Indonesia or the engagement economy in Thailand, and who owns that choice?
+
+#### News of the day
+
+- **Call of Duty: Black Ops 7 opened its main event at stc Arena** (live events & immersive). The August 5 to 9 bracket puts defending champions OpTic Gaming on stage in Paris in the marquee slot of the week. Insider Gaming's week-by-week guide has it as the centerpiece of the run's quietest stretch. [Insider Gaming](https://insider-gaming.com/esports-world-cup-2026-schedule-week-by-week-breakdown/)
+- **FC 27 arrives with a $150 Ultimate Plus edition** (gaming & esports industry). Alinea's edition-mix read: EA keeps pushing the premium tier upward, testing how much of the launch audience trades up. Days after the take-private closed, the pricing architecture of our biggest sports title is a direct signal of how the new owners monetize the franchise we stage. [The Alinea Insight](https://alineaanalytics.substack.com/p/playstation-physical-shares-fc-27)
+- **Capcom posted its 9th straight record year** (gaming & esports industry). Gies flags the print with two telling units: new IP Pragmata topped 2.5M copies and Resident Evil Requiem hit 8M. The remake engine from #60 is visibly funding original swings now, and the original swings are landing. [Gies](https://giesweekly.substack.com/p/xbox-and-psn-both-go-dark-eu-clears)
+- **TEKKEN 8's $1M bracket started in Paris** (live events & immersive). 32 players opened group play August 5, running to Saturday's final, the third of the week's 3 title deciders. [esports.gg](https://esports.gg/news/tekken-8/ewc-2026-t8-overview-results/)
+
+**Sources (Edition #66)**
+
+- How Guildrun genre-mashed its way to ~300k demo players in 10 days, GameDiscoverCo: https://newsletter.gamediscover.co/p/how-guildrun-genre-mashed-its-way
+- What is NEXT in Mobile Games User Acquisition?, Gamigion: https://www.gamigion.com/what-is-next-in-mobile-games-user-acquisition/
+- Vigil, George Saunders (Bloomberg review): https://www.bloomberg.com/news/articles/2026-01-23/an-oil-ceo-s-reckoning-is-at-the-heart-of-george-saunders-vigil and LA Review of Books: https://lareviewofbooks.org/article/george-saunders-vigil-novel-review-kazuo-robinson/
+- $7 billion in 2030: Opportunities in Southeast Asia's Video Game Markets, Niko Partners: https://substack.nikopartners.com/p/7-billion-in-2030-opportunities-in
+
+---
+
+## 2026-08-04 (Edition #65)
+
+### 1. EA now answers to one shareholder (gaming & esports industry)
+
+The take-private we have tracked since #56 closed on August 4. EA shareholders were paid out at $210 per share, the stock left Nasdaq after decades as a public company, and ownership settled at 93.4% PIF, 5.5% Silver Lake and 1.1% Affinity Partners, the largest leveraged buyout ever completed. Andrew Wilson stays as CEO and the Redwood City headquarters stays put.
+
+Two clocks now run inside EA at once. Buyout debt gets serviced from cash flow, which sharpens the look at every cost line, esports included. And a sovereign anchor owner thinks in decades, the same tension between durability and quarterly proof we manage ourselves. For us the org chart got real: EA sits inside the PIF family alongside Savvy's assets, while EF remains public-sector, and that distinction now shapes how our biggest contingency-sensitive partner reads us.
+
+One question to chew on: in the next EA conversation, do we treat the new ownership as shared context that speeds decisions, or keep the peer-level commercial posture as if nothing changed?
+
+### 2. The AI teammate now ships with an SDK (AI x gaming)
+
+NVIDIA's ACE Game Agent SDK, announced at Unreal Fest in June, packages the AI-NPC stack into an open source C/C++ framework with 3 APIs (Agent, Chat, RAG) plus Unreal Engine 5 plugins bundling speech recognition, a local Qwen 3.5 4B language model and text-to-speech, all running on-device. The proof cases are concrete: Krafton's Ally, an AI teammate in PUBG that understands voice intent and cooperates in real time on local hardware, heads to open beta soon, and Total War: PHARAOH runs an experimental advisor answering strategy questions through retrieval across 1,200+ game data tables.
+
+Two reads. The AI companion is standardizing around small, local, low-latency models (the 1,200-millisecond lesson from #62, now productized as engine plugins any team can adopt). And a close partner is shipping an AI teammate inside the franchise family we stage, which makes the competitive-integrity question arrive before the marketing one.
+
+One question to chew on: when AI teammates reach a title on our stage, where is our written line between practice tool and unfair aid, and who owns that ruling?
+
+### 3. Fussy eaters were invented (leadership & negotiation)
+
+Helen Zoe Veit's Picky (from the books queue) upends an assumption most parents treat as biology. Well into the 20th century, American children ate what adults ate, from spicy relishes to bitter greens, and adults assumed kids were capable, curious eaters. Across 200 years of sources, the Michigan State food historian traces how the invented category of "children's food", bland, separate and heavily marketed, taught children the pickiness we now consider natural. (I am drawing on the Washington Examiner review and MSU's book release, not the full book.)
+
+The mechanism is the lesson: a category creates the behavior it claims to describe. Serve an audience a dumbed-down version of the real thing long enough and they learn to demand it. Every time we build a "casual viewer" product that is only clips and vibes, we risk training fans who never develop the appetite for a full best-of-7.
+
+One question to chew on: where do we serve a kids' menu to fans who would happily eat the full match, and what one step up in complexity would test that appetite?
+
+### 4. Clone sues clone (gaming & esports industry)
+
+Mobile Gaming Today flags a lawsuit worth keeping: Vietnamese studio Funfinity sued ABI Games, alleging Colony Flow copies protected elements of Food Hunt: Pixel Puzzle. Gamigion's kicker lands the real point: both games are clones of Estoty's Ants Flow, whose maker has sued nobody. In casual mobile, mechanics are barely protectable, so enforcement follows resources and nerve rather than originality.
+
+The transferable is what actually defends a product when the mechanics are free to copy: brand, community, distribution speed, and the archive of moments a copy cannot inherit (the memory point from #63). Our formats are copyable too. A well-funded rival could stage a club championship tomorrow, and the only things it could not clone are the relationships and the trust.
+
+One question to chew on: if a copy of our format launched next year, which 3 assets would it fail to replicate, and do our budgets treat those 3 as the moat they are?
+
+#### News of the day
+
+- **Rainbow Six Siege opened group play with a Six Invitational seat on the line** (live events & immersive). 22 teams compete August 4 to 15 for a $2M prize pool, and the champion takes a direct slot at the Six Invitational 2027, linking our stage into Ubisoft's own competitive calendar. [Dot Esports](https://dotesports.com/rainbow-6/guides/r6s-ewc-2026-schedule-results-bracket)
+- **Beijing's July Politburo meeting set the Fifth Plenum for October** (leadership & negotiation). Sinocism reads the meeting as lining up policy support ahead of the session that drafts the next five-year plan (the daily is paywalled, treat as framing). The regulatory weather our Chinese partners operate under gets set in exactly these rooms. [Sinocism](https://sinocism.com/p/july-2026-politburo-meeting-fifth)
+- **Atari handed 10 classic games to Universal for film adaptations** (gaming & esports industry). Gies flags the deal in a week thick with game-IP-to-Hollywood movement. After the Backrooms lesson in #57, the pattern holds: proven fandoms are the scarce input, and studios now shop for them at the source. [Gies](https://giesweekly.substack.com/p/xbox-and-psn-both-go-dark-eu-clears)
+
+**Sources (Edition #65)**
+
+- Electronic Arts delisted from Nasdaq as buyout closes, Wccftech: https://wccftech.com/electronic-arts-delisted-nasdaq-pif-55-billion-buyout/ and Esports Advocate: https://esportsadvocate.net/2026/08/ea-delists-nasdaq-pif-closes-buyout/
+- Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK, NVIDIA: https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/
+- Picky, Helen Zoe Veit (Washington Examiner review): https://www.washingtonexaminer.com/premium/4647194/review-helen-zoe-veit-american-children-picky-eaters/ and MSU release: https://history.msu.edu/new-book-release-picky-how-american-children-became-the-fussiest-eaters-in-history-by-helen-zoe-veit/
+- Mobile Gaming Today #117 (Funfinity vs ABI), Gamigion: https://gamigion.substack.com/p/mobile-gaming-today-117
+
+---
+
 ## 2026-08-03 (Edition #64)
 
 ### 1. The floor is the healthier number (gaming & esports industry)

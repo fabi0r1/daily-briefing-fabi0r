@@ -8,6 +8,157 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-12 (Edition #73)
+
+### 1. AI is eating the tier that trains everyone else (AI x gaming)
+
+Kaya Genç reported this out of Istanbul for Rest of World on July 20, so read it as an idea rather than news. Turkey holds more than 800 active game studios, the biggest development hub in Europe after London. New gaming startups there fell from nearly 200 in 2021 to 84 in 2023 to 30 last year, per Invest Turkey's own ecosystem report. Emirhan Gül left a studio where a dozen people shipped a game a week, founded his own, and now runs it with 2 full-time employees on roughly $200 a year of AI subscription. Applications from 2-to-3-person Turkish studios to Steam's Turkey sale event went from 67 in 2023 to 254 a year later.
+
+The part worth carrying is where the cuts land. Güven Çatak, who runs Bahçeşehir University's Game Lab, says junior positions for his students "have tanked", and his colleague Nazım Adaklı describes a friend who does the work of 5 junior programmers himself with AI. One Istanbul studio switched to AI for product ideation and let go 17 of its 20 people, and the roles that went were concept artists, writers and junior developers. GDC's 2026 industry survey puts worldwide gaming layoffs at more than a quarter of the workforce over 2 years. The apprenticeship ladder is the thing being removed, and seniors are grown on that ladder. Under Ralf's AI-first push, that is a hiring question as much as a tooling question.
+
+One question to chew on: which roles on the Games team are we quietly no longer hiring, and where does the next Morten or Jan actually come from?
+
+### 2. Material power runs ahead of the machinery to use it (leadership & negotiation)
+
+The Sinification July digest, published with Bill Bishop's Sinocism on August 4, collects Chinese establishment commentary and finds it markedly more sober than the mood after May's Trump-Xi summit. Zhou Li, a former vice-minister of the CPC Central Committee's International Department, closes an otherwise confident survey with the line "having an advantage does not equate to a winning position". Jin Canrong of Renmin University puts the same idea more vividly: China "has grown to 1.95 metres but still thinks itself 1.2 metres tall", and its historically East Asia-centred statecraft never built the experience for genuinely global affairs. Wu Xinbo of Fudan adds that Xi's four global initiatives need real money, institutions and trained personnel, because "global governance cannot rely solely on conceptual initiatives".
+
+Jacob Mardell's summary of the month is the transferable part: growing power running ahead of the institutional, diplomatic and intellectual capacity needed to convert it into durable gain. That is a diagnosis you can run on any fast-scaling organisation, ours included. We hold assets that most sports properties would take 20 years to assemble, and the governance, rulemaking and partner-management machinery behind them is younger than the assets. Note that Sinification deliberately carries a wide spectrum of Chinese voices, from state propagandists to liberals, so treat each name as one position rather than a consensus.
+
+One question to chew on: name one EF advantage we currently cannot cash because the institution behind it does not exist yet, and what would building it cost?
+
+### 3. Building a case damages the thing you are fighting over (leadership & negotiation)
+
+From Cressida Connolly's review of Lara Feigel's Custody: The Secret History of Mothers, in Literary Review's March 2026 issue. Connolly opens with her own family: when her mother left her first husband at the end of the 1950s, he demanded custody of their two children, aged 4 and 6, argued she was unfit because she had left the home and had an affair, and won. Connolly's line is that not living with their mother blighted her half-siblings' lives, and both of their own marriages later ended in divorce. Her general claim: the more finger-pointing and blame there is in a separation, the worse the outcome for the children. English law only caught up in 2022, when no-fault divorce removed the need to win your freedom by accusing the other side, often on invented grounds.
+
+Feigel's book follows 7 women who fought for their children and were found wanting, and she went through it herself: after a 17-year marriage ended, a court placed her son with his father in London and her daughter with her in Oxfordshire. The mechanism is what carries over into our world. An adversarial process obliges both sides to assemble evidence against each other, and the assembling is what does the damage, separately from whatever gets decided. Every publisher relationship that slides into documentation mode is running the same process. I worked from the free opening of the review, the rest sits behind a paywall.
+
+One question to chew on: in our hardest live negotiation right now, what are we already putting in writing that becomes expensive if the relationship survives?
+
+### 4. Ten Japanese mobile studios went under in seven months (gaming & esports industry)
+
+Teikoku Databank counted 10 bankruptcies among Japanese companies developing and running mobile games between January and July 2026, against 3 across the whole of 2025. At that pace 2026 beats the 2015 record of 12. The causes it names are structural: player expectations now include 3D and full voice acting, so initial development costs run into the hundreds of millions of yen, domestic creators are chronically short, post-launch content is expensive to keep shipping into a shrinking player base, and Chinese and Korean high-budget titles set a quality bar many Japanese studios say they cannot reproduce at home.
+
+The case underneath it is the part to remember. Tokyo developer Ambition had run the live-service game Bungo Stray Dogs: Tales of the Lost for 9 years. At the end of July it announced the game would end service the next day, refused to refund unused in-game currency and paid items, and turned out to have filed for bankruptcy at the same time. A product can be genuinely loved for 9 years and still be remembered for its last 24 hours. That is a Culture Code point wearing a balance sheet: how you switch something off is a statement about how much the audience was ever worth to you.
+
+One question to chew on: if a title had to leave the EWC lineup, who owns the wind-down plan today, and how many months of notice does it give clubs and players?
+
+#### News of the day
+
+- **Square Enix operating profit rose 88.6% in the June quarter** (gaming & esports industry). Operating income came in at 17.008 billion yen on net sales of 78.4 billion, up 32.3%, with net profit up 175.7% to 13.2 billion, and the result cleared the QUICK consensus of roughly 7.3 billion by a wide margin. Digital Entertainment did the lifting, up 51.8% in revenue, on Final Fantasy VII Rebirth and The Adventures of Elliot. GodIsAGeek reports around 90% of quarterly game sales are now digital downloads, which if it holds is the sharper number in the release. [GodIsAGeek](https://godisageek.com/2026/08/square-enix-90-percent-digital-sales/)
+- **The 2026 esports commercial map puts Logitech and Red Bull on top** (gaming & esports industry). Research and Markets' Business of Esports 2026, out August 7, names those two as the most prominent sponsors across the major titles it covers, with technology, media and telecoms the leading industry category for team sponsorship. It keeps Asia-Pacific as the largest region for consumption, keeps League of Legends as the most-watched title, and names gender inequality as a persistent structural problem for the sector. Useful as an outside read on our own sponsor mix. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/08/07/3341205/28124/en/business-of-esports-2026-report-examines-global-viewership-sponsorship-and-commercial-trends.html)
+- **A Barcelona studio launched to build AI-native mobile puzzle games** (AI x gaming). Gamigion's weekly flags Ludor, founded by veterans out of Voodoo, King, Scopely and FunPlus, building puzzle titles AI-first from the start. Senior people leaving the majors to run tiny AI-first teams is the mirror image of today's first lesson: the top of the ladder is fine, the bottom rungs are gone. [Mobile Gaming Today](https://www.gamigion.com/former-king-and-voodoo-vets-launch-puzzle-studio-ludor/)
+
+**Sources (Edition #73)**
+
+- AI is shrinking video game development teams to one, Kaya Genç, Rest of World: https://restofworld.org/2026/ai-video-games-developer-jobs/
+- Advantage Does Not Equal Victory, Sinification July 2026 digest with Sinocism: https://www.sinification.org/p/advantage-does-not-equal-victory
+- Who Knows Best? Cressida Connolly on Lara Feigel's Custody, Literary Review: https://literaryreview.co.uk/who-knows-best
+- Bankruptcies among Japanese mobile game developers surge to record pace in 2026, Automaton West on Teikoku Databank: https://automaton-media.com/en/news/bankruptcies-among-japanese-mobile-game-developers-surge-to-record-pace-in-2026-data-shows/
+
+---
+
+## 2026-08-11 (Edition #72)
+
+### 1. Two studios, one AI toolkit, two answers on disclosure (AI x gaming)
+
+Shift Up's Hyung-tae Kim, director of Stellar Blade, made the productivity case in public on January 9, at an event attended by South Korea's president and the country's game-industry leadership. His arithmetic: Korean studios put roughly 150 people on a game while China deploys 1,000 to 2,000, about 80% of Shift Up's revenue comes from the global market, and "we lack the capacity to compete, both in terms of quality and content volume". His fix, quoted by GameMeca and translated by Automaton: "by educating staff in generative AI, one person can effectively do the work of 100." Five months later the reveal for Stellar Blade: Blood Rain went out carrying in-world Chinese signage made of characters that exist in no language, spotted inside a day by Chinese-speaking players. The first Stellar Blade used no generative AI, so the shift was visible to the people who cared most.
+
+Now compare SpiralAI and Koei Tecmo's Gust, who announced RyzaChat on August 4, an AI chat RPG set in the Atelier Ryza world. They led the announcement with provenance: every illustration, portrait, key visual and promo video made by human artists under the original series illustrator's supervision, Ryza's voice synthesised from recordings made for the app by her original actress, the language model built on base models whose licences permit it and trained only on data the IP holders authorised, and royalties paid to illustrators, voice actors and rights holders tied to the assets used. Same technology, and the second team spent its launch moment on the paperwork. Under Ralf's AI-first push, the read is that what we say we used is a separate decision from what we use, and it gets made before anything ships.
+
+One question to chew on: for AI-assisted EWC content, who signs off on the disclosure line, and does that person see the asset before the audience does?
+
+### 2. Fortnite's players arrive for Battle Royale and stay there (gaming & esports industry)
+
+Ted Park, writing for GameMakers, took a snapshot of the Fortnite metaverse on a Saturday night in June. Concurrent players sat at 1,210,150, which is 8.4% of the all-time peak of 14,343,880 recorded 1.6 years earlier. Battle Royale and its variants held 58% of everyone playing. Epic's own non-battle-royale games reached 55% of what the idle tycoons managed. Star Wars is the clean test: Epic had Disney's endorsement, professional studios and multiple genres, and Galactic Siege, the highest-production Star Wars project on the platform, settled around 599 concurrent players while Droid Tycoon sat at 24,100. At State of Unreal, Epic put Droid Tycoon on the main stage as the success story.
+
+His argument is about why people opened the app. Roblox and Steam work as platforms because their users arrive to browse, so 10.7 million concurrent players spread wide enough that the top 12 games hold only 32.7% and 7.2 million are available to everyone else. Fortnite's audience arrives for one specific thing and walks back out. Park's point about the concerts sharpens it: 12.3 million turned up for Travis Scott, because that ask was scheduled, social, 15 minutes long and demanded nothing. An event is a detour, and a platform needs the detour to become the destination. For us this lands on an assumption we make constantly, that EWC audiences browse across titles because the titles share a roof.
+
+One question to chew on: what share of EWC watch time actually crosses from one title into another, and do we measure that today or just assume it?
+
+### 3. Simple and dumb rules move faster than clever ones (leadership & negotiation)
+
+Adam Chan, national security counsel to the FCC chairman, went on ChinaTalk on August 6 to explain how a 1934 statute plus two bipartisan bills from 2020 and 2021 turned a spectrum regulator into an import-control agency. The covered list now reaches routers, drones, undersea cables and, as of last week, mobile robots, including robot vacuums. The interesting part is his defence of the instrument. Critics call it blunt, with no long comment cycle and no nuance. Chan's answer: "there's actually a strong argument that the simple and stupid policy is the best policy." It moves fast, it avoids the whack-a-mole of naming specific entities, and it sends a market signal loud enough to pull in capital. The clever alternative takes years to write and years more to amend, and confuses everyone in the meantime.
+
+He offers evidence and an escape valve. On drones he claims over $5 billion of investment since the action, over a million square feet of manufacturing capacity and thousands of jobs, and says routers went from zero US producers to dozens committing to build. The valve is a conditional-approval process run by the Department of War, requiring an onshoring plan, with a 65% US-content test for a domestic end product, turned around in weeks and free to apply for from any country. Worth holding the counterargument too: Jordan Schneider pushes back that the real choice may be between imported Chinese robots and no competitive domestic ecosystem at all, given how concentrated the parts supply is. For our competitive and eligibility rulemaking, the shape is the lesson: one rule everyone can recite, plus a fast published exception process.
+
+One question to chew on: which of our competitive rules currently needs 3 people to interpret, and what would the blunt version actually cost us?
+
+### 4. Sharing data raises more welfare than walling it off (gaming & esports industry)
+
+Jan Krämer and Shiva Shekhar, writing in Joost Rietveld's Platform Papers on their MIS Quarterly paper, model the two tools regulators reach for when a dominant platform has a data advantage. Data siloing stops it using data from one market to improve another. Data sharing allows the cross-use but obliges it to share the data, or insights from it, with rivals. Their first finding is that both reduce the incumbent's own innovation incentive, for opposite reasons: siloing makes upstream investment worth less because the value cannot travel, sharing makes it worth less because some of the gain goes to competitors.
+
+The welfare split is where it gets useful. Siloing comes out unambiguously harmful, because less data gets generated in the first place, so there is less to share and innovation falls in both markets. Sharing raises the data-poor rival's innovation, consumer surplus in the competitive market and, in some cases, total welfare. The kicker for anyone who negotiates with EU-regulated platforms: the DMA mandates both at once, which the authors argue is internally inconsistent, because strict siloing shrinks the very pool that sharing is meant to open. Every argument we have with a publisher about who holds viewership, player and ticketing data is this model in a meeting room, and the research says the party pushing for mutual access has the stronger welfare case.
+
+One question to chew on: with Riot locked in for years, what data actually moves in both directions today, and would either side honestly call that sharing?
+
+#### News of the day
+
+- **Two Call of Duty ports from 2010 and 2012 topped PlayStation in July** (gaming & esports industry). Rhys Elliott's Alinea estimates put Black Ops at 8.2 million copies and Black Ops 2 at 3.0 million after a surprise July 9 shadow-drop at low prices, together outselling every new release on the platform. For scale in the same estimates, Assassin's Creed Black Flag Resynced managed around 1.6 million on PlayStation, EA Sports FC 26 around 1.3 million, and Halo: Campaign Evolved drew about 351,000 players. Every figure here is an Alinea model, so treat them as estimates and check against any publisher disclosure before quoting them. Catalogue value keeps coming in underpriced, which is the durability bet in someone else's data. [The Alinea Insight](https://alineaanalytics.substack.com/p/julys-top-playstation-games-by-copies)
+- **Garena is taking Palworld Online to Southeast Asia in 2026** (gaming & esports industry). Niko Partners reports the regional publisher bringing a Western-origin hit to SEA mobile. The IP travels on its own, and the publisher relationship is what actually opens the market, which is the same logic we weigh when choosing titles for regional qualifier reach. [Niko Partners](https://substack.nikopartners.com/p/garena-will-release-palworld-online)
+- **Playtika's market value hit a record low after Q2** (gaming & esports industry). Gamigion's weekly points at a shrinking user base, weaker cash generation and a dim outlook for the older titles holding up the portfolio. A live-service catalogue can age out while still turning a profit, which is the counterweight to the Call of Duty item above: old products hold value when someone keeps investing in them. [Mobile Gaming Today](https://www.gamigion.com/whats-up-playtika-2/)
+
+**Sources (Edition #72)**
+
+- Stellar Blade: Blood Rain Trailer Accused of Using Generative AI, GameLuster: https://gameluster.com/stellar-blade-blood-rain-trailer-generative-ai-accusations/
+- Stellar Blade Director Sparks Debate Over Generative AI in Game Development, Fextralife: https://fextralife.com/stellar-blade-director-sparks-debate-over-generative-ai-in-game-development/
+- Atelier Ryza "AI chat RPG" announced, Automaton West: https://automaton-media.com/en/news/atelier-ryza-ai-chat-rpg-announced-developers-promise-no-ai-generated-artwork-and-fair-revenue-sharing-with-voice-actors/
+- So This Is How The Metaverse Dies, Ted Park, GameMakers: https://www.gamemakers.com/p/so-this-is-how-the-metaverse-dies
+- FCC's Adam Chan on the New Robot Rule, Jordan Schneider, ChinaTalk: https://www.chinatalk.media/p/fccs-adam-chan-on-the-new-robot-rule
+- Regulating Data on Digital Platforms, Jan Krämer and Shiva Shekhar, Platform Papers: https://platformpapers.substack.com/p/regulating-data-on-digital-platforms
+
+---
+
+## 2026-08-10 (Edition #71)
+
+### 1. Games got waved through the AI Act on a definition nobody stress-tested (AI x gaming)
+
+The EU AI Act's transparency obligations went live on August 2. Article 50 requires you to tell people when they are dealing with an AI system, to mark synthetic content as artificially generated, and to disclose emotion recognition and biometric categorisation. Penalties run to 15 million euros or 3% of worldwide annual turnover, whichever is higher. The legal consensus so far is that video games sit in the minimal-risk bucket, so disclosure obligations are light.
+
+Tommy Thompson's worry is that the consensus rests on a definition the games industry has not tested. The Act defines an AI system by its capacity to infer, which reads as machine-learning language, so behaviour trees and state machines probably fall outside it. He then lists roughly 14 ways a player touches AI in one evening: matchmaking, anti-cheat, toxicity filtering, upscaling, store recommendations, and Forza's Drivatars, which race against you using telemetry harvested from other players. Travers Smith argued that single-player NPCs are an obvious use needing no disclosure. Thompson disagrees, because you cannot know whether player data is shaping that interaction. PEGI has said nothing at all. I am reading his argument, not a legal opinion, and he says plainly that he is not a lawyer.
+
+One question to chew on: which AI systems in our broadcast, moderation and competition operations touch EU viewers, and could we produce that list this week?
+
+### 2. The only channel that gets cheaper the stronger it gets (gaming & esports industry)
+
+Joseph Kim's argument, built with Liam Wiltshire of Tebex, starts from arithmetic. Content is abundant now and attention is finite, so acquiring a player costs more every year while pricing power falls. Getting listed on Steam is not distribution. Getting a player to walk down your aisle is distribution, and it has never been more expensive. A player relationship is itself a distribution channel, the one you own instead of rent, and the only one whose cost falls as it strengthens. His tell: platforms will negotiate the percentage all day, and they keep the login, the payment method and the purchase history.
+
+The numbers come from the community-server economy nobody covers. Tebex, started by a 16-year-old with 20 pounds for a domain name, has processed 1.5 billion dollars in lifetime payments. Purchases routed through a creator code the player actually trusts lift average spend from 24 to 41 dollars, and in Rust from 18 to 60, with 84% of players only ever using one code. On desktop games, 35% of purchases happen on a phone, because players fixed a checkout nobody designed for them. Trust has a measurable price, which is the part worth carrying into our world: we hold the audience and the clubs, and publishers rent that access for 7 weeks a year.
+
+One question to chew on: does anyone at EF own a direct line to the EWC audience, meaning one we can reach without paying a platform for the impression?
+
+### 3. Whatnot hired 1 product manager out of 31,832 applications (leadership & negotiation)
+
+Tom Verrilli, CPO of Whatnot and CPO at Twitch for 7 years before that, says the quiet part loudly: "We regret that product management exists." His target is the pod ratio, one PM for every 6 engineers, which became a default and then a staffing formula. His charge against it is sharper than payroll. Hiring that many PMs, he says, infantilises the engineers and designers who are perfectly capable of deciding things and simply never had to. Every decision-rep handed to a coordinator is a rep taken from someone building the muscle.
+
+The replacement is allocation, not headcount. Every 6 months leadership stack-ranks the critical outcomes and assigns one named owner to each, who can be an engineer or a designer rather than a PM. Roughly 22 senior PMs cover the whole marketplace, the 4 or 5 who manage others spend more than 90% of their time doing the work themselves, and his line on the old promotion ladder is "we took all of our A players and then promoted them out of doing things." His leadership posture is "verify then trust", with a CEO who clears his day and goes through tickets and data line by line, which redefines micromanagement as managing without ground truth. This lands straight on the Games team redesign. (I worked from a published summary of the episode, not the episode itself, so treat the quotes as reported.)
+
+One question to chew on: in the 2026 Games team design, does every critical outcome have one named owner, and how many of those owners are doing the work rather than coordinating it?
+
+### 4. Trotsky's walls held and his guards did not (leadership & negotiation)
+
+From Piers Brendon's review of Josh Ireland's The Death of Trotsky, published in February. Stalin ran a decade-long operation to kill Trotsky, codenamed UTKA. In May 1940 a squad overwhelmed the guards at the Mexico City compound and put more than 70 bullets through the bedroom. Trotsky and his wife Natalia hid under the bed and survived. Three months later Ramon Mercader walked in alone, in daylight, as a friend of the household, having spent years cultivating access by seducing the sister of one of Trotsky's secretaries, and killed him with an ice axe on 24 August.
+
+The detail in the review is the lesson. The guards were "neither happy nor efficient in their work", alienated by Trotsky's martinet behaviour, his aloofness and his fits of petulance. Trotsky saw visitors alone and refused to have them searched. He had already said out loud that "a single agent of the GPU who passes for my friend could murder me in my own house." The perimeter survived a firefight and failed at the human layer, which is Coyle's safety point in its harshest form: the people guarding the thing are part of the thing. Read that against Rockstar dismissing more than 30 staff over leaks and you get a live version of the same exposure. (I am working from the review, not the book, and the reviewer notes it adds little new to a well-documented story.)
+
+One question to chew on: who at EF sits closest to our most sensitive material, and when did anyone last ask them how the work is actually going?
+
+#### News of the day
+
+- **Take-Two's CEO is not worried about the disc or the union row** (gaming & esports industry). Strauss Zelnick told analysts that discs "don't really make sense for the consumer" on a big release, with Take-Two now well over 90% digitally distributed, and he refused to rule out a GTA 6 disc later. On the second fire, Rockstar dismissed more than 30 staff over leaks and the Independent Workers of Great Britain has accused it of discriminating against staff trying to unionise, with the case heading to a UK tribunal. Zelnick says he is "not in the least" concerned about the launch on 19 November. A CEO absorbing two reputational fires in public, weeks before the biggest launch in the industry, is a useful model for how we handle noise in the run-up to an event. [The Game Business](https://www.thegamebusiness.com/p/could-no-physical-disc-and-a-trade)
+- **Southeast Asia's 6 markets pass 300 million players this year** (gaming & esports industry). Niko has the SEA-6 generating over 5.6 billion dollars in 2025 at 4.7% growth, crossing 5.9 billion this year and reaching 7.0 billion by 2030 on a 4.8% 5-year CAGR. Indonesia leads on player count with more than 126 million, and Thailand is on track to pass 2 billion dollars in player spending this year. The finding that pairs with today's second lesson: nearly a third of players prefer buying in-game content through out-of-app payment methods, and in Thailand it is over 35%. [Niko Partners](https://nikopartners.com/7-billion-in-2030-opportunities-in-southeast-asias-video-game-markets/)
+- **Devolver Digital is walking away from the public market** (gaming & esports industry). The indie publisher told investors on August 6 that it wants to cancel its AIM listing, with a shareholder vote on September 8 and trading expected to stop on September 16. The argument is that indie publishing earns over years rather than in neat quarterly shapes, so the share price does not reflect the business, and the company has shed roughly 96% of its value since its 2021 IPO even though 2025 revenue, gross margin and adjusted EBITDA all improved. Delisting saves up to 1.6 million dollars a year and returns up to 5 million in cash to shareholders. A lumpy long-cycle business being repriced by a quarterly market is exactly the tension around our own durability bet. [Game World Observer](https://gameworldobserver.com/2026/08/06/devolver-digital-announced-plans-to-delist-from-the-stock-exchange-following-this-its-shares-plummeted-by-60)
+- **The Xbox 360 catalogue is heading to PC** (gaming & esports industry). Gies' weekly flags Microsoft preparing to bring 360 titles to PC through emulation, with a full rollout reported for 2027 to 2028, alongside a Disc to Digital programme launching this month for Xbox One and Series X/S owners. Both moves point the same way: the value sits in the library and the account, not the box. [Gies](https://giesweekly.substack.com/p/xbox-360-games-come-to-pc-palworld)
+- **Live Nation's deferred revenue hit a Q2 record of 6.4 billion dollars** (live events & immersive). Revenue came in at 7.7 billion for the quarter, up 9%, with nearly 49 million fans at shows and Ticketmaster selling 90 million fee-bearing tickets, up 8%. Deferred revenue rose 25% to an all-time high, which management reads as demand already banked for the second half. The wrinkle worth noting: concerts adjusted operating income fell 14% to 310 million because stadiums in the World Cup host countries were unavailable, so a rival mega-event took the venues rather than the audience. [Live Nation](https://www.prnewswire.com/news-releases/live-nation-entertainment-reports-second-quarter-2026-results-302839463.html)
+
+**Sources (Edition #71)**
+
+- What Does the EU's AI Transparency Rules Mean for Games, AI and Games: https://www.aiandgames.com/p/what-does-the-eus-ai-transparency
+- The Most Valuable Asset in Games Isn't Your Game, GameMakers: https://www.gamemakers.com/p/the-most-valuable-asset-in-games
+- This CPO regrets that product management exists, Tom Verrilli, Lenny's Newsletter: https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management
+- The Kremlin's Long Reach, Piers Brendon on Josh Ireland's The Death of Trotsky, Literary Review: https://literaryreview.co.uk/the-kremlins-long-reach
+
+---
+
 ## 2026-08-09 (Edition #70)
 
 ### 1. Hand the model a design system, then the data (AI x gaming)

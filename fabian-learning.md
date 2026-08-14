@@ -8,6 +8,108 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-14 (Edition #75)
+
+### 1. The $50 million work-for-hire brief no longer exists (gaming & esports industry)
+
+Sumo Digital co-CEOs Andy Stewart and Gary Dunn told Christopher Dring that the big AAA co-development contract they built the company on "literally does not exist" anymore. The live market is $15 million AA work. Sumo, which Tencent bought for around $1.3 billion five years ago, now runs about 30 projects including Warframe, has downsized heavily in the UK, and made zero redundancies at its 20-year-old Pune studio, which Stewart puts plainly as low-cost geography being part of staying competitive.
+
+The policy detail is the sharp one. Around 60% of Sumo's 2025 work did not qualify for the UK's 34% Video Games Expenditure Credit, because co-development on an existing title with a non-UK publisher falls outside the criteria. So a British studio doing British work loses the incentive on most of it, and Stewart wants the scheme moved toward the Canadian model where payroll alone qualifies. Incentive design decides where work physically lands, which is the same lever sitting under every host-city conversation we have.
+
+One question to chew on: for our own event footprint, which incentives are we actually claiming, and which ones are we structurally locked out of?
+
+### 2. Supercell said out loud that mo.co is not working (gaming & esports industry)
+
+Three months after relaunching mo.co, Supercell has said it is "not performing as well as we hoped." AppMagic puts it at $6.7 million revenue on 9.1 million downloads. Season 4 will largely repeat Season 1 content, Season 5 probably too, and live-ops resource is moving across to prototyping a second pivot. Killing it is called an unlikely scenario, without being ruled out.
+
+Retention is the interesting number here. The players who stayed over-index heavily on session time, which the team describes as working quite well for a niche. That is the trap. A small, genuinely happy audience makes the kill decision harder than a clean failure would, because there is always someone real to point at. Supercell's culture is built to say this in public early, which is the Culture Code vulnerability point doing real commercial work.
+
+One question to chew on: which EWC title or format currently survives on a small, loud, happy audience, and what would its numbers alone justify?
+
+### 3. 86% of Chinese developers now build with AI (AI x gaming)
+
+Niko Partners' Zeng Xiaofeng wrote up ChinaJoy 2026, themed "Level Up with AI," which drew 438,900 visitors and more than 900 companies from 35 countries. The number in his notes worth carrying: 86% of Chinese game developers now use AI somewhere in production.
+
+At 86%, AI in Chinese development is infrastructure. So the competitive question moves off whether a studio uses it and onto what it does with the capacity that frees up. Set that against the Rest of World reporting out of Turkey that ran here on 12 August, where the same adoption curve is removing the junior tier that grows seniors. China is running the adoption at national scale while already flagging a domestic creator shortage, which makes it a live experiment in whether a talent pipeline survives its own tooling. Every Chinese-market partner we negotiate with in 2027 will have priced this in before we sit down.
+
+One question to chew on: when a publisher's whole production stack is AI-assisted, what gets harder for us to verify in a co-production or a broadcast deal?
+
+### 4. People defend the price of the thing they were meant to use (leadership & negotiation)
+
+Mike Bird, Wall Street editor at The Economist, wrote The Land Trap, reviewed by Vic Duggan in the Irish Times last December. Bird's frame is that land has three properties no other asset has: it cannot be made, it cannot be moved, and it does not depreciate. So it becomes the collateral the whole financial system borrows against, and its price gets set by location and expectation, with no reference to anything productive happening on it. He reads 2008 as fundamentally a land-price crisis, and the American Revolution as substantially a land war between a new proprietor class and imperial landlords.
+
+The line Duggan calls the book's most astute is that governments are "trapped between promoting home ownership and defending homeowners' wealth." Once most of your stakeholders hold a position in the current price, any reform that releases real value creates more immediate losers than winners, even where the whole is better off. Run that on club valuations, or on slot scarcity in a franchised league. The moment a partner's balance sheet carries the slot as an asset, they will defend its price ahead of whatever it was supposed to produce. Source note: I worked from Duggan's review, which rendered in full despite a subscriber tag. I have not read the book.
+
+One question to chew on: in our partner ecosystem, which asset do people now protect the value of, and what were they supposed to be doing with it?
+
+#### News of the day
+
+- **Kick opened an ad business and claims MENA as its number one region** (gaming & esports industry). Three and a half years in, Kick launched KICK Ads on 12 August, claiming more than 100 million active users and over 1.5 billion hours watched in Q2 2026, with 81.7% of its audience aged 18 to 34 and a mix of 48% gaming against 37% talk, podcast and IRL. It calls itself the number one streaming platform in MENA and LatAm, which is our home region, and it hired its ad leadership out of Google, Spotify and Omnicom. Worth a look at whether our rights packages have any read on a platform that big with 41,000 monthly creators. [Kick](https://about.kick.com/news-and-press/12-kick-goes-live-with-ads-the-direct-line-to-gen-z-brands-have-been-looking-for)
+- **China handed down its first criminal conviction for leaking an unreleased game** (gaming & esports industry). Two Bilibili users were convicted of copyright infringement over leaked characters and gameplay from Genshin Impact, Honkai: Star Rail and Zenless Zone Zero, drawing 14 and 12 months, both suspended. The videos had passed 600,000 views before miHoYo moved. First conviction of its kind under the new Supreme Court and Supreme Procuratorate interpretations, which sets a marker for how embargo breaks get handled in that market, and it lands the same month Rockstar dismissed staff over leaks. [Inven Global](https://www.invenglobal.com/articles/24526/mihoyo-secures-first-criminal-conviction-in-china-against-game-leakers)
+- **Portland is putting public money in front of private money on a $600 million arena** (live events & immersive). Portland City Council voted 8 to 4 on 13 August to approve a term sheet with Rip City Management for the city-owned Moda Center: $365 million in Oregon state bonding, up to $101.6 million from Multnomah County, and $120 million from the city, against roughly $600 million total. In return the Trail Blazers commit to playing every home game there for 20 years, alongside labour-peace and community-benefit terms. Public capital leading a rebuild in exchange for a tenancy guarantee is the structure host cities now open with. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/08/13/portland-approves-term-sheet-to-redevelop-moda-center/)
+- **EA carries roughly $18 billion of debt out of the buyout** (gaming & esports industry). The PIF-led acquisition closed on 4 August at $210 a share and about $55 billion, with PIF at 93.4%, Silver Lake at 5.5% and Affinity Partners at 1.1%. Multiple outlets report the structure loads EA with around $18 billion of debt and that deep cost cuts follow, with annual interest near $2 billion. Those cut figures are press reporting. EA has issued no guidance, so hold them loosely. Our closest publisher relationship now sits under the same ownership umbrella as us, with an interest bill attached. [PC Gamer](https://www.pcgamer.com/gaming-industry/saudi-acquired-ea-is-reportedly-planning-to-make-massive-cuts-after-taking-usd18-billion-of-debt-and-we-all-know-what-that-means/)
+- **A ski-resort operator bought into padel courts** (live events & immersive). Compagnie des Alpes took an initial 33.9% of Germany's PadelCity on 4 August, with options running to 75% in early 2028 and 100% by end-2030. PadelCity runs 24 centres, up from 17 at the end of 2025, and targets 350 courts and around €50 million of annual revenue by the end of this year. CEO Dominique Thillaud expects the urban-sports arm to produce about €65 million of consolidated EBITDA by 2029. A destination business buying repeat local participation is the same hedge our own year-round activation thinking is chasing. [blooloop](https://blooloop.com/news/compagnie-des-alpes-padelcity)
+
+**Sources (Edition #75)**
+
+- The survival of Sackboy and Crackdown developer Sumo Digital (The Game Business, 11 Aug 2026): https://www.thegamebusiness.com/p/the-survival-of-sackboy-and-crackdown
+- Supercell Admits Mo.co is NOT Working! Time to Kill? (Gamigion, 13 Aug 2026): https://www.gamigion.com/supercell-admits-mo-co-is-not-working-time-to-kill/
+- Niko Partners observations at ChinaJoy 2026 (Niko Partners, 13 Aug 2026): https://substack.nikopartners.com/p/niko-partners-observations-at-chinajoy
+- The Land Trap by Mike Bird, reviewed by Vic Duggan (The Irish Times, 23 Dec 2025): https://www.irishtimes.com/culture/books/review/2025/12/23/the-land-trap-by-mike-bird-uncomfortable-truths-about-the-ground-beneath-our-feet/
+
+---
+
+## 2026-08-13 (Edition #74)
+
+### 1. One rule cannot cover a solo developer and a $10 billion publisher (gaming & esports industry)
+
+Christopher Dring interviewed Dr Celia Pontin, director of policy and public affairs at Flux Digital Policy, about Stop Killing Games, the campaign that started in 2024 after Ubisoft shut down The Crew's servers. Pontin's read: the campaign has already pulled official responses out of the UK Government and the EU, and both answered by pointing at consumer-rights law that already exists. Her objection to the ask itself is scope. A rule written to work for a one-person studio breaks on a multi-billion-dollar publisher, and the reverse breaks too.
+
+The harder problem she names is ownership. A modern game is a bundle of separately-owned copyright works plus live third-party services, so a publisher handing it "to the fans" may legally be unable to transfer what it does not own, on top of GDPR and age-verification duties attached to anything still running. She still credits the campaign with one real win: consumers now understand they bought a licence. Read that against our own rulemaking. Every eligibility and format rule we write has to hold for a 3-person community organiser and for Riot in the same document, and that scope gap is where most of our exception traffic comes from.
+
+One question to chew on: which EWC or ENC rule are we currently enforcing that only ever made sense for our biggest partners?
+
+### 2. An infinite mode is where undisclosed AI hides (AI x gaming)
+
+Tommy Thompson's 12 August issue opens on Saber Interactive's Rideshare, whose Steam page sells chatty passengers as a feature. Stella Sacco, a narrative designer, says she was fired from exactly that role at Saber in 2023. Saber told PC Gamer it has not replaced any writers with AI and that its writing staff has tripled since 2023, then in the same breath said the free-ride mode "incorporates AI as the number of passengers in the game is infinite." Thompson's catch is that this use appears nowhere on the Steam page.
+
+The mechanism is worth carrying. Generative AI arrives wherever the content requirement is unbounded, because no human team can author an infinite passenger list. Disclosure then breaks because the feature reads internally as a system and gets described externally as content. Under Ralf's AI-first push we have the same shape sitting in broadcast overlays, highlight clipping and multi-language commentary. Anything we scale to "infinite" is a disclosure question before it is a tooling question.
+
+One question to chew on: name one place we already ship AI output to an audience without saying so, and who decided that.
+
+### 3. Golden ages end because success makes closure feel safe (leadership & negotiation)
+
+From Michael Munger's review of Johan Norberg's Peak Human in The Independent Review, Spring 2026. Norberg works through seven golden ages, classical Athens, Abbasid Baghdad, Song China, Renaissance Italy and the Dutch Republic among them, and finds the same ending in each. Trade routes get restricted, heterodox thinkers get suppressed, monopolies get entrenched, authority gets centralised. Munger sets this against Mancur Olson's 1982 argument that stable societies accumulate coalitions chasing redistribution over production, and says Olson explains the slowdown while leaving the abandonment unexplained.
+
+Norberg's mechanism is status anxiety. A golden age is productive because it lets outsiders in: merchants, immigrants, heretics, people with no standing. Those outsiders then succeed, which threatens whoever was already there, and closure starts looking safer than openness once you hold something worth protecting. Munger's closing line is "our will to improve may be made of iron, but iron rusts." Almost everything EF has built came from people and titles with no standing in traditional sport. The pressure to close arrives together with the success, on schedule, and openness has no built-in defence.
+
+One question to chew on: which outsider group made us what we are, and where are we already quietly making it harder for the next one to get in?
+
+### 4. India passed $1 billion, and each player is worth $2 (gaming & esports industry)
+
+Niko Partners put India's 2025 games revenue at $1.04 billion, up 14.8% year on year, the first time the market has cleared a billion and the fastest-growing market they track. Their forecast runs to roughly $1.2 billion this year and $1.77 billion by 2030 on an 11.2% five-year CAGR. The player count is what stops you: 511 million in 2025, more than 550 million this year, above 700 million by 2030. ARPU is $2.04, reaching $2.52 by 2030.
+
+Two structural details matter more than the headline. The female share of Indian players went from 43% in 2023 to 49% in 2026, and non-battle-royale titles moved from 53.2% to 62.8% of mobile revenue between June 2023 and June 2026, so the market is broadening out from the BGMI monoculture. Payment rails tell the rest: 84.6% of players have paid via UPI against 31.5% by credit card, and 31.5% say they prefer buying in-game content outside the app stores. For ENC and for qualifier design, India is an audience and roster story. At $2 a head, the revenue arrives much later.
+
+One question to chew on: if India delivers 700 million players at $2.50 each, what is the actual play there, rosters, viewership, or a host bid?
+
+#### News of the day
+
+- **Riot removed its tiered licence for community League tournaments** (gaming & esports industry). On 3 August Riot replaced regional licence tiers with one global community competition licence and dropped hard caps on entry fees, sponsorship revenue, prize pools and spectator fees, with most organisers no longer needing pre-approval before running an event. Read the exclusions closely, though: government entities and state-owned organisations are carved out of the community licence, as are tourism boards and destination marketing organisations. That is precisely the category we sit in, so the liberalisation lands on the grassroots and we still go through Riot directly. [LoL Esports](https://lolesports.com/en-GB/news/lol-esports-community-competition-guidelines)
+- **TikTok Live now holds more live-streaming hours than every legacy platform combined** (gaming & esports industry). Stream Hatchet's Q2 2026 report puts TikTok Live at 50.9% of tracked watch time on 8.9 billion hours, up 3.9% on the quarter, against Twitch at 4.5 billion hours and 25.9%, and YouTube Gaming down 19.3% quarter on quarter to 1.8 billion. Inside tracked tournaments CS2 passed League of Legends on 209 million hours against 166 million, while MLBB produced the quarter's single highest peak at 2.9 million concurrents during MPL Indonesia S17. The scope is officially tracked tournaments only, so treat the esports ranking as a broadcast measure. [Dot Esports](https://dotesports.com/general/news/tiktok-live-streaming-market-share)
+- **Japan put its national athletes in an esports performance lab** (live events & immersive). The Japan Sport Council announced HPSC ESPORTS LAB on 31 July inside the Ajinomoto National Training Center East, instrumented with eye-tracking, heart-rate monitors, EEG and thermography across three zones covering competitive performance, virtual sports and athlete wellbeing. Training camps for the Aichi-Nagoya Asian Games are already running there, and director Takeshi Kukidome framed it as "high performance to high performance, high performance to life performance." A state sports institute treating esports performance as sports science is the legitimacy argument we make, arriving from a government with no commercial stake in it. [Japan Sport Council](https://www.jpnsport.go.jp/corp/Portals/0/News-Release/R8/20260731_release.pdf)
+- **SEVEN opened its first destination, in Abha** (live events & immersive). Saudi Entertainment Ventures, a wholly owned Qiddiya subsidiary, opened SEVEN Abha on 5 August, the first completed site of 14 planned destinations, inaugurated by Aseer Governor Prince Turki bin Talal. The mix runs Formula E Karting alongside SEVEN's own IP, and the site sits in the Abha airport cluster under an "arrive in Aseer before you land" pitch. First delivered asset out of a large announced programme is the credibility milestone, and it is the same milestone our own pipeline gets judged on. [Saudi Press Agency](https://www.spa.gov.sa/en/N2646665)
+- **Tripledot bought Supersonic off Unity for around $40 million** (gaming & esports industry). Mobile Gaming Today #118 has Unity selling its mobile publishing arm in the same quarter it posted revenue of $546 million, up 24% year on year and ahead of the $515 million consensus, on the back of its Vector ad platform. The same issue notes AppLovin growing 53% while shedding roughly $21 billion of market value. An engine company shedding publishing to sell ad tech is a plain statement about where the margin actually sits in mobile. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-118)
+
+**Sources (Edition #74)**
+
+- Is the Stop Killing Games campaign destined to fail? (The Game Business, 13 Aug 2026): https://www.thegamebusiness.com/p/is-the-stop-killing-games-campaign
+- Saber Interactive Unveils Schrödinger's Narrative Designer (AI and Games, 12 Aug 2026): https://www.aiandgames.com/p/saber-interactive-unveils-schrodingers
+- Peak Human by Johan Norberg, reviewed by Michael C. Munger (The Independent Review, Spring 2026): https://www.independent.org/tir/2026-spring/peak-human/
+- India's Gaming Market Surpasses $1 Billion for the First Time (Niko Partners, 11 Aug 2026): https://substack.nikopartners.com/p/indias-gaming-market-surpasses-1
+
+---
+
 ## 2026-08-12 (Edition #73)
 
 ### 1. AI is eating the tier that trains everyone else (AI x gaming)

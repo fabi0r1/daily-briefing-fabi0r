@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-15 (Edition #76)
+
+### 1. Default-on is the whole product decision (AI x gaming)
+
+Twitch put a setting in account controls on 12 August that lets a streamer block their content from training Amazon's generative AI models. It arrived already switched on for every account, with no email and no pop-up ahead of it. On a livestream answering the backlash, Twitch chief product officer Mike Minton gave the reason out loud: "if it was opt-in nobody would opt-in. That's honestly the answer." He added that almost every content service in the world is on by default. Head of community Mary Kish, on the same stream, told chat the opt-out numbers would help the team argue internally that the community wants no AI at all.
+
+The FAQ is where it gets sharper. Opting out covers your own streams, VODs, clips, chat and channel images. Chat in someone else's stream and their setting governs your words. So the individual choice cannot be enforced by the individual. We run the same shape at EWC. Player content, club content and chat all move through platforms whose defaults we do not set, and the first time a club asks us what happens to their footage, the answer needs to already exist.
+
+One question to chew on: what do our current EWC content terms let a platform partner do with player and club footage, and who at EF can answer that today without going to look it up?
+
+### 2. Amazon handed both MMOs back (gaming & esports industry)
+
+Amazon said on 12 August it stops publishing Throne and Liberty and Lost Ark. NCSOFT brings global publishing of Throne and Liberty in-house by the end of Q4 2026, working through its own studio FirstSpark Games, whose CEO Moonyoung Choi called Amazon "an excellent partner" on the way out. Lost Ark live-service operations end in early 2027 with Smilegate taking over. Both games keep running. What changes is customer support and the terms of service.
+
+Line it up with the rest of the run. Amazon ended active development on New World: Aeternum at the end of last year, shut King of Meat after 6 months, dropped an open-world racer from Maverick Games, and downscaled Luna. A company can arrive with more money than anyone else in the room and still be gone in 4 years, because publishing is a capability you build over a decade, and money buys you the start of it. Every publisher we sign is quietly running that same test on us.
+
+One question to chew on: which of our current game partners has publicly committed to esports beyond 2028, and what is the plan for the ones who have not?
+
+### 3. FACEIT now catches cheats by how you play (AI x gaming)
+
+FACEIT switched on Human Input Detection with CS2 Season 9 on 5 August. It's a machine-learning layer inside the existing anti-cheat that reads in-game inputs live and judges whether a human could plausibly have produced them. Because it reads play rather than the software behind it, it can flag methods it has never seen before. FACEIT says AI and DMA cheats made up 40% of its cheating bans in May 2026, which is the number that explains the whole project.
+
+Two design choices are worth stealing. A flag never bans on its own, it gets weighed against other anti-cheat signals first, and FACEIT deliberately sits on confirmed cheats so it can take down many accounts in one sweep before the cheat seller warns their customers. Accessibility hardware is trained in as human play rather than handled as an exception, which is the right way round. FACEIT sits inside ESL FACEIT Group, so this is our own house solving competitive integrity with a model, and the logic carries to any title where AI-assisted input gets cheap.
+
+One question to chew on: across the EWC lineup, which titles have no behavioural detection at all right now, and who at EF owns that gap?
+
+### 4. A 19-year-old got into the room by acting like he was already in it (leadership & negotiation)
+
+Patrick Radden Keefe's London Falling reconstructs the death of Zac Brettler, a 19-year-old who went into the Thames from a fifth-floor balcony in November 2019. His parents only learned afterwards that he had spent years living as Zac Ismailov, invented son of a Russian oligarch, negotiating deals from a .ru email address and writing in deliberately broken English to sell the persona. Audrey Limb's Harvard Crimson review pulls out the line the book turns on: "If you act like you are already a success, people tend to treat you like a success, which in turn can lead to real success."
+
+The uncomfortable part is that it worked for months. Grown men with real money took meetings with a teenager because nobody in that world checks. Social proof did the job diligence was supposed to do. Esports runs the same substitution constantly, where a good deck and two familiar names in a group chat open a door that no financial check was ever run on. Source note: I worked from Limb's review, published 8 May 2026. I have not read the book.
+
+One question to chew on: on the last 3 partners we signed, what did we actually verify, and what did we accept because someone credible was already vouching?
+
+#### News of the day
+
+- **Netflix closed two more studios 6 weeks after calling the numbers solid** (gaming & esports industry). On 13 August Netflix shut Los Angeles-based Night School Studio, founded in 2014 and best known for Oxenfree, and Helsinki-based Moonloot, which never shipped a game. Night School's last release, Unhinged, launched 30 June, and co-CEO Greg Peters had described its performance as "really solid numbers" on the Q2 earnings call in July, per Engadget's reporting. Netflix says games stay in the plan across kids titles, party games, narrative games and mainstream titles. A public compliment 4 weeks before a closure is a reminder to read earnings-call language as positioning. [Variety](https://variety.com/2026/gaming/news/netflix-closes-unhinged-video-game-studio-night-school-1236834103/)
+- **Love and Deepspace had its worst month ever after cancelling a character** (gaming & esports industry). Third-party gacha trackers put July revenue around $10.3 million, down from roughly $38 million in June, and out of the top 10 for the first time. The trigger was Infold pulling Valko, a sixth love interest due on 9 July, after players boycotted over stale content for existing characters, then a second wave of anger from Western players when the cancellation became permanent. Daniel Ahmad of Niko Partners publicly disputes the 73% figure circulating, putting the drop above 50% instead, so treat the exact number as contested. A live-service audience punishing a roadmap decision this hard is the risk in every content calendar we sign off. [Kotaku](https://kotaku.com/love-and-deepspace-valko-boycott-revenue-drop-2000721203)
+- **Devolver's shareholders vote on leaving the public market on 8 September** (gaming & esports industry). The general meeting needs 75% of votes cast to approve the AIM cancellation, after which shares stop trading on 15 September and the listing formally ends the next morning. Devolver's market value closed at roughly GBP 34.6 million on 5 August, the day before the announcement. An indie publisher concluding that quarterly public reporting and its release cadence do not fit together is a data point for anyone modelling esports assets as listed businesses. [PocketGamer.biz](https://www.pocketgamer.biz/devolver-digital-eyes-deal-to-take-publisher-private/)
+- **Rockstar is putting the first GTA 6 gameplay behind Netflix for 6 hours** (gaming & esports industry). Grand Theft Auto VI: An Extended Look premieres on Netflix on 27 August at 3pm ET, and reaches Rockstar's YouTube channel and website 6 hours later at 9pm ET. Netflix is calling it a first-of-its-kind partnership. Rockstar is treating a trailer as programming with a windowed release, which is exactly the question sitting on our own broadcast rights: whether a 6-hour exclusivity window is worth more than reach on day one. [Netflix Tudum](https://www.netflix.com/tudum/articles/grand-theft-auto-6-extended-first-look)
+- **Capital One re-signed its arena for another 20 years** (live events & immersive). Capital One extended naming rights on Capital One Arena in Washington, home of the Capitals and the Wizards, in a deal announced 11 August by owner Monumental Sports & Entertainment. The venue is mid-way through a redevelopment costing north of $1 billion, due for completion ahead of the 2026-27 NBA and NHL seasons, and is planned to host around 250 events a year. A 20-year naming commitment attached to a rebuild is the length of deal arena partners will sign when the annual event count is high enough, which is the argument our own venue conversations have to win. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/08/11/capital-one-arena-naming-rights-renewed-in-20-year-deal/)
+
+**Sources (Edition #76)**
+
+- Twitch Admits 'Nobody Would Opt-In' To AI Training, Here's How To Opt-Out (Forbes, Paul Tassi, 13 Aug 2026): https://www.forbes.com/sites/paultassi/2026/08/13/twitch-admits-nobody-would-opt-in-to-ai-training-heres-how-to-opt-out/
+- Amazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027 (Game Developer, 12 Aug 2026): https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027
+- Human Input Detection FAQ (FACEIT support, updated 29 Jul 2026, live 5 Aug 2026): https://support.faceit.com/hc/en-us/articles/28929483475612-Human-Input-Detection-FAQ
+- 'London Falling' Review, Audrey H. Limb (The Harvard Crimson, 8 May 2026): https://www.thecrimson.com/article/2026/5/8/london-falling-review/
+
+---
+
 ## 2026-08-14 (Edition #75)
 
 ### 1. The $50 million work-for-hire brief no longer exists (gaming & esports industry)

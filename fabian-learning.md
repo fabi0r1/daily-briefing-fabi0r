@@ -8,6 +8,157 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-18 (Edition #79)
+
+### 1. A film moved 2.4 times the copies at the same price (gaming & esports industry)
+
+Rhys Elliott at Alinea published the cleanest transmedia measurement I have seen, on 11 August. Spider-Man: Brand New Day opened in cinemas on 30 July. In under 2 weeks Marvel's Spider-Man 2 sold another 335,000 copies for $12 million across PS5 and Steam, added more than 300,000 new players through PS Plus, and passed 1 million daily players for the first time since launch week, roughly 2.6 times its pre-film engagement. Lifetime now sits at 18.3 million copies and above $1.2 billion. All Alinea estimates, so treat them as third-party numbers.
+
+The price-controlled part is what makes it usable. At the identical $29.39 PS5 sale price, February moved about 6,300 copies a day and the film window moved about 15,000, peaking at 4.5 times on the biggest day. On Steam at an identical $40.19 discount, the film window did 2.3 times what the same price did in June. Elliott's own point is that these lifts happen by accident, because nobody can sync two multi-year, multi-hundred-million-dollar productions on purpose. Our dates are fixed years ahead and public, which is the one thing a film studio cannot offer a game team.
+
+One question to chew on: for EWC 2027, which partner release could we deliberately align to our window, and who would have to agree by when?
+
+### 2. China's EV industry was built city by city (leadership & negotiation)
+
+Jordan Schneider and Irene Zhang interviewed ANU professor Fengming Lu on ChinaTalk on 17 August, about his China Journal paper with Xiao Ma on strategic alliances between local governments and private capital. Schneider's framing of the finding: the EV leapfrog came from entrepreneurs and local officials using guanxi to work around the large state-owned firms and central regulation. The starting point was tiny. China's 1990s passenger-car market ran about 500,000 units a year, which Lu compares to Poland then or Vietnam today, spread across roughly 130 carmakers, with every province except Tibet running its own. Volkswagen told Beijing that minimum efficient scale was 150,000 cars a year, and the licensing regime that followed locked the market to a short list of approved builders.
+
+Chery is the case that carries. It began as a state firm of Wuhu city in Anhui, 500 to 600 kilometres from Shanghai, assembling 3,000 to 5,000 cars a year from South Korean kit parts. Lu's puzzle is that since 2012 state firms gained ground across most of the Chinese economy, and autos, EVs and much of tech went the other way, because private firms partnered with cities rather than with the centre. Read that onto our host-market work. The counterpart with the strongest motivation is usually the city that wants the visitors, and the national body arrives later with the paperwork. Source note: I read roughly the first quarter of a long transcript, so the overcapacity and robotics sections are unread.
+
+One question to chew on: on our next host-market negotiation, are we talking to the level of government that actually wants the win?
+
+### 3. Korea is shipping prompt-to-game as a storefront feature (AI x gaming)
+
+Seoul Economic Daily reported on 13 August that ONE store is taking its dedicated "AI Games" section from 25 titles to more than 50 by the end of August, built with the AI game-creation platform Verse8. A prompt becomes a playable game in 1 to 2 minutes, and anything that passes review needs no install. Krafton is upgrading Overdare, its joint venture with Naver Z, openly aiming at a Korean Roblox, with Overdare Studio already in free early access on the Epic Games Store. Nexon shipped an MSW AI Toolkit for MapleStory Worlds, an agent trained on its own development knowledge. NC AI has VARCO 3D generating 3D assets from text or an image, and Com2uS launches an AI backend service in Q3.
+
+The line in the piece worth carrying is an industry official saying control of game development is shifting from a small number of studios to individual creators. The market anchor they cite is Roblox creator payouts going from $624 million in 2022 to around $1.5 billion in 2025, quoted from Roblox's own figures. For us this is a participation question before it is a tooling question. If a 15-year-old in Riyadh can build something playable in 2 minutes, the funnel into our competitions could start upstream of any title we license.
+
+One question to chew on: does EWC or ENC offer any path today to someone who makes games rather than plays them?
+
+### 4. The people who hid it cannot run the review (leadership & negotiation)
+
+Simon Morrison, a music historian at Princeton, wrote A Kingdom and a Village, a chronicle of Moscow. In an interview with Renata Kapilevich for Princeton's music department on 15 April 2026, he explains why Russia never audited its own past. "Germany had a reckoning after Hitler. East Germany opened the Stasi files. There was a prolonged effort to confront those crimes. Russia has never really had that. There's a deep sense of shame that's masked with pride and bellicose rhetoric." Then the mechanism: "the people who ran the communist apparatus effortlessly became the people running the capitalist apparatus… The people who might conduct that reckoning are often the same people who benefited from concealing it."
+
+His source problem transfers too. "The problem is that there was no division between fiction and fact. If you wrote something down, it acquired the status of truth," so he triangulated commissioned chronicles against foreign travellers' accounts, vernacular writing and population data. Our post-event reviews are written by the people who ran the event, and the honest ones cost those people something. Shame converts into confident rhetoric on schedule, which is why ownership of a review matters more than its template. Source note: I read the Princeton interview in full and the opening of Victoria Musvik's Literary Review review from March 2026. I have not read the book.
+
+One question to chew on: who wrote our last post-event review, and what would a version by someone with no stake in it have said differently?
+
+#### News of the day
+
+- **Roblox withdrew its full-year guidance after two quarters of falling bookings** (gaming & esports industry). Naavik's Miikka Ahonen laid out the mechanics on 16 August: 36% year-on-year revenue growth is an echo of last year, because Robux purchases get recognised over an estimated 27-month paying-user lifetime. Bookings grew 8% year on year and fell quarter on quarter, and daily users have now declined 3 quarters running. The guidance arc is the leadership story: 22 to 26% bookings growth guided in February, cut to 8 to 12% in April, withdrawn in July, with Q3 now guided to a bookings decline of 14 to 18%. Ahonen's sharpest question, after Roblox moved discovery to a 28-day retention window, is how a brand-new game ever proves it has any. [Naavik](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/)
+- **Alibaba is reported to be selling its games unit for more than $2 billion** (gaming & esports industry). PocketGamer.biz reported on 17 August, citing Reuters on an internal memo, that Alibaba will transfer its entire stake in Lingxi Games to the private equity firm Trustar Capital, with CEO Zhou Bingshu and the management team staying in place. Lingxi is best known for Three Kingdoms: Strategy Edition, developed with Koei Tecmo. The $2 billion is report level: the memo itself disclosed no value, closing date or regulatory conditions. The stated rationale, capital moving to AI and cloud, is the same sentence large partners give us when a games commitment shrinks. [PocketGamer.biz](https://www.pocketgamer.biz/alibaba-to-sell-lingxi-games-in-more-than-2bn-deal/)
+- **The gaming stock beat ran out of gaming stocks** (gaming & esports industry). Joseph Kim moved GameMakers' Pixels & Profits series to its own publication on 17 August, and the reason he gives is the finding: "Zynga, gone. EA, taken private. Ubisoft… One by one, the public gaming pure-plays left the market. What's left is essentially one name: Take-Two." Public comparables are how outside investors price our whole category, including any esports asset anyone tries to value. There is now almost nothing left to compare against. [GameMakers](https://www.gamemakers.com/p/pixels-and-profits-the-gaming-stocks)
+- **Diriyah signed a SR2 billion financing with Arab National Bank** (live events & immersive). Announced 17 August and signed by Diriyah Co. group CEO Jerry Inzerillo and ANB chief wholesale bank officer Louai Al-Zaher, the SR2 billion ($533 million) facility funds hotel-branded residences across the 14 square kilometre masterplan and Wadi Safar, against a stated target of 18,000 residential units for about 100,000 people. Diriyah says it has awarded more than SR110 billion of development contracts to date, with over 63,000 workers on site. Giga-project residential capital arriving as commercial bank debt is a signal about how the next phase of Vision 2030 delivery gets funded. [Arab News](https://www.arabnews.com/node/2654985/business-economy)
+
+**Sources (Edition #79)**
+
+- Spider-Man film halo effect, Halo: Campaign Evolved has sold 1.2M copies (The Alinea Insight, Rhys Elliott, 11 Aug 2026): https://alineaanalytics.substack.com/p/halo-campaign-evolved-has-sold-12m
+- The Rise of China's Electric Vehicle Industry, with Fengming Lu (ChinaTalk, 17 Aug 2026): https://www.chinatalk.media/p/the-rise-of-chinas-electric-vehicle
+- Korean Game Firms Race to Build the Next Roblox With AI (Seoul Economic Daily, 13 Aug 2026): https://en.sedaily.com/technology/2026/08/13/users-now-build-games-in-minutes-as-ai-enters-development
+- A Conversation with Professor Simon Morrison on the History of Moscow (Princeton University Department of Music, 15 Apr 2026): https://music.princeton.edu/about/news-stories/2026/conversation-professor-simon-morrison-history-moscow
+
+---
+
+## 2026-08-17 (Edition #78)
+
+### 1. Once you show the idea, speed is the only protection (gaming & esports industry)
+
+Simon Carless wrote up Iron Nest for GameDiscoverCo on 14 August. Two developers, Nick Talmers and Dominik Latos, just over a year of development, $20 with a $15 launch discount, and more than 250,000 copies in under 3 days at a 17,500 concurrent-player peak. Their own count 5 days in was above 365,000 copies and $4.7 million gross at a 4% refund rate, which Carless notes is well under average. The demo had already been played by 876,000 people at a median 2 hours 19 minutes.
+
+The strategic part sits next to it. PVKK, from the Dome Keeper team, announced the same core hook in June 2024 and has now slipped to 2027, and 26% of Iron Nest's wishlisters had also wishlisted PVKK. Carless: "if your initial trailer >two years ago invented a new microgenre… PVKK should probably expect other people to riff on the same concept. This is an argument to prioritize 'shipping speed' after showcasing unique ideas." We announce formats and concepts a long way ahead of delivering them, and every reveal is an invitation to whoever can move faster.
+
+One question to chew on: which EWC or ENC concept have we shown publicly and not yet shipped, and who could run it before us?
+
+### 2. Nobody owns the summit (leadership & negotiation)
+
+Bill Bishop's Sinocism on 16 August quotes a South China Morning Post exclusive on preparations for Xi's visit to Washington on 24 September. The line: "One person with knowledge of the preparations said that no US official or agency had thus far assumed responsibility for organising the visit, leaving officials on both sides largely engaged in routine preparations without clear leadership." Two people familiar with the Chinese side said the problems looked operational, logistical and optics-related, because neither side expected anything substantive out of it. Bishop's own verdict: "Having minimal expectations for his visit is the correct approach."
+
+Two mechanisms are running at once here, and both are individually rational. With no named owner, everyone defaults to routine preparation, because routine is defensible. With no expected outcome, everyone protects themselves by lowering what they promise. Together they guarantee a meeting that happens and decides nothing. We run set-piece meetings with publishers and government partners on exactly this shape, and the fix is cheap: one named owner and one decision that has to come out of the room. Note that Bishop's post cuts to a paywall part way through, so I read the free portion.
+
+One question to chew on: for the next publisher summit on our calendar, who is the single named owner, and what is the one decision it has to produce?
+
+### 3. Saber denied it, disclosed it, then apologised (AI x gaming)
+
+Game Developer ran the story on 13 August and updated it on 17 August. Stella Sacco, a veteran writer, said publicly that she was lead writer on Saber and Unigine's Rideshare and was "replaced with ChatGPT midway through development," and that the passenger voices were AI too. Saber's spokesperson denied it: no writers replaced, the story "written entirely by real people," writing staff "tripled" since 2023, and "None of our 3000+ employees have to worry about being replaced by AI." In the same response Saber confirmed the experimental free-ride mode uses AI to generate an infinite number of passengers, and the Steam page has since been updated with an AI disclosure.
+
+Then on 17 August, CEO Matt Karch apologised. Sacco said he "apologized unreservedly for the awful way he spoke about me in the press" and that he regretted escalating, and she took the apology: "Apologies are simply in too short a supply these days to spurn one when it's offered." The whole sequence, deny then disclose then apologise, ran in 4 days, and the disclosure was available on day one. Under Ralf's AI-first push, our exposure is the same shape wherever AI touches broadcast, clipping or commentary.
+
+One question to chew on: if a contractor said publicly that EF replaced their work with AI, who writes the first response, and who checks it before it goes out?
+
+### 4. In some systems the best people learn to look flat (leadership & negotiation)
+
+From Roberta Silman's review of Daniyal Mueenuddin's This Is Where the Serpent Lives, in The Arts Fuse on 26 March 2026. Mueenuddin spent his first 13 years in Lahore, went to school in the US, returned to run his father's mango farm, then went to Yale law school, and now does both. The book follows a street boy adopted by a tea-stall owner, and a head gardener's son who is spotted, promoted to farm manager, and then falls.
+
+The passage Silman quotes is the useful one. Charm, in a poor boy, is "taken as proof of loving things too much, of a corruptible mind; and so the quick ones, the ones who will get ahead, conceal themselves behind an air of servility or bumptiousness or at least a featureless impassivity." Where visible enthusiasm carries a price, the ambitious hide it, so the exact signal we use to spot talent is the signal our system trained our best people to suppress. We hire across markets where eagerness in front of a senior person costs something it does not cost in Berlin or Stockholm. If a whole tier of candidates reads as flat, that is a finding about us. Source note: I read Silman's review, which quotes the novel. I have not read the book.
+
+One question to chew on: in our last hiring round, how many people did we pass on for low energy, and what should we have asked them instead?
+
+#### News of the day
+
+- **2K opened a Vancouver studio staffed with EA Sports leadership** (gaming & esports industry). Christopher Dring reported on 17 August that 2K has launched Small Axe Studios in Vancouver, the same city as EA Sports, with a brief to build the "next blockbuster sports franchise." The named hires are all ex-EA Sports: Aaron McHardy as VP and executive producer (EA Sports FC, Madden), Gary Paterson as head of design (FIFA, NBA Live), Tom Pan on operations and Mike Thompson on engineering. It grew out of 2K Sports Lab, set up in 2023, and the FIFA-heavy roster points at football. Dring's thesis is that 2K, with Visual Concepts behind it, is the only publisher with the sports infrastructure to actually challenge EA Sports FC. The piece is partly paywalled. [The Game Business](https://www.thegamebusiness.com/p/2k-is-the-only-one-that-could-take)
+- **One month of US mobile spending, and three companies each own a different thing** (gaming & esports industry). Mobile Gaming Today #119 on 17 August carried Gamigion's study across 10,000 US games in a single month: 211 million downloads and $1.37 billion of in-app purchases, with Scopely leading revenue, Supercell leading attention and Miniclip leading acquisition. The same issue puts Dream Games at $1.5 billion revenue in 2024 and $1.7 billion in 2025 per AppMagic, and quotes Supercell saying "Mo.co isn't working at scale." These are third-party estimates. Three different definitions of winning inside one market is the same problem we have comparing a title's viewership against its participation. [Mobile Gaming Today](https://gamigion.substack.com/p/mobile-gaming-today-119)
+- **Two temporary-infrastructure suppliers merged into an 820-person group** (live events & immersive). Nussli, the Swiss temporary grandstand and stadium builder, and eps, the Munich ground-protection and crowd-control firm, announced a merger on 14 August: 820 employees across 50 locations, with Nussli group CEO Andy Böckli leading. eps runs around 5,000 events a year and Nussli around 1,500 projects, and the combined client list includes Live Nation, AEG Live, the IOC, Formula 1 and the Ryder Cup. eps CEO Tom Bilsen said clients "prefer to work with a smaller number of suppliers in order to optimise coordination." Overlay and temporary build is one of our largest event cost lines, and the supply side is consolidating. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/08/14/nussli-eps-join-forces/)
+- **Disney named its villains land and put a Maleficent coaster in it** (live events & immersive). At D23 over 15 and 16 August, Disney confirmed Villains Land at Magic Kingdom, with a roller coaster running through enchanted briar around Maleficent's fortress and a dark ride hosted by the Magic Mirror from Snow White. Caroline May, executive creative director at Walt Disney Imagineering, said it lets the park "expand the park's storytelling in a way that feels both fresh and true to its legacy and fairytale roots." The same wave announced a Monsters Inc land at Hollywood Studios for 2027 and a Tomorrowland reimagining at Disneyland. Announcing IP-led builds years before opening is the same reveal-to-delivery gap as lesson 1, run by people who are comfortable with it. [blooloop](https://blooloop.com/news/disney-world-villains-land-rides)
+
+**Sources (Edition #78)**
+
+- How Iron Nest sold >250k copies in less than 3 days (GameDiscoverCo, Simon Carless, 14 Aug 2026): https://newsletter.gamediscover.co/p/how-iron-nest-sold-250k-copies-in
+- "Beidaihe Break" is over; Jiang Zemin's 100th; RIP Zhu Rongji; US-China (Sinocism, Bill Bishop, 16 Aug 2026): https://sinocism.com/p/beidaihe-break-is-over-jiang-zemins
+- Saber Interactive CEO apologizes to former employee over AI replacement dispute (Game Developer, 13 Aug 2026, updated 17 Aug): https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-
+- This Is Where the Serpent Lives by Daniyal Mueenuddin, reviewed by Roberta Silman (The Arts Fuse, 26 Mar 2026): https://artsfuse.org/326398/book-review-this-is-where-the-serpent-lives-from-favorite-to-felon/
+
+---
+
+## 2026-08-16 (Edition #77)
+
+### 1. Half of DeepSeek's working week is nobody's decision (leadership & negotiation)
+
+Minutes of a four-hour meeting between DeepSeek CEO Liang Wenfeng and investors leaked in late July, and Irene Zhang worked through them for ChinaTalk on 13 August. The management rule inside them: tasks that come from centrally, collectively decided goals are capped at no more than half of an employee's time at work. The other half is self-directed and gets funded as long as compute is available. Researchers rarely work overtime. Liang has said separately, in The Economist on 19 July, that he thinks a person can concentrate 6 to 8 hours a day.
+
+His enforcement mechanism is saying no, which is why they deliberately left many existing products unimproved, and why the lab considered shutting its consumer apps last year for lack of attention. The commercial cover for all of this is enterprise API revenue, running into the hundreds of millions of dollars this year by his own account, on top of DeepSeek's February 2025 figure of $562,027 a day from the R1 API at a 545% margin. The reason this is not just a research-lab curiosity: our calendars are close to 100% mandatory, and Ralf's AI-first push needs the half of the week that is not booked. There is also a coda worth knowing. When the minutes leaked, Liang reportedly paused a funding round and pushed back IPO plans.
+
+One question to chew on: what share of a Games team week is genuinely self-directed today, and would I keep funding it through a quarter that produced nothing?
+
+### 2. A 3% retention rate is now a viable business model (gaming & esports industry)
+
+Tim Shepherd wrote up "friendslop" for Naavik on 9 August: cheap co-op games at $6 to $10 that spread because friends buy them together. Meccha Chameleon, 2 developers and 2 months of work, sold 15 million copies in 26 days. RV There Yet? skipped Early Access entirely, shipped with stability problems players openly said belonged in Early Access, and still sold more than 1 million copies in week one. Dear Passengers took 700,000 wishlists in 36 hours off a Steam page and a trailer, and 1.5 million in 5 days. 61% of Peak's players also played R.E.P.O.
+
+Now the number that reframes the category. These titles average roughly 3% thirty-day retention per AppMagic, which would get most live-service games cancelled, because essentially all the revenue arrives at launch through social contagion and nothing is spent on keeping people. Shepherd's argument is that this competes directly with AAA live-ops teams carrying far higher operating costs for the same players. He also notes the financing consequence: these teams fit project financing against revenue share rather than equity. We judge our formats on returning audience, and this is a case for a second category that is worth having for 3 weeks.
+
+One question to chew on: which EWC title or format would we drop for weak retention that might actually be a launch-window asset?
+
+### 3. Players are poisoning the AI that answers questions about their game (AI x gaming)
+
+Tommy Thompson reported in AI and Games on 12 August that The Duskbloods community has been writing fake boss guides specifically to poison LLM search results. The mechanism is worth understanding on its own. A model's answer about a game is assembled from whatever is indexed about it, so a community that wants discovery to stay social and spoiler-free can make the machine-readable layer unreliable on purpose. It is a cheap, coordinated attack on a surface nobody at the publisher owns. Source note: I have Thompson's report of this, and I have not verified the individual posts myself.
+
+The read for us runs the other way round. Under the AI-first push we mostly think about AI as a tool we use, and this is AI as a surface we get described on. Our rules, qualification paths, formats, schedules and results are already being summarised to fans by models, from whatever they can find. Where our own layer is thin, somebody else's version becomes the answer, and it does not have to be hostile to be wrong.
+
+One question to chew on: if a fan asks a chatbot how EWC qualification works, who at EF has actually read the answer this month?
+
+### 4. Copying the shape of a good institution is the cheapest way to look capable (leadership & negotiation)
+
+Lant Pritchett, Michael Woolcock and Matt Andrews wrote "Looking Like a State" for Harvard's Center for International Development in 2012, later published in the Journal of Development Studies. They name two techniques of persistent failure. Isomorphic mimicry is adopting the outward forms of functional organisations elsewhere "to camouflage a persistent lack of function." Premature load bearing is putting unrealistic expectations on a young system, which undercuts the learning and the political support it needed to grow. Their Solomon Islands example: a state-of-the-art courthouse used twice in its first year and a jail with a handful of inmates, while a backlog of 800 cases kept rising. In Mozambique, the donor-defined scores for changes in form averaged a B while the scores for actual implementation averaged a C, and line-ministry officials told the researchers they were never asked what system they needed.
+
+The third failure mode is the one that stings. Cocooning a project to protect it produces, in their words, "long strings of demonstrably successful projects while a sector itself never improves." Our flagship works. The machinery underneath it, year-round competition, club economics, national bodies, is younger than the flagship and carries the load only during the show. Flag: the paper is from 2012, so read the country data as a snapshot of then and the concepts as durable.
+
+One question to chew on: which EF capability currently exists mainly as a document and an org chart, and would break if we doubled the load on it next season?
+
+#### News of the day
+
+- **Nexon posted a record half-year and its leadership called this the hardest market in 30 years** (gaming & esports industry). H1 2026 sales came in at ¥273.3 billion, up 17% year on year, with operating profit of ¥89.4 billion and net profit more than doubling, all half-year records. Q2 operating profit still fell 17% to ¥31.3 billion. Arc Raiders has passed 16.3 million units in 9 months and MapleStory Worlds grew 123% in the quarter. On the call, Patrick Söderlund, described in the report as chairman, said the industry is in its hardest stretch in about 30 years, with cancelled projects, closed studios and tens of thousands of developers out of work, and that Nexon will focus more on cost management. The named cost lever is AI for repetitive work such as pixel art. [Seoul Economic Daily](https://en.sedaily.com/technology/2026/08/13/nexon-posts-record-first-half-sales-on-maplestory-arc)
+- **Apple proposed a 15% link-out fee and asked for settlement talks Epic would not join** (gaming & esports industry). In a filing reported on 14 August, Apple set out tiers of 15% for standard apps, 10% for subscription renewals and certain partner programmes, and 5% for small business apps. It approached Epic's lawyers on 11 August about a settlement conference before Magistrate Judge Joseph C. Spero, and Epic did not consent. Epic's public line is that Apple "admitted that under the Ninth Circuit's definition of 'necessary costs' they would charge 0% for purchases made via linkouts to the web." Epic has roughly 60 days to file its opposition. Every percentage point here sets the price of reaching an audience outside a platform's own rails. [PocketGamer.biz](https://www.pocketgamer.biz/apple-proposes-15-us-link-out-fee-as-it-seeks-settlement-talks-with-epic-games/)
+- **CD Projekt cut 9 people from its Witcher multiplayer project** (gaming & esports industry). Reported on 13 August: 4 in Boston and 5 in Poland, all on the game codenamed Project Sirius, with another 9 invited into internal recruitment for other projects. The company line is that it "adjusted the size of the Sirius team to reflect the project's needs at this stage of development." The team went from 71 developers in February to 83 on 30 April and back to roughly 65 now, against 1,300 staff globally and 513 people on The Witcher 4. A project that keeps resizing while the flagship grows is a decision being made slowly in public. [Game Developer](https://www.gamedeveloper.com/business/report-cd-projekt-red-has-laid-off-some-project-sirius-developers)
+- **Vingroup put a 135,000-seat stadium at the centre of a Hanoi sports city** (live events & immersive). The masterplan revealed on 14 August covers more than 400 hectares inside the far larger Hanoi International Sports City project, with the 135,000-seat VinFast Trong Dong Stadium as centrepiece, construction started in late 2025 and completion projected for July 2027. Around it: a 40,000-seat Olympic stadium, a 12,000-seat arena, an aquatic centre and a 40-hectare racket-sports facility with 300 courts. The headline investment figure of VND925 trillion is a reported number for the wider project, not an audited one. The whole thing is positioned for Asian Games, World Cup and Olympic bids, which is the same bid-readiness argument host cities now make to us. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/08/14/vision-revealed-for-hung-vuong-international-sports-complex/)
+- **Marvel Tokon sold 485,000 copies in a week and the PC port capped it** (gaming & esports industry). Alinea estimates 485,000 copies and $33 million in week one at $50, split 74% PS5 and 26% Steam. The Steam version launched into performance problems, bugs and intrusive DRM, and sits under 50% positive, with only 19% positive among players who put in less than an hour, which reads as refunds. Around 75% of players are North American. The IP point is the sharp one: 60% of players have played Spider-Man: Miles Morales and 53% Marvel Rivals, while Riot's free-to-play 2XKO has pulled about 1 million PS5 players after roughly 80 layoffs on that team in February. A fighting game with the right IP outsold a free one without it. [The Alinea Insight](https://alineaanalytics.substack.com/p/marvel-tokon-sells-485k-copies-on)
+
+**Sources (Edition #77)**
+
+- The DeepSeek Thesis, Irene Zhang (ChinaTalk, 13 Aug 2026): https://www.chinatalk.media/p/the-deepseek-thesis
+- Friendslop: Disrupting the Live-ops Status Quo, Tim Shepherd (Naavik, 9 Aug 2026): https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/
+- Saber Interactive Unveils Schrödinger's Narrative Designer (AI and Games, Tommy Thompson, 12 Aug 2026): https://www.aiandgames.com/p/saber-interactive-unveils-schrodingers
+- Looking Like a State: Techniques of Persistent Failure in State Capability for Implementation, Pritchett, Woolcock and Andrews (Harvard CID Working Paper 239, 2012): https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/faculty-working-papers/239_PritchettWoolcockAndrews_Looking_like_a_state_final.pdf
+
+---
+
 ## 2026-08-15 (Edition #76)
 
 ### 1. Default-on is the whole product decision (AI x gaming)

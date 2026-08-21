@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-21 (Edition #82)
+
+### 1. AI grew the pool of Steam developers and left the odds alone (AI x gaming)
+
+Sulka Haro published part 2 of his Steam census on 13 July, same corpus of roughly 53,600 releases from mid-2023 to mid-2026, now with developer, publisher, rating, price and genre scraped off every store page. The cleanest finding is about who arrives. The flow of people publishing a first non-AI game has been flat, slightly declining, at roughly 950 a month for 2 years. AI-debuting newcomers went from about 140 to about 440 a month. All of the net growth in new Steam developers is AI. Take AI out and the influx of new creators is flat.
+
+The part that should sting is the missing learning curve. Comparing an AI developer's first game to their later ones, the commercial success rate is flat to down (9% to 7%) and the rating barely moves (78% to 80%). Repeat AI developers ship a bigger catalogue at the same hit rate. Two more cuts worth holding: the rating penalty widens with price, 3 points in the cheap tier and 8 points at $20 and above, so players shrug at a $3 AI game and resent a premium one. And by mid-2026 AI is 37% of releases while sitting at roughly 11% of each month's 100 biggest games. Haro's own caveat is that revenue is a Boxleiter estimate, order of magnitude only.
+
+One question to chew on: which of our AI investments have we actually measured for a learning curve, and what evidence would show us one?
+
+### 2. Tencent sorts its partners into three tiers, and the tier decides everything (gaming & esports industry)
+
+Tencent's Q2 disclosure, reported by Doohyun Lee at Inven Global on 12 August, includes a slide sorting its games relationships into three named tiers. In-house Studios, where Tencent holds management control: TiMi, LIGHTSPEED, MoreFun and Aurora, plus Riot Games, Supercell, Miniclip and Techland. Emerging Studios: FromSoftware, Game Science, KRAFTON and SHIFT UP. Category Leading Partners: Capcom, EA, Ubisoft, Square Enix, Take-Two and Nexon.
+
+The tier is really a record of how the relationship began. Tencent was in early with the Emerging Studios and grew alongside them, and PUBG went mobile with LIGHTSPEED and runs in China as Game for Peace. The Category Leading Partners handed established IP over to be operated, and in April Tencent took full authority for the Chinese service of Dungeon & Fighter Mobile, which it had previously run jointly with Nexon's NeoPle. Same logos on one slide, very different amounts of control. Every publisher we work with keeps a private version of this slide with EF somewhere on it, and we have never seen ours.
+
+One question to chew on: for each of our Game Partners, are we a partner they are building with or an account they are servicing, and what evidence do we have either way?
+
+### 3. Night is a separate design brief (live events & immersive)
+
+Mohsen Saraji, founder of the destination consultancy SARAAJ, argued on blooloop on 19 August that entertainment destinations treat darkness as an extension of the day and lose most of the available value doing it. His observation from projects: after sunset people walk more slowly, conversation and food take a bigger share of the visit, performances gather spontaneous audiences. A route that is pure circulation at 3pm can become a place to linger at 9pm. Architecture loses its daytime hierarchy, and light decides what deserves attention.
+
+The practical point is about sequence in the design process. If the daytime environment is fully resolved first and the night is expected to emerge later from a lighting package, the decisions that mattered were already taken. He names Six Flags Qiddiya City as a visible case and makes the regional argument: across Middle East cities public life intensifies after sunset, so for many audiences the evening visit is the preferred visit rather than a shorter version of the day. Then he offers a test worth stealing. "If the sun never set, what part of this experience would stop making sense?" If the answer is nothing, the night was never designed.
+
+One question to chew on: run that test on the EWC festival site. What on our ground only makes sense after dark?
+
+### 4. The story he told in the car outlasted everything else (leadership & negotiation)
+
+Ann Patchett's Whistler came out on 2 June from Harper. Ellen Birkett Morris reviewed it for the Southern Review of Books. Daphne Fuller and her stepfather Eddie Triplett meet by chance at the Metropolitan Museum roughly 45 years after a car accident that ended Eddie's marriage to Daphne's mother. Daphne was 9 at the time and has spent her life blaming herself for the divorce.
+
+The detail worth keeping is what Eddie did while they were stranded. The car had gone down a hillside and landed on its side in the cold with little chance of rescue, and he told her a story about a woman thrown off a horse named Whistler and the ghosts that visited her before she was found. Decades later Daphne raises it: "I thought about that woman and her horse for a long time after you left, and I wondered if maybe you'd told me the story because you were leaving and you wanted me to know you'd come back for me, which, of course, you did." He answers, "Only it took me considerably longer than you thought it might." A story told in the worst hour carried a promise she held for 45 years. Source note: I read the review, not the novel.
+
+One question to chew on: when things went wrong this year, what did I actually give my team to hold onto?
+
+#### News of the day
+
+- **The US Senate opened an investigation into Roblox child safety** (gaming & esports industry). Senators Josh Hawley and Dick Durbin wrote to CEO David Baszucki on 12 August, released 13 August, informing him that the Judiciary Subcommittee on Crime and Counterterrorism has opened an investigation and directing Roblox to preserve all records connected to child safety, abuse, bullying and financial exploitation, with documents due 31 August. Their figure: Roblox reported 65,381 instances of suspected child sexual exploitation to the National Center for Missing & Exploited Children in 2025, more than double its 2024 number. They close with "children on your platform are hurting. Congress will not look the other way." Any youth-facing programme we run on a third-party platform inherits that platform's risk profile, and Roblox is where a large part of our future audience already spends its time. [Office of Senator Josh Hawley](https://www.hawley.senate.gov/hawley-durbin-launch-investigation-into-child-sexual-abuse-on-roblox/)
+- **Sony is rebooting Horizon Hunters Gathering after bad playtests** (gaming & esports industry). Jason Schreier reported for Bloomberg on 19 August that Guerrilla has been reworking the game since June, stripping out the live-service elements and rebuilding it as a traditional co-op game with a story mode and a "far smaller" scope. Staff were told they have until December to impress executives, and many are moving to a second project that also gets judged in December. People familiar with the matter told Bloomberg that Sony's attempts to turn single-player franchises into multiplayer games have "burned through hundreds of millions of dollars and years of development time." Killing the expensive version of an idea after a playtest is the cheap move, and it is still the one most organisations delay. [Gematsu](https://www.gematsu.com/2026/08/bloomberg-horizon-hunters-gathering-being-rebooted-following-negative-player-feedback)
+- **Gamescom sold out its entire floor for the first time in 18 editions** (live events & immersive). Koelnmesse and game, the German games industry association, confirmed on 18 August that all 233,000 square metres are claimed, with more than 1,600 exhibitors from 67 countries and 47 country pavilions covering 40 nations. Gamescom director Tim Endres says hall expansion for 2027 is under discussion. With E3 closed since December 2023, western trade-show demand has funnelled into one venue and hit a physical ceiling. Worth tracking, because those exhibitor budgets are the same ones our own moments compete for. [Tech Times](https://www.techtimes.com/articles/324874/20260818/gamescom-2026-first-ever-sold-out-floor-full-schedule-where-watch.htm)
+- **Tekken 8's game director joined Harada's SNK-owned studio** (gaming & esports industry). Kohei Ikeda left Bandai Namco in June after 20 years and has joined VS Studio, reuniting with Katsuhiro Harada and Yuichi Yonemori. Three of the most senior names on the Tekken series now sit inside one independent studio backed by SNK, and nobody has said what they are building. Fighting-game design and competitive-balance talent concentrating outside the incumbent publisher is a development to watch for our fighting-game titles. [Automaton West](https://automaton-media.com/en/news/former-tekken-8-director-kohei-ikeda-joins-katsuhiro-haradas-vs-studio-following-departure-from-bandai-namco-studios/)
+
+**Sources (Edition #82)**
+
+- AI flagged games on Steam, Part 2, Sulka Haro (fragwyz, 13 Jul 2026): https://fragwyz.substack.com/p/ai-on-steam-part-2
+- Tencent Classifies KRAFTON as 'Emerging Studio' and Nexon as 'Category Leading Partner', Doohyun "Biit" Lee (Inven Global, 12 Aug 2026): https://www.invenglobal.com/articles/24732/tencent-classifies-krafton-as-emerging-studio-and-nexon-as-category-leading-partner
+- Night is a separate design brief, Mohsen Saraji (blooloop, 19 Aug 2026): https://blooloop.com/opinion/nighttime-destination-design
+- "Whistler": A Story of Love and Impermanence, Ellen Birkett Morris (Southern Review of Books, 2 Jun 2026): https://southernreviewofbooks.com/2026/06/02/whistler-ann-patchett-review/
+
+---
+
 ## 2026-08-20 (Edition #81)
 
 ### 1. Sony made PSSR better by giving the AI less to do (AI x gaming)

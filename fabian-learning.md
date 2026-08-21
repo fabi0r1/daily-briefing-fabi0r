@@ -8,6 +8,108 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-20 (Edition #81)
+
+### 1. Sony made PSSR better by giving the AI less to do (AI x gaming)
+
+Tommy Thompson walked through Sony's SIGGRAPH presentation on PSSR yesterday. PSSR is PlayStation's own AI upscaler, the console-locked equivalent of Nvidia's DLSS and AMD's FSR: render the frame at a lower resolution, then reconstruct it sharper and larger. Version 1.0 shipped with the PS5 Pro in 2024 and roughly 100 titles now support it. It ran on one convolutional neural network, a Colour Prediction Network, doing upscaling, anti-aliasing, temporal blending and final pixel colour all inside the same model. It struggled with smoke, translucent materials and shifting light, where low-resolution temporal data turned into visible jitter around edges.
+
+Principal software engineer Daniel Craig's fix was to take work away from the model. The reconstruction mathematics went back to the GPU, which was always faster at that arithmetic. The network was swapped for a Kernel Predicting Network that only calculates blend weights and hands them on. Less noise, finer detail, cheaper to train, and the model now spends its capacity on the one thing it is uniquely good at, which is generalising over temporal and spatial data. Under Ralf's AI-first push, the pattern is worth copying. The win came from subtraction, and it took 2 years of shipping v1.0 to see where the line should sit.
+
+One question to chew on: which of our AI workflows is currently doing a job an ordinary tool would do better?
+
+### 2. The destination starts before you land (live events & immersive)
+
+Seven Abha opened on 5 August, the first completed project from Saudi Entertainment Ventures, a wholly owned subsidiary of Qiddiya Investment Company. The Saudi Press Agency release puts it inside Seven's plan for 14 entertainment destinations across the Kingdom. Trade coverage puts the wider programme at SAR 50 billion and 21 destinations across those 14 cities, with Construction Week Saudi citing roughly $350 million for the Abha site. Both of those are press figures, so treat them accordingly. Chairman Abdullah Al Dawood called the opening "a defining milestone in the company's journey."
+
+The design choice is the transferable part. The site sits inside the Abha International Airport cluster, and the release sells that deliberately: "You arrive in Aseer before you land." The launch ran as a week of activations across the city first, then 5 themed days inside the venue, from Aseer Roots on heritage and crafts to Makers of the Peaks for local entrepreneurs and Aseer Nights to close. They scoped the arrival journey and the surrounding city as part of the product. Our festival sites have the same shape, and the stretch between the airport and the venue gate is usually where the experience goes flat.
+
+One question to chew on: what does an EWC ticket holder actually see between the plane door and the venue gate, and who owns that?
+
+### 3. Google Play now carries a rival to Google Play (gaming & esports industry)
+
+On 10 August, Aptoide became the first competing Android app store distributed through Google Play in the US. Sarah Perez reported it for TechCrunch. The Portugal-based store carries more than 40,000 apps for roughly 25 million monthly active users, and the US has been its largest market, even though users had to sideload it until now.
+
+The clock on it is the thing to hold. Epic sued Google in 2020, a jury found for Epic in 2023, Google lost its appeal in July 2025, and Judge James Donato's orders forced the opening. As of 22 June 2026 Google runs a Play Catalog Access Program that lets an approved third-party store reach Play's own catalogue while staying independent, and back in March Google settled with Epic and cut Play commissions to 20%. Six years from filing to a rival store sitting inside the Play listing. That is the real speed at which platform terms move, and it is the speed to assume for anything of ours that depends on someone else's store, storefront or rails.
+
+One question to chew on: which EWC or ENC commercial assumption breaks if a platform changes its distribution rules inside the next 3 years?
+
+### 4. He wrote in the language that had excluded him (leadership & negotiation)
+
+Anton Shammas grew up in Fassuta, a Christian Arab village in Galilee, and published Arabesques in 1986, the first major book written in Hebrew by an Arab writer. Ratik Asokan's Yale Review essay on the NYRB reissue carries the origin story. At 12, newly moved to Haifa and sent out to buy toasted sunflower seeds, Shammas was asked "In melakh o blee melakh?" and was struck dumb. He had only survival Hebrew. Another Arab child stepped in to translate, then told the story around the neighbourhood. He set out to master the language after that, and later called it his "stepmother tongue."
+
+He had drafted the first chapter in Arabic a decade earlier and shelved it. Returning in 1982, he typed it in Hebrew, partly to reach a Jewish readership and partly to claim standing inside the language itself. He told Gerald Marzorati the novel was his "identity card." The line I keep coming back to is his own reading of the book's two halves: "The storyteller's world revolves around memory; the novelist's around imagination." Memory hands you what was already settled. Imagination is where you get to settle it. Source note: I read Asokan's essay in full, not the novel, and the political argument around the book is contested, so I have left that out.
+
+One question to chew on: in which room are we still speaking survival-level language, and what would fluency there be worth?
+
+#### News of the day
+
+- **Microsoft has more AI chips than places to plug them in** (AI x gaming). A Guardian investigation on 17 August, built on internal documents it says it has seen, reports Microsoft has about 2.2 million AI chips installed worldwide against a target of 1.8 million by the end of 2024, inside a roughly $280 billion expansion. The Guardian's read is that the binding constraint is powered datacentre space and construction, which is also the line Satya Nadella has taken publicly. Microsoft disputed the calculations without saying which numbers it thinks are wrong. Compute you own and cannot switch on is a useful thing to remember before signing any AI capacity commitment. [The Guardian](https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips)
+- **AI 3D models are 17.6% of uploads and 1.1% of revenue** (AI x gaming). CGTrader's 2026 market trends report puts AI-flagged uploads at 17.6% of everything added to the marketplace, 2.6% of sales and 1.1% of revenue. Their own customer survey says why: the assets usually need manual work before they are usable. I have not read the full report, only the headline splits, so check it before quoting the numbers onward. The gap between supply and demand is the number to watch, because it is the same gap we would see if we opened an AI asset pipeline tomorrow. [CGTrader](https://www.cgtrader.com/discover/3d-market-trends)
+- **Three Unreal Engine veterans are building an engine designed for AI agents to extend** (AI x gaming). Arjan Brussee, Sjoerd De Jong and Michal Valient, with 8 and 12 years at Epic between the first two, started Immens in April to attack what they call the industry's doom cycle of rising development cost. The pitch sits away from prompt-to-content generation. They are architecting the engine so AI can reason about its code, data and tools, letting small teams add custom systems and editors with less overhead. A proof-of-concept demo is promised this month, so the claim gets tested quickly. [GamesIndustry.biz](https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle)
+- **Uncharted's dynamic difficulty existed to stop you finishing in 5 hours** (gaming & esports industry). Ben Russell, formerly of Naughty Dog, told FRVR that the first Uncharted's adaptive difficulty was built to lengthen the game, because by the time it came together a good player could burn through it in about 5 hours. His description: "it's all time-based. We would do a bunch of focus tests and we would grab the average times per encounter. If you beat a combat encounter faster than the average that we had, we would start cranking the difficulty." A famous design system that was really a pricing decision wearing a design costume. [FRVR](https://frvr.com/blog/we-cant-charge-60-bucks-for-a-five-hour-game-with-no-multiplayer-uncharted-designer-explains-how-dynamic-difficulty-was-designed-to-lengthen-the-game/)
+- **Germany's games workforce sits at 12,235 people** (gaming & esports industry). GamesMarket's 19 August daily puts employment at German game developers and publishers at 12,235 for 2026. The same issue reports Assassin's Creed Black Flag Resynced passed 200,000 copies in Germany in its first month after a July release, earning Ubisoft a Platinum game Sales Award. Worth holding as context for how small the German development base is relative to the size of its consumer market. [GamesMarket](https://www.gamesmarket.global/gamesmarket-daily-19-august-2026-game-sales-award-tufuur-wienke-xbox-wings-publishing-apple-eu-more/)
+
+**Sources (Edition #81)**
+
+- A Deeper Look at PlayStation 5 Pro's Updated PSSR, Tommy Thompson (AI and Games, 19 Aug 2026): https://www.aiandgames.com/p/a-deeper-look-at-playstation-5-pros
+- SEVEN Announces Opening of First Entertainment Destination in Abha (Saudi Press Agency, 3 Aug 2026): https://www.spa.gov.sa/en/N2646665
+- 18 Extraordinary Experiences Open Now & Coming Soon: August 2026, Lucy Shaw (World Experience Organization, 2 Aug 2026): https://worldxo.org/18-extraordinary-experiences-open-now-coming-soon-august-2026/
+- Aptoide becomes the first rival app store to return to Google Play in the US, Sarah Perez (TechCrunch, 10 Aug 2026): https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/
+- On Anton Shammas's "Arabesques", Ratik Asokan (The Yale Review): https://yalereview.org/article/ratik-asokan-shammas-on-arabesques
+
+---
+
+## 2026-08-19 (Edition #80)
+
+### 1. A third of Steam launches disclose AI, and they convert at half the rate (AI x gaming)
+
+Sulka Haro, CEO of Mainframe Industries and once Habbo Hotel's lead designer, published a full census of 53,597 Steam releases from July 2023 to July 2026 on 13 July. Every Games-category release, checked for Valve's AI disclosure flag. By mid-2026 roughly 1 in 3 new Steam games carries a genuine at-submission disclosure. AI-flagged launches went from about 13 a month before the mandate to about 530, while non-AI launches moved from about 1,030 to about 1,320. Between 60 and 90% of the growth in monthly Steam releases is AI-flagged games.
+
+The per-game number is the one to hold. Comparing AI to non-AI inside the same launch month, an AI-flagged game reaches a modest-success tier (100 or more reviews, roughly 3,000 sales) at about 55% of the non-AI rate, and that ratio has not moved in 2 years. AI's share of sales did grow, from roughly 3 to 6% in 2024 to 10 to 27% across late 2025 and 2026, still under its ~33% share of launches. Revenue here uses the Boxleiter estimate (units ≈ reviews × 30), so treat it as order-of-magnitude. The texture is sharper than the headline: 72% of flopped AI games disclose AI art against 57% of the successes, while the successes are 3 times more likely to disclose AI voice (24% against 8%) and localisation (18% against 6%). Under Ralf's AI-first push, that is the signal worth acting on. The wins came from AI opening a capability the team did not have.
+
+One question to chew on: which EF output could AI put into 12 more languages, rather than simply produce faster?
+
+### 2. Ask how many other games are in the room (gaming & esports industry)
+
+Simon Carless published 5 questions to ask before putting a game into a streaming showcase, on 11 August. Start with the count. PC Gaming Show and Future Games Show have run up to 80 games, with recent editions closer to 60 to 70. Galaxies lands around 50, The Game Awards and Summer Game Fest about 50, the Triple-I Initiative 35 to 40. His parenthetical: "Less is probably marginally better?" GameDiscoverCo tracks 385 showcases in total, 68 of them in its top tier since July 2024, with inclusion costs running from roughly $1,000 to, in his words, "many hundreds of thousands of dollars."
+
+Two of the 5 questions transfer straight onto our own set pieces. What share of the running order is a genuine first reveal, because "Showcases need hot reveals, otherwise the audience will rebel", and how long the whole thing runs, since players now prefer shorter and sharper after at least one 3.5-hour show. Carless also thinks the format may be heading for oversupply, because the mechanical barrier to gathering games and running a stream is very low. Our announcement moments sit inside the same attention window as those 385, with one difference in our favour: we set the running order and the length ourselves.
+
+One question to chew on: on our next EWC or ENC announcement stream, how many items are on the run of show, and how many of them are true first reveals?
+
+### 3. The technology bet nobody audits (gaming & esports industry)
+
+Joost van Dreunen worked through Ubisoft's 2025-26 annual report for SuperJoost Playlist on 15 July. A decade of revenue sitting between $1.7 and $3 billion without really growing, then a $1.98 billion loss, larger than any profit the company booked across that entire stretch. Peak headcount of 20,665 in 2022 is now 16,590, roughly 20% down, with 1,200 positions cut since 2025, 6 titles cancelled, 2 studios closed, and Tencent asked to cover debt in exchange for partial ownership of the best IP.
+
+Then the technology ledger, which nobody wrote down. Guillemot backed VR in 2016, sat in the front row at Google's Stadia keynote in 2019, spent an estimated $100 million on the cloud rights Microsoft was forced to shed for the Activision deal, called the metaverse "the industrial revolution of tomorrow" in 2021, called blockchain one of the industry's revolutions, and in late 2025 called generative AI "as big a revolution for our industry as the shift to 3D". Those cloud rights now sit on the balance sheet at a gross $79 million, impaired to a net $36 million, with a further $19 million of goodwill written off. Van Dreunen's line is the transferable one: "Technology deserves to be scrutinized with the same vigor that executives use to make job cuts." People are the most expensive line item and the easiest to cut. A wrong platform call made years earlier is harder to unwind, and it almost never draws the same scrutiny.
+
+One question to chew on: which technology commitment are we carrying that has never been through a review as hard as a headcount review?
+
+### 4. The nurse's phone made the son honest (leadership & negotiation)
+
+Ben Lerner's Transcription runs 144 pages in three parts, each named for a hotel. Joan Gaylord reviewed it for The Christian Science Monitor on 12 May. An unnamed narrator travels to Providence to interview Thomas, his former mentor and a world-renowned intellectual, destroys his phone on the way, keeps the meeting anyway with no recording, and years later admits at a conference in Madrid that he reconstructed the conversation from memory. The admission draws stern rebukes, including from Thomas's son Max.
+
+The passage that transfers sits elsewhere in the book. During the COVID lockdown, a nurse propped her own cellphone against the hospitalised Thomas's ear so Max could speak to him, and Max said honest things he had never told his father. When Thomas recovered and the two met in person, Max could not speak with the same honesty. Gaylord leaves the question open: was it the desperate circumstances, or the degree of separation the phone provided? Read that onto how we collect hard truths. The channel sets what people are willing to say, which makes a written round, a call, and a room 3 different instruments rather than 3 formats of the same one. Source note: I read Gaylord's review in full. I have not read the book.
+
+One question to chew on: which meeting on our calendar is the wrong channel for the thing we actually need to hear in it?
+
+#### News of the day
+
+- **Perforce's annual survey puts job insecurity at the top of the AI worry list** (AI x gaming). Released on 18 August with AWS, built on a global survey of more than 600 practitioners across game development, media and entertainment, and automotive and manufacturing. Job insecurity leads AI-related concerns worldwide at 50%, ahead of content quality at 49%, compliance at 48% and reduced creativity at 36%, while 48% of media and entertainment respondents saw productivity climb 11 to 50% after adopting AI. Version control adoption hit 94%, up from 86% in 2025, and hybrid cloud-and-on-premises server setups nearly tripled to 27% from 10%. Brent Schiestl of Perforce: "AI is making teams faster, but faster doesn't necessarily mean better." Only section one is published so far, so the AI breakouts are still to come. [PR Newswire](https://www.prnewswire.com/news-releases/perforce-survey-finds-ai-productivity-gains-shadowed-by-compliance-concerns-and-job-security-302853652.html)
+- **Xbox fell 11% across FY26 and Blizzard finished as its top-performing studio** (gaming & esports industry). Jez Corden published leaked internal emails on 9 August, which Windows Central says it verified, from Blizzard president Johanna Faries: "In FY26 Blizzard ended the year as the top-performing studio in Xbox's studios division, and this past year has marked our third highest fiscal for top line revenue in Blizzard's history." Faries wrote that FY25 and FY26 were Blizzard's first back-to-back growth years since FY17, with Diablo 4: Lord of Hatred and Overwatch driving it and Overwatch posting its strongest quarter since 2022. That sits against Xbox reportedly seeking cuts of thousands of staff over the next 12 months, with BlizzCon in Anaheim on 12 September. Microsoft has not published these studio-level figures itself. [Windows Central](https://www.windowscentral.com/gaming/blizzard/blizzard-is-now-xboxs-top-performing-studio-as-the-division-ends-fy26-over-delivering-on-microsofts-projections-per-internal-emails)
+- **Mattel built a games studio pointed at Roblox and Fortnite instead of Steam** (gaming & esports industry). Announced on 14 August, Mattel Game Studios grows out of Mattel163, the NetEase joint venture Mattel took full control of earlier this year, and will run the self-published mobile portfolio plus "original experiences on creator platforms such as Roblox and Fortnite". Uno Wild is in mobile soft launch and a Hot Wheels game is in development. Andy Chalk's read is the part worth carrying: a brand owner going where the players already are, without the money Amazon and Hasbro sank into the conventional route. He cites Roblox players spending more than 10 billion hours a month in 2025, and notes Starbreeze taking Payday the same way. [PC Gamer](https://www.pcgamer.com/gaming-industry/toymaker-mattel-launches-a-new-game-studio-with-a-focus-on-roblox-and-fortnite-that-could-signal-a-growing-shift-in-where-studios-spend-money/)
+- **Take-Two's CEO thinks its console and PC audience could be 10 times the size of today's** (gaming & esports industry). Speaking to Christopher Dring after Q1 results on 7 August, Strauss Zelnick tied the claim to PC moving from 1% to 50% of console and PC releases over 20 years, plus "our optimism about streaming services over the next three years", with his own caveat that he does not expect revenue to grow 10 times. He shrugged off the missing GTA 6 disc on 19 November because the business is "well over 90% digital", and dismissed any launch risk from the labour dispute with more than 30 dismissed Rockstar staff, now heading to a UK tribunal. Take-Two guided to $8 billion to $8.2 billion in net bookings for the full year. [The Game Business](https://www.thegamebusiness.com/p/could-no-physical-disc-and-a-trade)
+
+**Sources (Edition #80)**
+
+- Three years of AI on Steam, Sulka Haro (13 Jul 2026): https://fragwyz.substack.com/p/three-years-of-ai-on-steam
+- Putting your game in a showcase? 5 key Qs to ask..., Simon Carless (GameDiscoverCo, 11 Aug 2026): https://newsletter.gamediscover.co/p/putting-your-game-in-a-showcase-5
+- Ubisoft and the technology trap, Joost van Dreunen (SuperJoost Playlist, 15 Jul 2026): https://superjoost.substack.com/p/ubisoft-and-the-technology-trap
+- Astute 'Transcription' asks readers, 'Do you copy?', Joan Gaylord (The Christian Science Monitor, 12 May 2026): https://www.csmonitor.com/Arts-Culture/Books/2026/0512/transcription-ben-lerner-memory-authenticity-tech
+
+---
+
 ## 2026-08-18 (Edition #79)
 
 ### 1. A film moved 2.4 times the copies at the same price (gaming & esports industry)

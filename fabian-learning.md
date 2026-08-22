@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-22 (Edition #83)
+
+### 1. Riot is switching off 2XKO and refunding everyone (gaming & esports industry)
+
+Riot said on 20 August that active development of 2XKO ends at the end of this year, roughly 7 months after the game's full launch in January. The stated reason is that it has not drawn enough players to sustain the work. The wind-down terms are the striking part: from 20 August every character is free to play, most cosmetics are bundled in, and all money spent on or before that date is refunded. Two more champions still ship, Lux and Samira, then a final bug-fix patch in December. Servers stay up afterwards and offline play is untouched.
+
+Two reads for us. The title lost most of its team back in February and is now being retired inside the same calendar year, which is faster than the cycle we use to plan a competitive lineup. And the refund-everything exit sets a precedent. Paying players back rather than quietly shutting the store gives every other publisher a benchmark for how a live game is supposed to end, which raises the cost of doing it badly.
+
+One question to chew on: which title in our lineup could be declared end-of-development inside the next 12 months, and what is our plan the morning that happens?
+
+### 2. Tencent's games cash bought compute it can resell at a profit (AI x gaming)
+
+Tencent reported Q2 after the close on 12 August. Capital expenditure came in at 52.8 billion yuan, up 176% year on year, which pushed free cash flow to minus 13.8 billion yuan. That is the first negative quarter since 2005. The ADRs fell 5.44% overnight and the Hong Kong shares 4.46% the next day. Domestic games revenue grew 17% to 47.3 billion yuan, and it is the line paying for most of this.
+
+The detail worth keeping is the hedge. Management told the call that compute capacity ordered and prepaid months ago could be resold at current prices for a profit of over 30%, and Goldman Sachs noted Tencent could lease the infrastructure out through Tencent Cloud if it had to. Against that, the AI product group lost roughly 10.5 billion yuan in the quarter, widening from 8.8 billion in Q1. On the same trading day CoreWeave rose 19% and Nebius 34%. The market paid the compute sellers and hit the buyer.
+
+One question to chew on: when we commit money to an AI tool or to capacity, what is our resale or reuse option if the payoff lands two years late?
+
+### 3. Roblox is paying 42% more for grown-ups (gaming & esports industry)
+
+Naavik's 16 August piece on Roblox carries a block that got far less attention than the withdrawn guidance. Adults are 27% of age-checked daily users. US users over 18 monetise more than 50% better than under-18s. And Roblox now pays creators roughly 42% more on qualifying spend from age-checked American adults. The platform is paying a bounty to pull its own audience upward.
+
+That matters because of an old objection. Konvoy argued in October 2024 that the aging-up story was a data artefact: Roblox claimed 42% of users were 17-plus (coincidence with the payout figure, no connection) while only 20% of sessions happened off mobile, and real teenagers diversify onto console and PC. Roblox answered by changing the measurement instead of the marketing, which is why the 27% now reads "age-checked". Device and session mix is still the cheapest honesty test on any demographic claim, ours included.
+
+One question to chew on: if somebody checked our audience claims against device and session behaviour rather than registration data, what number would move?
+
+### 4. Whoever draws the map decides what exists (leadership & negotiation)
+
+Maggie O'Farrell's "Land" came out from Knopf on 2 June. It opens in 1865 with Tomas, an Irish master mapmaker, and his son Liam surveying "the westernmost scrap of Europe" on contract to the British. Tomas finds a spring on the peninsula, goes briefly mad, and starts a second map: one "of how this land really is, of how it has always been". His line to his son carries the whole idea. "To map is to assume power."
+
+Kazuo Robinson's review in the Harvard Review is hard on the book and useful about why. He calls the language anachronistic, the crowd scenes generic, and the reading experience like chopping onions. Put the two together and you get the lesson. Whoever holds the map holds the power, and a map drawn to prove how things have always been is a feeling with a legend attached. Our maps are the game lineup, the club list, the Countries and Territories list, the master product overview. Each one decides what officially exists.
+
+One question to chew on: which of our maps was drawn to describe reality, and which was drawn to argue for it?
+
+#### News of the day
+
+- **Makers Fund closed a $250M fourth fund** (gaming & esports industry). Announced 20 August, taking assets under management to $1.5 billion across more than 90 companies, with teams in London, Reykjavik, Tokyo, Singapore, New York and Los Angeles. The firm says its $180M Fund I has distributed 3.6 times the capital invested, and that it was first investor and largest shareholder in Dream Games, bought by CVC for a reported $5 billion. All of that is firm-sourced and I have not verified it independently. Fresh money arriving for founders in the same month studios are cutting is the contrast worth holding. [GamesBeat](https://gamesbeat.com/makers-fund-raises-250m-for-its-4th-fund-to-back-next-generation-interactive-entertainment/)
+- **Game workers rallied outside Xbox sites in 7 cities** (leadership & negotiation). CWA and CWA Canada ran "Save Our Devs" actions on 19 August in Austin, Dallas, Seattle, Rockville, Hunt Valley, Montreal and Minneapolis, calling it the fifth round of cuts in 3 years. Asha Sharma has confirmed 3,200 jobs going before the fiscal year ends, and the unions say they are pursuing legal action over how the cuts were handled. Organised labour is now a standing counterparty in publisher restructuring, which changes the timeline on anything we build at studio level. [CWA](https://cwa-union.org/news/releases/video-game-workers-and-allies-rally-across-north-america-against-xbox-layoffs)
+- **A companion book paid its author nothing, so he republished it** (gaming & esports industry). Tommy Thompson's 21 August podcast has Andy Kelly, former games journalist and now PR manager at Devolver Digital, on "Perfect Organism: The Assembly Cut", a new edition of his unofficial book about Creative Assembly's Alien: Isolation. The show notes say the episode covers how Kelly got no royalties from Unbound, publisher of the 2024 original, and the book has moved to Lost in Cult. I read the notes and did not listen to the hour, so treat the royalties point as the episode's framing. Rights that revert are the part of a deal that survives a bad partner. [AI and Games](https://www.aiandgames.com/p/i-ended-up-getting-nothing-why-andy)
+- **XREAL passed 10,000 reservations for the first Android XR glasses** (live events & immersive). Announced 20 August. AURA runs Google's Android XR, sits under 95 grams on the head with a pocketable compute unit on a cable, and does 6DOF and hand tracking at a 70-degree field of view. Final pricing is still unannounced, with the company saying only that it will not exceed $1,500, and the $99 reservation offer for a $199 launch credit has sold out. Reservations are refundable, so 10,000 is interest rather than sales. Head-worn hardware at consumer prices is the delivery layer for any venue format we scope past 2027. [Road to VR](https://roadtovr.com/first-android-ar-glasses-xreal-aura-10k-reservations/)
+
+**Sources (Edition #83)**
+
+- Riot fighting game 2XKO is officially ending development (VGC, 20 Aug 2026): https://www.videogameschronicle.com/news/riot-fighting-game-2xko-is-officially-ending-development/
+- Tencent's quarterly capex hits 52.8 billion yuan, flipping free cash flow negative (BigGo Finance, 13 Aug 2026): https://finance.biggo.com/news/2101ffac-348a-462f-9157-72ac74d7bc34
+- Roblox's Expensive Year of Good Intentions, Miikka Ahonen (Naavik, 16 Aug 2026): https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/
+- Roblox Is Not Aging Up (Konvoy, 4 Oct 2024): https://www.konvoy.vc/newsletters/roblox-is-not-aging-up
+- Land by Maggie O'Farrell, reviewed by Kazuo Robinson (Harvard Review, 1 Jun 2026): https://www.harvardreview.org/book-review/land/
+
+---
+
 ## 2026-08-21 (Edition #82)
 
 ### 1. AI grew the pool of Steam developers and left the odds alone (AI x gaming)

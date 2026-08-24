@@ -8,6 +8,107 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-24 (Edition #85)
+
+### 1. Valve leaked its own launch through a software update (gaming & esports industry)
+
+On 19 August, 8 finished Steam Frame videos turned up inside an ARM Steam Client update: unboxing, how to sign in, how to fit the ergonomic kit, and a guide to the interpupillary distance wheel and its sliding lock. Valve published them itself, users mirrored them, and some were then pulled. Adam Vjestica's read at The Shortcut is that this volume of completed marketing shows Valve can ship whenever it chooses, with 24 August, the company's 30th anniversary, as the obvious candidate. Price and date are still unannounced. The Shortcut expects a four-figure price on the back of Qualcomm chip price rises and the memory crunch, which is a reporter's expectation rather than a Valve statement.
+
+The pattern is the thing to take. This leak did not come from press, from a partner, or from a disgruntled employee. It came from the company's own release pipeline shipping finished assets before the announcement was ready. We carry the same exposure in a different shape: app builds, site deploys, broadcast graphics packages and ticketing pages all hold the reveal before anyone has approved saying it out loud.
+
+One question to chew on: which of our own pipelines could publish an EWC or ENC announcement before we do, and who is checking that today?
+
+### 2. China's quantum push runs on "industry sets the questions" (leadership & negotiation)
+
+ChinaTalk published a deep dive by Elias X. Huber on 12 August on how Beijing is mobilising its quantum sector. The mechanism worth stealing is a change in who poses the problem. Huber's read of the 15th Five-Year Plan is that the theory of change moved from science push to industry pull, captured in an official phrase: "industry sets the questions, science and technology provides the answers." In Hefei's "Thousand Scenarios" action plan the local government acts as matchmaker between quantum companies and the industrial players who might actually buy from them. Suzhou ran matchmaking conferences with one narrow topic each: cryogenics first, then chip design and manufacturing, then software and applications.
+
+The second tool is jiebang guashuai, roughly "reveal the list and appoint the commander". A ministry or an industry player posts a specific chokepoint in public, several teams can take it on, and the money is paid out on results. China's MIIT posted 17 quantum challenges in early 2025 with benchmarked tasks like control electronics, dilution refrigerators and error correction. The same format runs as a student competition, with 100,000 RMB for an overall champion. Whether any of this produces working quantum computers is a separate question from whether the procurement design is good.
+
+One question to chew on: which of our unsolved problems could we publish as a named, benchmarked challenge and let outsiders bid on?
+
+### 3. Gamescom sold out its floor and still holds back tickets (live events & immersive)
+
+Felix Falk told Christopher Dring on 20 August that gamescom exhibitor space has sold out for the first time, and that the organisers are expanding floor space for 2027 while holding attendance where it is. His reasoning: "We don't want to fit too many people. Gamescom is not only about people on site. Last year we had 357,000 [footfall]. It doesn't really matter if it's 10,000 more or less, because most of the growth has been in the digital reach. That's more important than people on site." He is explicit that 2019 taught them this. "We had too many people. The complaints were going up. It starts to feel squeeze. So we went down from there, and we give less tickets into the market. We could give more, we have two days already sold out."
+
+So here is an event owner treating on-site attendance as a quality variable with a ceiling, and treating reach as the growth line. Two days sold out and they still keep inventory off the market. One more detail from the same interview: German President Frank-Walter Steinmeier attends on the Thursday, the first sitting president to do so, with democracy as a stated theme this year.
+
+One question to chew on: what is the attendance number above which an EWC or ENC venue day gets worse, and have we ever written it down?
+
+### 4. Nobody sells you the pickaxe if they have the gold (AI x gaming)
+
+Luke Dicken ran AI at Take-Two and was laid off with much of his team about a year into the role. PC Gamer wrote up his interview with The Side Quest on 19 August, and he comes out a sceptic. His sharpest move is an incentive test. "If any of this sh*t actually did what people are billing it as, they would not be talking about it. These would be protected like the crown jewels and Fort Knox combined. It's like the guy sat here telling you that there's a gold rush going and you need to get in on the gold rush, buy my pickaxe. The guy should be selling you the gold if he's actually got the gold."
+
+Two of his other points land closer to home. On measurement: "individuals are not necessarily reliable narrators of what the impact is, so you need to be quantifying objectively, and very few people want to run those case studies." On dependency: bake a tool into a pipeline and the pipeline acquires rigidity, "and you are now vendor-locked to something that you know is going to get its price jacked up." He compares the trajectory to the Unity pricing episode and agrees the industry is sleepwalking into a repeat. On where it all lands he expects change on the scale of the industry learning Maya, stops short of calling it seismic, and says he could be wrong.
+
+One question to chew on: for the AI tools we already run, who is measuring the gain objectively, and what is our exit if the price triples?
+
+#### News of the day
+
+- **A judge gave Google a week to stop burying rival app stores** (leadership & negotiation). At a compliance hearing in San Francisco on 13 August, US District Judge James Donato ordered Google to fix three Play Store behaviours by 20 August. Epic's attorney demonstrated in open court that typing "store for apps" into Play returned Walmart and no rival marketplace. Donato also killed the extra "View" tap before "Install" on third-party stores and the interstitial banner shown for searches like "app store", saying "there is a friction there that has no purpose whatsoever." Google's counsel agreed to all three on the record. The Play Catalog Access Program opened on 22 July and Aptoide enrolled on 10 August, and the court still found the open store functionally closed at the discovery layer. [Tech Times](https://www.techtimes.com/articles/324467/20260814/google-buried-rival-app-stores-play-store-search-judge-gives-week-fix.htm)
+- **Singapore's Kallang precinct hired a consultancy as its digital partner and built a 4-metre LED globe** (live events & immersive). The Kallang Group, the rebranded Singapore Sports Hub across a 35-hectare waterfront site, signed a 5-year deal with Deloitte Singapore as its first Official Digital Partner on 20 August, covering a new precinct app, a rebuilt website and personalisation across the site. The physical piece is the Deloitte Sphere, a 4-metre outdoor LED globe by the Stadium MRT exit running themed media and athlete spotlights. First deployment is the Singapore Tennis Open, with in-app live match data and wayfinding plus a free loyalty tier. A precinct treating its app and its signage as one product is the model we keep sketching for EWC venues. [Coliseum](https://www.coliseum-online.com/singapore-the-kallang-digitally-enabled-sports-destination/)
+- **Double Fine is independent again, and its union petition is gone** (leadership & negotiation). Aftermath reported on 21 August that the separation from Microsoft has closed, with marketing director James Spafford confirming "we are officially independent, the deal is closed." 23 staff were laid off on 28 July. CWA told Aftermath that the NLRB petition filed in early May, covering 42 employees, was withdrawn a couple of weeks after filing, with no reason given. Tim Schafer on the money: "It's a runway, not a freeway, it doesn't go forever." Independence and organised labour moving in opposite directions in the same studio is worth watching. [Aftermath](https://aftermath.site/double-fine-independent-game-jam-union/)
+- **Tencent is shipping a lighter PUBG Mobile for low-end hardware** (gaming & esports industry). Niko Partners reported on 20 August that Lightspeed Studios revealed PUBG Mobile Light, with a smaller hardware and storage footprint, Erangel included, the same core combat, and item and cosmetic transfer when you sign in with an existing PUBG Mobile account. Niko draws the distinction from the older PUBG Mobile Lite, which cut content instead of compressing it. Device-tier versions of a title change who can qualify in an open bracket, which is our problem before it is anyone else's. [Niko Partners](https://substack.nikopartners.com/p/phantom-blade-zero-tops-steam-best)
+
+**Sources (Edition #85)**
+
+- Steam Frame unboxing video leaks, as all signs point to an imminent release date, Adam Vjestica (The Shortcut, 20 Aug 2026): https://www.theshortcut.com/p/steam-frame-unboxing-video-leaks-as-all-signs-point-to-an-imminent-release-date
+- China's Quantum Flywheel, Elias X. Huber via Lily Ottinger (ChinaTalk, 12 Aug 2026): https://www.chinatalk.media/p/chinas-quantum-flywheel
+- The video games most at risk from PlayStation's disc switch-off, plus Felix Falk on gamescom, Christopher Dring (The Game Business, 20 Aug 2026): https://www.thegamebusiness.com/p/the-video-games-most-at-risk-from
+- Take-Two's former AI guy is, in a twist, skeptical about AI now, Harvey Randall (PC Gamer, 19 Aug 2026): https://www.pcgamer.com/gaming-industry/game-development/take-twos-former-ai-guy-is-in-a-twist-skeptical-about-ai-now-the-guy-should-be-selling-you-the-gold-if-hes-actually-got-the-gold/
+
+---
+
+## 2026-08-23 (Edition #84)
+
+### 1. Sweeney's competitor list is everyone who owns an hour (AI x gaming)
+
+At a press conference in Seoul on 20 August, held for Unreal Fest Seoul 2026, Tim Sweeney was asked how he reads competition from new technology. His answer splits into two fights. On platforms he counts Roblox at 450 million monthly actives alongside "every platform that commands consumer time", naming YouTube, TikTok and Netflix. On tools he lists Unity and Godot, generative AI that writes code, and "world models that implement games via real-time hallucination rather than traditional code."
+
+The AI direction he gives for Unreal Engine 6, due for a fuller reveal late next year, is narrower than the hype around it: LLMs with billions of parameters working as assistants to speed up development, with good results from Claude, ChatGPT, Grok and Gemini. Then the opening he points at for everyone else, "specialized AI fields that do not require massive capital, such as voice or 3D object generation." Under Ralf's AI-first push that is the useful distinction. The frontier models are somebody else's capital expenditure. The narrow tools are ours to pick up.
+
+One question to chew on: if we listed everything competing for a fan's Saturday afternoon, how many entries on that list are esports?
+
+### 2. PlayStation stops making discs in January 2028 (gaming & esports industry)
+
+Christopher Dring put a date on something that has been drifting for years in his 20 August piece: PlayStation stops manufacturing discs in January 2028. Ampere Analysis broke out the physical share of PS5 unit sales to the end of June 2026 across 5 titles, and the split runs by audience. Family and story-driven games (Astro Bot, Assassin's Creed Shadows, Resident Evil Requiem) skew heavily boxed. Online shooters and long RPGs (Helldivers 2, Black Myth: Wukong) skew digital. By territory the US is close to fully digital while France is still heavily physical, with Australia, the UK and Japan also strong boxed markets. I should flag that the per-title percentages sit in chart images I could not read, so I have the direction of travel and not the exact numbers.
+
+Dring's argument is that GTA 6 shipping without a disc helps here, because it does the re-education for everybody at once, and that Capcom's next Resident Evil in 2027 is the natural test case for pushing buyers across. The part worth keeping is the map. Physical share tracks who the player is and where they live. Game size predicts almost nothing. France reading as a boxed market in the year we run EWC in Paris is a small concrete reminder that "the audience" behaves differently in every territory we touch.
+
+One question to chew on: which of our assumptions about fan behaviour is actually a US assumption we have quietly applied everywhere?
+
+### 3. Shadow AI is the tool nobody wrote down (AI x gaming)
+
+PocketGamer.biz ran the first part of a series on AI in the Nordic games industry on 17 August, with 5 voices. The most useful is Tuomas Pelkonen, an attorney at Nordia Law, who says the question clients ask has not changed ("here is how we use AI, do you see a risk") while the level of detail in the description keeps growing. His new worry has a name: shadow AI. "Developers using tools the studio has not adopted. If a team member reach for AI on their own initiative during development, under schedule pressure or otherwise, and never flag it, the company may find out only after launch. By then it may be both a commercial and a legal problem."
+
+The rest of the piece splits along the same fault line. Mikael Gummerus at Dodreams says AI has genuinely changed data analysis at his studio and has barely touched Unity work or art, where the gains have been incremental so far. Tatu Petersen-Jessen, formerly of Rovio and Remedy, runs an AI-native studio where a "game specialist" is a one-person team across art, design and code, and says what disappeared is the narrow single-discipline role that hands work to the next specialist. Two studios in the same small region, opposite conclusions, and the same undocumented exposure sitting underneath both.
+
+One question to chew on: if a partner shipped us AI-assisted work under schedule pressure and never mentioned it, at what point in our process would we find out?
+
+### 4. The novel that hides its point in a silent letter (leadership & negotiation)
+
+Mary Karmelek reviewed Madeline Cash's debut novel "Lost Lambs" for The Brooklyn Rail's February issue. The book is a family saga carrying roughly as many characters and storylines as a minute of scrolling a feed: an open marriage that has left the father living in the minivan in the driveway, a preteen who entertains herself cleaning up her dad's error-riddled work spreadsheets, a middle daughter with an online correspondence with an anonymous jihadist, an eldest pulled into a cult run by her father's employer. Karmelek's read is that the novel is built to mirror how we now consume, and she is honest that it frustrated her.
+
+The detail worth keeping is the gnats. The book opens with an infestation in a church that the priest cannot clear, and Karmelek counts more than 24 places where Cash quietly writes a soft "n" as "gn": gnatural, unfortugnately, carbognated water. Nobody flags it. You either notice or you scroll past, and her closing thought is that her own hunt for the meaning might be the thing being satirised. That is a fair description of how signal actually reaches a busy person. It arrives unannounced, embedded in the noise, easy to miss entirely.
+
+One question to chew on: what have we been repeating quietly for months that the people who need to hear it have simply not noticed?
+
+#### News of the day
+
+- **A Chinese action RPG went straight to number 1 on Steam's global top sellers** (gaming & esports industry). Niko Partners reported on 20 August that S-GAME opened preorders for Phantom Blade Zero on 12 August and the game took the top global top-seller spot on Steam, driven mainly by China. Launch is 29 October on PS5 and PC at RMB 268 standard and RMB 328 for the digital deluxe, and the 11-minute preorder trailer did roughly 8 million Bilibili views in a day. Niko reads Sony as treating it almost as a first-party title, making S-GAME the first Chinese developer to get a standalone State of Play, while cautioning against expecting Black Myth: Wukong scale globally. [Niko Partners](https://substack.nikopartners.com/p/phantom-blade-zero-tops-steam-best)
+- **Ari Emanuel's MARI is buying ATG Entertainment** (live events & immersive). The 11 August release confirms a definitive agreement with Providence Equity, terms undisclosed, subject to regulatory approval. ATG runs 70 venues across the UK, US, Germany and Spain, including 7 on Broadway and 10 in the West End, hosting more than 16,000 performances and over 18 million theatregoers a year. Emanuel: "I've spent my whole career in entertainment, and I started out in theater. Live has only grown more powerful. This is a long-term bet on where live goes next." Mark Shapiro says modernising the theatres "is job one". Someone is paying a full price for owned live capacity while the rest of entertainment cuts. [MARI](https://marigrp.com/press/mari-to-acquire-atg-entertainment)
+- **Arkane Austin veterans surfaced a studio they had been running quietly for a year** (gaming & esports industry). Game Developer reported on 19 August that Harvey Smith and Ben Horne announced Black Pony Immersive, opened in August 2025 and only now made public, 2 years after Microsoft shut Arkane Austin. Headcount is 26, drawn from Arkane, Insomniac, Avalanche, Volition and Epic, including Ricardo Bare. Horne on the fundraising: "We turned down some deals that just didn't feel right. You know, 'hey, if you guys are willing to maybe think about this NFT blockchain situation'." Staying dark for 12 months while you raise is a discipline worth noting. [Game Developer](https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio)
+- **ByteDance named its Vision Pro rival and set a Beijing debut for 2 September** (live events & immersive). Road to VR reported on 19 August that the headset previously known as Project Swan is now Pico Space Pro. Claimed specifications include microOLED at 4,000 PPI, roughly 40 pixels per degree, and a dual-chip design pairing custom XR silicon at about 12ms perception latency with a flagship SoC promising more than double the CPU and GPU performance of XR2 Gen 2. First reported by the Chinese outlet Nweon. Price and availability are still unknown, and the specification claims are the company's own. [Road to VR](https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/)
+- **The Assassin's Creed creator says AI gives him variations, and no illustrators** (AI x gaming). Aftermath covered Patrice Désilets on 14 August discussing AI use on 1666: Amsterdam, with the line that frames the whole trade: "I can ask the AI to give me 75 different variations of one thing, but I cannot have 75 different illustrators come up with a variation in three seconds." That is the honest version of the pitch, from someone shipping with it, and it prices the tool as a breadth machine with a known ceiling. [Aftermath](https://aftermath.site/1666-amsterdam-ai-game/)
+
+**Sources (Edition #84)**
+
+- Epic CEO Tim Sweeney: "Opening the Platform, Leading Toward Unreal Engine 6", Shin Jae Yeon (Gamemeca, 20 Aug 2026): https://www.gamemeca.com/en/view.php?gid=1779388
+- The video games most at risk from PlayStation's disc switch-off, Christopher Dring (The Game Business, 20 Aug 2026): https://www.thegamebusiness.com/p/the-video-games-most-at-risk-from
+- How Nordic studios are using AI, from legal risk to AI-native production (PocketGamer.biz, 17 Aug 2026): https://www.pocketgamer.biz/how-nordic-studios-are-using-ai-from-legal-risk-to-ai-native-production/
+- Madeline Cash's "Lost Lambs", reviewed by Mary Karmelek (The Brooklyn Rail, February 2026 issue): https://brooklynrail.org/2026/02/books/madeline-cash-lost-lambs/
+
+---
+
 ## 2026-08-22 (Edition #83)
 
 ### 1. Riot is switching off 2XKO and refunding everyone (gaming & esports industry)

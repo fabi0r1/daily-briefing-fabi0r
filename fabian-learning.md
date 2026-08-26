@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-25 (Edition #86)
+
+### 1. AI tolerance tracks what players think they bought (AI x gaming)
+
+Simon Carless did something better than another AI opinion poll. GameDiscoverCo took the AI questions from its Steam Fan Snapshot, 3,800 respondents, and cross-referenced every answer against that person's public play history. The baseline: 43% potentially fine with AI use, 31% not, 26% neutral. Then it splits hard by what you actually play. Players with 5+ hours in Frostpunk ran 53.9% accepting against 21.4% not. Balatro players ran 26.9% accepting and 51.8% not. Silksong 31.3% and 47.5%. By genre tag the most accepting were Naval, 4X, Grand Strategy and Base Building. The least were Idler, Boomer Shooter, Auto Battler and Roguelike Deckbuilder.
+
+Age barely moved the number (under-25s 41% accepting, 35-44s 45%), so the usual demographic cut explains almost nothing here. What explains it is whether the player believes handcraft was part of the purchase. Carless warns explicitly against reading his data as "Battlefield 6 players want AI". The read for us is about disclosure. One AI policy written once for the whole EWC lineup will land very differently in a grand strategy community than in a pixel-art roguelike community, and we would find that out the expensive way.
+
+One question to chew on: if we published our AI usage policy tomorrow, which of our title communities reacts worst, and can we say why before it happens?
+
+### 2. Delisting is the new IPO (gaming & esports industry)
+
+Michail Katkoff counted roughly 50 game companies that listed between 2020 and 2022 and have since fallen 90% or more. They went out at 20 to 40x EBITDA on zero interest rates and a reading of lockdown engagement as permanent. Today the multiple is around 1x. His five reasons they are going private now read as a clean list of what public ownership actually costs.
+
+The stock stopped being currency, so the Embracer roll-up playbook dies the moment your equity is worthless to a target. Options stop retaining anyone and "remind people what they lost". Disclosure hands rivals your UA spend, unit economics and title-level revenue, which he describes as playing Texas Hold'em with your cards face up. Public shareholders will not sit through a long ROAS payback window, so they hamstring the growth they keep asking for. And under roughly 500k daily trading volume, funds cannot build a position at all, so the company stays small forever. Every one of those is a reason a publisher across the table from us may be steering for one quarter while we are proposing a 5-year build.
+
+One question to chew on: for our 5 biggest Game Partners, do we know whether their board is playing for the next quarter or the next decade, and what evidence do we have?
+
+### 3. Arkane survived by cutting nine projects down to one (leadership & negotiation)
+
+Christopher Dring interviewed Harvey Smith and Ben Horne on 19 August about their new studio. The best material is old history. Arkane once had about 4 months of money left and 9 projects running, taking any contract work going. They chose to stop spreading, concentrate on one thing, and go under if that was what was going to happen. What came out of that decision was Dishonored, and Smith says its return was "four or five times the total spend".
+
+The counter-case comes from him too. On Redfall: "We got swept up in the games-as-a-service thing, and I had the foolish chutzpah to assume that it always works out for us." He also lists confident executive predictions he has outlived: "First-person games don't sell", "RPGs are a niche market", "MMOs are the future". Two things worth carrying. Concentration is the move when the money gets short, and category predictions delivered with total confidence deserve very little authority, including the ones we make.
+
+One question to chew on: if our budget halved tomorrow, which single thing would we put the rest behind, and why are we not already doing more of it?
+
+### 4. The Halo remake left out the part people pay for (gaming & esports industry)
+
+Rhys Elliott's estimate: Halo: Campaign Evolved sold 1.2M copies in 2 weeks for $67M gross, roughly 42% Xbox, 41% PlayStation, 17% Steam, plus about 2.1M Game Pass players and just under 600K paying $20 for early access. Steam was only 232K copies and $9.3M, and about 80% of those Steam buyers had already played Master Chief Collection. Elliott calls the numbers soft.
+
+Then the comparison that stings. Two 1080p ports of Black Ops have sold a combined 12M+ on PS5. Black Ops 2 alone made $351M on PS5 in just over a month, roughly 10x what the Steam version has made since 2012. And just 21.7% of PS5 Black Ops 2 players have even started the campaign. They bought a 2012 game for the multiplayer. Campaign Evolved is campaign only. Elliott's line: "The only thing the Halo remake left out is the one thing that turned two ancient CoD ports into a half-billion-dollar phenomenon." That is the same test we should run when a publisher pitches us a title for the lineup.
+
+One question to chew on: for each title in our lineup, what is the one thing its audience refuses to buy without, and is that the thing we build the competition around?
+
+#### News of the day
+
+- **The Detroit Lions sold immersive live rights as their own rights class** (live events & immersive). The Lions named L1VE their Official Immersive Partner, the first NFL team to license immersive live rights alongside broadcast and streaming, launching with the 22 August preseason game. L1VE CEO Holger Hansen: "Ford Field holds around 65,000 people. The Lions' fanbase is a multiple of that... Capacity stops being the limit on who gets to be there." If immersive is a third category we can sell, that is a line we have never put on an EWC or ENC rate card. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/08/20/tech-stack-nubank-parque-arsenal-and-more/)
+- **Three miHoYo RPGs took three of the top 5 slots in China's July livestreaming ranking** (gaming & esports industry). Niko's July tracker puts Genshin Impact at a 67.8M Niko Index (+55% month on month), Honkai: Star Rail at 47.9M (+73%) and Zenless Zone Zero at 44.2M (+34%), roughly 160 million combined. Genshin did 25.6M Bilibili views on 31 July alone off its Version 7.0 preview. One preview stream concentrated a month of viewership into a single day, which is a scheduling lesson for anyone planning a reveal beat. [Niko Partners](https://nikopartners.com/livestreaming-tracker-july-2026-highlights-mihoyos-rpg-portfolio-leads-chinas-livestreaming-ranking/)
+- **Memory prices are up 500% in 12 months** (gaming & esports industry). The Gies weekly flags 128GB of DDR5 now at $3,399. That is the input cost sitting under console pricing, and behind Valve's own note that RAM and storage rises made its original Steam Machine price target unviable. Hardware inflation reaches us through what a publisher can afford to spec and what a fan can afford to buy. [Gies](https://giesweekly.substack.com/p/netflix-shutters-two-more-game-studios)
+- **The LPL fines players up to 20 million won for wearing the wrong brand** (leadership & negotiation). Inven Global's Hongje Kim spent 5 days at LNG's Suzhou arena and reports that since league sponsorship moved from Nike to Li-Ning, all team apparel is standardised and breaches at the arena or at official events draw fines reaching 20 million won. Bin was fined CN¥150,000, about 31 million won, for entering the venue without high-fiving fans in the VIP area. A league official told Kim some players pay hundreds of millions of won in fines a year. That is one working answer to how you make sponsor exclusivity and stage obligations actually stick. [Inven Global](https://www.invenglobal.com/articles/24883/a-look-at-the-massive-infrastructure-of-the-continent-my-visit-to-the-2026-lpl)
+- **Unitree closed its first trading day up 460.3%** (leadership & negotiation). Bill Bishop's 20 August issue reports the robotics maker priced at RMB 150.80, opened at RMB 1,100 and closed at RMB 845. The same issue carries July youth unemployment at 17.9% and Beijing approving purchases of Nvidia H200 chips. Source note: I read the archive preview and the numbers, the full body sits behind the paywall, so treat the surrounding analysis as unread. [Sinocism](https://sinocism.com/p/wang-yi-in-south-korea-unitree-ipo)
+
+**Sources (Edition #86)**
+
+- Are Steam players of particular genres less accepting of AI?, Simon Carless (GameDiscoverCo, 18 Aug 2026): https://newsletter.gamediscover.co/p/are-steam-players-of-particular-genres
+- What happened with Game Companies going public??, Michail Katkoff (Mobile Gaming Today / gamigion.com, 23 Aug 2026): https://www.gamigion.com/what-happened-with-game-companies-going-public/
+- Arkane veterans Harvey Smith and Ben Horne reunite: "We're back to the games we love", Christopher Dring (The Game Business, 19 Aug 2026): https://www.thegamebusiness.com/p/arkane-veterans-harvey-smith-and
+- Halo: Campaign Evolved has sold 1.2M copies, Rhys Elliott (The Alinea Insight, 11 Aug 2026): https://alineaanalytics.substack.com/p/halo-campaign-evolved-has-sold-12m
+
+---
+
 ## 2026-08-24 (Edition #85)
 
 ### 1. Valve leaked its own launch through a software update (gaming & esports industry)

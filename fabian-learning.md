@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-26 (Edition #87)
+
+### 1. Developers agree AI is coming and disagree about everything else (AI x gaming)
+
+Gamescom surveyed 100 speakers from its own dev conference. 83% expect AI to affect team structure or productivity. Then the agreement stops dead. 36% say roles change while team size holds, 33% expect smaller teams, 17% expect no reduction at all, and only 14% expect more output per person. The headline number is near-unanimous and the actual prediction underneath it splits four ways.
+
+The function-level data is the part I did not expect. 34% see the value landing in code and production. Everywhere else it collapses: management 12%, QA 7%, art and animation 4%, localisation 3%, marketing 2%, narrative design 1%. And 30% of the same speakers want as little AI in game development as possible. Hold that against Ralf's AI-first push. The people who build games expect the gains in one narrow place, and 3 in 10 of them would rather not have it at all.
+
+One question to chew on: when we say AI-first internally, do we mean code and production, or do we mean everything, and have we ever said which out loud?
+
+### 2. Steam's back catalogue paid for all of last year's growth (gaming & esports industry)
+
+Joost van Dreunen ran Steam H1 2025 against H1 2026. Platform revenue grew $1.41B, up 14.5%. Back catalogue added $1.80B. New releases shrank $0.39B, from $2.79B down to $2.40B, a 14% fall. The catalogue paid for more than 100% of the growth and new launches dragged against it.
+
+Underneath that, the middle got fat. Steam's top 10 peaked at $4.3B in 2023 and fell to $4.0B in 2025, sliding from about 41% of platform revenue in 2019 to 28% in 2025. Ranks 101 to 1,000 quadrupled from $1.1B to $4.5B. Ranks 11 to 1,000 together earned $9.0B in 2025, more than double the top 10, and he predicts the top 10 falls below 25% by end of 2027. His own caveat is worth carrying: on a same-game panel of 16,565 pre-2024 titles, catalogue spending rose 26% while average daily players per game fell 10%, which he calls backlog inflation. Disclosure, he cites GYLD data and is an advisor and investor there.
+
+One question to chew on: our lineup logic assumes the biggest titles hold the audience. What does the lineup look like if the middle of the market keeps taking share?
+
+### 3. The tell is where the template changes (leadership & negotiation)
+
+Bill Bishop's 16 August issue handles three Chinese political events at once: Zhu Rongji's death on 11 August at 98, his memorial on 18 August, and the 17 August centenary of Jiang Zemin. His method is the transferable part. He compares the People's Daily treatment of all three announcements, finds it identical, and reads that sameness as evidence nothing unusual is being signalled. On the Jiang centenary he calls it a heavily scripted protocol ritual where the signal is who fails to appear.
+
+That is how you read any institution that communicates through fixed formats, which is most of them, including ours. The content of a standard announcement teaches you almost nothing. A deviation in the template teaches you a lot: a name missing from a distribution list, an approval that suddenly needs a second signature, a weekly meeting that quietly becomes fortnightly. Bishop also curates Victor Shih arguing Zhu is remembered fondly because he was eager to communicate with the outside world, which is a second lesson about how reputation actually forms.
+
+One question to chew on: in our own reporting lines, what changed format in the last month, and did anybody treat that as information?
+
+### 4. Four updates a month, and boards built to stay empty (gaming & esports industry)
+
+Naavik's Harshal Karvande put three Merge-2 games from the same US audience pool side by side. Microfun's Gossip Harbor runs roughly 4 content updates a month at about $54M monthly revenue, growing 9% month on month. Merge Mansion ships 1 update a month and sits around $10M, flat to slightly down. Same genre, same players, very different operating tempo.
+
+The design detail beats the tempo though. Gossip Harbor engineers its boards to sit 20 to 25% empty so players rarely hit friction, which is what lets the game carry its own x2/x4/x8 Generator Booster monetisation. Travel Town pioneered that booster in 2023 and levelled off around $10M a month. Gossip Harbor adopted it in 2024 and went to about $35M. Merge Mansion shipped it in 2025 and stayed flat at $5M. One mechanic, three outcomes, because the game around it was built differently. And the burnout thesis fails the test: Gossip Harbor holds a 4.58 global rating across about 600,000 reviews while players openly say they pay to skip its energy pinches.
+
+One question to chew on: which of our formats borrowed a mechanic from somebody else without borrowing the conditions that made it work?
+
+#### News of the day
+
+- **A screenwriting test for whether your event actually lands** (live events & immersive). Mike Goldsmith of the World Experience Organization names 3 failure modes in experience design: the Purpose Gap (the team never agreed what the guest should do or feel), the Cohesion Gap (parts work alone and compete together), and the Emotional Gap (functionally fine, emotionally flat, guests say "cool" and never come back). His test is one word: every beat must connect to the next with "therefore" or "but". "If you use the word 'then' between scenes, we've abandoned causality and have more than likely lost our audience." Run that on a tournament format or a keynote run-of-show, not only on a themed attraction. [WXO](https://worldxo.org/the-story-gap-10-questions-to-test-whether-your-experience-delivers-on-its-promise/)
+- **Apple is scrapping the EU Core Technology Fee** (gaming & esports industry). From 1 October the EUR 0.50-per-install charge goes, replaced by a flat 5% commission on digital transactions for apps distributed outside the App Store. The new EU rate card runs 26% for App Store plus Apple IAP, 20% with alternative payments, 15% with an external checkout link, and 5% for alternative app stores and web distribution. The per-install fee was brutal for high-install ad-monetised free-to-play titles, which is exactly the model the new structure spares. [Mobile Gaming Today](https://www.gamigion.com/apple-just-killed-the-eu-core-technology-fee/)
+- **Women are 49% of India's players, and battle royale keeps losing share** (gaming & esports industry). Niko's India report puts female participation at 49% of players in 2026, up from 43% in 2023, and non-battle-royale titles at 62.8% of mobile revenue in June 2026, up from 53.2% in June 2023. Payment behaviour is its own story: UPI is used by 84.6% of players against 31.5% for credit cards, and 31.5% prefer buying in-game content outside the traditional app stores. Niko also flags Indian players turning more cautious on generative AI, driven by employment anxiety. [Niko Partners](https://substack.nikopartners.com/p/indias-gaming-market-surpasses-1)
+- **Call of Duty is using campaign early access to attack trade-ins** (gaming & esports industry). Rhys Elliott reports Modern Warfare 4 (23 October) has sold 105K Steam copies for $5.9M before launch off only 61K wishlists, about a fifth of them Chinese. The pre-order design is the interesting part: campaign early access requires a digital Standard or Vault purchase, a deliberate strike at trade-in and the secondary market, alongside a numbered cosmetic capped at the first 100K players and a digital-only 10% loyalty discount. The counter-case sits in the same piece. Gears of War E-Day's pre-order-only beta drove 12K+ Steam copies a day, then added just 2.3K the following week once the beta closed. [The Alinea Insight](https://alineaanalytics.substack.com/p/modern-warfare-4-has-already-sold)
+- **GTA 5 has sold 230 million copies since 2013** (gaming & esports industry). From the Gies weekly numbers block, alongside Meccha Chameleon at 20 million in 2 months, BALL x PIT past 2 million, and a 53% Nintendo profit spike driven by a Trump tariff refund. A useful scale marker to hold in the run-up to GTA 6 in November. [Gies](https://giesweekly.substack.com/p/gta-6-gameplay-premieres-on-netflix)
+
+**Sources (Edition #87)**
+
+- Developers expect generative AI to impact roles and team sizes in the next three years, Diego Arguello (Game Developer, 12 Aug 2026): https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years
+- Revenge of Steam's mid-market, Joost van Dreunen (SuperJoost Playlist, 18 Aug 2026): https://superjoost.substack.com/p/revenge-of-steams-mid-market
+- Beidaihe Break is over; Jiang Zemin's 100th; RIP Zhu Rongji, Bill Bishop (Sinocism, 16 Aug 2026): https://sinocism.com/p/beidaihe-break-is-over-jiang-zemins
+- The Eastern Playbook for Dominating Western Audiences, Harshal Karvande (Naavik, 17 May 2026): https://naavik.co/digest/the-eastern-playbook-for-dominating-western-audiences/
+
+---
+
 ## 2026-08-25 (Edition #86)
 
 ### 1. AI tolerance tracks what players think they bought (AI x gaming)

@@ -8,6 +8,156 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-08-29 (Edition #90)
+
+### 1. Tencent turned its internal tools into a product line (AI x gaming)
+
+At Gamescom on 27 August, Tencent Games Central Tech launched as a single brand carrying six technologies: Motus, GIGA, MagicDawn, Anti-Cheat Expert, GVoice and WeTest. Motus is the centrepiece, an end-to-end AI pipeline for 3D character animation built on Tencent's own generative animation foundation models. It runs rigging, skinning, motion generation, motion refinement and real-time character interaction in one chain, generates motion from text prompts, video or keyframes, and analyses character topology to produce a production-ready skeleton in seconds, then corrects jitter, mesh penetration and foot sliding automatically.
+
+The title list is the part that matters here. Motus is already in use across Game for Peace, PUBG MOBILE, Delta Force, Honor of Kings, Roco Kingdom, League of Legends and Teamfight Tactics. Several of those sit in our lineup. GIGA goes further and uses games and virtual worlds as training environments for general-purpose AI agents, focused on visual decision-making and real-time competitive behaviour, and WeTest Acorn AI Studio runs autonomous agents that play games to find problems. Tencent's stated message at the show was that all of this has moved out of demos and into working pipelines.
+
+One question to chew on: our publishers are building AI capability we will meet inside their titles rather than across a negotiating table. Do we have a position yet on what agent-tested builds and generated animation mean for competitive integrity at EWC?
+
+### 2. The 7th rewarded ad is worth roughly half the first (gaming & esports industry)
+
+Felix Braberg, writing for Mobile Gaming Today in mid-August, put numbers on ad frequency. eCPMs fall roughly 4 to 5% with every consecutive ad a user sees. By the 12th impression, that impression is worth 39 to 53% less than the first one. Source note: the site's journal index and the article byline disagreed on the date, so read mid-August as approximate rather than exact.
+
+His follow-up question is sharper than the data. Why put a rewarded ad in the rewarded slot at all, when every network permits showing an interstitial and then handing the player the reward anyway. Networks police rewarded ads appearing in interstitial slots and say almost nothing about the reverse. The arbitrage sits in the open and hardly anyone takes it.
+
+One question to chew on: our sponsor inventory has a decay curve too. Do we know what the 7th in-broadcast placement is worth against the first, and does the rate card reflect that?
+
+### 3. When nothing resembles itself, you run out of words (leadership & negotiation)
+
+Serhiy Zhadan's Arabesques came out from Yale in February 2026, translated by Isaac Stackhouse Wheeler. 12 short vignettes from wartime Kharkiv, where Zhadan has lived for decades and where he enlisted in the National Guard in 2024. Eamon McGrath, reviewing it for Full Stop in July, points out that most Ukrainian war writing is full of noise, sirens and drones and night strikes, while Zhadan's Kharkiv is quiet. The missing sounds carry the book.
+
+The detail I keep turning over is McGrath's note on similes. The city "lay[s] like an animal with a snapped spine". Later it is "like a seaside town right before the start of the season". Death "is like a streetcar now, all that matters is where you're supposed to get off". McGrath reads the pile-up as a writer searching for new language, because nothing resembles itself anymore and the words for it do not exist yet. That works as a diagnostic outside literature. When people around a table reach for one analogy after another, the situation has outrun the vocabulary they have for it.
+
+One question to chew on: which topic in our strategy conversations currently needs 3 analogies before anyone in the room understands it, and what does that say about how well we actually understand it?
+
+### 4. The building around the ride is the expensive part (live events & immersive)
+
+Bea Mitchell wrote up a panel from blooloop's 2026 Festival of Innovation on 18 August, with Christie, Lagotronics Projects and Paultons Park talking through the UK's new Ghostly Manor. The attraction was built inside the park's dead 4D cinema, which Paultons' Lawrence Mancey describes as "one of those experiences that was very much one and done". It debuts the S size of Lagotronics' Gameplay Theater, with rotating vehicles seating 8 riders back-to-back across 180-degree scenes, so the ride runs long inside a small footprint. The reasoning is blunt: one of the most expensive parts of building a dark ride is the building around it.
+
+Two design rules from the panel travel well beyond theme parks. First, no failure state, because as people leave the ride they should not feel frustrated. Second, a ride that leans too heavily on screens breaks the effect it is trying to create. And Lagotronics' Beumers on the technology question: "There's a lot of speculation about AI and AR, but both of those need to be operable."
+
+One question to chew on: what dead square metres do we already own at our venues, and would a long experience in a small footprint beat another temporary build?
+
+#### News of the day
+
+- **The GTA 6 preview pushed Netflix viewing up 35% in an hour** (gaming & esports industry). Sensor Tower measured a 35% jump in Netflix user counts from the hour before the Extended Look began to the hour it aired, and a 50% rise over the same window the previous day, with mobile app use around 50% above the average of the last 12 Thursdays. The 26-minute showcase went to number 1 on Netflix's top-10 movie list, filed as a film. Twitch concurrents hit 1.8 million during the presentation and Downdetector logged more than 17,000 outage reports. A publisher rented a streaming platform for one night and moved its audience numbers by a third, which is a distribution result worth understanding before we plan the next EWC or ENC reveal beat. [Forbes](https://www.forbes.com/sites/paultassi/2026/08/28/gta-6-hits-no-1-on-netflix-increases-streamers-viewership-50-125/)
+- **The Witcher 4 already runs on PC, PS5 and Xbox Series X, two years before launch** (gaming & esports industry). CD Projekt Red co-CEO Michal Nowakowski says Cyberpunk 2077 changed the studio's method. That game was developed PC-first while chasing the best possible visuals, and the console versions came apart. Now every platform build stays live throughout development, and if something breaks on one platform, work stops until the team fixes it and knows what caused it. The Witcher 4 is not expected until 2028. Multi-platform parity as a standing constraint rather than a launch scramble is the same discipline we need on broadcast and app builds. [TechPowerUp](https://www.techpowerup.com/352069/the-witcher-4-already-runs-on-all-target-platforms-2-years-ahead-of-launch)
+- **A 2005 build won Taiwan's July PC chart** (gaming & esports industry). Inven Global reports that MapleStory Classic, a Gamania-licensed reconstruction of the pre-Big Bang 2005 client, took number 1 on PC and dragged MapleStory and MapleStory Worlds to 2nd and 4th behind it. Lineage Classic held 7th after a June castle-siege update. The cost came with it: login queues, macros and hacks have split community sentiment, because rebuilding an old game inherits its old problems. Also in the report, Honor of Kings reached 5th on Google Play grossing, credited partly to the APL global tournament and a "7.18 Champion Legend Day" brand day, which is a tournament visibly moving a grossing chart. [Inven Global](https://www.invenglobal.com/articles/25061/taiwans-july-game-market-heated-up-by-classic-boom-and-subculture-festival)
+- **Kansas City committed $600m to a downtown Royals ballpark without a public vote** (live events & immersive). The city council approved the commitment on 20 August: $90 million in infrastructure spending and $510 million in city-backed bonds, against $760 million pledged by the club, inside a roughly $1.9 billion stadium that anchors a $3 billion mixed-use development with Hallmark Cards at Crown Center. The Royals sign a 30-year lease and pledge over $50 million to community groups. Groundbreaking is targeted for 2027 and a 2030 season opening. KCUR's follow-up argues the decision to skip a referendum carries a political price, which is the part worth reading if you build venues with public money. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/08/21/kansas-city-council-approves-600m-royals-ballpark-plan/)
+
+**Sources (Edition #90)**
+
+- Tencent Games Central Tech Debuts at Gamescom 2026 With AI Tools Spanning Animation, Gameplay, and Testing, Sebastian Castellanos (Wccftech, 27 Aug 2026): https://wccftech.com/tencent-games-central-tech-debuts-at-gamescom-2026-with-ai-tools-spanning-animation-gameplay-and-testing/
+- Your 7th Rewarded Ad is Worth Less Than an Interstitial!, Felix Braberg (Mobile Gaming Today / gamigion.com, mid-Aug 2026): https://www.gamigion.com/your-7th-rewarded-ad-is-worth-less-than-an-interstitial/
+- Arabesques, Serhiy Zhadan, reviewed by Eamon McGrath (Full Stop, 8 Jul 2026): https://www.full-stop.net/2026/07/08/reviews/eamonmcgrath/arabesques-serhiy-zhadan/
+- Designing dark rides: innovation in immersive attractions, Bea Mitchell (blooloop, 18 Aug 2026): https://blooloop.com/features/innovation-immersive-attractions-dark-rides
+
+---
+
+## 2026-08-28 (Edition #89)
+
+### 1. The AI return is there, the org chart is eating it (AI x gaming)
+
+Joseph Kim and Harsh Savergaonkar published this on 28 August, and it is the most useful thing I have read on why AI productivity keeps failing to show up in company numbers. Kim's claim: the return is real, and organisations throttle it. Three reasons, and the model is none of them.
+
+Skill comes first. His own rough estimate, which he labels an estimate rather than a study, is that 95 out of 100 people cannot get AI to build software to production quality. There is a ladder people miss: prototype to generally usable is at least a 10x jump in complexity, and usable to production is another 10x or more. So the world fills up with prototypes that break, and everyone concludes the tools do not work. Then the two organisational reasons. Across AI-native studios Kim visited at GDC in March, the highest-output builder was usually a PM, and at his own company some artists outproduce engineers, because the median engineer defends an existing workflow and checks every diff, so the AI runs at human speed. Savergaonkar: "Let's say the engineer has gone for lunch, or they have just stepped out for the day, then the work is stopping." And underneath that, incentives. "Most people aren't incentivized to get more output. That's why they're not getting it." A salaried engineer who becomes 50x more productive ships the same code in less time and goes home, which is the comp plan working as designed. Kim's target state in one line: "The output should not be constrained by the person. It should be constrained by your token budget."
+
+One question to chew on: our AI-first push treats the tools as the variable. If the real limit is who has permission to build and who gets paid for building more, which of those two are we actually changing this quarter?
+
+### 2. An exhibition is a mirror, and G-STAR looked into it (gaming & esports industry)
+
+Seungjin Kang's Inven Global column from 13 August opens with the G-STAR organising committee's own framing, that an exhibition reflects the industrial structure at any given point, then turns that line into an indictment. Among K-GAMES member companies, Webzen is the only one with a booth in BTC Hall 1. The floor belongs to HoYoverse, NetEase's Joker Studio, Bilibili and Century Games, which he calls closer to a convention for Chinese publishers.
+
+The committee's defence is that there are few major new titles to premiere. Kang answers it by naming where the Korean publishers went instead: NC, KRAFTON and Pearl Abyss to Gamescom, and Nexon, NC, Netmarble and Smilegate to Tokyo Game Show. The games exist. Their owners picked other shows. Filling the vacated space with automotive collaborations he calls substitution rather than expansion. The governance numbers underneath tell the same story: vice-chair companies down from 12 to 9 after Netmarble, Com2uS and WEMADE returned seats carrying a ₩120M annual fee, Microsoft Korea and Epic Games Korea withdrawn entirely, Blizzard Korea demoted to general member, while Busan pledged ₩39.1 billion and a third exhibition hall by 2030. Meanwhile G-CON, the conference arm, is thriving, which tells him the secretariat has the network and the association has the problem.
+
+One question to chew on: EWC and ENC are mirrors too. If somebody wrote this column about our 2027 lineup, which absences would carry the argument?
+
+### 3. Europe lost 73% of its games press, and the audience followed people (leadership & negotiation)
+
+Joost van Dreunen, 12 August, on ICO Partners data. European games websites rose from 941 in 2016 to 1,511 in 2021, then collapsed to 406 by 2023. PressEngine's database lost a net 203 specialist games journalists in the first half of 2026 alone, its third-worst year on record, after roughly 600 dropped out during 2024.
+
+What moved into the gap is the platform. Platform revenue went from $14B to $41B in the decade to 2025, up 191%, and a single platform endorsement can roughly triple a title's weekly sales, so discovery is a decision made by the house and tuned to the house's economics. The bill shows up in Dream Games: $1.52B gross in 2023, $454M in platform fees, $1.06B net, then $1.07B spent on user acquisition, more than its entire net revenue, closing the year at a $134M operating loss. The rebuild is happening around individuals rather than publications. Jason Schreier's YouTube channel took 323K views on its first video, Stephen Totilo's Game File is past 28K readers, Chris Dring runs The Game Business, Dean Takahashi took GamesBeat independent, GamersNexus sits at 2.6M subscribers. Van Dreunen borrows Walter Lippmann's answer to information abundance: the fix is better intermediaries.
+
+One question to chew on: when we want a message to reach players, which named individuals carry it, and how many of them do we have a real relationship with rather than a media list entry?
+
+### 4. Supercell built an emote for the frustration (gaming & esports industry)
+
+Research commissioned by Supercell for Clash Royale, covering 9,000 gamers across 7 markets, found that 85.1% of players who rage quit enjoy the game more when they come back. 53% resume within 30 minutes of storming off, and about 9 in 10 return the same day. Mexico runs 90.5%, Germany 74.4%. Rage quitting looks like a churn signal and behaves like a pause.
+
+The campaign around it is the part worth stealing. 39% of the sample have rage quit in public. So Supercell took a behaviour every live-ops team logs as a warning, read it as a supply of clips and shared moments, and turned it into a product feature: a contest to design Clash Royale's first Rage Emote, voted on by players. The frustration got a place in the game rather than a fix.
+
+One question to chew on: which player behaviour do we currently record as a problem in our own events, and would any of it read as content if we looked at it again?
+
+#### News of the day
+
+- **gamescom congress closed with record attendance and 85 sessions** (live events & immersive). The congress ran on 27 August across 8 stages with 85 programme items and 165 speakers, drawing over 1,100 attendees from business, education, science, politics, media and civil society, a record for the event. Federal President Frank-Walter Steinmeier gave the opening speech, calling digital games "culturally significant" and arguing that this makes them significant for democracy as well. Two of the AI sessions are worth chasing for transcripts: Prof. Johanna Pirker on the preliminary report of the UN Independent International Scientific Panel on AI, and Arjan Brussee on building a European AI-powered game engine. [gamescom congress](https://www.gamespress.com/en-US/gamescom-congress-2026-concludes-with-record-attendance-and-the-Federa)
+- **Dubai's DMCC gaming hub is up 30% in a year and signed Serbia in Cologne** (gaming & esports industry). The DMCC Gaming Centre added nearly 40 companies over 12 months to reach 165 members, and signed a partnership with the Serbian Games Association during Gamescom, covering soft-landing support in both markets, shared market intelligence and reciprocal co-working access. DMCC's wider technology community now runs past 4,000 companies inside a district of nearly 27,000. Belal Jassoma, Director of Ecosystems, framed Serbia as "internationally competitive talent and studios" reaching global markets through Dubai. A regional neighbour is building the studio-and-talent layer while we build the event layer, and that is a gap worth naming out loud. [Fast Company Middle East](https://fastcompanyme.com/news/dubais-gaming-ecosystem-grows-30-as-dmcc-hub-reaches-165-companies/)
+- **Ubisoft Mobile Barcelona faces rolling strikes from 1 September** (leadership & negotiation). Spanish union Coordinadora Sindical del Videojuego has called 3 strike days every 2 weeks, starting 1, 2 and 3 September and repeating on the 16th, 17th and 18th, in opposition to a broad return-to-office mandate. The action was communicated to the company in early August and workers' representatives say they are still waiting for a response, with a protest planned outside the studio on 1 September. This follows strikes in June and July over 51 layoffs at the site. A publisher spending September negotiating with its own staff is a publisher with less bandwidth for anything we put in front of it. [Game Developer](https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona)
+
+**Sources (Edition #89)**
+
+- The Paradox of AI ROI, Joseph Kim with Harsh Savergaonkar (GameMakers, 28 Aug 2026): https://www.gamemakers.com/p/the-paradox-of-ai-roi
+- G-STAR: No Longer the Destination, Seungjin "Looa" Kang (Inven Global, 13 Aug 2026): https://www.invenglobal.com/articles/24742/g-star-no-longer-the-destination
+- The fall and rise of game journalism, Joost van Dreunen (SuperJoost Playlist, 12 Aug 2026): https://superjoost.substack.com/p/the-fall-and-rise-of-game-journalism
+- Clash Royale: 85% of Rage-Quitters Come Back Enjoying More!, Mobile Gaming Today / gamigion.com (19 Aug 2026), on Supercell-commissioned research: https://www.gamigion.com/clash-royale-85-of-rage-quitters-come-back-enjoying-more/
+
+---
+
+## 2026-08-27 (Edition #88)
+
+### 1. Beat the drum, pass the flower (AI x gaming)
+
+Leia Wang, writing for ChinaTalk, organises China's AI investment boom around a children's game, 击鼓传花, "beat the drum, pass the flower", now used in Chinese financial commentary for a chain where whoever holds the flower when the music stops takes the loss. Roughly 80,000 Chinese AI companies dissolved or deregistered in two years. Government guidance funds hold RMB 7.7 trillion in committed capital, state-owned capital was 82% of all new LP contributions in 2024, and dollar funds fell from about 14% of China VC fundraising in 2021 to barely 1% by early 2025.
+
+Her sharpest point is a time-horizon mismatch, and it applies to any state-funded system. Capital is patient at national level and impatient at every layer that actually makes the decisions, because local cadres rotate every 3 to 5 years and play for promotion inside that window. Redemption clauses appear in over 80% of deals, with personal founder liability about two thirds of the time. Then the payoff argument: the overcapacity is deliberate. The Hundred Model War cut API costs by more than 90% and pushed public-cloud model usage to 536.7 trillion tokens in H1 2025, roughly 5x all of 2024, and roughly 400 of 500 Chinese EV ventures died while the survivors' cost structures made BYD the world's largest BEV seller.
+
+One question to chew on: we run on state capital and our leadership horizon is measured in budget cycles. Which of our AI bets do we hold because they will pay, and which because we are hoping to hand them on?
+
+### 2. Six winners out of 172, and all six are Eastern (gaming & esports industry)
+
+Matthew Emery at Mobile Gaming Today measured every core game launched in Q1 2026 after three or more months live. Of 172 launches, 6 (3.5%) are running at $10M or more a year. All 6 come from China, Japan or Korea. Zero from anywhere else.
+
+The top of that list is Last Asylum: Plague, a 4X from 37GAMES, at a $124.3M run-rate, roughly four times the number two title. Then Overgeared Hero (5minlab, Korea, Merge RPG) at $31.0M, Paranoize (ZigZaGame, Japan, Idle RPG) at $26.8M, SEGA FC Champions at $24.9M, DISSIDIA DUELLUM Final Fantasy (Square) at $19.6M, and Titan Rush (RATING GAME, China) at $13.4M. The 3.5% hit rate is roughly what anyone in mobile already assumes. The geography is the finding, and it lands next to lesson 3 below, where the Unity CEO makes the same observation about Korea and China from the tools side.
+
+One question to chew on: our lineup and our Game Partner pipeline both skew Western. If the titles that survive their first quarter are Eastern, who should we be talking to for 2027 that we are not talking to now?
+
+### 3. Fear stops the diagnosis before it starts (leadership & negotiation)
+
+Christopher Dring interviewed Unity CEO Matthew Bromberg on 25 August. Bromberg has now run three turnarounds: Zynga, Star Wars: The Old Republic at EA, and Unity, which has just posted its best ever financial quarter. Asked for the method, he puts it on honesty and on refusing to flinch. "The most important thing is to be honest and fearless about what's going wrong, what it is that people are unhappy about, and to authentically try to fix the problem."
+
+The mechanism underneath that is the part worth keeping. People usually know what is wrong. They avoid looking closely because of what looking closely would commit them to: reprioritising, dropping things, reformulating teams, changing executives. "So, they pull back from understanding almost subconsciously." His rule: "You have to care more about the end result than you do about the daily pain." He also has a concrete prescription for Western studios losing ground to Korea and China, and it is about tempo. Compress the development cycle, connect to players as early as possible, build in conjunction with them. On the alternative: "I go into a room for five years, I build this thing, and then 'ta-da'. I made a cinematic and I expect a hit... that's over."
+
+One question to chew on: what is the problem in my own area that I have quietly stopped examining because I already know what fixing it would cost me?
+
+### 4. The studio name carried 6% of the audience (gaming & esports industry)
+
+Simon Carless looked at Big Walk, the new game from House House (Untitled Goose Game) published by Panic at $20, out 4 August. It peaked at 46,000 concurrent Steam players, Panic confirmed 1 million copies across platforms in about six days, and GameDiscoverCo estimates roughly 3.5 million players across Steam, PlayStation and Switch, of which about 2 million came through a rare PlayStation Plus Monthly inclusion at launch. It shipped with essentially no demos or betas and still reached almost 1 million Steam wishlists.
+
+Here is the number that should unsettle anyone who plans around brand carry-over. Only 6% of Big Walk's Steam players overlap with Untitled Goose Game, which has 12 million or more players, from the same developers. The audiences that did carry over are behavioural ones: PEAK 75%, Lethal Company 67%, Risk of Rain 2 53%, Helldivers 2 51%, Tabletop Simulator 49%. Carless argues "co-op only" is an under-built subgenre, because voice-chat interaction makes these games highly streamable and low manual dexterity makes them accessible.
+
+One question to chew on: when we assume EWC brand equity transfers to a new title or a new territory, what is our actual evidence, and is it any stronger than House House's claim on its own returning players?
+
+#### News of the day
+
+- **GTA 6 gameplay premieres inside a Netflix window** (gaming & esports industry). Rockstar's extended look at Grand Theft Auto VI goes live today, 27 August, at 3pm ET, exclusive to Netflix subscribers for six hours before it reaches YouTube at 9pm ET. Netflix's Brandon Riegg, VP of Nonfiction Series, frames it as "a reflection of what we hope Netflix is becoming: a place where the most ambitious storytelling, from any medium, can find the biggest possible audience." The game ships 19 November for PS5 and Xbox Series X|S, 13 years after GTA V. A publisher selling its reveal to a streamer as a timed premiere is a distribution option nobody has put on an EWC or ENC broadcast plan. [Netflix Tudum](https://www.netflix.com/tudum/articles/grand-theft-auto-6-extended-first-look)
+- **Opening Night Live gave its biggest slots to remakes and to HoYoverse** (gaming & esports industry). Geoff Keighley's 25 August show closed on The Witcher 3, getting a remastered edition on 29 September as a free upgrade for owners, bundling both expansions and previewing a third. A Heroes of Might and Magic 3 remake landed in full 3D and 4K. Ubisoft revealed Rainbow Six Tactics, the first new Rainbow Six in years, XCOM-inspired with 15 Operators, for 2027. HoYoverse showed two games in one night, the co-op action title Nodusfall and the cozy life-sim Petit Planet, which is a live-service publisher walking into two genres it has not competed in. [GameSpot](https://www.gamespot.com/articles/gamescom-opening-night-live-2026-all-the-biggest-announcements-games-and-trailers/)
+- **Epic Games Store is coming to Linux** (gaming & esports industry). Flagged in the Gies weekly and confirmed by an Epic developer in the company's community Discord AMA in mid-August: a native Linux and SteamOS build of the store launcher is coming "soon", though not in the next preview build. Steam Deck owners currently reach their Epic libraries through third-party tools like Heroic Games Launcher. The caveat matters: Epic has not said the Linux storefront brings its own games or its anti-cheat with it, so this does not put Fortnite on SteamOS. [TechRadar](https://www.techradar.com/gaming/pc-gaming/epic-games-store-is-going-to-support-linux-soon-and-thats-great-news-for-steam-deck-owners)
+- **Three pathways into an integrated resort, and most operators inherit one** (live events & immersive). Kathleen LaClair, partner at Leisure Development Partners and a co-author of the AECOM/TEA Theme Index, names three routes. Hotel-led: Atlantis Dubai started as luxury rooms plus a water park, grew Aquaventure, added the Lost World Dubai aquarium and family programming until the attractions became as important to the resort's success as the hotels. Attraction-led: Ferrari World Abu Dhabi was conceived standalone and Yas Island accreted a water park, Warner Bros. World and hotels around it. Master-planned from day one: Resorts World Sentosa across 49 hectares, where integration was a precondition. Useful for the Qiddiya sequencing question, and for asking which pathway our own venues are on and whether anyone chose it. [blooloop](https://blooloop.com/evolution-of-integrated-resorts/)
+- **Surprise does not have to be compulsory** (live events & immersive). Narrative designer Christopher Morrison, on a WXO Campfire with Mike Goldsmith, makes two arguments live-event owners rarely hear. Publish a flow sheet of what happens and where the intense moments sit, because it only spoils the experience for the people who choose to read it. And stop banning phones reflexively, because for many disabled guests the phone is the access tool, so the real question is which access functions you are removing and how you plan to replace them. He tells live designers to borrow from games: tutorials, switchable audio description, resizable captions, controller support. His hybrid musical VitaNova was built as a proof of concept for under $50,000 with accessibility designed in from the start. Lead instruction: "Hire a real accessibility director. Please. As early as humanly possible." [WXO](https://worldxo.org/the-accessibility-toolkit-practical-changes-for-live-and-digital-experiences/)
+
+**Sources (Edition #88)**
+
+- Why China's AI Bubble Is Also Industrial Policy, Leia Wang (ChinaTalk, 18 Aug 2026): https://www.chinatalk.media/p/why-chinas-ai-bubble-is-also-industrial
+- 172 Core Games Launched in Q1 2026. What to learn?, Matthew Emery (Mobile Gaming Today / gamigion.com, 19 Aug 2026): https://www.gamigion.com/172-core-games-launched-in-q1-2026-what-to-learn/
+- Unity CEO: "The cost of building a game is coming down markedly", Christopher Dring (The Game Business, 25 Aug 2026): https://www.thegamebusiness.com/p/unity-ceo-the-cost-of-building-a
+- Will Big Walk's 1m+ sales usher in a "co-op only" game era?, Simon Carless (GameDiscoverCo, 21 Aug 2026): https://newsletter.gamediscover.co/p/will-big-walks-1m-sales-usher-in
+
+---
+
 ## 2026-08-26 (Edition #87)
 
 ### 1. Developers agree AI is coming and disagree about everything else (AI x gaming)

@@ -8,6 +8,349 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-05 (Edition #97)
+
+### 1. Istanbul is overheating and the talent has left the building (gaming & esports industry)
+
+Michail Katkoff went looking for a simple story in Türkiye on 2 September and got a better one. His hypothesis was that Pixel Flow, a low-production-value hit, would push every Istanbul casual puzzle studio to pivot to hybridcasual, because match-3 acquisition costs have become unaffordable even for the best-funded startups. A respected Turkish founder corrected him: Pixel Flow is a consequence of the pivot, not its cause.
+
+What is actually happening is a labour market coming apart. Investment keeps arriving, there is no talent available, and anyone not held in place by ESOPs or RSUs is leaving to start their own studio. Turkish studios have not learned to scale through co-development or outsourcing, so the pressure lands on headcount they cannot hire. AI is used heavily and it mostly just keeps pace with a faster content treadmill for updates and ads. Katkoff's closing observation is the one that should worry anyone building in a hot market: "The next step is 996. Many are not far from it. Some have already adopted it. Interesting to see what happens in two years."
+
+One question to chew on: EF is hiring into a region where money is arriving faster than experienced people. What are we offering that holds someone who could leave tomorrow and raise their own round?
+
+### 2. The most viewed game of Gamescom was 11 years old (gaming & esports industry)
+
+The 2026 headline numbers are healthy: 368,000 visitors from 131 countries, up 6%, and 1,743 companies from 66 countries exhibiting, up 11%, with international exhibitors at 72% of the floor and 36,000 trade attendees, roughly half from outside Germany. Check the counting method before quoting it, because gamescom counts footfall, so someone attending 4 days is 4 visitors.
+
+The trailer chart is the part that should unsettle anyone planning a reveal. The most-viewed game of the show was The Witcher 3, released in 2015, at 50.7 million trailer views per LevelUp. Second was NetEase's Anata at 47.2 million, third HoYoverse's Nodusfall at 45.5 million. So a remaster of a decade-old game beat everything new in the building, and 2 of the top 3 came from Chinese publishers. Attention went to the familiar thing and to the newcomers, and the incumbent Western pipeline sat in between.
+
+One question to chew on: our reveal moments compete for exactly this attention. What is EWC's honest claim on a player's curiosity when a catalogue title can win the biggest show of the year?
+
+### 3. The engineer who built his own chat app now builds the bypass (leadership & negotiation)
+
+Joseph Kim's piece on Unity making direct-to-consumer payments free has a cold open worth more than the analysis. In 2002 EA banned ICQ and put a single internet terminal in the middle of the building. An engineer called Steve Ganem responded with what Kim calls civil disobedience: he built his own LAN chat app for the office, taught himself network programming to do it, and ended up the sole engineer on the first PS2 online game.
+
+Two decades later Ganem is Unity's VP of Product, building infrastructure designed to bypass the platform sitting in the middle, which is now Apple and Google rather than a corporate IT policy. Kim's read on the D2C move is that the real motive is data rather than payments. The through-line is the useful part: the person who routes around your restriction is often the person who ends up owning the category, and the restriction taught them how.
+
+One question to chew on: which workaround is someone at EF quietly running right now because our process blocks them, and is that a policy failure or a person we should be promoting?
+
+### 4. There is no extinction event coming, and that is the problem (gaming & esports industry)
+
+Simon Carless scored three decades of game discovery on three axes: access to tools, direct access to audience, and market competition. MobyGames lists 262 PC games released in 1995, rising to about 1,100 by 1998, and the entire PS1 library shipped roughly 1,500 Western games across its whole life. Today $30 to $100 buys you an engine plus a complete FPS, match-3 or platformer codebase, and retail is, in his word, a husk.
+
+His conclusion refuses both of the available comfortable stories. No extinction event is coming and no great momentum shift is arriving. "There's just, y'know, even more first-person shop simulators." The competition constraint is permanent, and the only lever anyone has left is breaking through filter bubbles. That is a harder brief than either collapse or boom, because it means nothing is going to change the conditions for you.
+
+One question to chew on: if the number of things competing for a player's evening only ever goes up, what is EWC's filter-bubble break, and is it the event itself or something we have not built?
+
+#### News of the day
+
+- **SoFi Stadium finished a full broadcast and production rebuild** (live events & immersive). The 70,240-seat stadium in Inglewood, the 6,000-seat YouTube Theater and the wider Hollywood Park site completed a next-generation AV and broadcast infrastructure upgrade across the roughly 300-acre campus. The stated reason is the calendar ahead: Super Bowl LXI, the 2028 Olympic and Paralympic Games, Rams and Chargers seasons and the concert schedule, on top of the 8 FIFA World Cup matches already hosted. A venue treating its production stack as a permanent asset rather than a per-event rental is the model we should be pricing against for any fixed EWC infrastructure. [Coliseum](https://www.coliseum-online.com/sofi-stadium-youtube-theater-hollywood-park-technology-refresh/)
+- **Xiaohongshu is doubling its games festival** (live events & immersive). RED LAND 2026 runs 2 to 6 October on Fuxing Island in Shanghai with more than 100 game and anime IPs, roughly double the 2025 count, mixing Honor of Kings, Black Myth: Wukong, Genshin Impact and Honkai: Star Rail with Zootopia, Marvel, Cyberpunk 2077 and The Witcher 3. Last year drew over 100,000 attendees. The platform passed 120 million monthly active users for game-related content in 2025 with annual gaming posts up 147%, and reports 137 million users interested in ACG content. This is the route to female and ACG audiences in China that Bilibili and Douyin do not fully cover. [Niko Partners](https://substack.nikopartners.com/p/chinas-gaming-market-surpasses-50)
+- **Turok: Origins slipped to spring 2027** (gaming & esports industry). The delay lands alongside Final Fantasy VII Revelation being confirmed for the same window, which puts two more mid-to-large releases into a spring already crowded by titles pushed out of 2026. Release-date congestion 6 months ahead of a window is the earliest reliable signal of where marketing spend and creator attention will be scarce, and spring 2027 sits close to our own planning cycle. [Gies](https://giesweekly.substack.com/p/the-witcher-3-lands-on-battlenet)
+
+**Sources (Edition #97)**
+
+- Türkiye's Mobile Gaming Ecosystem is Overheating!, Michail Katkoff (Mobile Gaming Today / gamigion.com, 2 Sep 2026): https://www.gamigion.com/turkiyes-mobile-gaming-ecosystem-is-overheating/
+- GTA 6 reveal causes Xbox and PlayStation sales to jump by a third, including the gamescom 2026 attendance and trailer figures, Christopher Dring (The Game Business, 3 Sep 2026): https://www.thegamebusiness.com/p/gta-6-reveal-causes-xbox-and-playstation
+- The Most Important Number in Unity's D2C Launch Is Zero, Joseph Kim (GameMakers, 14 Jul 2026, evergreen): https://www.gamemakers.com/p/the-most-important-number-in-unitys
+- Game discovery lessons from 30 years (!) in the biz, Simon Carless (GameDiscoverCo, 7 Aug 2026, evergreen): https://newsletter.gamediscover.co/p/game-discovery-lessons-from-30-years
+
+---
+
+## 2026-09-04 (Edition #96)
+
+### 1. HoYoverse is shipping a game without gacha (gaming & esports industry)
+
+miHoYo revealed Nodusfall at Gamescom, a free-to-play fantasy action RPG built around large encounters you can take solo or co-op, closer to Monster Hunter than to anything in its catalogue. The darker look already breaks from the anime presentation the company is known for globally. The structural change is bigger: miHoYo confirmed Nodusfall will not use gacha to obtain playable characters.
+
+Niko reads it as the Where Winds Meet model, a roughly $70-quality experience given away with no pay-to-win, though the full monetisation is still undisclosed. It arrives alongside Petit Planet, a life sim, which is a second genre outside miHoYo's proven categories. The stated reason for both is a concern that its own titles are cannibalising each other's audience and spending. A publisher that built the definitive gacha machine is diversifying away from it because the machine started eating itself.
+
+One question to chew on: our lineup logic assumes publishers keep monetising the way they do today. If a partner changes its model mid-cycle, does anything in our agreement notice?
+
+### 2. The bite-sized clicker is eating Steam's front page (gaming & esports industry)
+
+Simon Carless has been covering more sub-$10 solo-developer games because they keep appearing in his top new Steam titles by concurrent players. The case study is Hearth & Hamlet, an $8 medieval city-builder clicker made by an Australian solo developer who teaches for a living, and which started as an incremental for his class to play. It hit more than 200,000 Steam wishlists by launch off a popular demo, and 9 days in the median playtime is 7 hours 20 minutes against an 8 to 12 hour total.
+
+Two details travel. First, the shift Rune's Aidan McGrath describes: incrementals are becoming active rather than idle, so players are playing rather than waiting. Second, the friction the design chose to accept: the city layout is entirely predetermined, described by the developer as assembling a pre-designed diorama, which drew a substantial share of the negative reviews from players who wanted a real city-builder. It still holds 79% positive. And Kirill Oreshkin's explanation for the whole genre is the sharpest line in it: "You sit down to play, a tutorial begins, and your brain goes: 'Aaaaargh! Effort! Don't want effort!'"
+
+One question to chew on: the growth format of the year is a short, cheap, low-effort loop. What is the lowest-effort possible entry point into EWC for someone who has never watched a match, and how many clicks is it?
+
+### 3. Steam's middle class is mostly old blockbusters in a coat (gaming & esports industry)
+
+Rhys Elliott went back over Joost van Dreunen's mid-market argument on 3 September and checked it against Alinea's estimates. Steam has grossed $15 billion so far in 2026, up about 15% on the same period last year, with the first 8 months already beating all of 2023 and 19,000 new releases this year. The disagreement is about who is earning the growth.
+
+Van Dreunen read the games ranked 101 to 1,000 as a rising middle. Elliott pulled first-release dates for those 900 titles: 83% launched before 2026, two-thirds are at least 2 years old, and only 17% are 2026 games. Titles with $50M or more in lifetime revenue account for 51% of that band's 2026 earnings, and about a third of the 900 have cleared $50M lifetime. So the median $4M a game earns this year sits on the same chart line as Skyrim, DOOM Eternal and Assassin's Creed Origins. His conclusion: where a game ranks on Steam today tells you almost nothing about what kind of game it is. Two good analysts disagreeing with data rather than adjectives is worth reading in full.
+
+One question to chew on: when we quote a ranking to a sponsor or a board, are we quoting a position or a business, and would our numbers survive this kind of re-cut?
+
+### 4. Publishers are getting defensive and the data backs them (leadership & negotiation)
+
+Newzoo's Ronan Patrick told Christopher Dring on 3 September that only 6 to 7% of console game revenue goes to genuinely new titles once you exclude sequels and franchises. On PC it runs 10 to 17%, and even that share is dominated by a handful of big-budget IPs. Publishers reinvest around core IP, and he treats that as rational rather than cowardly.
+
+His counter-move is the useful part. He points at Jagex, where roughly 75% of the people who took up Dragonwilds were already RuneScape players, and calls it an Apple model: capture the existing audience, then move them sideways onto new products. He also refuses the framing everyone reaches for. "It personally frustrates me tremendously when you see articles where they're basically saying, 'X is dead, long live Y'... We just need to serve both audiences. They have different needs and different wants." And the line to pin up: "There is no one video game industry anymore."
+
+One question to chew on: our 2027 title conversations assume one audience with one taste. If there is no single industry, whose lineup are we building, and can we name them?
+
+#### News of the day
+
+- **The Kansas City Chiefs are building districts, not just a stadium** (live events & immersive). The Chiefs and developer Hunt Midwest have formed a joint venture for mixed-use districts, one of several venue-anchored property plays approved this week alongside up to $75M from the Las Vegas Stadium Authority for Allegiant Stadium's north entry overhaul and construction financing for the Neyland Entertainment District. The pattern is consistent across all three: the venue is the anchor tenant of a real-estate business, and the events calendar exists to service the ground rent. Worth holding next to how we describe the commercial case for any permanent EWC home. [Coliseum](https://www.coliseum-online.com/news/)
+- **Roblox is opening its MENA headquarters in Riyadh** (gaming & esports industry). The regional base arrives with support from the Ministry of Investment, Riyadh Creative District and the General Authority of Media Regulation, and builds on Roblox's 2026 partnership with Savvy Games Group around STEM education. Creators earned more than $1.5 billion on the platform globally in 2025, and Saudi creator earnings rose 59% year on year. It comes roughly a year after local regulators proposed banning the platform over child safety, so the Arabic voice moderation and compliance work Roblox did in between is what bought the office. [Arabian Business](https://www.arabianbusiness.com/business/technology/roblox-saudi-gamers-game-creators)
+- **Three Korean IPs cleared China's import gate at once** (gaming & esports industry). China's NPPA published its approved foreign import licences as of 28 August, and 3 of the 6 titles use South Korean IP: Devsisters' CookieRun: Tower of Adventures, Netmarble's Solo Leveling: Arise, and a mobile game built on Playwith's Seal Online. For Solo Leveling: Arise this is the first route into mainland China since its global launch in May 2024. Without a licence a game cannot legally operate there at all, so each approval is a market opening rather than a launch date, and the Korea-to-China flow reopening changes which titles have a full Asian footprint by 2027. [Inven Global](https://www.invenglobal.com/articles/25413/cookierun-tower-of-adventures-solo-leveling-arise-seal-online-secure-import-licenses-in-china)
+
+**Sources (Edition #96)**
+
+- China's Gaming Market Surpasses $50 Billion, including the miHoYo Nodusfall item (Niko News by Niko Partners, 3 Sep 2026): https://substack.nikopartners.com/p/chinas-gaming-market-surpasses-50
+- Hearth & Hamlet's ~100k & the rise of the bite-sized clicker, Simon Carless (GameDiscoverCo, 28 Aug 2026): https://newsletter.gamediscover.co/p/hearth-and-hamlets-100k-and-the-rise
+- Steam has already generated $15B in gross revenue this year, Rhys Elliott (The Alinea Insight, 3 Sep 2026): https://alineaanalytics.substack.com/p/steam-has-already-generated-15b-in
+- GTA 6 reveal causes Xbox and PlayStation sales to jump by a third, with Newzoo's Ronan Patrick, Christopher Dring (The Game Business, 3 Sep 2026): https://www.thegamebusiness.com/p/gta-6-reveal-causes-xbox-and-playstation
+
+---
+
+## 2026-09-03 (Edition #95)
+
+### 1. China passed $50 billion and stopped growing quickly (gaming & esports industry)
+
+Niko Partners' 2026 China report puts the market at $51.8 billion in 2025, up 5.4%, over $50 billion for the first time. The forward curve is the interesting part: 4.0% growth to $53.9 billion in 2026, then $59.8 billion by 2030, a 5-year compound rate of 2.9%. Annual ARPU passed $70 for the first time in 2025 and is projected at $77.68 by 2030, with the player base reaching 769 million.
+
+Read those together. Revenue growth is coming from spend per player rather than from new players, in the largest player market on earth. That is a market where every gain has to be taken from an incumbent, because there is no meaningful pool of people who are not already playing. It also sets the honest ceiling on any China growth story anyone brings us, including our own.
+
+One question to chew on: our China conversations are framed around audience size. If the growth is in ARPU rather than headcount, what do we have to sell a Chinese publisher that raises their value per player?
+
+### 2. The GTA 6 reveal moved consoles, and probably not enough (gaming & esports industry)
+
+31.1 million people watched the Netflix deep dive into Grand Theft Auto 6, and the hardware effect was immediate. Nielsen IQ recorded UK PS5 sales up 33% the following week, Xbox Series S and X up 34%, and Switch 2 up a third ahead of its price rise. Consoles sold out at retailers worldwide, with a single PS5 Pro model still buyable outright on Sony's UK site.
+
+The context matters more than the spike. UK console hardware sales were down 14.4% year on year by the end of July, driven by PS5 falling 32% while Xbox Series S and X actually rose 3.1%, and the US had its worst July since 2020. Newzoo's Ronan Patrick is careful about how much one game can fix: the PS5 is 67% more expensive than at launch in inflation-adjusted terms and Xbox is twice as expensive. His read on the software side is more relaxed, because most playtime goes to older titles anyway, and the closest analogy he has is the 2020 to 2021 GPU shortage, where spend reallocated into software rather than leaving.
+
+One question to chew on: our audience reaches us through hardware someone else prices. If consoles stay 67% more expensive in real terms, which of our formats needs a route in that does not require a console at all?
+
+### 3. Four skills nobody is hiring for (AI x gaming)
+
+The part of Joseph Kim's AI ROI work that gets least attention is his list of what actually separates people who ship with AI from people who produce broken prototypes. Four skills: subtraction, discernment, best practices, and naive usage. Subtraction is knowing what to remove from a prompt or a plan. Discernment is judging output you did not write. His colleague Harsh Savergaonkar's method for the second one is an adversarial room, where the model is made to argue against its own output before anyone accepts it.
+
+The failure story attached to it is the useful bit: an agent building IAM roles for a feature that had zero users, all technically correct, all worthless. His hiring answer is four traits rather than a job title: high IQ, high agency, attention to detail, and a technical foundation. And his three closing moves are directly transferable. Measure retained value rather than commits. Give one operator a bounded problem and let them build. Rewrite the remit so that building is not gated to the engineering team.
+
+One question to chew on: at EF, who is allowed to build something without asking engineering, and if the honest answer is nobody, is that a security position or just an old habit?
+
+### 4. The industry keeps buying players and keeps losing them (gaming & esports industry)
+
+Oxana Fomina pulled GameAnalytics' read of more than 16,000 mobile games across 2025 and the median result is grim. The median game keeps about 22% of players on day 1, under 4% on day 7 and under 1% on day 30. Meanwhile the top 1% of games hold roughly 64 to 68% on day 1 and 13 to 15% on day 30.
+
+That gap is the whole lesson. Players did not become impossible to keep, because the top percentile keeps them at a rate that would have looked strong in any year. The market stopped forgiving mediocre onboarding. The slide is not new either: Adjust tracked global day-1 retention falling from 29% in 2022 to 28.3% in 2023, with further declines in puzzle and match-3 through 2024. The expensive version of this problem is spending to refill an audience that keeps leaking.
+
+One question to chew on: we measure EWC attention in peaks. What is our day-7 number for a first-time viewer, and does anyone own it?
+
+#### News of the day
+
+- **A 12-terabyte Steam archive leaked** (gaming & esports industry). The so-called teraleak covers file depots served through Steam between 2003 and 2013, including early builds of Portal, Left 4 Dead and Dota 2, plus third-party titles with private Steam builds. The suspected cause is a misconfigured endpoint. A decade of build history walking out of the world's biggest storefront is a reminder that the oldest part of your infrastructure is usually the part nobody is guarding, which is worth a look at our own archive of past-edition assets. [GameDiscoverCo](https://newsletter.gamediscover.co/p/what-are-the-top-new-games-of-gamescom)
+- **Venue money is moving into land, not seats** (live events & immersive). Three announcements landed in the same few days: construction financing secured for the Neyland Entertainment District, the Las Vegas Stadium Authority approving up to $75M from the Waterfall Residual Fund for Allegiant Stadium's north entry, and conservation work starting on the marbles of Athens' Panathenaic Stadium. The common thread across the American items is that the capital goes to the district and the approach, with the bowl itself already treated as built. [Coliseum](https://www.coliseum-online.com/news/)
+- **Nazara is changing CEO after 26 years** (leadership & negotiation). Nitish Mittersain steps down as CEO of Nazara Technologies in September while staying on as managing director, a role he first took in 2003, having served as CEO twice across 26 years. Raymond Albaladejo Stauffer is expected to succeed him, having worked closely with Mittersain over the past year. Nazara is India's most acquisitive listed gaming group, so a founder moving from operator to steward changes who signs off on partnerships in the market we keep saying is our next growth story. [PocketGamer.biz](https://www.pocketgamer.biz/august-2026s-movers-and-shakers/)
+
+**Sources (Edition #95)**
+
+- China's Gaming Market Surpasses $50 Billion (Niko News by Niko Partners, 3 Sep 2026): https://substack.nikopartners.com/p/chinas-gaming-market-surpasses-50
+- GTA 6 reveal causes Xbox and PlayStation sales to jump by a third, Christopher Dring (The Game Business, 3 Sep 2026): https://www.thegamebusiness.com/p/gta-6-reveal-causes-xbox-and-playstation
+- The Paradox of AI ROI, Joseph Kim with Harsh Savergaonkar (GameMakers, 28 Aug 2026): https://www.gamemakers.com/p/the-paradox-of-ai-roi
+- Mobile Games Are Getting Better at Buying Players, Worse at Keeping Them, Oxana Fomina (Mobile Gaming Today / gamigion.com, 3 Sep 2026), on GameAnalytics and Adjust data: https://www.gamigion.com/mobile-games-are-getting-better-at-buying-players-worse-at-keeping-them/
+
+---
+
+## 2026-09-02 (Edition #94)
+
+### 1. Savvy changed its CEO 4 weeks after the biggest buyout in history closed (leadership & negotiation)
+
+Brian Ward messaged staff on 1 September to say he is stepping down as CEO of Savvy Games Group, writing that "as Savvy embarks on its next period of transformational growth, this is the right time for new leadership for that evolution." Turqi Alnowaiser, deputy governor of PIF and head of its International Investments Division, takes over as interim while a permanent successor is found.
+
+The timing is the story. Ward ran Savvy from its founding in November 2021 through a $38 billion PIF commitment, Scopely at $4.9 billion in 2023, Niantic's games business at roughly $3.5 billion in 2025 and Moonton this year. Then on 4 August 2026 the $55 billion take-private of Electronic Arts completed, with PIF holding 93.4%, Silver Lake 5.5% and Affinity Partners 1.1%, funded in part by a $20 billion JPMorgan loan, the biggest debt-financed takeover on record. So the founding-CEO era ended once the portfolio stopped being a set of acquisitions and became an operating problem. A PIF investment executive holding the seat, even temporarily, tells you which of those two jobs the shareholder thinks comes next.
+
+One question to chew on: our relationship with Savvy runs through people and precedent rather than paper. Who at EF has a live line into Alnowaiser's office, and if the answer is nobody, what is the first meeting?
+
+### 2. Players found the watermark (AI x gaming)
+
+Perfect World reported first-half 2026 revenue of RMB 2.75 billion, about $409 million, with a net loss of RMB 118 million attributed to launch marketing on Neverness to Everness being booked immediately while player spending is recognised across the player lifecycle. Total spending on NTE has passed RMB 2 billion, roughly $298 million, up from RMB 1.4 billion at the end of June, with nearly 60% coming from overseas.
+
+The AI story sits underneath the accounting. Players went looking and found an in-game image of a seahorse still carrying the watermark of the free tier of Doubao. Perfect World has previously said AI tools are used for background art and not for main characters or story elements. Niko's read is that the discovery has not visibly dented spending. Both halves matter: your players will find it, and finding it may cost less than you fear. The reputational bill and the revenue bill are separate invoices.
+
+One question to chew on: if a generated asset carrying a visible watermark turned up in EWC broadcast graphics tomorrow, who finds out first, us or a Reddit thread, and what do we say in the first hour?
+
+### 3. The hits are the product (leadership & negotiation)
+
+Roblox has been tuning its algorithm to favour highly retentive games over meme-driven hits. Joe Ferencz, who founded Gamefam and has never been shy, gave Simon Carless the sharpest version of the objection: Roblox "is a company looking at the greatest hit factory in the history of interactive entertainment and deciding the hits are the problem. The hits are not the problem. The hits are the product."
+
+The general form of this mistake turns up everywhere. An organisation measures the thing it can measure, discovers that its most visible successes score badly on that metric, and starts optimising them out of existence. Retention is easy to count. A cultural moment is not. The failure mode is quietly reshaping the product around the measurable half of it, and it usually happens without anyone deciding to do it.
+
+One question to chew on: which EWC metric are we pushing because it is easy to report, and what are we damaging to make it go up?
+
+### 4. Two people, 2 months, $60 million (gaming & esports industry)
+
+Meccha Chameleon released on 10 June at $5.99, built by 2 developers, and has now done close to $60 million in premium revenue on more than 12 million units, making it Steam's biggest indie hit of the last quarter. It is hide and seek: one side blends into the environment and paints itself to match, the other side hunts. Most of the fun comes from standing perfectly still while a hunter walks straight past you.
+
+The design detail worth stealing is where the game's longevity actually lives. Steam Workshop maps are the meta, because a map stops being fun once players have learned its hiding spots, so a new community map resets the whole game. The developers never had to build content on a live-ops treadmill. They built the conditions under which players build it, and the novelty renews itself for free.
+
+One question to chew on: which part of our event format could players rebuild themselves between editions, instead of us re-producing it from scratch every year?
+
+#### News of the day
+
+- **Gamescom's biggest wishlist winners were old IP in new clothes** (gaming & esports industry). Alinea and GameDiscoverCo both tracked the 7-day Steam wishlist gains, and Opening Night Live produced more than 5 times the median increase of any other Gamescom stream at the event. The top of that chart: Wizards of the Coast's D&D-licensed ARPG Warlock at plus 375,000, NetEase's anime open-world RPG Ananta at plus 350,000, and LEGO Skylines, a Lego and Cities Skylines crossover, at plus 315,000. Two of the top three are existing IP moved into a new genre and the third is 2 IPs stapled together, which is a hard result for anyone arguing that a stage slot sells novelty. [The Alinea Insight](https://alineaanalytics.substack.com/p/gamescom-2026s-steam-wishlist-winners)
+- **Rockstar broke its silence on the GTA 6 leaks** (gaming & esports industry). The company called the leaks "heartbreaking" and thanked the community for messages of support, days before fully revealing the game across Netflix and YouTube. Take-Two has separately subpoenaed Microsoft and Discord over the leak. A publisher choosing to speak about a security failure in the emotional register rather than the legal one, while running the legal action in parallel, is a communications pattern worth studying before we need it. [The Game Business](https://www.thegamebusiness.com/p/assassins-creed-creator-patrice-desilets)
+- **Xbox is putting Halo and Fallout on an IKEA shelf** (gaming & esports industry). Xbox and IKEA have announced a furniture collaboration that includes thumbstick-shaped stools, tables and D-pad accessories. It sits alongside a UK McDonald's menu tie-in built on Halo and Fallout 76. Both are the same move: a platform holder renting shelf space in physical retail categories that have nothing to do with games, at a moment when its own hardware sales are falling. Non-endemic partners are buying gaming brands right now, which is the market our sponsorship team is selling into. [Gies](https://giesweekly.substack.com/p/the-witcher-3-lands-on-battlenet)
+
+**Sources (Edition #94)**
+
+- Savvy Games Group CEO Brian Ward steps down (PocketGamer.biz, 1 Sep 2026): https://www.pocketgamer.biz/savvy-games-group-ceo-brian-ward-steps-down/
+- Chinese and Korean games go big at Gamescom Opening Night Live, including the Perfect World H1 2026 item (Niko News by Niko Partners, 27 Aug 2026): https://substack.nikopartners.com/p/chinese-and-korean-games-go-big-at
+- What are the top new games of Gamescom 2026?, including the Joe Ferencz quote, Simon Carless (GameDiscoverCo, 1 Sep 2026): https://newsletter.gamediscover.co/p/what-are-the-top-new-games-of-gamescom
+- $60M in 2 months of development by 2 people!, Jakub Remiar (Mobile Gaming Today / gamigion.com, 2 Sep 2026): https://www.gamigion.com/60m-in-2-months-of-development-by-2-people/
+
+---
+
+## 2026-09-01 (Edition #93)
+
+### 1. Roguelite went from nowhere to number 1 in 4 years (gaming & esports industry)
+
+Simon Carless built genre tag clouds for Steam games that sold more than 50,000 copies in 2021 and compared them with 2025, using only each game's top 5 tags and stripping out mega-genres like action and RPG. The 2021 picture is survival, city builder and action RPG, with JRPG, turn-based strategy and base building close behind.
+
+The 2025 picture barely rhymes with it. Roguelite is number 1, up 39 places, and roguelike is number 2, up 37, and both tags have existed since around 2017 and were simply under-used. Life sim climbed 31 places to number 6. Idler jumped 46 places to number 15 and racing 22 to number 9. JRPG, RTS and turn-based strategy fell 24, 17 and 19 places. He checks it against a revenue cut rather than units, where FPS and JRPG hold up much better and Hack and Slash over-performs. Prices tell their own story: 2021's qualifying games had a $19.99 median, 2025's ran 15% lower at $16.99.
+
+One question to chew on: our title lineup is built around genres that were dominant when the competition formats were designed. Which of our 24 games would still be on the list if we picked them from a 2025 tag cloud?
+
+### 2. Communities can now veto a character (gaming & esports industry)
+
+Papergames pulled a planned Love and Deepspace character called Valko after sustained backlash from Chinese players, and the bill arrived fast. Third-party estimates put July mobile revenue down nearly 70% month on month. The removal then generated its own opposition overseas, where some players organised campaigns to have the character reinstated.
+
+The recovery attempt is the instructive part. The Po Zhen Zi update on 17 August pushed the game from 85th to 5th on China's iOS revenue chart, then it dropped out of the top 10 quickly. Niko's read is that a sizeable core will still spend around a major narrative beat, and that the short stay makes this one of the game's worst-performing updates rather than a recovery. So the community held a veto, the company used it, and the punishment landed on both sides of the decision.
+
+One question to chew on: EWC and ENC make roster, format and country decisions that different communities read in opposite directions. Do we have a way to see the second community coming before we act on the first?
+
+### 3. The money came back to games and walked past the studios (gaming & esports industry)
+
+Joost van Dreunen put PitchBook numbers against the mood on 25 August. Venture funding into games peaked at $20.1 billion in 2021, fell to $4.9 billion by 2023, roughly a 75% drop, and has now reached $7 billion in the first half of 2026 alone, already matching all of 2025. Makers Fund closed a $250 million Fund IV in the same week.
+
+Where it went is the finding. Every one of the half-year's 5 largest raises went to a model or tooling company, and the biggest game-studio round was $70 million. Two of the largest were Odyssey at $310 million and General Intuition at $320 million, both in June. Ben Feder, formerly CEO of Take-Two, adds the operator's version: at green-light meetings "a lot of people can tell the good from the bad. The trick is to tell the good from the great." Van Dreunen's closing line is the one to keep: the cheaper games become to make, the more valuable good judgment becomes.
+
+One question to chew on: if the industry's capital is funding tooling, the studios we partner with get cheaper to run and more numerous. Does our Game Partner process scale to a market with more studios and smaller ones?
+
+### 4. Three games at once, and a hard ceiling (leadership & negotiation)
+
+CD Projekt Red is running The Witcher 4, a Cyberpunk sequel and a new IP called Project Hadar in parallel, having made one major game at a time for 20 years. Joint CEO Michał Nowakowski told Christopher Dring on 1 September that the reason is time rather than money. "Everybody has a biology built into them. We were like, 'if we keep doing things the way we do, and we have a lot of ideas, we're only going to make X, Y, Z before we retire.'"
+
+The discipline underneath it is the transferable part. Three parallel projects means three isolated teams with clear leadership, and a hard ceiling. "There's a certain capacity beyond which we cannot go if we want to be sure that we deliver at a certain level... we actually kill a lot of ideas, because we believe we cannot execute them with a proper focus." Making it work also required leaving REDengine for Unreal, accepting a painful period of reworked pipelines, so that switching between projects gets cheaper. He is blunt about the trade: "If you want to have a cost-driven development, and that's a proper business thinking for a lot of games, you cannot make a game like The Witcher 4."
+
+One question to chew on: how many things is my area carrying that we have not killed and cannot properly execute, and what is the honest number we could deliver well?
+
+#### News of the day
+
+- **gamescom's dev awards went to studios nobody had heard of** (gaming & esports industry). Six prizes were handed out on 25 August. Blue Prince took Game Design Excellence and Tencent's Amir Satvat, who built the industry's best-known job community, took the Ambassador Award. The other four went to independents on the show floor: Mutter by DeadlyCrow Games for Visual Excellence using stop-motion animation, Cards & Cannons for Most Promising Game, Invasia for Best Sound Design, and PRAVDA(concept25), a stealth game about gathering news under an authoritarian government, for Most Innovative. gamescom dev's Frederik Hammes: "Creativity is obviously one of the weapons the smallest-sized studios have against Triple A games, because at the end you're competing for the time of the players." [Video Games Industry Memo](https://www.videogamesindustrymemo.com/p/the-state-of-ai-in-games-with-tommy)
+- **Mortal Shell II cleared half a million copies in its first weekend** (gaming & esports industry). Alinea's estimate puts the Souls-like sequel past 500,000 units across its opening weekend, and it went on to sit among the most-watched games on Twitch the following week with over 2 million hours watched. A mid-budget premium game in a crowded subgenre finding half a million buyers in 3 days is the counter-evidence anyone declaring the middle of the market finished has to explain. [The Alinea Insight](https://alineaanalytics.substack.com/p/mortal-shell-2-passed-half-a-million)
+- **Blizzard opened Battle.net to CD Projekt** (gaming & esports industry). The Witcher 3: Wild Hunt Remastered is coming to Battle.net, and buying it there gives you a Geralt-themed skin in Diablo IV. Battle.net has been a first-party-only storefront for its entire life, so a third-party AAA title arriving with a cross-promotional cosmetic attached is the same play the Epic Games Store has been running with Fortnite skins. Every closed platform is now shopping for reasons to open. [Gies](https://giesweekly.substack.com/p/the-witcher-3-lands-on-battlenet)
+
+**Sources (Edition #93)**
+
+- How have the genres of hit PC games changed since 2021?, Simon Carless (GameDiscoverCo, 25 Aug 2026): https://newsletter.gamediscover.co/p/how-have-the-genres-of-hit-pc-games
+- Chinese and Korean games go big at Gamescom Opening Night Live, including the Love and Deepspace item (Niko News by Niko Partners, 27 Aug 2026): https://substack.nikopartners.com/p/chinese-and-korean-games-go-big-at
+- Why gaming's investment boom is skipping game studios, Joost van Dreunen with Ben Feder (SuperJoost Playlist, 25 Aug 2026): https://superjoost.substack.com/p/gaming-vcs-are-back-the-studios-arent
+- CD Projekt Red: If you want a cost-driven development, you cannot make The Witcher 4, Christopher Dring with Michał Nowakowski (The Game Business, 1 Sep 2026): https://www.thegamebusiness.com/p/cd-projekt-red-if-you-want-a-cost
+
+---
+
+## 2026-08-31 (Edition #92)
+
+### 1. AI made it cheaper to build games that fail (AI x gaming)
+
+Ran Mo is the CEO of Proxima and made Suck Up!, the first commercially successful game to use AI at runtime, on zero marketing spend. His argument on GameMakers separates trunk from leaves. On an isolated feature AI is 5 to 10x, sometimes 30x: a quaternion rotation system with slerp interpolation, built in Unity in under 30 minutes against a senior engineer's day. On the trunk, re-architecting and refactoring, it slows you down, because vibe-coded architecture is "like using MS Paint to draw a square by painting every individual pixel." His verdict on that path: "You're going to burn a million tokens and get nowhere."
+
+The line that should hang over every AI budget conversation is his economics. "If you build 80% of the right game, you're going to get like $10,000 in sales. If you build 100% of the right thing, you might get $100 million in sales." Fewer than 5% of Steam titles produce meaningful returns. And his most contrarian point is about the games themselves: "Games are mechanics wrapped in logic... when you build AI systems, whether it's world models or AI NPCs, they're probabilistic. If people can't predict how the probability functions, it's very difficult for them to decide what to do next." Imagine a chess knight that might do something different next move. Suck Up! works because comedy tolerates unpredictability, and he treats that as the exception.
+
+One question to chew on: competitive integrity is exactly the predictability Ran Mo is describing. If a publisher ships AI-driven systems into a title on our lineup, what is our threshold for calling it uncompetitive?
+
+### 2. AI pays out where the machines can already read (leadership & negotiation)
+
+Irene Zhang's ChinaTalk notes from Indonesia carry a proposition worth more than the travel writing around it. Think of digitisation as making a society readable to machines, then rebuilding the society around what the machines can read. Then the productivity you can get from AI becomes a function of how readable your economy already is.
+
+Indonesia is the world's fourth-largest country by population, Southeast Asia's biggest economy, 288 million people. Nearly 60% of its workforce is informally employed, unprotected by labour law and undocumented in the kind of data a computer can use. Indonesian makes up 1.09% of Common Crawl, and Jakarta researchers told her frontier models are so poor at the language that writing a prompt in Indonesian does not occur to them. Her closing arithmetic lands hard: Edison's lightbulb is 147 years old and at least 1.18 billion people still lack meaningful access to electricity, while around 16% of the world has used a generative AI tool.
+
+One question to chew on: Arabic is our market's language and our audience's. How well do the models we are betting on actually handle it, and has anyone at EF tested that rather than assumed it?
+
+### 3. The cheap co-op games are the good news (gaming & esports industry)
+
+Dave Thier's monthly Gies piece opens with a confession that belongs on every strategy deck: spend enough time as an industry expert and you risk thinking you know what is going on. Photorealism was inevitable until it wasn't. A few AAA franchises were going to own the industry until they didn't. Live service was going to give public companies reliable income until it didn't.
+
+The current curveball is friendslop, cheap co-op games under $10 that give players a few dozen hours of hijinks before they move on. RV There Yet, Lethal Company, Peak, R.E.P.O., Meccha Chameleon. Thier's point is that the economics are what traditionalists spent a decade asking for: premium games, bought outright, played and finished. After years of worrying that the next generation would vanish into subscriptions and UGC platforms, the kids started buying games on their own. Same week, How to Fish sold 1 million copies in 2 days. He expects the design ethos, where wackiness matters as much as any metagame, to reach the core of large productions within a few years.
+
+One question to chew on: the cheapest, jankiest corner of the market is producing the fastest-selling new games. What is the EWC equivalent of a $10 game with a great hook, and would our current process ever approve it?
+
+### 4. Seven years a game, and he is 52 (leadership & negotiation)
+
+Patrice Désilets created Assassin's Creed and has just launched 1666: Amsterdam into Early Access through his own studio, Panache, self-publishing for the first time. He told Christopher Dring on 28 August that it was 7 years between Ancestors and 1666, and at 52 that arithmetic leaves him "two or three games" left.
+
+So he changed the operating model rather than accepting the number. The IP is 1666, not Amsterdam, so future games can move to other cities on the same foundation: "Amsterdam is at least the first game, and then we can go elsewhere." Early Access is deliberate: "I wanted to be designing and making the game with the people. With Ancestors, we couldn't do it." And the toolset built for the first game may let him run more than one project at a time. On self-publishing he is honest about the nerves: "It's nerve-wracking a little bit. But at the same time, I think we have enough experience to do it." Someone doing the arithmetic on their remaining working life and redesigning the machine around it is a useful thing to watch at any age.
+
+One question to chew on: if I had 3 more meaningful projects at EF rather than an open-ended run, which 3 would they be, and does my calendar look anything like that list?
+
+#### News of the day
+
+- **Supercell bought Metacore and took Merge Mansion with it** (gaming & esports industry). The deal signed on 31 August and is expected to close by the end of September 2026. Merge Mansion is a 5-year-old Merge-2 title running around 400,000 monthly downloads and roughly $8 million a month per AppMagic, so Supercell is buying a mature casual IP rather than a growth story. Supercell president Sara Bach framed it around durability: a strong brand, a passionate community, and gameplay that can be played for years. Whether Supercell can re-ignite a plateaued live game is now the question the whole casual sector will be watching. [Mobile Gaming Today](https://www.gamigion.com/supercell-buys-metacore-takes-over-merge-mansion/)
+- **Alibaba sold Lingxi Games for more than $1.5 billion** (gaming & esports industry). Private equity firm Trustar Capital is the buyer, and Alibaba is exiting game development to concentrate on ecommerce and AI. Lingxi was built on Alibaba's $1 billion acquisition of Ejoy in 2017, and its biggest hit, Three Kingdoms Tactics, has generated more than $2 billion globally, though revenue declined as the title matured and no second hit of that scale followed. ByteDance sold Moonton on similar logic. The Chinese tech giants are getting out of first-party game development, and that changes who our counterparties are in 3 years. [Niko Partners](https://substack.nikopartners.com/p/chinese-and-korean-games-go-big-at)
+- **Euroleague basketball is opening its season in Abu Dhabi** (live events & immersive). The Department of Culture and Tourism Abu Dhabi and Euroleague Basketball have launched the SuperCup, a new annual competition that formally opens the European club basketball season, with the first edition at the 18,000-seat Etihad Arena on Yas Island on 18 and 19 September. Four clubs in a Final Four format: Olympiacos, Fenerbahçe, Real Madrid and Dubai Basketball. IMG brokered it. Single-day tickets run EUR 55 to EUR 256. A Gulf state buying the opening fixture of an existing European league, rather than building a new competition, is a cheaper route to the same calendar position we spent years constructing. [Coliseum](https://www.coliseum-online.com/abu-dhabi-etihad-arena-to-stage-inaugural-basketball-showcase/)
+
+**Sources (Edition #92)**
+
+- The Last 20% Is Worth $100 Million, with Ran Mo, CEO of Proxima (GameMakers, 31 Mar 2026, evergreen): https://www.gamemakers.com/p/the-last-20-is-worth-100-million
+- Overcaffeinated in Indonesia, Irene Zhang (ChinaTalk, 21 Aug 2026): https://www.chinatalk.media/p/overcaffeinated-in-indonesia
+- Monthly Takeaway: The Future is Friendslop, Dave Thier (Gies, 25 Aug 2026): https://giesweekly.substack.com/p/monthly-takeaway-the-future-is-friendslop
+- Assassin's Creed creator Patrice Désilets: "I have two or three games left", Christopher Dring (The Game Business, 28 Aug 2026): https://www.thegamebusiness.com/p/assassins-creed-creator-patrice-desilets
+
+---
+
+## 2026-08-30 (Edition #91)
+
+### 1. The industry decided the small model wins (AI x gaming)
+
+Tommy Thompson runs AI and Games and consults for large publishers. He told George Osborn on 25 August that studios have quietly settled a question most boardrooms are still arguing about: you cannot ship a game with a large language model inside it, because the cost would eat the margin. So the work moved to quantisation, shrinking a large model into a small one that keeps enough quality and runs locally on a neural processing unit. He expects "smaller is more effective" to drive the next year of research, on tiny models trained on very focused data sets.
+
+He also splits AI use in games in two. One fork uses generators for art, narrative and animation to ship faster, mostly in mobile, and he is openly unenthusiastic: "There is a pocket of the games industry that will try and exploit generative technologies to save money... and they will do that regardless." The other fork puts models into software engineering, writing "the kind of boring boilerplate stuff that someone needs to write", which is where the real enthusiasm sits. His governance prescription is literacy rather than a tool list: "By reinforcing fundamentals and understanding, what you do is create a shared language for any organisation to talk about AI," which is what lets someone say "this sounds like nonsense, keep calm and move along." He also estimates Chinese and Korean studios hold a 3 to 5 year head start on Western ones.
+
+One question to chew on: our AI-first push has a tool list. Does it have a shared vocabulary, and could anyone on my team confidently tell me a new AI product is nonsense?
+
+### 2. Growing 6% and shrinking in real terms (gaming & esports industry)
+
+Michail Katkoff read Newzoo's 2026 forecast on 30 August and did the deflating arithmetic. The headline is good: the global games market reaches $213.9 billion, up 6.1% year on year, growth in every region and on all three platforms, mobile biggest and fastest at $121.1 billion, 3.7 billion players, and GTA 6 expected to push console full-game spending up 17.5%. Strip out inflation and Katkoff puts real growth at 2 to 3%. That is a mature market wearing a growth headline.
+
+Two numbers underneath it explain the layoffs everyone finds confusing. Asia plus MENA is half of all revenue, and North America has the weakest growth of any region on both revenue and players. And 95% of revenue goes to known IP and recurring franchises across mobile and console. So money is moving between incumbents rather than arriving from new players, and the jobs created in the 2021 and 2022 hype cycle are being unwound against a pie that is barely bigger. His advice to anyone running an established franchise: put everything into onboarding, retention and win-back, and stop chasing audiences that are not there.
+
+One question to chew on: EWC and ENC sit inside the half of the market that is Asia plus MENA. Are we selling share against other entertainment in that half, or still pitching growth to sponsors reading the 6.1% headline?
+
+### 3. A big audience that does not pay you anything (leadership & negotiation)
+
+Alex Hutchinson and Reid Schneider of Raccoon Logic told Christopher Dring at Gamescom why they abandoned the way they shipped their last game. Hutchinson had gone all in on the old method for Revenge of the Savage Planet: the magazine cover, journalists flown in, a physical edition. Millions of people played it, mostly through Xbox Game Pass, and most of them never bought any add-on content.
+
+His line is the one to keep: "in a crazy way, we almost had as many players as people who owned an Amiga. And yet, it doesn't feel like the same level of success remotely." The diagnosis follows: "You can still have a big audience, and we got a big audience, but it's monetized in a very strange way." Their answer is Breakaway Hockey League, a 4 vs 4 hockey game going into Early Access rather than 3 or 4 years in the dark, picked partly because Schneider thinks hockey "is a clip factory" in a market where "people are reading less... It's just clips, clips, clips."
+
+One question to chew on: we report EWC in viewers, hours and reach. Which of those converts into money for a club, and do we know the conversion rate or only the reach?
+
+### 4. Saudi Arabia started building the games, not only the stage (gaming & esports industry)
+
+MBC Game Studio, owned by the largest media company in the Middle East, revealed its first title on 27 August: 1001: Threads of Mizan, an Arabian fantasy adventure with large boss fights and co-op for up to 3 players, branded AAA, targeting PS5, Xbox Series X|S, Switch 2 and PC. It is led by CEO Daniel Engelhardt and COO Trevor Williams with a team drawn from BioWare, Hi-Rez, Ubisoft Montréal and Bungie.
+
+The lineage matters more than the trailer. MBC entered games in 2022 through an agreement with NEOM to build a AAA studio in the Kingdom, and Niko reads the ambition plainly: Chinese developers proved with Black Myth: Wukong that a non-Western studio can win in premium AAA, and MBC wants the same outcome for Arab stories on the global stage. So the Kingdom's games bet now has a content arm with its own IP, sitting alongside our event arm.
+
+One question to chew on: if a Saudi studio ships an Arabic-language AAA IP inside 2 years, is that a Game Partner conversation for us, an activation, or nothing at all, and who owns the answer?
+
+#### News of the day
+
+- **Haifa wants a ILS2.5 to 4 billion arena and convention district** (live events & immersive). The Municipality of Haifa and Haifa Economic Corporation are planning a mixed-use development modelled on Las Vegas, Singapore, New York and Barcelona, expanding an existing convention complex from about 19 acres to 32 through 191,000 square metres of new construction, with a 10,000-seat arena near Sammy Ofer Stadium and roughly 750 hotel rooms that would lift the city's inventory by about 40%. The defining feature is continuous pedestrian connectivity across a site currently cut apart by transport and commercial infrastructure. It is still conceptual and faces financing and regulatory hurdles, and the connectivity-first framing is the transferable idea for anyone planning a district rather than a building. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/08/28/arena-part-of-haifas-mixed-use-development-vision/)
+- **Loom Games swept the Pocket Gamer Mobile Games Awards** (gaming & esports industry). The 2026 ceremony ran during Gamescom week in Cologne across 23 categories on 26 August. Loom Games took Best Developer, Game of the Year for Pixel Flow! and Rising Star. Arknights: Endfield won People's Choice and AudioVisual Excellence, Scopely completed a treble with Best Publisher, Best Forever Franchise and Company Culture Champion, and María Sayans was named Mobile Legend. Scopely winning Company Culture Champion in the same month its owner changed leadership is worth filing. [PocketGamer.biz](https://www.pocketgamer.biz/pocket-gamer-mobile-games-awards-2026-winners-revealed/)
+- **The Gamescom Dev AI track landed better than the marketing did** (AI x gaming). Tommy Thompson reported from Cologne that the AI tracks his AI and Games Conference team ran inside gamescom dev "have gone down really well", built around practical game AI talks rather than vendor pitches. The demand signal is the point: developers turned up in numbers for sessions that cut through hype, at an event where almost every other AI conversation was a sales one. Format worth copying for any internal AI programme we run. [AI and Games](https://www.aiandgames.com/p/getting-the-votes-in-for-the-anomaly)
+
+**Sources (Edition #91)**
+
+- The state of AI in Games, with Tommy Thompson, George E. Osborn (Video Games Industry Memo, 25 Aug 2026): https://www.videogamesindustrymemo.com/p/the-state-of-ai-in-games-with-tommy
+- Gaming is Growing Again. Why Doesn't It Feel Like Growth?, Michail Katkoff (Mobile Gaming Today / gamigion.com, 30 Aug 2026), on Newzoo's 2026 forecast: https://www.gamigion.com/gaming-is-growing-again-why-doesnt-it-feel-like-growth/
+- Assassin's Creed creator Patrice Désilets: "I have two or three games left", including the Raccoon Logic interview, Christopher Dring (The Game Business, 28 Aug 2026): https://www.thegamebusiness.com/p/assassins-creed-creator-patrice-desilets
+- Chinese and Korean games go big at Gamescom Opening Night Live, including the MBC Game Studio item (Niko News by Niko Partners, 27 Aug 2026): https://substack.nikopartners.com/p/chinese-and-korean-games-go-big-at
+
+---
+
 ## 2026-08-29 (Edition #90)
 
 ### 1. Tencent turned its internal tools into a product line (AI x gaming)

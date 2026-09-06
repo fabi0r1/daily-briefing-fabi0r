@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-06 (Edition #98)
+
+### 1. He wrote the handbook before he wrote the game (AI x gaming)
+
+Antti Kananen started an experiment with a deliberately odd first move. Instead of picking a game engine and learning its editor, he first designed the working relationship between himself and the AI agents that would build the game. His first real deliverable turned out to be a handbook, an operating contract covering everything from early ideation to legal frameworks. It fixes the order of work: choose the platform and pipeline, build the smallest useful set of design and technical documents, then prove the risky parts before committing to the big implementation.
+
+His reason for that order is the sharpest line in the piece. "Agents are excellent at expanding a specification. They are also perfectly capable of expanding the wrong specification." So the handbook makes agents ask for approval before a new engine, paid service, backend or licence quietly enters a project, and it keeps state, decisions and the next exact action in the repository, so an interrupted run gets picked up from a file instead of reconstructed from one chat window. On 3D he stays honest about where the tech sits: one attractive render can hide a model that fails from the side. His closing rule is my favourite, in his words: "When the process starts optimizing itself instead of the experience, it's time to stop the madness and just play the damn build."
+
+One question to chew on: on Ralf's AI-first push, do we have anything like a handbook, or are we running conversations and hoping the context survives to next week?
+
+### 2. A world champion is quietly turning into an entertainment company (gaming & esports industry)
+
+DRX won the 2022 League of Legends World Championship by beating T1. Last month it told GamesBeat it has signed agreements on two unannounced K-drama pictures and is moving into game publishing. The work sits inside WebsCreative, a marketing agency with more than 20 years in film and OTT campaigns that joined the DRX group in 2022 and has already published mobile titles including Dark Eden. First game will be a casual mobile one, with details coming in Q4.
+
+The target is Southeast Asia, and co-CEO Can Yang's arithmetic is blunt: about 600 million people there against roughly 50 million in South Korea, with Korean dramas already trending in those markets. What he wants to export is not the team. "We want to bring our full ecosystem as an esports team, which is the player development side and the commercialization side, to this market." Worth remembering DRX has been renamed three times since starting as Incredible Miracle in 2012, so reinvention is basically house style there.
+
+One question to chew on: if our club partners increasingly earn their money from publishing, drama and IP rather than competing, what is an EWC slot actually worth to them in 2028, and are we pricing the right thing?
+
+### 3. Every round of the game costs money now (AI x gaming)
+
+Naavik pulled apart three games that put AI inside the core loop rather than behind the scenes, and the economics are the part worth keeping. Death by AI launched on Discord in May 2024 and passed 20 million players in three months. Within three days of taking off, its OpenAI plus ElevenLabs stack was financially unsustainable, because every round a player enjoyed was another inference bill. At its peak Discord says the game was generating roughly 1.2 billion text tokens and 35 million voice characters a day.
+
+The other case is worse before it gets better. WishRoll's Status reportedly cost $12 to $15 per user per day during its limited beta, until work with Inworld cut AI costs by more than 95% and let it carry over 500,000 daily users at an average of more than 1.5 hours a day. Naavik's conclusion travels well beyond games: inference cost becomes part of cost of goods, so model economics sit as close to the design as monetisation does. Success raises your variable cost precisely because players are using the feature the way you intended. (One caveat worth flagging: these are early examples on one- to two-year-old stacks, and inference prices are falling fast.)
+
+One question to chew on: which of our AI ideas gets more expensive the better it works, and has anyone actually put a number against that before we promise it to a partner?
+
+### 4. Distribution against technology, and the clock decides (leadership & negotiation)
+
+Ben Feder, formerly CEO of Take-Two, gave Joost van Dreunen a single question he uses to judge whether a challenger has a real business. "Can the startup get distribution before the incumbent gets the technology?" It reframes almost every partnership conversation as a race between two clocks rather than a comparison of two products. The startup's asset is speed to an audience. The incumbent's asset is that anything clever will eventually be buildable in-house.
+
+The uncomfortable half is that both clocks are usually visible in advance, and people negotiate as if only one of them exists. A challenger that pitches on its technology is racing on the clock it will lose. An incumbent that pays for technology it could build in 18 months has usually bought the wrong asset and should have bought the distribution. (Honest flag: the SuperJoost archive would not load for me directly today, so this draws on the recorded quote and the source note in my content pool rather than a fresh read of the full piece.)
+
+One question to chew on: in our next publisher negotiation, are we the party racing for distribution or the party buying time, and would the other side describe it the same way?
+
+#### News of the day
+
+- **Apple is facing a £2bn claim from UK app developers over App Tracking Transparency** (gaming & esports industry). ATT Collective Action Limited filed on 3 September, arguing Apple imposed stricter consent requirements on third-party apps than on its own services when ATT rolled out in 2021, without consulting developers. The claim says Apple's own advertising business grew from $1.5bn to roughly $7.4bn between 2020 and 2025 over the same period. Ann Pope, the CMA's former senior director for antitrust, leads it, and Hausfeld is acting, the firm that won a £1.5bn tribunal case against Apple in 2025. UK developers earning ad revenue or spending on user acquisition in third-party iOS apps are included unless they opt out. [Mobilegamer.biz](https://mobilegamer.biz/apple-faces-2bn-claim-from-uk-app-developers-over-app-tracking-transparency/)
+- **Tencent led an $18m round into the company behind Godot** (gaming & esports industry). W4 Games, founded by core Godot developers, raised a Series B led by Tencent with OSS Capital, LUX, Naval Ravikant and Tobias Lütke's family office, taking total funding to $33m, plus a multi-year deal with Tencent to grow the Godot ecosystem across Asia. The growth numbers explain the interest: per SteamDB, Godot games published on Steam grew more than 50% year on year in both 2024 and 2025, and W4's read of Gamalytic data puts the count of Godot games earning over $1m a year at more than 50, up from 2 three years ago. An open-source engine going from hobby tool to Tencent's Asia strategy in five years is a good reminder of how fast a free option can become the default. [W4 Games](https://www.w4games.com/blog/w4-games-news-1/w4-games-raises-18-million-to-accelerate-international-presence-193)
+- **A music company is becoming the biggest shareholder in a games company** (gaming & esports industry). Sony Music Entertainment Japan is buying 23.29% of Puzzle & Dragons maker GungHo Online from major shareholder SON Financial in an off-market deal worth ¥28.6bn, roughly $178.7m at ¥2,385 per share, expected to close on 30 December pending approvals. GungHo keeps its management independence and its Tokyo Prime listing, and the two will explore joint development plus games built on Sony Music IP. Music catalogues buying into games publishing is the same IP-convergence bet DRX is making from the other direction. [Gematsu](https://www.gematsu.com/2026/08/sony-music-entertainment-japan-and-gungho-online-entertainment-to-form-capital-and-business-alliance)
+- **A three-attraction video game venue opened in London on Saturday** (live events & immersive). Little Lion Entertainment, the team behind The Crystal Maze Experience, opened Arcade Arena London at 26 Lambeth High Street on 5 September with the PAC-MAN Live Experience built with Bandai Namco, its Chaos Karts electric karting concept, and the world premiere of Alien Invasion. The design point is the one to steal: a single site running several high-capacity experiences at once, mixing licensed IP with original concepts, rather than one attraction per building. The company now employs more than 220 people. Standard tickets start around £30. [Immersive Rumours](https://www.immersiverumours.com/post/arcade-arena-london-confirms-september-opening-date)
+- **Holiday Inn is running gaming pods in four Saudi hotels off the back of EWC** (live events & immersive). IHG partnered with educational esports provider EStars to put Elite Gaming Pods into Holiday Inn Riyadh Business District, Riyadh Al Malaz, Jeddah Corniche and Al Khobar, live from 16 August through December 2026, with two gaming spaces per hotel on MSI PCs and consoles, free access to Fortnite, Rocket League and Overwatch, plus tournaments and influencer activations. This is a non-endemic hospitality brand converting the Esports World Cup's afterglow into a 5-month retail product, in our own market, without us. Worth knowing who else is monetising our calendar. [TTN](https://www.ttnworldwide.com/ArticleTA/467145/holiday-inn-launches-elite-gaming-pods-across-four-saudi-hotels)
+
+**Sources (Edition #98)**
+
+- Building AI Game Dev Pipelines, Antti Kananen (Gamigion / Mobile Gaming Today, 31 Aug 2026): https://www.gamigion.com/building-ai-game-dev-pipelines/
+- DRX esports launches division for K-dramas and game publishing, Dean Takahashi (GamesBeat, 21 Aug 2026): https://gamesbeat.com/drx-esports-launches-division-for-k-dramas-and-game-publishing-exclusive/
+- How AI is Unlocking Novel Game Mechanics, Max Abrahamsen (Naavik, 1 Sep 2026): https://naavik.co/ai-gaming/how-ai-is-unlocking-novel-game-mechanics/
+- Why gaming's investment boom is skipping game studios, Joost van Dreunen with Ben Feder (SuperJoost Playlist, 25 Aug 2026, quote via content pool, full piece not re-read today): https://superjoost.substack.com/p/gaming-vcs-are-back-the-studios-arent
+
+---
+
 ## 2026-09-05 (Edition #97)
 
 ### 1. Istanbul is overheating and the talent has left the building (gaming & esports industry)

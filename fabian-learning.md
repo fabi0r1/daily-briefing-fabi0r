@@ -8,6 +8,58 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-07 (Edition #99)
+
+### 1. $179 million spent on a web novel (gaming & esports industry)
+
+Kuaishou, the short-video company, launched Lord of Mysteries in China on 21 August across PC, Android and iOS. The open-world MMORPG is adapted from a Chinese web novel of the same name, and Niko Partners reports total development and marketing investment of RMB 1.2 billion, about $179 million. It debuted at #1 on China's iOS game download chart and #13 by game revenue. Kuaishou says iOS is roughly 15% of the game's total revenue, which puts week one at somewhere around $20 million across all platforms.
+
+The acquisition numbers are the part I keep re-reading. 1 million registrations inside the first hour, more than 5 million within 24 hours. That queue formed around a story millions of people had already finished reading, and the game arrived as the next chapter of it. Kuaishou says the launch met its commercialisation expectations, though Niko is careful to note the game has not yet proven long-term retention, which is where MMO economics actually get decided.
+
+One question to chew on: how many of our game partners' 2027 titles are really IP acquisitions wearing a game costume, and does that change who we should be sitting across the table from?
+
+### 2. The best mobile puzzle game came out in 2014 (AI x gaming)
+
+Kalie Moore, who runs the PR agency High Vibe, asked ChatGPT for the best mobile puzzle game. It said Monument Valley, released in 2014. Gemini and Perplexity said the same, which she flagged as unusual because the models normally disagree. She then pulled the citations. ChatGPT drew on 24 sources: 18 were best-of listicles from sites like Pocket Tactics and Pocket Gamer, 5 were Wikipedia, 1 was Reddit. There was not a single review in the list. Her framing: "App stores measure popularity, but LLMs measure something completely different. It's a mix of authority, context, and citation quality."
+
+She can move it, and she showed Joseph Kim the receipts. Pocket Worlds' mobile virtual world HiRise went from losing every prompt to Roblox to outranking it on 10 of 12 target prompts in the US, on the back of existing coverage in Forbes, Business Insider and Variety plus a citable Wikipedia page. In cozy games, 25% of all citations came from YouTube, and one creator's video carried 86 of them, roughly half the category. Her conversion figures (9.5 billion AI visits a month, 74% of users taking the model's top pick) she labelled as directional, and I would treat them the same way.
+
+One question to chew on: has anyone here ever typed the 10 questions a publisher exec would actually ask a model about the Esports World Cup, and written down which domains come back?
+
+### 3. Give the thing away and you build a coalition (leadership & negotiation)
+
+ChinaTalk cross-posted a translated piece from FuneralAI, a Chinese AI-industry blog, on 6 September. The author is blunt that Chinese labs still trail, putting K3 and Qwen 3.8 Max a full generation behind Fable 5. The strategic read underneath is what travels. Open-weight releases, he argues, replaced "America encircles Chinese AI" with a protracted war in which open source encircles closed source, and in his words open source "has enlarged the base of the AI industry and consolidated every AI team outside the closed-source labs into a united front."
+
+He offers one concrete piece of evidence. After K3 shipped, the US government moved to restrict American companies from deploying open-source models. More than 270 tech companies and organisations, including Nvidia and Microsoft, signed an open letter backing open models. Then nothing happened, and K3 was not banned. Worth flagging clearly: this is an argument from a Chinese industry blog, so read it as advocacy, and I cannot independently verify the 270 figure. The mechanism is still the interesting bit. Giving an asset away for free recruits everyone who uses it into defending you, and it costs your opponent a fight with their own industry.
+
+One question to chew on: what do we actually give away for free that would make clubs and publishers defend EWC unprompted, and if the honest answer is nothing, is that a gap or a choice?
+
+### 4. A TV format running a game's retention loop (gaming & esports industry)
+
+Tracy Phan pulled the numbers on short drama for Gamigion. Per Mintegral's latest non-gaming report, short drama apps hit 1.45 billion downloads in H1 2026, up 95.5% year on year. Roughly half the top 20 entertainment apps by downloads are now short drama apps, and some are generating more in-app purchase revenue than Netflix, before ad revenue. 9 of the top 10 are Chinese. Omdia forecasts the global microdrama market could reach $14 billion in 2026, with only about $3 billion of that outside China.
+
+The structural point is why a games publication is covering television. Users move through a story episode by episode, cliffhanger to cliffhanger, paying to open the next one. That is a progression loop with a paywall in it, and 83% of downloads now come from Tier 3 and Tier 4 markets, led by Southeast Asia at 518 million. Phan's warning against jumping in late is equally useful: ad volume from these apps is up 132% year on year, creative volume up 151%, and Android CPI runs at 2.3 times the overall non-gaming benchmark. The audience is growing fast and the machine competing for it is growing faster.
+
+One question to chew on: our audience already watches vertical, episodic, cliffhanger content for hours a day. What would an EWC story told in that format look like, and who inside the building could actually make 200 episodes of it?
+
+#### News of the day
+
+- **Sony's legal position is that reasonable people know they never owned the game** (gaming & esports industry). Responding to a June class action over the PlayStation Store's "Buy now" button, Sony filed in California's Northern District on 21 August arguing that reasonable consumers would not be misled about what that button delivers, which is a licence. Part of the reasoning is that two plaintiffs bought the same game 11 days apart, so nobody could have assumed exclusive ownership of a copy. It lands while Sony is ending physical discs for new games from January 2028, which makes the licensing question the only question. [VGC](https://www.videogameschronicle.com/news/sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-they-buy/)
+- **A studio furloughed most of its staff weeks before shipping a Steam bestseller** (gaming & esports industry). Bit Reactor put roughly 80% of its developers on furlough ahead of the 27 August launch of Star Wars Zero Company, reported on 1 September. The staff stay employed and receive no wage during the furlough. Uncertainty over launch performance was the stated reason, the decision was the studio's rather than EA's or Disney's, and the game then went to the top of the Steam sellers chart. A studio can be right about the game and still run out of runway before the market tells it so. [PC Gamer](https://www.pcgamer.com/gaming-industry/the-studio-behind-star-wars-zero-company-which-is-currently-a-steam-bestseller-has-reportedly-furloughed-the-majority-of-its-staff/)
+- **The PC industry's most-quoted data source got bought** (gaming & esports industry). SteamDB joined Nexus Mods on 2 September after 13 years as a one-person operation. Founder Pavel "xPaw" Djundik said the hobby had grown into full-time hours and he started looking for a new owner in January. The site keeps its name, URL and free features, with Nexus Mods planning paid additions on top. Half the market cites SteamDB numbers as if they were neutral infrastructure, and now they sit inside a commercial modding platform. [GamingOnLinux](https://www.gamingonlinux.com/2026/09/nexus-mods-acquires-the-popular-community-site-steamdb/)
+- **The next Xbox is a family of machines** (gaming & esports industry). Xbox CEO Asha Sharma described Project Helix at gamescom as a "family of devices," pointing at a first-party high-end machine alongside cheaper variants and OEM-built hardware from partners. Reported specs centre on a custom AMD chip targeting 4K at 120fps. For anyone planning a 2028 competitive title, "which Xbox" stops being a rhetorical question and starts being a certification matrix. [Gies](https://giesweekly.substack.com/p/savvy-ceo-brian-ward-steps-down-sony)
+- **A leaked AI upscaler is quietly rewriting actors' faces** (AI x gaming). Tommy Thompson reports that DLSS5 leaked via an early-access build of NBA 2K27, and modders have injected it into Final Fantasy VII: Rebirth, Control and Cyberpunk 2077 using the RenoDX mod. His read of the results is harsh: artistic intent lost, faces over-lit and reshaped, stylised art breaking badly. It is an unfinished system in a leaked build, so judge it later. The governance question arrives now, because an upscaler that alters a licensed character's face is a brand problem before it is a graphics problem. [AI and Games](https://www.aiandgames.com/p/post-gamescom-dev-musings-020926)
+- **Esports is written into the brief for an 18,000-seat Malaysian arena** (live events & immersive). Genting Malaysia and developer Aset Kayamas signed an MoU on 4 September with Hunan Architectural Design Institute Group to design XTD Arena, the centrepiece of the roughly 60-acre Genting Xintiandi development in Gohtong Jaya. The venue is planned for concerts, conferences, sport, esports and large-scale entertainment across seven build phases. Esports sits in the founding programme of a new Southeast Asian arena, written in at design stage. That placement is the pattern worth tracking for ENC host conversations. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/09/04/hunan-design-brought-in-for-malaysias-xtd-arena/)
+
+**Sources (Edition #99)**
+
+- Kuaishou launches Lord of Mysteries in China, Niko Partners: https://substack.nikopartners.com/p/chinas-gaming-market-surpasses-50
+- PR for Gaming Studios (Joseph Kim with Kalie Moore), GameMakers: https://www.gamemakers.com/p/pr-for-gaming-studios
+- Open Models are the United Front of AI, ChinaTalk: https://www.chinatalk.media/p/open-models-are-the-united-front
+- 1.45B Downloads Later: Already Too Late to Enter Short Drama? (Tracy Phan), Gamigion: https://www.gamigion.com/1-45b-downloads-later-already-too-late-to-enter-short-drama/
+
+---
+
 ## 2026-09-06 (Edition #98)
 
 ### 1. He wrote the handbook before he wrote the game (AI x gaming)

@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-08 (Edition #100)
+
+### 1. Every dollar that skips the app store also skips the data (gaming & esports industry)
+
+Gamigion published a Gamescom debrief on 4 September with Adam Smart, who they introduce only as "our friend" with no title or company given, so read it as one practitioner's view from the floor. He co-hosted a State of Gaming Summit with Sensor Tower the day before the show opened, 150 gaming leaders in one room in Cologne. Three things kept coming up: rising mobile CPIs pushing marketers past paid acquisition, acquisition moving onto the web before anyone converts into a mobile player, and a hole in the numbers. His line on the third one is the sharpest thing in the piece: "The industry's success at reducing platform dependence is quietly making itself harder to measure." As revenue shifts to direct-to-consumer payments to dodge platform fees, that revenue disappears from the data everyone uses to size the market.
+
+His best evidence is a business that wasn't in the building. Per Smart, Turkish studios led by Dream Games and Peak have built a puzzle and match-3 business worth close to $2.8B a year, growing roughly 450% since 2020, and none of it showed up as a booth. His read is that trade show presence tracks marketing budgets and business models rather than where the money actually sits. The gacha and live-service side of mobile was everywhere in Cologne, and the hyper-casual and puzzle side, arguably just as big, was absent. (He also prints "Dream Games alone raised $2.5B last year", which sits oddly against the widely reported valuation-era figures, so treat that one as his claim rather than settled fact.)
+
+One question to chew on: if a growing share of our partners' revenue moves off-platform and out of the public data, what number are we actually negotiating against in 2028?
+
+### 2. A studio filmed real actors and still had to prove it (AI x gaming)
+
+Amplitude Studios revealed Humankind 2 at Gamescom Opening Night Live. Within hours people online were calling the announcement trailer AI slop. On 4 September the studio published a 90-second behind-the-scenes video showing how it was made: multiple practical sets, one per era, with costumes, props, lighting and live performances, real people and real animals, plus CG tornadoes and explosions added by visual effects studio LiveFX. The agency was BETC, which had made trailers for the first Humankind. Creative director Benjamin Le Breton on the brief: "Our ambition was to condense the breadth of human history into 73 seconds without losing its emotional weight."
+
+Zack Zwiezen's guesses at why it read as fake are the practical part: a stiff POV shot, blur added in post, and most people watching on a phone where detail vanishes. He also prices the cost of the reflex. "If you call everything that looks a bit off or fuzzy or bad 'AI slop,' you just make it easier for real slop to pass by while making people who worked hard on something real feel like shit for no reason." The suspicion had fuel, because the same show did carry titles with disclosed genAI use. So the burden of proof has flipped, and it now lands on the people who did the work by hand.
+
+One question to chew on: our EWC broadcast and hype packages run heavy post-production. Who at EF owns the evidence that humans made it, and does that evidence exist before the asset ships or only after someone accuses us?
+
+### 3. Shame has to change sides (leadership & negotiation)
+
+That phrase is the subtitle of Gisèle Pelicot's memoir, written with the journalist Judith Perrignon. She was the complainant in a mass rape trial in France in 2024, and she waived her right to anonymity so the proceedings would be heard in open court. The Harvard Crimson's Neeraja Kumar describes the book as one of the first places where Pelicot's own voice dominates a story that had until then reached people through television coverage, reports and podcasts, and notes the style: short sentences, complexity stripped out, so it reads as though she is explaining it herself. (I have not read the book. This draws on that review and the publisher's page.)
+
+The idea in the subtitle is the durable part, and it is about where a cost sits. Concealment protects whoever caused the harm, because privacy and reputation travel together, and the person with the most to hide gains the most from a closed room. Choosing disclosure moved that exposure onto the people who had something to hide. The trial also pushed France's argument about writing consent into its rape law, though I have not verified where that legislation ended up and you should check it before repeating it.
+
+One question to chew on: the last thing that went badly wrong on our side, who ended up carrying the embarrassment for it, and was that the same person who caused it?
+
+### 4. Parents pick the game, kids just play it (gaming & esports industry)
+
+Naavik's 30 August digest on kids gaming, meaning titles for ages 4 to 12, turns on one structural fact: the people playing and the people paying are different people, and everything in the category follows from that split. Parents choose almost exclusively until school age, around 5 or 6. In one peer-reviewed survey Naavik cites, about 53% of 6 to 8 year olds played Minecraft. By 9 to 12 kids are almost always choosing for themselves. So the window where a parent's trust decides what gets installed runs from roughly age 2 or 3 to 6 or 8.
+
+The monetisation gap explains why the answer is subscriptions. Spin Master's Toca Boca World has 50M MAU, which Naavik says puts it 16th globally and comparable to Royal Match and Chess.com, and its average year-to-date ARPDAU is $0.03 against Royal Match's $0.19, a 6x gap per Sensor Tower. Netflix launched Playground in April 2026, ad-free, zero IAP, offline-capable and bundled into every tier, and Naavik reads the goal as subscriber retention. The negotiation detail is the one I keep thinking about: Budge Studios licenses Bluey, PAW Patrol, Barbie and Frozen app by app, so collapsing them into one pass would mean reopening several licence deals at once, and no licensor wants its premium IP diluted next to a competitor's for a shared fee.
+
+One question to chew on: our clubs and game partners already sit inside shared-fee structures. If we ever wanted to bundle them into one product, how many agreements would we have to reopen simultaneously, and who has actually counted?
+
+#### News of the day
+
+- **MENA games revenue grew 10.3% to $8.5 billion** (gaming & esports industry). George Osborn interviewed Newzoo's Director of Market Intelligence Emmanuel Rosier on 27 August, ahead of the full Global Games Market Report due on 10 September. MENA is up 10.3% to $8.5bn across 640 million players, and APAC crossed $100bn for the first time. Rosier's explanation for our region is demographic rather than political: "I was in Saudi Arabia a few months ago, and the average age of the population is quite low. So you have a lot of young people, and they are into video games, so it's not artificial growth." A named analyst attributing Gulf growth to the age pyramid is a stronger line for a sponsor deck than anything we write ourselves. [Video Games Industry Memo](https://www.videogamesindustrymemo.com/p/a-fistful-of-213-billion-dollars)
+- **Warner Bros. World Abu Dhabi is adding three Harry Potter lands** (live events & immersive). Miral confirmed Diagon Alley, Hogwarts and the Forbidden Forest across roughly 63,000 square metres, with rides built exclusively for the park and construction expected to finish in 2029. Two DC attractions, Kryptonite Collider and Superman Up and Away, come with the same expansion, first announced back in 2022. Miral chairman Mohamed Khalifa Al Mubarak framed it around "Abu Dhabi's broader vision for economic diversification, enhanced tourism appeal". A Gulf neighbour is committing to a 3-year IP build to hold tourist demand, which is exactly the timescale our permanent-venue conversations keep sliding past. [blooloop](https://blooloop.com/news/warner-bros-world-harry-potter)
+- **Christopher Dring's answer to every 2026 trend take is "yeah, but"** (gaming & esports industry). His 7 September column opens by listing what he keeps reading: "It's all Roblox. Or Steam. It's definitely not console. It's certainly not live service. It's mostly China, and a bit of Korea. The jobs are all leaving California and going to India." His diagnosis of why studios chase each one is unsentimental: "Investors like to back businesses that are capitalizing on the new 'thing'." He then borrows the line indie publishers use about their own job, to "put games in the best position to get lucky", and says that in 2026 it applies to AAA too. Most of the piece sits behind his paywall, so I only read the open intro and did not claim the gift link. [The Game Business](https://www.thegamebusiness.com/p/southeast-asia-friendslop-and-30m)
+- **San Francisco's answer to Sphere opens on 19 September** (live events & immersive). Elevation Sky Park takes over Pier 70 in Dogpatch with three 360-degree geodesic projection domes and a pyramid holding 800 people, up to 2,500 across the whole site, and individual dome capacities from 150 to 750. Elevation XR and Brookfield Properties are behind it, and the opening is a one-day festival headlined by BLOND:ISH. Modular dome capacity you can sell separately, instead of one 20,000-seat room you have to fill, is a format we could actually afford to test on an EWC festival site. [WXO](https://worldxo.org/18-extraordinary-experiences-open-now-coming-soon-september-2026/)
+- **A VR Everest goes to Venice, then to Camden** (live events & immersive). Eclipso's "Everest: The First Ascent", created by Jean Dellac and Benjamin Auriche, was selected for the Venice Immersive Competition at the 83rd Mostra and premiered there from 2 to 12 September. It opens at Eclipso's Camden Town venue on 30 September, tickets on sale from 16 September, and puts audiences inside the 1953 Hillary and Tenzing Norgay ascent. Festival selection first and a permanent commercial run second is a credibility route for location-based content, and our own archive of finals moments could travel the same way. [Immersive Rumours](https://www.immersiverumours.com/post/eclipso-vr-experience-everest-the-first-ascent-to-launch-in-london)
+
+**Sources (Edition #100)**
+
+- Inside Gamescom 2026: Mobile, AI & State of Gaming, Adam Smart (Gamigion / Mobile Gaming Today, 4 Sep 2026): https://www.gamigion.com/inside-gamescom-2026-mobile-ai-state-of-gaming/
+- The AI Panic Is Forcing Developers To Prove Their Trailers Were Made By Humans, Zack Zwiezen (Kotaku, 4 Sep 2026): https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291
+- 'A Hymn to Life: Shame Has to Change Sides' Review, Neeraja S. Kumar (The Harvard Crimson, 19 May 2026): https://www.thecrimson.com/article/2026/5/19/a-hymn-to-life-book-review/ and publisher page: https://www.penguinrandomhouse.com/books/812605/a-hymn-to-life-by-gisele-pelicot-translated-by-natasha-lehrer-and-ruth-diver/
+- The Future of Kids Gaming, Naavik Weekly Digest, 30 Aug 2026: https://naavik.co/weekly-digest/the-future-of-kids-gaming/
+
+---
+
 ## 2026-09-07 (Edition #99)
 
 ### 1. $179 million spent on a web novel (gaming & esports industry)

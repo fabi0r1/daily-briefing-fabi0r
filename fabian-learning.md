@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-09 (Edition #101)
+
+### 1. Only two topics cleared the feasibility bar (leadership & negotiation)
+
+Jay Kimmel, a former US diplomat now researching AI safety at GovAI, asked two groups to score twelve candidate topics for a US-China AI safety dialogue on feasibility and value, 1 to 5. One group: former US officials who sat in official dialogues under Obama, Trump and Biden (n=7). The other: participants in the unofficial Track II AI safety talks (n=6). The officials cleared exactly two topics past 50% feasibility: nuclear risk, and using new AI models to close vulnerabilities in open-source software. The Track II group rated nearly every topic as more feasible and more urgent. The people who have actually negotiated with Beijing see a far narrower door than the people advocating for the talks.
+
+His three documented failure modes travel to any government-adjacent negotiation. Political crises suspend talks (China cut military and climate channels after Pelosi's 2022 Taiwan visit). Mechanisms on paper go unused (the PLA left the Defense Telephone Link unanswered during the 2023 balloon incident). And deliverables can be unenforceable (the 2015 cyber-theft agreement turned on "intent", which neither side trusted the other to judge). His sharpest line: "An agreement based on terms the countries define differently carries little weight."
+
+One question to chew on: our China file runs on exactly this kind of language, and "Countries & Territories" reads differently in Riyadh and Beijing. Which single ENC topic would clear a 50% feasibility bar with GASoC today, and is that where the next conversation should start?
+
+### 2. Dumped by Amazon, kept the house, still got lowballed (gaming & esports industry)
+
+Maverick Games, the UK studio founded by Forza Horizon leads, told Christopher Dring the full story of losing Amazon as the publisher of its open-world racer Clutch. Amazon walked away earlier this year, and under the deal's terms the studio kept the rights to a game that was effectively fully funded and finished. Creative director Mike Brown on taking that call: "They're breaking up with you, but you get to keep the house and the car. And the dog." Then came the surprise. Shopping a finished, de-risked game that needed publishing services only, Maverick received offers carrying worse rev shares than its original deal. COO Harinder Sangha says publishers thought "we can absolutely take advantage of these guys." Brown's summary: "Some of the offers were actually offensive."
+
+The choice they made is the useful part. Publishers priced the Amazon breakup as distress. The actual position was a funded, finished game with a live self-publish option. Maverick signed with Focus Entertainment, a mid-size publisher where Clutch will be among the biggest things in the building, and Brown notes Focus had very senior people spend a full week playing the game before signing, then kept playing afterwards. Attention from the partner, held as a hard criterion, beat headline size.
+
+One question to chew on: when a publisher weighs EWC, are they pricing our actual position or a story someone told them about us, and what is our version of "we can just say no to everybody"?
+
+### 3. 80% of the room has no AI policy (AI x gaming)
+
+Tommy Thompson curated the AI tracks at Gamescom Dev and wrote up what he saw. His standard test when presenting on AI governance: ask the room to raise a hand if their studio either has no AI policy or they don't know what it says. Around 80% of hands go up, at Europe's biggest developer conference, on a continent that already has significant AI legislation in force. The demand side matched the anxiety: several AI-track talks were standing room only, signups exceeded room capacity, and attendees photographed his governance slides so densely you couldn't see the screen from the back.
+
+His second observation cuts closer to us. Presentations from Tencent speakers showed a level of R&D in gameplay and production that only a handful of Western AAA studios can match, and after a closed-door session with a Krafton delegation he concludes the gap is cultural as much as technical: how studios approach AI is becoming another vector of an east/west divide. His overall read stays warm ("nobody has this figured out", and the conversation is far more mature than two years ago), and his proposed fix is building bridges between the two worlds.
+
+One question to chew on: two of our biggest game partners sit on the far side of that divide. Who at EF can describe, concretely, what Tencent and Krafton already deploy in production that our Western partners are still debating?
+
+### 4. Shared in good faith, owned by one name (leadership & negotiation)
+
+Strangers is Belle Burden's memoir of a marriage that ended in one sentence. More than 20 years in, her hedge-fund-manager husband disclosed an affair and told her "I feel like a switch has flipped. I'm done," then left and set about threatening to take everything. (I have not read the book. This draws on the Bossy Bookworm review from January and the publisher's material.) The structural detail the review pins down is the one worth keeping: she ran the family's daily life and trusted him with the earning, the financial planning and, pivotally, legal ownership of essential assets she believed were shared in a good-faith marriage. The trust was real. The paper carried one name.
+
+The exit terms make the point in dialogue: "You can have the house and the apartment. You can have custody of the kids. I don't want it. I don't want any of it." Generosity announced in a sentence, after years in which the legal architecture had quietly concentrated on his side, and the review notes the fight over assets he formally owned still followed. The transferable idea: a partnership can run for decades on trust and still resolve, on the day it breaks, entirely on the paper. The moment to check the paper is while the trust still works.
+
+One question to chew on: our strongest publisher relationships run on people and precedent. In the biggest one, if the other side's switch flipped tomorrow, which of the things we treat as shared are legally ours?
+
+#### News of the day
+
+- **LEGO bought a mobile studio 19 months after it launched** (gaming & esports industry). UK-based Offroad Games has joined LEGO Digital Play, the group's in-house games arm. The studio was founded by Geoffrey Gilles and team after spinning out of Space Ape Games in 2025, launched with Supercell's backing, and its founders' calling card is Chrome Valley Customs, which Gamigion credits with $44M in IAPs from more than 17M installs. An IP owner buying the team instead of licensing out the brand is the same insourcing move Netflix made in kids gaming, and it shortens the list of partners who need anyone else to run the game layer of their IP. [Gamigion](https://www.gamigion.com/lego-acquires-mobile-studio-offroad-games/)
+- **Equinox opened its first hotel outside the US, on the Red Sea** (live events & immersive). Equinox Resort Amaala opened at Marina Village in Triple Bay: Foster + Partners architecture, Rockwell Group interiors, 128 rooms built for recovery (circadian lighting, acoustic isolation), 704 sqm of training space and a 1,602 sqm spa running cryotherapy, hyperbaric oxygen and the brand's X Circuit. Amaala plans more than 1,600 rooms across nine resorts, and Red Sea Global CEO John Pagano frames the opening as wellness, sport and luxury in one destination. High-performance recovery infrastructure is maturing in our own market two months before ENC brings 16 tournaments' worth of players to Riyadh. [blooloop](https://blooloop.com/news/equinox-resort-amaala-open)
+- **Nvidia is closing in on a $12.9 billion Hugging Face acquisition** (AI x gaming). TechCrunch reported Nvidia's intent to buy Hugging Face, the platform where most open-weight AI models are hosted and shared. Much of the last decade's AI progress ran on open weights and shared expertise, and that commons would now sit inside the dominant AI hardware vendor. Edition #99's lesson described open source as a united front. This deal shows who can afford to buy the clubhouse. For every partner betting on cheap open models in production, the supply chain just got a prospective owner. [TechCrunch](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/)
+
+**Sources (Edition #101)**
+
+- How Trump and Xi Can Do AI Safety, Jay Kimmel (ChinaTalk, 4 Sep 2026): https://www.chinatalk.media/p/how-trump-and-xi-can-do-ai-safety
+- "Some of the offers were actually offensive" - How Clutch found its publisher, Christopher Dring with Mike Brown and Harinder Sangha (The Game Business, 8 Sep 2026): https://www.thegamebusiness.com/p/some-of-the-offers-were-actually
+- Post Gamescom (Dev) Musings, Tommy Thompson (AI and Games, 2 Sep 2026): https://www.aiandgames.com/p/post-gamescom-dev-musings-020926
+- Strangers: A Memoir of Marriage, Belle Burden, via the Bossy Bookworm review (13 Jan 2026, evergreen): https://www.bossybookworm.com/post/review-of-strangers-a-memoir-of-marriage-by-belle-burden
+
+---
+
 ## 2026-09-08 (Edition #100)
 
 ### 1. Every dollar that skips the app store also skips the data (gaming & esports industry)

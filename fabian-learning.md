@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-10 (Edition #102)
+
+### 1. 300 esports orgs became fewer than 100, and the crowds stayed (gaming & esports industry)
+
+The Hollywood Reporter and Sportico put "Esports Was Supposed to Be Bigger Than the NBA. What Happened?" into their September sports issue (the piece we flagged last week as unreadable, now read in full via the browser). The verdict is more useful than the headline. The crash was a capital-markets story: FaZe Clan listed in July 2022 at $13 a share, touched $19 and a $1.4 billion valuation, and was delisted inside 18 months at 18 cents. Justin Kenna, once FaZe's CFO, later bought the esports business back for $14 million in stock and says it now runs profitably. Tobias Scholz, who researches esports at Norway's University of Agder, counts roughly 300 real orgs at the 2022 peak and fewer than 100 today, while the audience held.
+
+The diagnosis section is where it gets personal. Scholz says the industry undercounts itself because viewers in China, India, Indonesia, Brazil and MENA watch on phones: "We are measuring the wrong screen." He also tells the magazine the closest thing esports has to a governing body is PIF, since it bought the rights to most major Western tournaments. And the piece points at EWC's prize money and full venues as evidence the live product works. A major US outlet is writing our sector's story with our event as the proof of life.
+
+One question to chew on: the piece hands EF the federation role by default. Do we want that framing, with the accountability it carries, or do we keep telling the ecosystem-investor story?
+
+### 2. Beijing answered a security charge with a competition charge (leadership & negotiation)
+
+On September 8 the NSA, CISA and FBI published a joint advisory accusing Chinese AI companies of industrial-scale distillation of US frontier models. MOFCOM answered within a day, and Bill Bishop's Sinocism (9 Sep) walks through the reply. The statement calls the charge baseless, describes distillation as a normal way models learn from each other, and cites US labs' own model reports as evidence they distill Chinese models too. Then it flips the frame: three consecutive paragraphs each open with the same formula, calling the US approach a textbook case of double standards, of industry monopoly, and of technological hegemony, and it attacks US labs' broad geographic restrictions as unfair contract terms the advisory was written to protect.
+
+The construction is the lesson. Beijing declines the security frame and substitutes a competition frame where it holds better cards, keeps the agreed heads-of-state AI dialogue on the table in one sentence and threatens countermeasures in the next. Escalate the framing, protect the channel. Bishop's own read: expect little from the AI track around the Xi-Trump summit, partly because Treasury's top AI adviser was just reassigned after friction with the White House, per Politico.
+
+One question to chew on: when GASoC last escalated on us, we argued inside their frame. What would our version of the frame-swap look like, one that still keeps the next meeting on the calendar?
+
+### 3. The Witcher 3 kept dropping babies (AI x gaming)
+
+Tommy Thompson's post-Gamescom issue retells a story CD Projekt quest designer Philipp Weber gave Edge magazine about The Witcher 3. NPCs were built to react to being startled: they break off whatever they are doing, and anything they hold, they drop. Each rule sensible on its own. Then Geralt walks past women cradling their children, and mothers across the Northern Realms start dropping their babies. CDPR removed the behaviour. Two correct systems met and produced an outcome no designer wrote or wanted.
+
+That failure class is about to multiply. The same issue argues on-device AI will be the battleground of 2027, with companies from big players to fresh start-ups building pipelines and toolchains to run models on consumer hardware. More behaviour will be generated instead of scripted, which means more rule collisions nobody previewed. The fix CDPR used still applies and is refreshingly analog: someone has to play the build and watch what actually happens.
+
+One question to chew on: Ralf wants EF AI-first. Which of our own agent workflows has had its drop-the-baby test, where two individually correct rules meet in front of an audience?
+
+### 4. Sony tells a court you bought a licence (gaming & esports industry)
+
+Four players sued Sony Interactive in June under California consumer law, arguing the PlayStation Store's Buy Now and Confirm Purchase buttons make people believe they own the games they pay for. Sony's reply, covered by VGC and picked up in the Gies W35 digest, argues the store already labels digital purchases as licences and that reasonable consumers understand this anyway. The filing adds an almost philosophical move: because a digital copy is infinite and everyone can buy the same one, nobody can own it.
+
+Strip the legal posture and a large commercial fact remains: the industry's biggest console platform is telling a court that the $70 transaction its storefront runs on is a revocable permission. Fortune ran the same story under a headline recalling that Sony once championed physical media. Every publisher selling skins, passes and digital editions inherits this argument the moment a fan asks what happens to a library when a server shuts down.
+
+One question to chew on: our events ask fans to invest deeper in exactly these digital economies. If a Game Partner revoked paid content the week of ENC, do we have a position ready, or do we improvise?
+
+#### News of the day
+
+- **The EU put Roblox under its strictest platform rules** (gaming & esports industry). On August 31 the European Commission designated Roblox and Reddit as Very Large Online Platforms and ChatGPT as a Very Large Online Search Engine under the Digital Services Act, the tier for services above 45 million EU monthly users (Roblox reported roughly 48 million). All three have until January 2027 to assess and mitigate systemic risks, minors' safety first among them, joining a strictest tier that now counts 28 services. The platform shaping the next generation of players and creators now carries Meta-grade compliance duties, and the age-assurance friction lands on exactly the young audience the whole industry is courting. [European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act)
+- **Valencia's Roig Arena counted 1.7 million visitors in year one** (live events & immersive). The privately funded arena hosted 310 events across sport and entertainment in its first 12 months. That is nearly an event a day, and it is the utilization number that makes the case for building venues at all: the building earns year-round around its basketball anchor tenant. A useful benchmark as Riyadh's venue stack gets ready for ENC. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/09/08/roig-arena-welcomes-1-7-million-fans-in-first-year/)
+- **Trailmix promoted the person already running it** (gaming & esports industry). Carolin Krenzer steps down as CEO of the Love & Pies studio after almost a decade, staying on as Executive Chair, and COO James Nicholas takes over after 8 months of running day-to-day operations. The ownership chain above them shows how consolidated casual mobile has become: Tencent owns about 84% of Supercell, Supercell holds the majority of Trailmix after a $4.2 million investment in 2018 and a 2022 takeover with $60 million in committed financing, and Love & Pies has earned $69 million in lifetime IAP on 11 million+ downloads, per AppMagic. Succession by promoting the operator who already carries the job is the boring version of the founder transition, and it is usually the one that works. [Gamigion](https://www.gamigion.com/trailmix-has-a-new-ceo/)
+
+**Sources (Edition #102)**
+
+- Esports Was Supposed to Be Bigger Than the NBA. What Happened? (THR + Sportico, September 2026 sports issue): https://www.sportico.com/business/sports/2026/what-happened-to-esports-1234943596/
+- Sinocism, 9 Sep 2026, MOFCOM response and Xi-Trump preview (free portion): https://sinocism.com/p/deflation-over-for-now-mofcom-responds
+- AI and Games, Post Gamescom (Dev) Musings, 2 Sep 2026: https://www.aiandgames.com/p/post-gamescom-dev-musings-020926
+- Sony says 'reasonable consumers' know they don't own the digital games they buy (VGC): https://www.videogameschronicle.com/news/sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-they-buy/
+- Gies W35, 4 Sep 2026: https://giesweekly.substack.com/p/savvy-ceo-brian-ward-steps-down-sony
+
+---
+
 ## 2026-09-09 (Edition #101)
 
 ### 1. Only two topics cleared the feasibility bar (leadership & negotiation)

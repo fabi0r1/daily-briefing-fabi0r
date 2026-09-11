@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-11 (Edition #103)
+
+### 1. Nintendo dared to launch 2 weeks before GTA 6 (gaming & esports industry)
+
+Nintendo dated the Ocarina of Time remake for November 5, a full 2 weeks before GTA 6, and Christopher Dring calls the pairing the console industry's Barbenheimer moment: two very different games pulling people back to the platform the way Barbie and Oppenheimer pulled people back to cinemas. His case rests on remake math. Resident Evil 2 and 4 remakes outsold their originals because the series had grown in the meantime, and Zelda grew more than most: Ocarina sold about 6.5 million in 1998 and again as the 2011 3DS edition, then Breath of the Wild took the franchise past 34 million and Tears of the Kingdom to nearly 23 million. The most beloved entry in the series has reached only a fifth of its modern audience.
+
+The attention data says the bet is landing. Per LevelUp, the Zelda Direct peaked at 2.1 million viewers (GTA 6's reveal did 4.1 million, Sony's State of Play last week did 1 million), and the Ocarina trailer hit 55 million views in under a day against 80 million for the GTA 6 Extended Look. Dring's read: you can share a month with a monster if you are distinctive and on a platform it skips. Worth holding against our own November, because GTA 6 lands in the middle of the ENC window in Riyadh.
+
+One question to chew on: in the week GTA 6 launches, does ENC counter-program, go quiet, or ride the wave with GTA-native creators on our channels, and who owns that call today?
+
+### 2. The licensor writes the AI policy now (AI x gaming)
+
+Tommy Thompson's 9 September issue pins down a contradiction worth keeping. Saber Interactive's CCO Tim Willits keeps making pro-AI headlines, including his line that someone will build "the Half-Life 2 of AI". The same week, he confirmed there is absolutely no generative AI in Saber's licensed projects: Warhammer 40,000 Space Marine 3, Jurassic Park: Survival, Hellraiser: Revival, none of it. Thompson's read is that the licensors leave no choice, and Games Workshop has publicly banned generative AI across all work touching its IP.
+
+So the loudest AI-experimenting studio in the industry runs AI-free productions wherever someone else owns the brand. The power over AI policy sits with the IP holder, and it gets exercised through the license, clause by clause. Saber's own experiments live only in Rideshare, the one project where nobody else's brand is at stake.
+
+One question to chew on: we produce broadcast and marketing content on 24 licensed games. Can we say, per Game Partner, whether generative AI is permitted in EWC assets about their title, or would we find out the day a publisher complains?
+
+### 3. Two insiders built the genius grant for games (gaming & esports industry)
+
+Geoff Keighley and Mark Cerny revealed the Nova Games Foundation through Game File on 8 September: a fellowship paying 20 young game designers $100,000 each per year, with about a quarter eligible for up to $500,000 more when a project shows promise. Payments follow development milestones, fellows own their games outright, and Nova takes no equity and recoups nothing. Applications open in December across 13 affiliated university programs in 8 countries (NYU, USC, Abertay, Cnam-Enjmin, TH Koln, RMIT among them), first fellows announced March 2027. Both founders put in multi-million dollar personal donations, hired an executive director and a head of grants, and Josef Fares is the first outside backer. Keighley's model was the Rhodes Scholarship and the MacArthur genius grants. Cerny's target: "games as an artistic medium."
+
+The line that stayed with me is Keighley's measure of success, that Nova "grows into something the entire games industry feels a sense of ownership in." Two private individuals just built a games foundation whose return is explicitly creative, with an endowment ambition designed to outlive them.
+
+One question to chew on: we are the organization with "Foundation" in its name. What is our Nova, a no-strings instrument for esports or MENA game talent, and is there a publisher co-funding version that costs little and buys a decade of goodwill?
+
+### 4. Sony and Kojima broke up without a single leak (leadership & negotiation)
+
+PlayStation Studios told Kojima Productions in mid-June it was cancelling Physint, the action-espionage game meant to be Kojima's return to Metal Gear territory. The public heard nothing for almost 3 months while Kojima quietly shopped the finished relationship. Then on Wednesday PlayStation announced it was stepping away, and within minutes Xbox confirmed it would publish the game, with CEO Asha Sharma saying "We're honored that Kojima-san has chosen Xbox." Sony's own statement praised Kojima's vision and left the door open to future work. Both of Kojima's projects (OD and Physint) now sit with Xbox, and the partnership extends into film and TV.
+
+The craft here is the exit choreography. Three months of silence, two statements landing together, and each side walks away with a story it can live with: Sony keeps the relationship warm, Kojima keeps the game alive, Xbox buys the creators-first narrative. The structural enabler is that Kojima Productions stayed independent, so the project could survive its funder.
+
+One question to chew on: titles exit EWC too, and more will. For the next removal, is the announcement language agreed and signed by both sides before the decision starts moving, or do we still improvise the exit after it leaks?
+
+#### News of the day
+
+- **Philadelphia's new arena showed its face, with a WNBA team as third anchor** (live events & immersive). The 76ers and Flyers unveiled the first exterior renderings of their shared arena on the old Spectrum site, opening in 2030 with the city's new WNBA expansion team as a third tenant. The facade stacks three cantilevered "bands" as a nod to the 1967 Spectrum, and the teams say the designs were shaped by fan feedback on public spaces and amenities. Three anchor tenants plus a neighborhood-economics story is becoming the standard financing frame for arenas, the same frame any permanent EWC or ENC venue case will be judged against. [Coliseum](https://www.coliseum-online.com/sneak-peak-at-flyers-and-76ers-new-philadelphia-arena/)
+- **Gamigion bought a conference business** (gaming & esports industry). The mobile-games outlet acquired HIT Games Conference, Eugene Lavrinenko's bootstrapped events operation that ran 23 events across 7 countries and gathered 15,000+ gaming professionals and 6,000+ brands. Founder Omer Yakabagi is folding it into a "Gamigion Growth Fest" push. A media brand converting its audience into a live-events business is the content-to-stage pipeline in miniature, and one of the brief's own anchor sources now owns a stage. [Gamigion](https://www.gamigion.com/gamigion-acquired-hit-games-conference/)
+- **Riot's Hall of Legends went live with Caps as its third inductee** (gaming & esports industry). The 2026 Hall of Legends event honoring G2's mid laner runs September 10 to October 20, pairing the induction film with an in-game event. Riot has turned retiring legacies into an annual commercial beat: player-first storytelling with a monetization engine attached, from the partner that already sets the template for how we tell player stories at EWC and ENC. [Riot Games](https://halloflegends.leagueoflegends.com/en-us/)
+
+**Sources (Edition #103)**
+
+- The Legend of Zelda: Ocarina of Time and GTA 6: The video game industry's Barbenheimer moment, Christopher Dring (The Game Business, 10 Sep 2026): https://www.thegamebusiness.com/p/the-legend-of-zelda-ocarina-of-time-6e9
+- Diving into 'The Sinking City 2', headlines block, Tommy Thompson (AI and Games, 9 Sep 2026): https://www.aiandgames.com/p/diving-into-the-sinking-city-2-090926
+- Exclusive: Two of gaming's biggest names are making a big investment in gaming's future, Stephen Totilo (Game File, 8 Sep 2026): https://www.gamefile.news/p/nova-games-foundation-mark-cerny-geoff-keighley
+- Kojima's Physint Dropped By PlayStation, Rescued By Xbox, Hayley Williams (GameSpot, 10 Sep 2026): https://www.gamespot.com/articles/kojimas-physint-dropped-by-playstation-rescued-by-xbox/
+
+---
+
 ## 2026-09-10 (Edition #102)
 
 ### 1. 300 esports orgs became fewer than 100, and the crowds stayed (gaming & esports industry)

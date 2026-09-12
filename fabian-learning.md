@@ -8,6 +8,57 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-12 (Edition #104)
+
+### 1. Stock the shelf before the summit (leadership & negotiation)
+
+Xi lands in Washington in under 2 weeks, and Bill Bishop's Thursday issue reads like an inventory of pre-agreed wins. MOFCOM confirmed talks on a reciprocal tariff cut covering $30 billion of products on each side, wanted done "at the earliest possible date". China bought about 1 million tons of US soybeans this week, per Reuters. The Pentagon upgraded its delegation to Beijing's Xiangshan Forum from last year's embassy attaché to its principal director for China policy, and the NDRC hosted more than 60 US companies, Nvidia and Dell among them, to talk up the investment climate.
+
+None of this is spontaneous warmth. Both sides are stocking a shelf of small, verifiable deliverables so the summit has something to announce on day 1, while the genuinely hard file stays parked (Bishop expects little from the AI track). That is the craft: a summit's success gets manufactured weeks in advance, in trades small enough to survive politics.
+
+One question to chew on: ahead of our next government-level ENC conversation with China, which 3 small deliverables could we bank in advance, so the meeting opens with progress already on the record?
+
+### 2. The 750,000 stayed, the map changed (gaming & esports industry)
+
+Polygon ran "Worst crash we've seen since the 1980s, says top gaming exec" last week, anchored on Tim Sweeney's warning about AAA budgets. Michail Katkoff pulled the numbers apart on Gamigion yesterday. The 1983 crash cut the market 97% in a single year, while today's industry grows about 3% adjusted for inflation. The global games workforce sat at roughly 750,000 in 2022 and sits at roughly 750,000 today, with North America down 12%, Europe up 6% and Asia up. For a AAA developer in Seattle or Guildford this really is the worst market of a career, and Katkoff grants that pain in full. The aggregate story is a relocation of jobs eastward plus a structural AAA cost problem, which one headline flattened into "the industry".
+
+He also lists what the doomer frame skips, including indie revenue up 6x in 10 years (a direct consequence of AAA retreating into safe sequels) and mobile growing double digits once ad revenue and web shops count. The mechanism matters for us because esports gets the same treatment: the Sportico piece from edition #102 flattened an org-level capital crash into a sector obituary while the audience held.
+
+One question to chew on: the next time an "esports is dead" piece reaches a BoT member, which 3 numbers do we hand them that separate segment pain from sector health, and are those numbers agreed today?
+
+### 3. Xbox put a meter on the cloud (AI x gaming)
+
+From November, Game Pass caps cloud streaming: 15 hours a month on Ultimate, 10 on Premium, 5 on Essential, extra hours sold on top. Joost van Dreunen's read is the sharpest I found this week. A streamed hour costs Microsoft around $0.45 and earns about $0.22 (his estimate against the 2022 leak data), and the same GPUs now have a more profitable tenant in Azure's AI customers. Cloud gaming was sold on abundance, and the abundance found a higher bidder.
+
+The bigger idea travels well beyond Xbox. Consumer software was built on near-zero marginal cost: serve one more user for free, win on scale. AI-era workloads carry real compute, electricity and depreciation per session, so scale now multiplies cost where it used to dilute it. Van Dreunen expects metered tiers and in-game advertising to spread as the pressure valves, and he points out that GTA VI's 80-hour story mode collides head-on with a 15-hour cloud cap.
+
+One question to chew on: which of our 2027 plans quietly assumes compute stays cheap (broadcast tooling, AI-first workflows, any cloud-delivered fan product), and what would we meter first if the bill doubled?
+
+### 4. Roblox learned Arabic before the regulator asked twice (gaming & esports industry)
+
+Roblox launched Roblox Arabia this week: dedicated Arabic-language channels for platform news, regional creators and communities. It stacks on the May 2026 MoU with Savvy on the Kingdom's game-development ecosystem and the decision to put Roblox's MENA headquarters in Riyadh. Niko's analysts read it as regulatory strategy as much as marketing. Roblox expanded Arabic moderation and safety after MENA regulators scrutinized content reaching young users, and a platform full of young users proves responsiveness through a local office and local moderation, in the local language.
+
+For a platform whose core asset is other people's content, the license to operate in a market is earned in advance, before the incident that tests it. Roblox is building that political capital in our market right now, on its own account.
+
+One question to chew on: our Roblox track will meet a Riyadh-based Roblox team within months. Does our proposal add to their regulatory story or sit beside it, and who owns finding that out before the HQ opens?
+
+#### News of the day
+
+- **Bloomberg: PIF is weighing a merger of EA and Savvy Games Group** (gaming & esports industry). Reported Thursday: executives are evaluating combining the two operations into one of the world's largest gaming companies, aimed at better coordination across PIF's gaming investments. No final decision has been made, and any deal waits until Savvy closes the Moonton acquisition. A merger would put EA Sports FC, Battlefield, Monopoly GO, Pokémon GO and Mobile Legends under one structure, meaning several of our Game Partners would consolidate under a single owner next to ESL. [Yahoo Finance](https://ca.finance.yahoo.com/news/saudi-arabia-considers-merging-ea-173947049.html)
+- **A Steam mishap published achievements for unannounced games** (gaming & esports industry). In the early hours of September 9, Steam's API briefly made achievement data public for unreleased and unannounced titles, surfacing on tracker Exophase: Kingdom Hearts 4, Persona 6, Silent Hill: Townfall and roughly 15 unannounced projects. Gies leads its W36 issue with the story. Years of announcement choreography can be undone by one configuration slip in platform plumbing, which is worth remembering for every embargoed reveal we run with publishers. [Gies W36](https://giesweekly.substack.com/p/massive-steam-leak-outs-unannounced)
+- **Don't Nod warned it may not survive past January 2027** (gaming & esports industry). The Life is Strange studio's cash fell from $17.9 million to $9.3 million and it filed a going-concern warning saying it may be unable to continue operating past January 31, 2027, per Christopher Dring's 10 September edition. A listed, established narrative studio running out of runway is the mid-market squeeze compressed into one balance sheet. [The Game Business](https://www.thegamebusiness.com/p/the-legend-of-zelda-ocarina-of-time-6e9)
+- **LA28 has already sold more than 6 million Olympic tickets** (live events & immersive). More than 6 million tickets are sold for the Los Angeles 2028 Games, nearly 2 years before the opening ceremony. Demand banked that early is the benchmark for multi-week mega-event ticketing, and a live case study in how staged releases keep momentum across a long sales window. [Coliseum](https://www.coliseum-online.com/more-than-6-million-tickets-already-sold-for-la28-olympics/)
+- **Dubai expanded its games-hub play with Xsolla** (gaming & esports industry). The Dubai Films and Games Commission is launching a games accelerator with Xsolla in October, home to only the second permanent Xsolla Club worldwide. Dubai now counts 495 gaming companies, up 34.5% in 2 years, and its Program for Gaming 2033 targets a top-10 global hub, roughly 30,000 games jobs and about $1 billion in GDP contribution. The regional race for developer infrastructure runs on accelerators and headquarters, and it is happening on our doorstep. [GamesBeat](https://gamesbeat.com/dubai-deepens-xsolla-ties-with-october-accelerator-launch/)
+
+**Sources (Edition #104)**
+
+- Sinocism, 10 Sep 2026, Xi going to India / US-China pre-summit items (free portion): https://sinocism.com/p/xi-going-to-india-plan-for-building
+- Worst crash since we have seen 1980s!, Michail Katkoff (Gamigion, 11 Sep 2026): https://www.gamigion.com/worst-crash-since-we-have-seen-1980s/
+- The end of cheap compute, Joost van Dreunen (SuperJoost Playlist, 9 Sep 2026): https://superjoost.substack.com/p/the-end-of-cheap-compute
+- Roblox launches Arabic social media channels, Niko News by Niko Partners, 10 Sep 2026: https://substack.nikopartners.com/p/roblox-launches-arabic-social-media
+
+---
+
 ## 2026-09-11 (Edition #103)
 
 ### 1. Nintendo dared to launch 2 weeks before GTA 6 (gaming & esports industry)

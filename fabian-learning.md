@@ -8,6 +8,104 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-14 (Edition #106)
+
+### 1. Casual lost 22.7 billion hours and the scoreboard missed it (gaming & esports industry)
+
+Josh Chandley pulled a Sensor Tower series apart on Gamigion. Casual mobile has lost attention for 5 straight years, down from 80.8 billion to 58.1 billion total hours. Over the same window hypercasual added 18.4 billion hours and hybridcasual added 5.2 billion, so between them they gained more than casual lost. A shift that size barely registered as an industry story.
+
+His explanation is the measurement. The industry keeps score in in-app purchase revenue, and on that scoreboard the biggest hypercasual game in the world reads as roughly zero, because Block Blast's $25 million a month is ad money. Time spent has no such blind spot. Every minute counts the same way. His line is worth keeping: monetization is the half you can fix more easily, attention you have to earn.
+
+One question to chew on: which number do we actually run EWC and ENC by, and does it carry the same blind spot? If hours watched and hours played slid while sponsorship revenue held, how long before anyone at EF noticed?
+
+### 2. The pilot ran 25% faster and the job got worse (AI x gaming)
+
+Tommy Thompson gave a Gamescom talk called "Five Mistakes Studios Make When Embracing AI", written up by Ben Touati at Popkulturist on Thursday. The mistake that stuck with me is the measurement one. A studio runs an AI pilot, the process comes out 25% faster, the pilot gets written up as a win, and the developers hate the new workflow. Time saved, job degraded. Thompson wants the qualitative result sitting beside the number every time.
+
+Under that sits a sharper observation about how work actually happens. A company tells him a process has 5 steps. Watch people do it and there are 27, one of which contains another 101 smaller steps, and the order changes depending on who is doing it. The 5-step version was honest. It just left out everything people do without thinking. Automation projects then rebuild the tidy version and the mess reappears somewhere else. He also warns live teams on 2-week cadences about building a process around an external model that can change, price up, or go away.
+
+One question to chew on: Ralf wants us AI-first. On the workflow we automated most recently, did anyone map the real 27 steps first, and did we ask the people doing the work whether their day got better?
+
+### 3. Rockstar and its fired workers are arguing about different rooms (leadership & negotiation)
+
+Game Developer obtained both opening filings in the Glasgow employment tribunal over Rockstar's dismissal of 34 workers in October 2025, and the two documents barely touch. The claimants argue union busting on a timeline. They say a junior employee fed information from the union Discord to an HR manager from at least February 2024, that over 21 months there were at least 26 meetings or communications about that server, and that managers received removal lists the evening before the dismissals began, days after the union crossed the 10% membership threshold for statutory recognition in the UK.
+
+Rockstar argues confidentiality. It describes an embedded culture of confidentiality, compares guarding GTA VI's design frameworks to Apple protecting the iPhone, and asks the tribunal to picture the Discord as 3 physical rooms, the largest holding almost 350 people, most of them anonymous behind aliases. It says it fired 3 non-union members in Canada for the same conduct. The hearing runs to 16 October. What travels beyond this case is the paper trail: 21 months of quiet monitoring became thousands of pages of disclosure, and every message either side typed is now a document being read aloud in public.
+
+One question to chew on: our sensitive conversations live in Slack, WhatsApp and Discord. If a tribunal ordered disclosure of ours tomorrow, which channel would we least want read out, and why is it still running in that form?
+
+### 4. Steam's growth came from games nobody launched this year (gaming & esports industry)
+
+Buried in the Office Hours section of Joost van Dreunen's 9 September issue is a figure worth pulling out of the cloud-metering argument it sits inside. Steam revenue in the first half of 2026 grew $1.41 billion, up 15% year on year. Back-catalog sales added $1.8 billion while new releases shrank by $0.39 billion. The catalog carried the whole growth number and then some.
+
+He also answered the obvious objection, that this is just old blockbusters counted as mid-market. A reader with access to the data found former blockbusters make up around 20% of the Top 100 upper-mid-market, rising for a few years now, with the larger share still smaller hits from that year and thick-tail titles from earlier ones. So the shelf is doing the work, not one or two revived giants. For a business that plans around launch windows, that is a quiet reordering of where the money comes from.
+
+One question to chew on: our calendar is built on launch moments, an EWC summer and an ENC window. What is our back catalog, the thing that earns attention in the months nobody is watching, and who owns growing it?
+
+#### News of the day
+
+- **Xbox exempted existing Game Pass members from the cloud cap** (gaming & esports industry). Microsoft told current subscribers that November's cloud streaming hour caps do not apply to them, and only in certain countries. Set that against last week's read on metered cloud gaming: the new economics are real, and grandfathering existing members is the churn brake while the meter applies to everyone who joins next. Worth watching which countries got the carve-out and which did not. [VGC](https://www.videogameschronicle.com/news/xbox-tells-existing-game-pass-members-its-new-cloud-gaming-cap-doesnt-apply-to-them-but-only-in-certain-countries/)
+- **Valve quietly made the Steam front page personal** (gaming & esports industry). Simon Carless noticed smaller Steam games pulling more front-page referral traffic than usual and traced the cause: Valve changed the featured games in the store's Discounts & Events section (the slots that are not the Daily Deal) to be personalised to a logged-in player's interests. It shipped without an announcement and pushes visibility toward the long tail. When the biggest storefront in PC gaming changes its shelf logic in silence, the teams who spot it first get the head start. [GameDiscoverCo](https://newsletter.gamediscover.co/p/does-your-steam-demo-ccu-predict)
+- **Gorillaz's House of Kong is running in Brooklyn through 28 September** (live events & immersive). The Gorillaz exhibition, first staged at London's Copper Box Arena in 2025 and then Los Angeles in February, is in New York for a limited run from 1 to 28 September. Curated with Jamie Hewlett and Damon Albarn, it puts a band's whole fictional world into a walkable, ticketed space. Three cities inside about 13 months is the touring model any games IP thinking about physical formats should be studying. [Time Out New York](https://www.timeout.com/newyork/news/gorillaz-is-bringing-its-immersive-exhibit-house-of-kong-to-nyc-in-september-062626)
+
+**Sources (Edition #106)**
+
+- Casual Fell. Hypercasual Doubled!, Josh Chandley (Gamigion, 11 Sep 2026): https://www.gamigion.com/casual-fell-hypercasual-doubled/
+- Tommy Thompson of AI and Games: When 25% Faster Is Worse, Ben Touati (Popkulturist, 10 Sep 2026): https://popkulturist.com/games/tommy-thompson-has-a-problem-with-your-ai-productivity-number/
+- Rockstar and fired GTA developers outline core arguments during union busting tribunal, Chris Kerr (Game Developer, 11 Sep 2026): https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developers-outline-core-arguments-during-union-busting-tribunal
+- The end of cheap compute (Office Hours section), Joost van Dreunen (SuperJoost Playlist, 9 Sep 2026): https://superjoost.substack.com/p/the-end-of-cheap-compute
+
+---
+
+## 2026-09-13 (Edition #105)
+
+### 1. Billions of downloads, and the AI skipped it (AI x gaming)
+
+Outfit7 spent 6 months testing how Talking Tom & Friends shows up inside the major AI engines, and Gamigion published the result on Friday. Ask an AI about Outfit7 and it answers confidently. Ask it for the best virtual pet games and Talking Tom often vanished, on a franchise with billions of downloads. The team, led by Senior Director of Engineering Primož Bevk, built 50 real discovery prompts out of support emails, app reviews, Reddit and Google Trends, then measured presence across the major models. It started largely invisible and now sits around 90%.
+
+What moved it was dull work. Rewritten titles and descriptions, structured data (SoftwareApp, Article, Video and Organisation schema), crawlability, consistent facts across their own pages and third-party ones. Bevk's rule: "If there is no crawl, there is no citation." AI referral traffic to TalkingTomAndFriends.com rose 357%, and he flags his own caveat, that this is a proxy because app stores hide AI-driven installs. The harder signal came separately: ChatGPT now appears as a standalone install source in Outfit7's app store reports.
+
+One question to chew on: if a fan asks an AI where to watch the Honor of Kings final or which esports event pays the most, does EWC come back? Who at EF has actually run that test, and on how many prompts?
+
+### 2. A Steam demo predicts about 3x, and the spread is the real lesson (gaming & esports industry)
+
+Simon Carless ran a number GameDiscoverCo had never formally checked: what a demo's concurrent players say about the finished game. Across 2,569 Steam games launched between January 2024 and August 2026 with a demo above 50 concurrents, the median peak all-time CCU of the full game was 3.01x the demo's peak. He also found 58 of 2026's top 100 grossing Steam games had a pre-release demo, including only 6 of the top 20 and 15 of the 20 ranked 81 to 100. Below the Forza-sized games, demos are now normal.
+
+The spread is where the thinking happens. The top 20 to 30% of demos convert at 6.24x and the bottom 20 to 30% at 1.29x, so a team that needs a 16x multiplier to hit its sales target is planning on a top-10% outcome. Carless suggests modelling at 2x to 4x. A cheap public test, run early, converts a hope into a probability you can argue about with a finance team.
+
+One question to chew on: our version of a demo is a qualifier or a satellite event. Do we know the historical multiplier from qualifier engagement to main-event viewership, per title? If not, what would it cost to build that table before the next title decision lands?
+
+### 3. Ubisoft put players in before the first playable (leadership & negotiation)
+
+Ubisoft's Player Council, announced at Gamescom and now soft launched on PC, invites players to test early concepts, prototypes and live experiences. Council director Vye Alexander describes the point precisely: gathering feedback before a game even reaches the first playable prototype stage. Her words to Game Developer: "The Player Council is really getting at incubating ideas with players instead of testing out market potential later on." It opened with 4 projects, the shipped Riders Republic and the 2017 shooter Atomega, plus two concept-stage projects, Codename Split Point and Codename Rook.
+
+The structure is the craft. Members sign an NDA, and a tier system moves players who give constructive feedback up into more sensitive projects and earlier-stage content. Access is the reward, so trust compounds in both directions. Alexander is also clear that no Ubisoft team is forced in, each studio decides case by case. That is how a feedback body earns authority: people qualify into it, and the teams opt into it.
+
+One question to chew on: our clubs, players and Game Partners mostly tell us things after the fact. What would an EF Player Council look like for ENC 2027, and which single decision would we be willing to let them shape before it is made?
+
+### 4. Blizzard sold nostalgia a permanent address (gaming & esports industry)
+
+BlizzCon ran Friday and Saturday, and the headline was World of Warcraft Forever, announced as a permanent home for Classic players rather than another time-limited re-run. Diablo V got its reveal, and StarCraft came back as an open-world shooter. A 22-year-old game's oldest version becoming a standing product line says something about where the value sits in a long-running franchise: in the version people already loved, kept alive on purpose.
+
+The other half of the story arrived within a day. Fans started pushing back on the paywalling of WoW Forever's Skyborne cosmetic elves, which is the same argument that follows every attempt to monetise a nostalgia product. The audience showed up for the thing they remember, and anything sold on top of it gets measured against that memory rather than against current market prices.
+
+One question to chew on: EWC has 5 editions of history now. What is our Classic, the format or moment fans would come back for on purpose, and would we monetise it or protect it?
+
+#### News of the day
+
+- **Esports gets 11 medal events at the Asian Games** (gaming & esports industry). The esports programme at Aichi-Nagoya runs 23 September to 2 October at Exhibition Hall D of the Aichi Sky Expo, with 11 medal events across 13 titles, up from 7 medal events at Hangzhou. League of Legends, Honor of Kings and Mobile Legends: Bang Bang are all on the programme, and the fighting-game medal is a single team event combining Street Fighter 6, Tekken 8 and The King of Fighters XV. A multi-sport federation growing its esports programme on Japanese soil, 9 days from now, is worth reading closely given where our Japan conversations sit. [Olympics.com](https://www.olympics.com/en/news/asian-games-2026-esports-medal-events-list)
+- **The GTA 6 reveal moved console hardware** (gaming & esports industry). Nielsen IQ data given to The Game Business shows UK PS5 sales jumped 33% in the week after the GTA 6 Netflix reveal, with Xbox Series S and X up 34%. One game's trailer pulling double-digit hardware growth for both platforms in a single week is the cleanest measure yet of what a genuine tentpole does to a market, and it lands 2 weeks before our ENC window. [The Game Business](https://www.thegamebusiness.com/p/gta-6-reveal-causes-xbox-and-playstation)
+- **London's South Bank got a permanent physical-gaming venue** (live events & immersive). Arcade Arena opened on 5 September with 3 attractions under one roof: the PAC-MAN Live Experience, Chaos Karts (electric karts on projection-mapped tracks, no headsets) and Alien Invasion, billed as the UK's first drone-based live experience. It comes from the team behind The Crystal Maze Experience, and the design decision worth noting is flexibility: one building running several high-capacity experiences at the same time. That is the model any permanent EWC or ENC fan venue gets measured against. [Immersive Rumours](https://www.immersiverumours.com/post/arcade-arena-london-confirms-september-opening-date)
+
+**Sources (Edition #105)**
+
+- Beyond App Stores: Does AI Recommend Your Game? (Gamigion, 11 Sep 2026): https://www.gamigion.com/beyond-app-stores-does-ai-recommend-your-game/
+- Does your Steam demo CCU 'predict' your game's success?, Simon Carless (GameDiscoverCo, 8 Sep 2026): https://newsletter.gamediscover.co/p/does-your-steam-demo-ccu-predict
+- Ubisoft debuts Player Council platform to expand early game development feedback, Bryant Francis (Game Developer, 26 Aug 2026): https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback
+- BlizzCon 2026: World of Warcraft Forever is a 'permanent home' for Classic players, Eliot Lefebvre (Massively Overpowered, 12 Sep 2026): https://massivelyop.com/2026/09/12/blizzcon-2026-world-of-warcraft-forever-announced-as-a-permanent-home-for-classic-players/
+
+---
+
 ## 2026-09-12 (Edition #104)
 
 ### 1. Stock the shelf before the summit (leadership & negotiation)

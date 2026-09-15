@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-15 (Edition #107)
+
+### 1. Riot is building something you have to buy (gaming & esports industry)
+
+At a PAX West fireside chat marking Riot's 20th anniversary, co-founder and chief product officer Marc Merrill said the studio is working on projects that are not free-to-play. His words: "We're working on some stuff that isn't [free-to-play]", and there is "no strategic imperative" for every Riot game to use that model. In a follow-up interview he explained the reasoning. Free-to-play works well for long-term games with optional cosmetics, and in other game types it creates design problems that "can impact the integrity of the experience". No title, format or date was announced.
+
+The sharper line is the one about time: "not every game needs to be infinite." Riot spent 20 years building games designed never to end, and its product chief is now saying out loud that some games should have a last page. Riot Forge, which published paid games through external studios, was wound down in 2024, so these would be premium games Riot builds itself.
+
+One question to chew on: our whole competitive calendar assumes titles are infinite live services. If Riot ships a premium game with an ending, is that ever an EWC or ENC title, or does our model quietly exclude a category our biggest Game Partner is about to enter?
+
+### 2. When the AI is the mechanic, every round costs money (AI x gaming)
+
+Max Abrahamsen looked at 3 games that put AI inside the core loop rather than in the asset pipeline. MIMESIS (ReLU Games, inside KRAFTON) is a 4-player co-op horror game where the monster imitates your teammates, replaying voice lines recorded in-session that an AI selects based on the conversation and game state. Death by AI drops players into a deadly scenario, gives them 60 seconds to type how they plan to survive, and lets an AI game master rule on it. Status is a simulated social network where the other people are AI characters with personalities and memories.
+
+The economics are the part worth carrying. Death by AI passed 20 million players within 3 months of its Discord launch, and its original OpenAI plus ElevenLabs stack became financially unsustainable within 3 days, because engagement and cost rise together. At peak, Discord says it was generating roughly 1.2 billion text tokens and 35 million voice characters per day. Status reportedly cost $12 to $15 per user per day during beta before it re-architected. Abrahamsen's conclusion: inference cost is now part of COGS, so model economics sits next to monetisation in the design. None of the 3 came from an AAA studio.
+
+One question to chew on: when we put AI inside a fan-facing product at EWC scale, who owns the per-session cost line, and would the finance model survive the product actually being popular?
+
+### 3. They got dumped, kept the house, and read the offers (leadership & negotiation)
+
+Amazon walked away from Clutch, the open-world racing game from Maverick Games, a UK studio founded by Forza Horizon leads. Christopher Dring's interview with creative director Mike Brown and COO Harinder Sangha explains why that was survivable. Amazon had essentially fully funded the game and handed it back, and Brown knew the terms cold: all rights returned, favourable timing on the commercials. His description of the break-up call: "They're breaking up with you, but you get to keep the house and the car. And the dog."
+
+Then the market told on itself. With a finished, de-risked game and no need for development funding, Maverick received offers carrying worse revenue shares than its original deal. Sangha: "there were publishers that thought, 'Right, we can absolutely take advantage of these guys.'" Brown's posture was the lever. The studio was ready to self-publish, and he wanted publishers to feel "we don't need you". They signed with Focus Entertainment for a reason worth stealing: senior Focus people spent a full week playing the game and kept playing afterwards. Sangha's aside is the one that stings, that quite often partners simply never play it.
+
+One question to chew on: on the last 3 partnership deals we signed, did the other side's senior people spend real time inside the product? And when we negotiate from a strong position, does our opening read like we know it?
+
+### 4. Two rivals can cooperate without trusting each other (leadership & negotiation)
+
+Nick Corvino argues on ChinaTalk for a narrow US-China deal on nucleic acid synthesis screening, which is a security check on custom DNA and RNA orders before a provider ships them. The framing underneath the policy is the transferable part. He splits cooperation in two. Contingent cooperation only works if both sides act at the same time, so a defection leaves the cooperator worse off. Demonstrated cooperation is each side independently doing something it already wants to do, then showing evidence that it did.
+
+Screening fits the second kind. Neither government wants a pandemic starting inside its borders, so each can mandate screening at home and report aggregate numbers, with no promise to police and no way to be played. Trust then accumulates as a by-product of repeated proof, which buys room for the harder items later. Corvino's line on the ambition: "My kind of arms race is one where each side competes to prove it is screening more thoroughly than the other." He also flags that roughly 34% of the world's DNA synthesis providers are in China, which is why an America-only regime would leave the loophole open.
+
+One question to chew on: our China and Japan tracks keep stalling on items that need simultaneous commitments. Which single thing could each side just do on its own and show us it did, so we start banking proof instead of promises?
+
+#### News of the day
+
+- **Saudi players are among the most ad-tolerant in the world** (gaming & esports industry). Mariusz Gąsiewski pulled Statista Consumer Insights global survey data from mid-2026 showing users in emerging markets including Thailand, Indonesia and Saudi Arabia are far more accepting of advertising when the content is free, while Switzerland, Austria and Japan report the most annoyance. South Korea sits in an interesting middle, tolerant of ads but with a high quality bar. The post publishes the chart rather than the underlying percentages, so treat the direction as the finding and pull exact figures from Statista before quoting any number. For ad-supported and sponsorship-heavy formats aimed at our home market, that tolerance is an asset worth designing around. [Gamigion](https://www.gamigion.com/many-users-are-ok-with-ads/)
+- **Honor of Kings: Ace launched in China on more than 70 million pre-registrations** (gaming & esports industry). Tencent released the strategy hero card battler on 10 September. It was first announced in 2022 as an auto-chess style spin-off and adapts familiar Honor of Kings heroes into team-composition and card mechanics. Honor of Kings is one of our titles, so a spin-off at that scale reshapes the franchise's audience and gives Tencent a second competitive surface to bring to us. Worth asking our Tencent counterparts what Ace means for the main game's esports calendar. [Niko News](https://substack.nikopartners.com/p/roblox-launches-arabic-social-media)
+- **100,021 people watched the NFL's first regular-season game in Australia** (live events & immersive). The 49ers beat the Rams 27-7 at the Melbourne Cricket Ground on 11 September, and the MCG says the crowd is the 7th largest for any NFL regular-season game and a few thousand short of the all-time record. Melbourne joins London, Madrid and Berlin on the NFL's international schedule. A league exporting one fixture and filling a 100,000-seat venue in a market with no home team is the closest live comparison to what ENC is attempting with countries and territories. [MCG](https://www.mcg.org.au/news/2026/september/touchdown-down-under-for-historic-nfl-match)
+- **English mayors are getting the power to tax overnight visitors** (live events & immersive). The UK government confirmed on 10 September that mayors in England can introduce a visitor levy charged as a percentage of the accommodation price, covering hotels, guesthouses, hostels, campsites and short-term lets. No national cap was set, though Labour's regional mayors have pledged to hold it at 5%, and the fees are expected before the end of 2029. Host-city economics for anything we take to England now carry a tax line that did not exist, set locally rather than nationally. [blooloop](https://blooloop.com/news/england-tourist-tax-overnight-levy)
+
+**Sources (Edition #107)**
+
+- Riot is working on games beyond free-to-play: "not every game needs to be infinite", Lucy Phillips (Dork, 8 Sep 2026): https://readdork.com/gaming/riot-is-working-on-games-beyond-free-to-play-not-every-game-needs-to-be-infinite-13363964
+- How AI is Unlocking Novel Game Mechanics, Max Abrahamsen (Naavik, 1 Sep 2026): https://naavik.co/ai-gaming/how-ai-is-unlocking-novel-game-mechanics/
+- "Some of the offers were actually offensive" - How Clutch found its publisher, Christopher Dring (The Game Business, 8 Sep 2026): https://www.thegamebusiness.com/p/some-of-the-offers-were-actually
+- US-China Biorisk Cooperation: Yes, It's Possible, Nick Corvino (ChinaTalk, 8 Sep 2026): https://www.chinatalk.media/p/us-china-biorisk-cooperation-yes
+
+---
+
 ## 2026-09-14 (Edition #106)
 
 ### 1. Casual lost 22.7 billion hours and the scoreboard missed it (gaming & esports industry)

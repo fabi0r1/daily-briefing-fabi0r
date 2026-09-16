@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-16 (Edition #108)
+
+### 1. He needed 400,000 copies and sold 2 million (leadership & negotiation)
+
+In December last year, Bulkhead CEO Joe Brammer told his 100-person team they faced redundancy and advised anyone with an offer to take it. Tencent, the owner, wanted out. A deal with Hiro Capital and Everplay (Team17's parent) came through, and survival then rested on Wardogs, a 100-player tactical shooter scaled back from AAA ambitions into Early Access. The bare minimum was 400,000 copies. 600,000 would have been okay. Pre-orders alone hit 1 million, and sales have now passed 2 million. After 6 straight years of cutting roughly 20% of the company, this is the first year Bulkhead will make no redundancies.
+
+The part worth keeping is what Brammer says about his own reputation. Players and press call Bulkhead transparent and honest. His answer is that the studio is being clear, and that it is not telling everyone everything it does. He treats the borrowed label as a liability: once people believe you are transparent, the first thing you hold back reads as a betrayal of a promise you never made. Related, and useful for publisher rooms: when Bulkhead says "we know what we're making, if you don't like it, don't fund it", he finds senior people respond well and the middle management layer is where it grinds, because that is whose position the posture threatens.
+
+One question to chew on: when we tell Game Partners we are transparent, are we describing a behaviour or promising one? And which layer inside those partners actually decides?
+
+### 2. The 1995 AI sized itself against you (AI x gaming)
+
+EA shipped the Command & Conquer source code with the remaster, and Tommy Thompson spent this week reading it. The enemy commander in Tiberian Dawn plays by the player's economic rules. It mines the same Tiberium, and it only builds a barracks or war factory if it holds enough cash to then produce something from them. Each AI house sits in 1 of 5 states (Build Up, Broke, Threatened, Attacked, Endgame), re-checks which state it is in at most every 10 seconds, and runs its whole decision logic at 15 frames a second.
+
+The clever bit is the ceiling. Each house counts the average number of buildings, units, aircraft and infantry that every other player has built, then caps itself slightly above that average. So the longer you spend massing an army, the bigger the army you hand your opponent. One cheat survives, and it is documented: the AI ignores fog of war. Lose your construction yard with no way to rebuild and it triggers a fire sale, selling every building and sending every unit out to hunt. My read for us, not Thompson's: that ceiling rule is the discipline our internal AI rollout is missing. A tool that measures what the team around it already does and then reaches slightly past that gets used. One that runs at full power regardless gets switched off.
+
+One question to chew on: if we sized our internal AI tools to what the team is doing today plus a bit, would adoption look different?
+
+### 3. A Chinese dub and a $44 price moved 42% of the copies (gaming & esports industry)
+
+Onimusha: Way of the Sword is the first new entry in the series in over 2 decades, and Capcom says it has shipped past 1 million copies. Alinea estimates close to 900,000 sold through to players across Steam, PlayStation and Xbox, with almost 400,000 on Steam worth roughly $23 million. About 42% of those Steam copies came from China, its top market by a wide margin, with the US second at 15%. These are Alinea's estimates rather than Capcom figures, so verify before quoting any of them.
+
+Rhys Elliott puts the China result down to 3 things: the game is good, it shipped with a full Simplified Chinese voiceover, and it was priced for the market at about $44.40 against $69.99 in the US. The demo carried the rest. Around 40% of Steam buyers played it first, 25% of everyone who played the demo went on to buy, and 37% of demo players were in China. Every internal argument we make about Arabic voiceover and MENA pricing has exactly this shape, and here is an external number to put behind it.
+
+One question to chew on: which of our Game Partners has a full Arabic VO plan for 2027, and which is still shipping subtitles and calling it localisation?
+
+### 4. One creator carried half the citations in her category (AI x gaming)
+
+Kalie Moore of High Vibe, talking to Joseph Kim, pulled the citation data behind what language models say about games. In the cozy games category, 25% of citations came from YouTube, and a single video by a creator named Sid Mack carried 86 of them, about half the category. She runs a mid-size channel of roughly 500,000 subscribers. Moore's warning goes with it: Reddit made up almost 4% of ChatGPT search citations and dropped 86% on 14 August, per PromptWatch, so never let one source carry your ranking, because the models reweight without telling you.
+
+Then she interrupted her own answer to give one rule: do not use AI to write thought leadership. "You lose everyone." She credits the underlying argument to Lulu Cheng Meservey. AI makes everyone average, lifting the below-average up and pulling the above-average down into the middle, and the flattening starts in the thinking long before it shows up in the cadence. Her proof is her own record. A client handed her a media list a model had generated, including a journalist who had died, and cleaning it cost more time than building the list from scratch. She wrote a post about being annoyed. It did around 20,000 views, her best.
+
+One question to chew on: which of our public arguments would survive being read aloud by the person whose name is on it?
+
+#### News of the day
+
+- **Riot is putting Tier 2 teams on a global stage for the first time** (gaming & esports industry). The World Star Challengers Invitational runs 20 September to 2 October with 16 teams: 3 each from China, Korea, APAC, the Americas and EMEA, plus a direct invite for Asia Masters champion Dplus KIA Challengers. Four double round robin groups feed a single-elimination bracket. It takes the Asia Masters and EMEA Masters idea and turns it into one international competition for the academy layer. A global stage for teams with no tier-1 slot is the same pipeline argument ENC makes for countries and territories without an established scene. [Sheep Esports](https://www.sheepesports.com/en/articles/all-upcoming-league-of-legends-international-events-in-2026/en)
+- **A $179 million MMO launch pulled 5 million registrations in a day** (gaming & esports industry). Niko Partners reports Kuaishou's Lord of Mysteries, adapted from the Chinese web novel, launched 21 August on iOS, Android, HarmonyOS and PC with a reported RMB 1.2 billion (about $179 million) in total development and marketing spend. 1 million registrations landed in the first hour and more than 5 million inside 24 hours, week-one gross passed $20 million across platforms, and it drew 5.6 million livestream viewers across Huya, Douyu and Bilibili in August. Niko adds its own caution: a 7.2 TapTap rating and too early to call it a success. Spend at that level buys the launch curve, and the retention question stays wide open. [Niko News](https://substack.nikopartners.com/p/livestreaming-tracker-august-2026)
+- **18 people and 274 people produced the same 25.4 million downloads** (gaming & esports industry). Gamigion took 10 Turkish mobile studios, divided their August 2025 to August 2026 downloads by current headcount, and ranked them. Oreon (18 staff) and Good Job Games (274 staff) both sit at 25.4 million downloads, while Dream Games generated around $3.85 million in estimated IAP revenue per employee on 163.2 million downloads across 480 people. Gamigion says plainly this is not an efficiency ranking, since genres, geographies and monetisation models differ. Headcount and output decoupling this far inside one country and one category is worth holding next to any org-design conversation. [Gamigion](https://www.gamigion.com/how-many-downloads-does-1-employee-generate/)
+- **Madrid sold 353,000 seats on a circuit stitched out of buildings it already had** (live events & immersive). F1's Spanish Grand Prix returned to Madrid after 45 years, selling out at 353,000 across the weekend on the new 5.4km Madring, a hybrid layout running through the IFEMA exhibition centre, Real Madrid's Valdebebas training complex and a stretch of public road. IFEMA holds a 10-year deal, and Real Madrid and Atlético both signed on as local event supporters. Drivers were blunt about the racing: Lando Norris wants turns 18 and 19 gone, and Kimi Antonelli said cars get stuck behind each other. A venue assembled from infrastructure a city already owns, filling to capacity and taking product criticism on day 1, is the closest live analogue to a first-year event in a place that has never staged one. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/09/14/madrings-f1-debut-attracts-353000-fans/)
+
+**Sources (Edition #108)**
+
+- The shooter that Tencent abandoned: Wardogs hits 2m sales in one weekend, Christopher Dring (The Game Business, 15 Sep 2026): https://www.thegamebusiness.com/p/the-shooter-that-tencent-abandoned
+- Exploring the AI of Command & Conquer, Tommy Thompson (AI and Games, 14 Sep 2026): https://www.aiandgames.com/p/exploring-the-ai-of-command-conquer
+- This year's top PlayStation Plus games (so far), Rhys Elliott (The Alinea Insight, 8 Sep 2026): https://alineaanalytics.substack.com/p/this-years-top-playstation-plus-games
+- PR for Gaming Studios, Joseph Kim with Kalie Moore of High Vibe (GameMakers, 1 Sep 2026, evergreen craft material): https://www.gamemakers.com/p/pr-for-gaming-studios
+
+---
+
 ## 2026-09-15 (Edition #107)
 
 ### 1. Riot is building something you have to buy (gaming & esports industry)

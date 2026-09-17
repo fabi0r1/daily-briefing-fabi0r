@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-17 (Edition #109)
+
+### 1. Playstack keeps a 15% failure budget (gaming & esports industry)
+
+Playstack, the UK publisher behind Balatro, has kept a hit ratio above 85%, meaning most of the titles it publishes return their external development cost. The numbers behind that sit in parent company TruFin's annual report: return on invested development capital above 300% across the console portfolio, an internal rate of return above 180%, profit before tax of £12.2 million in 2025 against £7.7 million in 2024, and the catalogue now past $100 million lifetime on Steam. CEO Harvey Elliott spoke to The Game Business today and made the part that stuck with me: he does not want that ratio at 100%. A perfect record would mean the slate had stopped carrying real risk, and the odd ideas are exactly where indie publishing earns its money.
+
+What is useful here is treating the missing 15% as a line item you budget for. In a Game Partner conversation our default question is "will this deliver". Elliott is answering a different one: how much unmodellable upside are we buying. EF's programme has the same shape, where the titles we can forecast pay for the ones we cannot, and the ones we cannot are where the next EWC moment comes from. (The 85% figure comes from TruFin's 2025 annual report, first reported in March, so it is restated rather than new.)
+
+One question to chew on: what share of our 2027 slate is deliberately unmodellable, and who signs off on that number?
+
+### 2. The bottleneck moved from making to checking (AI x gaming)
+
+Michail Katkoff published something short and blunt on Gamigion yesterday. AI tools raised his output sharply, and that moved his bottleneck from creating to reviewing and editing. His complaint is what happens next: because he no longer spends the hours crafting the writeups, plans and decks himself, he does not fully internalise what he produced. He says that sometimes he looks at output he made with AI and does not recognise it as his own. He reaches for the Bezos line about senior executives being paid for a small number of high-quality decisions rather than thousands a day, and he closes by noting he wrote the piece without AI, over several revisions, and that it took longer.
+
+This lands directly on Ralf's AI-first push. Faster output across the team is real and worth having. The cost sits one layer down, in whether the person who sent the deck has actually thought it through. The tools stay. What we owe ourselves is a short list of artefacts that get produced slowly, the ones where the thinking is the deliverable: strategy memos, partner positions, board material.
+
+One question to chew on: of my last 5 documents, which would I still defend line by line a month from now?
+
+### 3. Taiwan bought civic trust with mascots (leadership & negotiation)
+
+ChinaTalk's mid-year roundup of the 20 ideas its team found most interesting in the first half of 2026 puts a strange pair side by side. Egypt spent roughly $58 billion building a new administrative capital designed to be revolution-proof, and people have largely not moved in. Taiwan rebuilt public trust after decades of martial law with, among other things, cartoon mascots: a postal service character announcing that it delivers to remote areas, painted electrical boxes reminding older people about the dangers of jaywalking, fire trucks reading "Fire Heroes" with escape tips printed on the side. ChinaTalk's phrase for it is that social technologies are cheap and underrated. (The $58 billion is ChinaTalk's own figure. Treat it as approximate and check it before you use it anywhere.)
+
+We work in a place where the default instrument for building belief is capital expenditure. The Taiwan observation says the cheapest trust-building move is usually a small, repeated, human-scale signal. For EWC and ENC that translates into the things nobody budgets for: the character a 9-year-old in Riyadh recognises, the way a national team's kit looks in a school corridor, the phrase a parent repeats to another parent. Those compound, and they cost almost nothing next to a venue.
+
+One question to chew on: what is our version of the mascot, and does anyone actually own it?
+
+### 4. 10 Japanese franchises, 1 Arabic build, 33.2% more of the GCC (gaming & esports industry)
+
+Niko Partners and Media City Qatar published a research brief in August on Japanese games, IP and hardware in the GCC. Two numbers from it are worth carrying around. Niko looked at 10 Japanese franchises that recently launched with Arabic localisation plus local GCC support, and found a 33.2% uplift in GCC sales share against the earlier non-localised entries in those same franchises, with all 10 showing an increase. Separately, among players Niko surveyed in Qatar, 95% could name at least 1 Japanese franchise and nearly half could name more than 5. Niko projects the GCC at $3.5 billion in player spending and over 40 million gamers by 2030.
+
+The 95% recognition tells you the demand side was settled years ago, built on franchises these players consumed in a second language. The uplift number says the ceiling sat in the build itself. When we argue for Arabic voiceover and regional pricing with Game Partners, this is the cleanest external evidence available, mostly because all 10 titles improved individually. One caveat: the brief was commissioned by Media City Qatar, so read the methodology before you put 33.2% on a slide in a partner room.
+
+One question to chew on: if we funded full Arabic voiceover for 3 partner titles and measured the GCC share shift ourselves, what would it cost, and who inside EF would fight it?
+
+#### News of the day
+
+- **The WTA is taking its own Finals back** (live events & immersive). The Women's Tennis Association announced yesterday a 3-year deal to stage the WTA Finals at Charlotte's Spectrum Center from 2027 through 2029, and it is relocating its global headquarters from St. Petersburg, Florida, to Charlotte as part of the same arrangement. WTA chair Valerie Camillo said the organisation has always owned the Finals and will now operate it too, taking control of the revenues, the expenses and the delivery. The context that matters for us: in July the WTA ended its Riyadh hosting agreement with the Saudi Tennis Federation early, and TheStadiumBusiness reports hosting was costing Saudi around $25 million a year against poor attendance. A rights holder choosing to run its own championship, funded by a state events fund and a city's corporate community, is the model our hosting conversations will increasingly be measured against. [TheStadiumBusiness](https://www.thestadiumbusiness.com/2026/09/16/wta-finals-heading-to-charlotte-under-wide-ranging-deal/)
+- **Unity shipped a Claude Code plugin with 29 engine skills** (AI x gaming). Unity has released an official plugin that pulls first-party Unity tools and workflows into Anthropic's coding agent, covering URP, UI Toolkit, multiplayer, LevelPlay and in-app purchases at launch. An engine vendor building directly into agent tooling shortens the distance between a designer's intent and a working build, and it changes what a 5-person team can credibly attempt. Worth watching which of our Game Partners' studios adopt it and which route around it. [PocketGamer.biz](https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/)
+- **Rockstar let the musicians do the announcing** (gaming & esports industry). A wave of artists including Travis Scott, Keith Richards, Morgan Wallen and Rauw Alejandro started posting GTA 6 artwork to their own Instagram feeds yesterday, each with a cryptic caption and no accompanying statement from Rockstar. Scott's opened with "Phase 1" and signed off "See y'all soon Rockstar Games". Handing a reveal to talent, on their channels, with no press release, buys the reach of a campaign while the publisher spends none of its own voice. That is a tactic we could run with the EWC club roster and the game partners' own creator networks. [VGC](https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/)
+- **Zero Latency built a support function for its venue operators** (live events & immersive). The free-roam VR company launched Venue Success, a global function that gives its operator network practical help on revenue growth, pricing and session strategy, local marketing, guest experience and operational practice, benchmarked against data from across the network. It appointed Brett Bovio, who has run Zero Latency venues himself through MindTrek VR and worked at Walt Disney World, Sky Zone, Level99 and Apex Entertainment, as Senior Venue Success Manager. Licensing a format and then coaching the licensees on how to make money from it is the same problem we have with national federations and local organisers. [blooloop](https://blooloop.com/zero-latency-venue-success/)
+
+**Sources (Edition #109)**
+
+- Beyond Balatro and taking risks: Why PlayStack doesn't want a 100% hit rate, James Batchelor (The Game Business, 17 Sep 2026): https://www.thegamebusiness.com/p/beyond-balatro-and-taking-risks-why (body not readable through the agent's fetch tool; the underlying TruFin figures were verified via Game Developer, 19 Mar 2026: https://www.gamedeveloper.com/business/balatro-publisher-playstack-has-a-hit-ratio-of-more-than-85-percent)
+- AI Made Us Faster. Did It Make Us Better?, Michail Katkoff (Gamigion, 16 Sep 2026): https://www.gamigion.com/ai-made-us-faster-did-it-make-us-better/
+- The 20 Most Interesting Ideas We've Found in 2026, Lily Ottinger (ChinaTalk, 7 Jul 2026, run as an evergreen idea): https://www.chinatalk.media/p/the-20-most-interesting-ideas-weve
+- From Japan to the GCC: Paving Pathways to Localize Games and Hardware, Niko Partners and Media City Qatar (published August 2026): https://nikopartners.com/bulletins-white-papers/japan-gcc-research-brief/
+
+---
+
 ## 2026-09-16 (Edition #108)
 
 ### 1. He needed 400,000 copies and sold 2 million (leadership & negotiation)

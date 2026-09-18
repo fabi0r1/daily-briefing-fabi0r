@@ -8,6 +8,56 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-18 (Edition #110)
+
+### 1. Lyrical priced Valor Mortis to be the second game you buy (gaming & esports industry)
+
+Valor Mortis, a first-person Souls-like from Ghostrunner studio One More Level, launches on 13 October at $40. Publisher Lyrical Games told The Game Business yesterday that the number came out of an argument the boss describes as agonising, because a low price can read as low confidence. Blake Rochkind went with it anyway. His launch window holds GTA 6 in November plus the Zelda remake, Control: Resonant, Silent Hill: Townfall, Phantom Blade Zero, Gears of War and Call of Duty, and Valor Mortis is one of very few new IPs in that crowd. He quoted advice from another developer that stayed with him: "We never regretted being an 'and' game."
+
+That phrase is worth carrying around. In a packed season you can fight for the slot, or you can price and position yourself so the buyer never has to choose. Lyrical builds mid-tier titles at roughly $10 million budgets, so $40 is a position they picked, and they are betting players read it that way. EWC and ENC sit in a calendar full of larger properties and the question we usually ask is how to win the weekend. The other question is what we would change so that showing up for us costs a fan nothing they were already planning.
+
+One question to chew on: which parts of our 2027 calendar are built as an "and", and which are quietly fighting for an "or"?
+
+### 2. An AI festival on Steam got the games inside it blocklisted (AI x gaming)
+
+Tommy Thompson spent this week's AI and Games on the "AI Gaming Festival", a Steam event running through September and sold as education about how AI is used in games. Valve has no part in it beyond approving third-party events. The organiser is Invirtu Labs, run by Devin Dixon, who also operates Glitch, a distribution and marketing platform whose catalogue is AI-assisted or AI-built, and Dixon is listed to speak six times. The attached talks are advertised on the Steam page and sit behind a paywall, which Thompson reads as a possible breach of Steam's event rules. Almost every game in the line-up is an upcoming indie with a long AI disclosure. No AAA title appears, because getting one would have meant asking studios questions they would rather not answer in public.
+
+The outcome is the lesson. The event landed on a platform whose core users are hostile to the premise, and players answered by cataloguing and blocking the games in it, including titles whose developers had worked for a year to prove that AI-native design can be good. Former Take-Two AI lead Luke Dicken, one of the few established speakers, said publicly that he agreed to appear expecting a balanced programme and now appears to be the only counterweight on it. Venue and messenger decided the result before anyone heard the content.
+
+One question to chew on: when we put an AI position in front of publishers, who else is in the room, and would a hostile reader see an argument or a sales pitch?
+
+### 3. Sponsors pay for the 10 people who decide (live events & immersive)
+
+Michail Katkoff published a short prediction on Gamigion this morning: through 2027, a lot of for-profit business-development events in games get replaced by invite-only gatherings. His description of the type is blunt and familiar. The same BD and monetisation managers, the same vendors, the same venue as last year, panels made up of sponsors delivering talking points to a dozen people in the audience, none of whom are clients or leads. He has worked with sponsors for 7 years and organised events from small gatherings up to 1,000 people, and one thing has held throughout: sponsors buy access. If 10 attendees all control budget, that is worth sponsoring, whatever the door count says.
+
+He expects tentpole events to survive and get better, with everything below them replaced. That cuts two ways for us. Our own B2B programming has to be honest about which tier it sits in, because the middle is where Katkoff thinks the floor gives way. And the invite-only format he describes is cheap to run, hard to copy and easy to make genuinely senior, which makes it a real instrument in its own right.
+
+One question to chew on: if we ran one 20-person invite-only room in place of a conference track, who are the 20, and could we actually get them in it?
+
+### 4. Anthropic named the labs it says were harvesting Claude (leadership & negotiation)
+
+On 10 September Anthropic published a threat report naming China-based AI labs it says ran large-scale distillation against its models, meaning they fed Claude's outputs into their own training pipelines. The largest campaign is attributed to Alibaba: 151 million exchanges between May and July 2026, peaking near 3 million a day, spread across about 3,500 accounts that all shared one fixed prompt built to pull out the model's reasoning traces. Across five campaigns the company counted close to 200 million exchanges. The detail that should stop you is Moonshot AI, where the report says roughly 300,000 requests over a 10-day window were routed to Claude through around 5,000 accounts, including genuine Kimi customer requests, with Claude's answers returned to those users as Kimi's.
+
+These are Anthropic's own allegations and I found no confirmation from the named companies, so read the figures as one party's account. The transferable point survives either way. When you buy a model, an engine or a tooling layer, you inherit whatever your supplier routes your data through, and a contract clause is only worth the audit standing behind it. That is now a live diligence question for every Game Partner integration and every internal AI tool we sign.
+
+One question to chew on: for the 3 AI tools our teams use most, do we know which model actually answers, and where the prompt travels?
+
+#### News of the day
+
+- **Sony shipped 4 new IPs this console generation and closed 2 of them** (gaming & esports industry). This morning's Gies weekly digest surfaces a count doing the rounds: nearly 6 years into the PS5, Sony has developed 4 new first-party IPs, against 21 across the PS4's life, and 2 of the 4, Concord and Destruction AllStars, are already shut down. This is an outside tally rather than a Sony disclosure, so treat the exact number as approximate. The direction is what matters, because the platform holder with the deepest first-party bench spent a generation mostly on sequels. [Gies W37](https://giesweekly.substack.com/p/roblox-games-go-multiplatform-sonys)
+- **Roblox games are about to leave Roblox** (gaming & esports industry). At its developer conference Roblox announced Roblox Everywhere, which will let creators ship their experiences as standalone apps on mobile, PC and console, with cross-play back into the main app, starting with a selected set of developers and storefronts. Browser play arrives by the end of 2026 and offline play by mid-2027. A UGC platform turning into a publishing pipeline changes who our Game Partners compete with for a 14-year-old's evening. [PC Gamer](https://www.pcgamer.com/software/platforms/roblox-games-are-escaping-roblox-creators-will-soon-be-able-to-export-standalone-apps-for-pc-console-and-mobile/)
+- **A Routemaster bus is now an exhibit inside a shopping centre** (live events & immersive). Transport for London has licensed one of its buses to Wake The Tiger, which has installed it inside Absurd City, an 80,000 sq ft immersive attraction opening at Westfield London on 15 October. IMG Licensing brokered the deal and TfL's brand licensing manager says they are already exploring branded food and drink next. A transport authority treating its most recognisable physical asset as licensable IP is a template worth stealing for EWC's own iconography. [Immersive Rumours](https://www.immersiverumours.com/post/wake-the-tiger-brings-immersive-routemaster-to-absurd-city)
+- **China's mini games take about a fifth of mobile spending** (gaming & esports industry). Niko Partners reports that roughly 80% of Chinese players engage with mini games and that the segment now accounts for nearly 20% of mobile game spending, drawn from its China Player Behavior and Market Insights report. A format with no install and no store page sitting at a fifth of the world's largest mobile market is the cheapest route we have to put ENC and EWC content in front of Chinese players. [Niko Partners](https://substack.nikopartners.com/p/roblox-launches-arabic-social-media)
+
+**Sources (Edition #110)**
+
+- Five things we've learned about Japan's games industry, plus how GTA 6 influenced Valor Mortis' $40 price point, Christopher Dring (The Game Business, 17 Sep 2026): https://www.thegamebusiness.com/p/five-things-weve-learned-about-japans
+- The Steam Fest That Proves Why Everyone Hates on AI in Games, Tommy Thompson (AI and Games, 16 Sep 2026): https://www.aiandgames.com/p/the-steam-fest-that-proves-why-everyone
+- 2027: The Death of the Average Gaming Conference?, Michail Katkoff (Gamigion, 18 Sep 2026): https://www.gamigion.com/2027-the-death-of-the-average-gaming-conference/
+- Countering misuse of AI: September 2026, Anthropic (10 Sep 2026): https://www.anthropic.com/threat-intelligence-report-september-2026 (figures cross-checked against Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek, Russell Brandom, TechCrunch, 10 Sep 2026: https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
+
+---
+
 ## 2026-09-17 (Edition #109)
 
 ### 1. Playstack keeps a 15% failure budget (gaming & esports industry)

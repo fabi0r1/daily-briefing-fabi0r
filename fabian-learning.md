@@ -8,6 +8,104 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-20 (Edition #112)
+
+### 1. Tokyo Game Show lost its fifth day to a typhoon (live events & immersive)
+
+TGS turned 30 this year and marked it by running 5 days for the first time, 17 to 21 September at Makuhari Messe, under the theme "The Longest Five Days of Nonstop Play". On Friday, CESA posted a notice covering Sunday and Monday because of Typhoon No. 25, Dujuan, and canceled Monday 21 September outright. Today is now the last day on the floor. Monday tickets are refunded and some of the canceled stage content moves online, which CESA confirmed in a second notice this morning.
+
+The reasoning in the notice is the part I'd copy. Forecasts had the typhoon missing Japan directly. CESA called it anyway, citing strengthening wind and rain from the afternoon and the risk that transport disruption would leave attendees, exhibitors and staff unable to get home safely. The trigger was the journey home. The call came roughly 48 hours out, and the online fallback for the programming already existed.
+
+One question to chew on: for our multi-day formats, what is the equivalent trigger, who owns the call, and how many hours before doors do they have to make it?
+
+### 2. Rewarded video is worth about 70% more than it was 18 months ago (AI x gaming)
+
+Jeff Cohen pulled a chart out of Azur Games' 2026 hypercasual and hybrid-casual report showing eCPMs across their portfolio going back to 2021. Rewarded and interstitial drifted sideways to down for about 4 years. From early 2025 they climbed hard. By his read of the chart both formats are up roughly 70% in 18 months, and rewarded is about double where it sat in January 2021. These are his numbers eyeballed off a chart in one publisher's own report, so treat them as directional and check them before they go anywhere near a slide.
+
+His 2 explanations are both worth holding. The AI bidding models got much better at guessing which impression is worth showing to which person, so when the network can tell that someone watching a rewarded video in a hybrid-casual game is a likely payer in a 4X title, that impression clears higher. Same inventory, smarter auction. And the networks opened in-game inventory to ecommerce and DTC brands, whose economics look nothing like a game's, which moves the whole price curve up.
+
+One question to chew on: if retailers are now bidding against games for the same attention, what does that do to the price of EWC's own inventory, and who at EF is tracking that curve?
+
+### 3. The indie winners have become the financiers (gaming & esports industry)
+
+Naavik counted 3 developer-run publishing businesses launched inside 2 weeks. Thatgamepublisher, from the Journey and Sky: Children of the Light studio, on 25 August. Aggro Crab Presents a week later. Battlestate Games Publishing days after that, hunting the hardcore niche projects other publishers would call too risky. They join Innersloth's Outersloth, poncle's label, Evil Landfall, Kinetic Publishing and Pocketpair Publishing.
+
+Two facts explain the cluster. Gaming startup investment peaked at $12.5 billion and fell below $2.5 billion by 2024, and the venture money that has come back is going to AI companies. Meanwhile Phasmophobia has sold more than 27 million copies and Palworld more than 30 million, so a handful of small teams are sitting on hundreds of millions. Aggro Crab's pitch says it has "some spare cash lying around". The sharpest bit is the incentive structure: this is balance-sheet money with no limited partners and no clock, so Outersloth can fund things it simply likes, and Aggro Crab signs 1 or 2 games a year and publicly refuses deal terms where the publisher takes all revenue until recoup. Naavik puts the whole cohort at $30 to 50 million deployed a year, about one AA budget.
+
+One question to chew on: our funding conversations assume publishers and platforms hold the capital. Which studio that won big in the last 3 years could write a check for an EWC or ENC title directly?
+
+### 4. Slow down to get the direction right (leadership & negotiation)
+
+Joseph Kim's interview with Ran Mo, CEO of Proxima and the maker of Suck Up!, the first commercially successful game to use AI at runtime. After Suck Up shipped, the team ran an overnight loop: playtest feedback out by 8 PM, new build by 8 AM. Mo's description of what that bought them: "The iteration cycle was crazy fast. But then you step back after three months and you're like, we went down entirely the wrong direction." It nearly burned out the team and him.
+
+Now he makes himself sleep on a build for an extra day before committing to a direction, and he frames it through wu wei, the Taoist idea of deliberate non-action. His line: "A lot of people are just kind of pedaling to go nowhere. And it's better just to not pedal at all in some cases." Kim, who calls himself an AI maximalist, lands on velocity as a vector with magnitude and direction. AI hands you magnitude. Taste decides the heading. The piece is from March. Treat it as a durable idea.
+
+One question to chew on: in the current planning cycle, where are we pedaling hardest with nobody checking the heading?
+
+#### News of the day
+
+- **Berlin cleared a site for Hertha, and told the club to pay for it** (live events & immersive). An expert commission appointed by the State of Berlin has recommended a plot on Jesse-Owens-Allee in the Olympiapark for Hertha BSC's proposed 52,000-seat football-only stadium, the first clear site recommendation after years of searching. The conditions attached: Berlin is barred from paying for site development, the project must not economically disadvantage Olympiastadion Berlin GmbH, and Hertha finances it privately. A public authority handing over a site while explicitly fencing off its own money is a structure worth understanding before our next venue conversation. [Coliseum](https://www.coliseum-online.com/berlin-senate-approves-potential-site-for-hertha-bsc-stadium/)
+- **The Blood of Dawnwalker passed 1 million, and Poland is its number 2 market** (gaming & esports industry). Rebel Wolves confirmed the milestone. Alinea estimates over 410,000 copies on Steam, with Poland at 11% of players, and 58% of its Steam players have also played The Witcher 3. Rhys Elliott's line is the takeaway: local players show up for local games. That belongs in every regional-development argument we make in MENA. [The Alinea Insight](https://alineaanalytics.substack.com/p/this-years-top-playstation-plus-games)
+- **Everplay's half-year profit fell 29% and Wardogs is carrying the outlook** (gaming & esports industry). Team17's parent reported revenue of GBP 66.9 million for the 6 months to 30 June, down 8%, with profit down 29% to GBP 23.9 million. It still expects a strong full year on the back of Bulkhead's Wardogs and Hell Let Loose: Vietnam, and it has increased its stake in Bulkhead as Wardogs passed 2 million sales. One title is doing a lot of work here. [The Game Business](https://www.thegamebusiness.com/p/five-things-weve-learned-about-japans)
+
+**Sources (Edition #112)**
+
+- [Important Notice] Regarding the Events on September 20 (Sun) and 21 (Mon, Holiday) Due to the Approach of Typhoon No. 25, CESA (Tokyo Game Show, 19 Sep 2026): https://tgs.cesa.or.jp/2026/news/detail/00061 (cross-checked against Tokyo Game Show 2026 day five cancelled due to severe weather concerns, Gematsu, 19 Sep 2026: https://www.gematsu.com/2026/09/tokyo-game-show-2026-day-five-cancelled-due-to-severe-weather-concerns)
+- Mobile Gaming's Ad Economics Just Changed, Jeff Cohen (Gamigion, 18 Sep 2026): https://www.gamigion.com/mobile-gamings-ad-economics-just-changed/
+- The New Money Behind Indie Games, Miikka Ahonen (Naavik, 13 Sep 2026): https://naavik.co/weekly-digest/the-new-money-behind-indie-games/
+- The Last 20% Is Worth $100 Million, Joseph Kim with Ran Mo (GameMakers, 31 Mar 2026, run as an evergreen idea): https://www.gamemakers.com/p/the-last-20-is-worth-100-million
+
+---
+
+## 2026-09-19 (Edition #111)
+
+### 1. Six of Japan's biggest game companies sit at or near all-time highs (gaming & esports industry)
+
+Dr Serkan Toto came on The Game Business this week, recorded in Tokyo ahead of TGS. His read on the Japanese majors: "apart from Square Enix and Sega, six out of the ten are either near their all-time highs or very near their all-time highs. The Japanese console game industry, not so much the mobile industry, is doing exceptionally well." Plenty of them are actively hiring while Western studios cut. (Dring's write-up heads the section "six out of the eight big Japanese game companies" while the quote underneath says ten, so the denominator is fuzzy. The direction holds either way.)
+
+Two details underneath matter more than the share prices. PC took about 12.5% of the Japanese market last year against 5% in 2019, pushed by the PS5 shortage during the pandemic and by PUBG arriving on PC first, and Capcom and Sega now treat it as a serious platform. And Toto goes further than saying Nintendo dominates: he argues that if the Switch had flopped like the Wii U, the Japanese console market would have been eliminated entirely. Nintendo holds roughly 70% share of all gaming content there. Meanwhile Chinese mobile studios have taken downloads and revenue share off Japanese teams in what he calls a red ocean market.
+
+One question to chew on: if PC keeps climbing in Japan, which of our Game Partner titles gets a Japanese competitive audience it doesn't have today?
+
+### 2. King's unions set a strike date for 25 September (leadership & negotiation)
+
+Unionen and Sveriges Ingenjörer have issued formal strike notices at King after more than a year of failed talks over a collective agreement. No deal by 25 September and the strike starts, hitting Stockholm and Malmö, with 3 more Swedish unions announcing sympathy action. King's position is that its current benefits match or exceed what a collective agreement would deliver, which may well be true. The unions are asking for something a benefits package can't contain: job security and influence over how workplace conditions get decided. Background from the last 18 months: around 200 roles cut, protests, and reports of teams replaced by AI tools they had helped build.
+
+Michail Katkoff hit the adjacent nerve the day before. When a Chinese company works 996 it gets called work ethic, and when Bulkhead's Joe Brammer spoke openly to journalists about his studio's culture and the money attached to overtime, several outlets ran him as a tyrant and left the Wardogs success out of the piece entirely. Katkoff's own position is worth borrowing whole: anyone asking for overtime should be doing more of it than the people they're asking, and overtime should be consensual and compensated, in cash or in ownership.
+
+One question to chew on: when we ask a team for a push, is the ask consensual and paid, and who in leadership is visibly carrying more of it than they are?
+
+### 3. The AI games that work use AI where players never look (AI x gaming)
+
+Sulka Haro, formerly the lead on Habbo Hotel, ran a full census of 53,597 Steam releases from mid-2023 to mid-2026 and published it in July. About 1 in 3 new Steam games now carries Valve's AI disclosure, up from roughly 7% when the field went live in early 2024. AI-flagged launches went from about 13 a month to around 530, and depending on the window you pick, 60 to 90% of the growth in Steam's monthly release count is those games.
+
+The useful part is the split between hits and flops. Haro compared the 138 AI-flagged games that passed 1,000 reviews against 400 random ones that flopped. 72% of the flops mention AI art, images or textures, against 57% of the successes. The successes are 3 times likelier to disclose AI voice (24% against 8%) and localization (18% against 6%), they lean on AI for text and music too, and they word the disclosure carefully, with 59% using language like "assist" or "auxiliary". Controlling for launch month, an AI-flagged game reaches a modest-success tier at about 55% of the non-AI rate, and that ratio hasn't moved in 2 years. Revenue here is estimated with the Boxleiter method, so it's order-of-magnitude only.
+
+One question to chew on: across our own AI use, which outputs will a player or a partner stare directly at, and are those exactly the ones we're generating?
+
+### 4. 63% of women's football fans would rather have legroom than a close seat (live events & immersive)
+
+A Populous and YouGov study, published through Coliseum yesterday. After England won Euro 2022, average Women's Super League attendance jumped 192% to 5,616 a match. Then it flattened. In 2025-26 the median rose 5.4%, from 3,070 to 3,236. Only 15% of established fans go at least monthly. 48% of established fans have never been to a WSL match at all and 4 in 5 have never been to a WSL2 match, while more than half have been to a women's international. The interest lives at tournament level and stops before the club.
+
+The design findings are where it gets useful. 63% of established fans and 72% of potential fans would rather sit further from the pitch with more legroom and easier access to their seats than sit close in tight rows. Asked what decides their enjoyment, respondents rank a welcoming, family-friendly environment above the team's success and the quality of play. And 77% would consider a premium upgrade a few times a season, rising to 48% of 18 to 34s who would do it multiple times, which points at modular, occasion-led upgrades. Worth flagging that Populous is a stadium architecture practice, so the study points toward work they sell.
+
+One question to chew on: EWC and ENC have exactly this shape, big-event interest with thin club-level habit. What is our WSL match, and what would bring someone back to it 3 weeks later?
+
+#### News of the day
+
+- **Blizzard put dates on the next four years** (gaming & esports industry). At the BlizzCon opening ceremony on 12 September, Blizzard announced a new StarCraft as an open-world shooter for 2030, and World of Warcraft Forever, a rebuild of the vanilla era with 3 new zones, more than 1,000 new quests, 9 dungeons, 2 raids and the new Skyborne race, landing 4 November with beta from 17 September. Putting a 2030 date on stage is a claim about how long they think the audience will wait. [Blizzard](https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony)
+- **Nexon put voice recognition on the phone instead of the server** (AI x gaming). Pareidolia, unveiled at TGS on 17 September, lets players speak to characters by name and get an answer, with the model running entirely on-device, tuned for mobile performance and heat. At the same show, CESA's own survey found 85.8% of Japanese developers use generative AI, with work efficiency named as the top benefit. [Seoul Economic Daily](https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026)
+- **Polyarc closed and published its team's contact sheet** (gaming & esports industry). The Seattle studio behind the Moss VR games shut down on 11 September after 12 years. Its closure note asked other studios to hire its people and linked a spreadsheet with contact details for at least 29 of them. That is a decent template for how to close something down with the staff's interests still in the room. [Engadget](https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/)
+
+**Sources (Edition #111)**
+
+- Five things we've learned about Japan's games industry, plus how GTA 6 influenced Valor Mortis' $40 price point, Christopher Dring with Dr Serkan Toto (The Game Business, 17 Sep 2026): https://www.thegamebusiness.com/p/five-things-weve-learned-about-japans
+- Strike at King: Not So Sweet at Candy Crush (Gamigion, 18 Sep 2026): https://www.gamigion.com/strike-at-king-not-so-sweet-at-candy-crush/ (with The West Has a Crunch Problem. China Doesn't., Michail Katkoff, Gamigion, 17 Sep 2026: https://www.gamigion.com/the-west-has-a-crunch-problem-china-doesnt/)
+- Three years of AI on Steam, Sulka Haro (13 Jul 2026, run as an evergreen study): https://fragwyz.substack.com/p/three-years-of-ai-on-steam
+- Future growth of women's football in UK: Populous/YouGov survey (Coliseum, 18 Sep 2026): https://www.coliseum-online.com/future-growth-of-womens-football-in-uk-populous-yougov-survey/
+
+---
+
 ## 2026-09-18 (Edition #110)
 
 ### 1. Lyrical priced Valor Mortis to be the second game you buy (gaming & esports industry)

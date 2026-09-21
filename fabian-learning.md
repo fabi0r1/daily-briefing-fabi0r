@@ -8,6 +8,55 @@ The job of this log: make you a little smarter every single day.
 
 ---
 
+## 2026-09-21 (Edition #113)
+
+### 1. Half of under-18s find games on short-form video (gaming & esports industry)
+
+Simon Carless put GameDiscoverCo's Steam Fan Snapshot panel, now past 16,000 players who answered survey questions and had their Steam libraries tied in, against one question: how do you find out about games? Across everyone, long-form video leads at 57%, Steam itself is 55.8%, and word of mouth comes third at 44.9%. Short-form video sits at 37.5%, livestreaming at 35.2%, and Discord-style chat platforms land at 18%.
+
+Then he split it by age and the picture moves. For under-18s, short-form video is the number 2 channel at 53.5%, ahead of Steam itself. For 45 to 54 year olds it's 20.2%, second from bottom. Traditional games media runs the opposite way, 42.5% at 45-54 down to 21.2% for under-18s. Livestreaming peaks in the middle at roughly 39% for 25-34 year olds. Word of mouth barely moves at all, around 45% at every age, which makes it the one channel you can plan against. The panel self-selected through online giveaways, so it skews engaged PC players, and Carless says so in the piece.
+
+One question to chew on: our EWC audience plan runs on one distribution mix. Which age band is it actually built for, and who is it quietly missing?
+
+### 2. A publisher doubles an AI game's commercial odds (AI x gaming)
+
+Sulka Haro's follow-up to his Steam AI census goes after what separates the AI-flagged games that sell from the ones that vanish. Same corpus, roughly 53,600 Steam releases from mid-2023 to mid-2026, now with developer, publisher, price, rating and genre pulled in. The finding that stopped me: an AI game with a third-party publisher reaches about 3,000 sales 16% of the time, against 7% for self-published, even though the self-published ones rate slightly higher. Publishers buy reach.
+
+Localization does the same job. AI games shipped English-only get a median of 2 reviews and 3% clear that sales bar. Ship in 10 or more languages and it's 13 reviews and 20%, though Haro flags the reverse causality, since hits get localized. Two more worth keeping. Players punish price: the rating gap between AI and non-AI widens from 3 points on cheap games to 8 points at $20 and up. And AI is now 37% of monthly Steam releases while holding only about 11% of any month's 100 biggest games. Revenue here is Boxleiter-estimated, so treat it as order of magnitude. It's a July piece, run as a durable idea.
+
+One question to chew on: if distribution and localization decide the outcome, what is Ralf's AI-first push buying us on the supply side, and who owns the demand side?
+
+### 3. A negotiation built to survive the next fight (leadership & negotiation)
+
+Bill Bishop published a full proposal on Sinocism for a US-China Strategic AI Dialogue: quarterly, principals-level, in Geneva, chaired by Scott Bessent and He Lifeng. He's open that he built it with an AI model and that he's skeptical the politics allow it. Read it for the architecture.
+
+Four design choices are worth stealing. Mutual vulnerability as the foundation, where the two sides only have to agree that some outcomes would wreck them both, and trust never enters the design. No linkage, so a fight over Taiwan or tariffs doesn't suspend the conversation about nuclear command and control. Sequencing by feasibility, with the cheap wins first (employment research, mirror life, AI-enabled fraud) so the working habits exist before anyone opens the cyber file. And a named diagnosis of why earlier dialogues died: talks drifted down to people with no authority to decide, so his fix is that the principals personally attend at least 2 of the 4 sessions a year and review all 4. His test for the whole thing is whether it produces outputs.
+
+One question to chew on: in our hardest partner relationship right now, what plays the role of the no-linkage rule, and who on our side can actually decide in the room?
+
+### 4. Roblox skipped the number and the stock went up 11% (gaming & esports industry)
+
+Joost van Dreunen on Roblox's developer conference. Going in, the company looked rough. Bookings flat for the year, Q3 bookings modeled down 16%, profits set to fall by a third, and shares down 62% over twelve months against a 20% gain for the Nasdaq. All of that while revenue grew 41% year over year.
+
+Then RDC. Roblox announced browser play with no download and creators shipping standalone PC and mobile apps on its infrastructure and economics, leaned into older users, and opened a prompt-based development tool to every creator after more than 100,000 people used it in limited alpha. Asked how those generated games make money, management said it's too early to tell. It gave no annual revenue guidance at all, saying it doesn't believe annual guidance helps investors. Shares rose 11% and BTIG, Wedbush and Roth all raised their price targets anyway. The number underneath it: 18+ players are about a third of daily actives and spend twice as much, and the 18-34 group grew 42% year over year with playtime up 37%.
+
+One question to chew on: Roblox moved a valuation with a story about where the next growth comes from and no forecast attached. What is our version of that story for EWC 2027, and would a skeptic buy it?
+
+#### News of the day
+
+- **The EU's draft child-safety law names online games** (gaming & esports industry). Von der Leyen announced the EU Kids Act in her State of the Union on 15 September: no personal account under 15, no social media at all under 13, and supervised mini accounts from 13 to 15 with limited features and time restrictions. The leaked draft Euronews obtained runs wider than the headline. It covers video games and AI companions as services with "specific design risks for minors", bans infinite scrolling, artificial notifications and certain reward mechanics, and routes games toward a co-regulatory, industry-led track. Age verification lands on the platforms, and services already under the DSA's stricter regime would need Commission authorization before shipping a new feature that affects children. A lot of our audience is under 15. [Euronews](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
+- **San Francisco opened a three-dome immersive venue on a working pier** (live events & immersive). Elevation Sky Park opened at Pier 70 in Dogpatch on 19 September with a public event headlined by BLOND:ISH. The finished campus holds 3 geodesic projection domes running 360-degree content, with individual capacities from 150 to 750 and a site designed for roughly 2,500, opening in phases through the year. A venue that scales from a 150-person room to a 2,500-person site, on leased industrial waterfront, is a different answer to the arena question than building one big box. [Business Wire](https://www.businesswire.com/news/home/20260723971049/en/BLONDISH-to-Headline-Pier-Play-San-Francisco-as-Elevation-Sky-Park-San-Francisco-Opens-at-Pier-70-on-September-19)
+- **Where you raise decides what you can raise** (gaming & esports industry). Mariusz Gąsiewski lined up venture investment as a share of GDP across markets: Israel at about 1.5%, Estonia 1.4%, the US and Sweden about 0.7%, the UK 0.6%, Switzerland 0.4%, India and Nigeria 0.3%, Greece 0.25%, Poland and Czechia 0.1%, Romania 0.04%. He pairs it with a risk-appetite gradient running from US investors through Western Europe to Central and then Eastern Europe, and a point about category sentiment, where one local unicorn pulls angels and LPs into that category for years. He names no source for the GDP figures, so check them before they go near a slide. Useful framing for where MENA sits when a studio we back goes looking for money. [Gamigion](https://www.gamigion.com/not-all-vc-markets-are-equal-where-should-you-raise/)
+
+**Sources (Edition #113)**
+
+- The one 'game discovery by player age' chart you need to see, Simon Carless (GameDiscoverCo, 18 Sep 2026): https://newsletter.gamediscover.co/p/the-one-game-discovery-by-player
+- AI flagged games on Steam, Part 2, Sulka Haro (13 Jul 2026, run as an evergreen study): https://fragwyz.substack.com/p/ai-on-steam-part-2
+- US-China Strategic AI Dialogue (SAID) Proposal, Bill Bishop (Sinocism, 15 Sep 2026): https://sinocism.com/p/us-china-strategic-ai-dialogue-said
+- Wall Street changes its mind on Roblox, Joost van Dreunen (SuperJoost Playlist, 16 Sep 2026): https://superjoost.substack.com/p/wall-street-changes-its-mind-on-roblox
+
+---
+
 ## 2026-09-20 (Edition #112)
 
 ### 1. Tokyo Game Show lost its fifth day to a typhoon (live events & immersive)
